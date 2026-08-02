@@ -1,0 +1,348 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Admission NEWS — รวมข่าวรับสมัครมหาวิทยาลัย</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@400;500;600;700&family=Anuphan:wght@400;500;600&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --paper: #faf9f5;
+    --card: #ffffff;
+    --ink: #1b2431;
+    --ink-soft: #5d6878;
+    --line: #e5e2d9;
+    --navy: #2b4c9b;
+    --navy-soft: #eaeff9;
+    --hilite: #ffd84d;
+    --hilite-ink: #3a3208;
+    --shadow: 0 1px 2px rgba(27, 36, 49, 0.06), 0 6px 20px rgba(27, 36, 49, 0.05);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --paper: #151a23;
+      --card: #1d242f;
+      --ink: #e8eaf0;
+      --ink-soft: #9aa4b4;
+      --line: #2b3442;
+      --navy: #8fadf0;
+      --navy-soft: #232f45;
+      --hilite: #f5c832;
+      --hilite-ink: #241f04;
+      --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 6px 20px rgba(0, 0, 0, 0.25);
+    }
+  }
+  :root[data-theme="light"] {
+    --paper: #faf9f5; --card: #ffffff; --ink: #1b2431; --ink-soft: #5d6878;
+    --line: #e5e2d9; --navy: #2b4c9b; --navy-soft: #eaeff9;
+    --hilite: #ffd84d; --hilite-ink: #3a3208;
+    --shadow: 0 1px 2px rgba(27,36,49,.06), 0 6px 20px rgba(27,36,49,.05);
+  }
+  :root[data-theme="dark"] {
+    --paper: #151a23; --card: #1d242f; --ink: #e8eaf0; --ink-soft: #9aa4b4;
+    --line: #2b3442; --navy: #8fadf0; --navy-soft: #232f45;
+    --hilite: #f5c832; --hilite-ink: #241f04;
+    --shadow: 0 1px 2px rgba(0,0,0,.3), 0 6px 20px rgba(0,0,0,.25);
+  }
+
+  * { box-sizing: border-box; margin: 0; }
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "Anuphan", "IBM Plex Sans Thai", "Leelawadee UI", "Noto Sans Thai", sans-serif;
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: inherit; text-decoration: none; }
+
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 0 20px; }
+
+  header {
+    border-bottom: 1px solid var(--line);
+    background: var(--paper);
+    position: sticky; top: 0; z-index: 10;
+  }
+  .head-row {
+    display: flex; align-items: baseline; justify-content: space-between;
+    gap: 16px; padding: 18px 0 14px;
+    flex-wrap: wrap;
+  }
+  .logo {
+    font-family: "IBM Plex Sans Thai", "Leelawadee UI", sans-serif;
+    font-weight: 700; font-size: 1.5rem; letter-spacing: -0.01em;
+  }
+  .logo .mark {
+    background: linear-gradient(transparent 55%, var(--hilite) 55%, var(--hilite) 92%, transparent 92%);
+    padding: 0 2px;
+  }
+  .updated {
+    font-size: 0.82rem; color: var(--ink-soft);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .chips {
+    display: flex; gap: 8px; padding: 0 0 16px; flex-wrap: wrap;
+  }
+  .chip {
+    border: 1px solid var(--line); background: var(--card); color: var(--ink-soft);
+    font: inherit; font-size: 0.86rem; font-weight: 500;
+    padding: 5px 14px; border-radius: 999px; cursor: pointer;
+    transition: border-color 0.15s, color 0.15s;
+  }
+  .chip:hover { border-color: var(--ink-soft); color: var(--ink); }
+  .chip.on {
+    background: var(--hilite); border-color: var(--hilite);
+    color: var(--hilite-ink); font-weight: 600;
+  }
+  .chip:focus-visible { outline: 2px solid var(--navy); outline-offset: 2px; }
+
+  main { padding: 28px 0 60px; }
+
+  .lead {
+    display: grid; grid-template-columns: 1.15fr 1fr; gap: 0;
+    background: var(--card); border: 1px solid var(--line); border-radius: 14px;
+    overflow: hidden; box-shadow: var(--shadow); margin-bottom: 36px;
+  }
+  .lead .thumb { min-height: 280px; }
+  .lead-body { padding: 28px 30px; display: flex; flex-direction: column; gap: 12px; }
+  .lead-body h2 {
+    font-family: "IBM Plex Sans Thai", sans-serif;
+    font-size: 1.45rem; font-weight: 700; line-height: 1.45; text-wrap: balance;
+  }
+  .lead-body p { color: var(--ink-soft); font-size: 0.95rem; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+  .lead:hover h2, .card:hover h3 { color: var(--navy); }
+
+  .section-label {
+    font-size: 0.78rem; font-weight: 600; letter-spacing: 0.08em;
+    text-transform: uppercase; color: var(--ink-soft); margin-bottom: 14px;
+  }
+
+  .grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  .card {
+    background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+    overflow: hidden; box-shadow: var(--shadow);
+    display: flex; flex-direction: column;
+    transition: transform 0.15s;
+  }
+  .card:hover { transform: translateY(-2px); }
+  .thumb {
+    aspect-ratio: 16 / 9; background: var(--navy-soft); position: relative; overflow: hidden;
+  }
+  .lead .thumb { aspect-ratio: auto; }
+  .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .thumb .ph {
+    position: absolute; inset: 0; display: grid; place-items: center;
+    font-family: "IBM Plex Sans Thai", sans-serif; font-size: 2.2rem; font-weight: 700;
+    color: var(--navy); opacity: 0.55;
+  }
+  .thumb .ph-logo {
+    position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+    width: 92px; height: 92px; padding: 18px; object-fit: contain;
+    background: #fff; border-radius: 999px;
+    box-shadow: 0 2px 12px rgba(27, 36, 49, 0.15);
+  }
+  .lead .ph-logo { width: 116px; height: 116px; padding: 24px; }
+  .card-body { padding: 16px 18px 18px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
+  .card h3 {
+    font-family: "IBM Plex Sans Thai", sans-serif;
+    font-size: 1.02rem; font-weight: 600; line-height: 1.5;
+    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+  }
+  .card p {
+    color: var(--ink-soft); font-size: 0.86rem;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  }
+
+  .meta { display: flex; align-items: center; gap: 8px; margin-top: auto; padding-top: 6px; }
+  .src {
+    display: inline-flex; align-items: center; gap: 5px;
+    font-size: 0.75rem; font-weight: 600; color: var(--navy);
+    background: var(--navy-soft); padding: 2px 9px; border-radius: 999px;
+  }
+  .src img { width: 14px; height: 14px; border-radius: 3px; }
+  .time { font-size: 0.78rem; color: var(--ink-soft); font-variant-numeric: tabular-nums; }
+
+  footer {
+    border-top: 1px solid var(--line); padding: 22px 0 40px;
+    font-size: 0.82rem; color: var(--ink-soft);
+  }
+  footer a { color: var(--navy); }
+
+  .empty { color: var(--ink-soft); padding: 40px 0; text-align: center; }
+
+  @media (max-width: 760px) {
+    .lead { grid-template-columns: 1fr; }
+    .lead .thumb { aspect-ratio: 16 / 9; min-height: 0; }
+    .lead-body { padding: 20px; }
+    .lead-body h2 { font-size: 1.2rem; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .card, .chip { transition: none; }
+    .card:hover { transform: none; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="head-row">
+      <div class="logo"><span class="mark">Admission</span> NEWS</div>
+      <div class="updated" id="updated"></div>
+    </div>
+    <div class="chips" id="chips" role="group" aria-label="กรองตามหมวด"></div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div id="content"><p class="empty">กำลังโหลดข่าว…</p></div>
+</main>
+
+<footer>
+  <div class="wrap">
+    รวบรวมหัวข้อข่าวอัตโนมัติจาก 13 แหล่ง — Eduzones · CampHub · เว็บทางการ 10 มหาวิทยาลัยยอดนิยม (ธรรมศาสตร์ จุฬาฯ มหิดล เกษตรฯ มศว บูรพา ขอนแก่น นเรศวร เชียงใหม่ ศิลปากร พะเยา)
+    · คลิกข่าวเพื่ออ่านฉบับเต็มที่เว็บไซต์ต้นทาง · อัปเดตอัตโนมัติทุก 1 ชั่วโมง
+  </div>
+</footer>
+
+<script>
+const state = { items: [], filter: "ทั้งหมด" };
+
+// โดเมนของแต่ละแหล่งข่าว — ใช้ดึงตราสัญลักษณ์ (favicon) มาแสดงแทนชื่อย่อ
+const DOMAINS = {
+  eduzones: "eduzones.com",
+  camphub: "camphub.in.th",
+  tu: "tu.ac.th",
+  chula: "chula.ac.th",
+  mahidol: "mahidol.ac.th",
+  buu: "buu.ac.th",
+  nu: "nu.ac.th",
+  ku: "ku.ac.th",
+  swu: "swu.ac.th",
+  kku: "kku.ac.th",
+  cmu: "cmu.ac.th",
+  su: "su.ac.th",
+  up: "up.ac.th",
+};
+
+// eduzones.com ไม่มี favicon ให้ดึง (ไฟล์บนเว็บเสีย) — ใช้รูปโปรไฟล์ Twitter แทน
+const LOGO_OVERRIDES = {
+  eduzones: "https://unavatar.io/twitter/eduzones?fallback=false",
+};
+
+function logoUrl(sourceId, size = 128) {
+  if (LOGO_OVERRIDES[sourceId]) return LOGO_OVERRIDES[sourceId];
+  const domain = DOMAINS[sourceId];
+  return domain ? `https://www.google.com/s2/favicons?domain=${domain}&sz=${size}` : null;
+}
+
+function srcBadge(item) {
+  const logo = logoUrl(item.sourceId, 32);
+  const icon = logo ? `<img src="${logo}" alt="" loading="lazy" onerror="this.remove()" />` : "";
+  return `<span class="src">${icon}${item.source}</span>`;
+}
+
+function timeAgo(iso) {
+  if (!iso) return "";
+  const mins = Math.floor((Date.now() - new Date(iso)) / 60000);
+  if (mins < 60) return `${Math.max(mins, 1)} นาทีที่แล้ว`;
+  const hrs = Math.floor(mins / 60);
+  if (hrs < 24) return `${hrs} ชั่วโมงที่แล้ว`;
+  const days = Math.floor(hrs / 24);
+  if (days < 7) return `${days} วันที่แล้ว`;
+  return new Date(iso).toLocaleDateString("th-TH", { day: "numeric", month: "short", year: "2-digit" });
+}
+
+function thumb(item, isLead) {
+  const logo = logoUrl(item.sourceId);
+  // ชื่อย่อเป็นตัวสำรอง — จะโผล่เฉพาะตอนโหลดโลโก้ไม่สำเร็จ
+  const logoImg = logo
+    ? `<img class="ph-logo" src="${logo}" alt="" loading="lazy" onerror="this.remove()" />`
+    : "";
+  const ph = `<div class="ph">${item.source.replace(/^ม\./, "").slice(0, 2)}${logoImg}</div>`;
+  const img = item.image
+    ? `<img src="${item.image}" alt="" loading="lazy" onerror="this.remove()" />`
+    : "";
+  return `<div class="thumb">${ph}${img}</div>`;
+}
+
+function render() {
+  const el = document.getElementById("content");
+  const items = state.filter === "ทั้งหมด"
+    ? state.items
+    : state.items.filter((it) => it.category === state.filter);
+
+  if (!items.length) {
+    el.innerHTML = `<p class="empty">ยังไม่มีข่าวในหมวดนี้</p>`;
+    return;
+  }
+
+  const [lead, ...rest] = items;
+  const leadHtml = `
+    <a class="lead" href="${lead.link}" target="_blank" rel="noopener">
+      ${thumb(lead, true)}
+      <div class="lead-body">
+        <div class="meta" style="margin:0;padding:0">
+          ${srcBadge(lead)}
+          <span class="time">${timeAgo(lead.publishedAt)}</span>
+        </div>
+        <h2>${lead.title}</h2>
+        <p>${lead.summary}</p>
+      </div>
+    </a>`;
+
+  const cards = rest.map((it) => `
+    <a class="card" href="${it.link}" target="_blank" rel="noopener">
+      ${thumb(it)}
+      <div class="card-body">
+        <h3>${it.title}</h3>
+        <p>${it.summary}</p>
+        <div class="meta">
+          ${srcBadge(it)}
+          <span class="time">${timeAgo(it.publishedAt)}</span>
+        </div>
+      </div>
+    </a>`).join("");
+
+  el.innerHTML = leadHtml + `<div class="section-label">ข่าวทั้งหมด</div><div class="grid">${cards}</div>`;
+}
+
+function renderChips(categories) {
+  const el = document.getElementById("chips");
+  el.innerHTML = ["ทั้งหมด", ...categories].map((c) =>
+    `<button class="chip${c === state.filter ? " on" : ""}" data-cat="${c}">${c}</button>`
+  ).join("");
+  el.querySelectorAll(".chip").forEach((btn) =>
+    btn.addEventListener("click", () => {
+      state.filter = btn.dataset.cat;
+      renderChips(categories);
+      render();
+    })
+  );
+}
+
+async function init() {
+  try {
+    const res = await fetch("data/news.json", { cache: "no-store" });
+    const data = await res.json();
+    state.items = data.items;
+    document.getElementById("updated").textContent =
+      "อัปเดตล่าสุด " + new Date(data.updatedAt).toLocaleString("th-TH", { dateStyle: "medium", timeStyle: "short" }) + " น.";
+    // เรียงหมวดตามลำดับแหล่งข่าว (ไม่ใช่ตามวันที่ข่าว) และแสดงเฉพาะหมวดที่มีข่าวจริง
+    const have = new Set(data.items.map((it) => it.category));
+    const cats = [...new Set(data.sources.map((s) => s.category))].filter((c) => have.has(c));
+    renderChips(cats);
+    render();
+  } catch {
+    document.getElementById("content").innerHTML =
+      `<p class="empty">โหลดข้อมูลไม่สำเร็จ — รัน <code>node fetch-news.mjs</code> ก่อน แล้วเปิดผ่าน local server</p>`;
+  }
+}
+init();
+</script>
+</body>
+</html>

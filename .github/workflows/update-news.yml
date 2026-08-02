@@ -1,0 +1,30 @@
+name: อัปเดตข่าวอัตโนมัติ
+
+on:
+  schedule:
+    - cron: "0 * * * *"     # ทุก 1 ชั่วโมง
+  workflow_dispatch:          # กดรันเองได้จากหน้า GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: ดึงข่าวล่าสุด
+        run: node fetch-news.mjs
+
+      - name: commit ข้อมูลใหม่ (ถ้ามีการเปลี่ยนแปลง)
+        run: |
+          git config user.name "news-bot"
+          git config user.email "actions@github.com"
+          git add data/news.json
+          git diff --cached --quiet || git commit -m "update news $(date -u +'%Y-%m-%d %H:%M')"
+          git push
