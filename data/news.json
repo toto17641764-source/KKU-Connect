@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T12:08:55.389Z",
+  "updatedAt": "2026-08-03T15:34:15.052Z",
   "sources": [
     {
       "id": "eduzones",
@@ -68,6 +68,46 @@
     }
   ],
   "items": [
+    {
+      "title": "“อาจารย์ ม.ศิลปากร” ร้อง ปชป.ถูกสกัดร่วม “โครงการช่วย SME สสว.” ด้าน สสว.ร่อนเอกสารยันโปร่งใส",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FbktmUlNvNlY0dWNoaDNud040MmtTRVVOWmdwQXdfVlNreVZVMDRhTE1FSnFtWE5vVjlqcTRKNFV1X05TYk01SnVnSHBjcVo1MUQ4ZnA5cXZXOG8?oc=5",
+      "summary": "รายงานโดย Thairath.co.th",
+      "image": null,
+      "publishedAt": "2026-08-03T14:39:49.000Z",
+      "source": "ม.ศิลปากร",
+      "sourceId": "su",
+      "category": "ม.ศิลปากร"
+    },
+    {
+      "title": "มทส. ประกาศกำหนดการรับสมัคร TCAS70 ครบ 4 รอบ เปิด Portfolio รอบแรก 17 ส.ค.นี้",
+      "link": "https://www.eduzones.com/2026/08/03/sutgateway-sut70/?utm_source=rss&utm_medium=rss&utm_campaign=sutgateway-sut70",
+      "summary": "มทส. ประกาศกำหนดการรับสมัคร TCAS70 ครบ 4 รอบ เปิด Portfolio รอบแรก 17 ส.ค.นี้ มหาวิทยาลัยเทคโนโลยีสุรนารี (มทส.) ประกาศกำหนดการรับสมัครนักศึกษาใหม่ระดับปริญญาตรี ประจำปีการศึกษา 2570 ผ่านระบบ TCAS70 อย่างเป็นทางการ โดยเป…",
+      "image": "https://www.eduzones.com/wp-content/uploads/2026/08/sutgateway-sut70.jpg",
+      "publishedAt": "2026-08-03T13:37:27.000Z",
+      "source": "Eduzones",
+      "sourceId": "eduzones",
+      "category": "ข่าวรับสมัคร / TCAS"
+    },
+    {
+      "title": "ปชป. ชง กมธ.สภาฯ ตรวจสอบ สสว. โครงการช่วย SME ส่อทุจริต เปิดช่องคนนอกบงการ-ขู่อ.ศิลปากรให้ถอนอุทธรณ์",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ORHc2MjBRRWRtWUt1cFhFSDlqVWxqNDZrek9KNnpKNFJhcW5JdWJPVkt4ZjBBVndpbnljblhaRUg3Mm0ydk5TbVcyZ3FFUQ?oc=5",
+      "summary": "รายงานโดย แนวหน้า",
+      "image": null,
+      "publishedAt": "2026-08-03T12:42:00.000Z",
+      "source": "ม.ศิลปากร",
+      "sourceId": "su",
+      "category": "ม.ศิลปากร"
+    },
+    {
+      "title": "'ปชป.' จ่อชง กมธ.สภาฯ สอบโครงการช่วย SME ไม่โปร่งใส- ส่อล็อกสเปค",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WS1RNNnIxQWRIQU1Vekhya0I1LXdlek5DVjNBTXlJaU03YS15X0VHaTlEMmVVUW9sX0V5aktIcm1yTXVlZkpQV2ZidTM4YTdJa3hMSzB6RUp6ZUk?oc=5",
+      "summary": "รายงานโดย bangkokbiznews.com",
+      "image": null,
+      "publishedAt": "2026-08-03T10:19:00.000Z",
+      "source": "ม.ศิลปากร",
+      "sourceId": "su",
+      "category": "ม.ศิลปากร"
+    },
     {
       "title": "คณะเภสัชศาสตร์ จุฬาฯ ชวนน้อง ๆ มัธยมศึกษาตอนปลาย เข้าอบรม “Introduction to Pharmaceutical Care ก้าวแรกสู่การบริบาลทางเภสัชกรรม”",
       "link": "https://www.chula.ac.th/news/419420/",
@@ -227,6 +267,16 @@
       "source": "จุฬาฯ",
       "sourceId": "chula",
       "category": "จุฬาฯ"
+    },
+    {
+      "title": "Mrt สนามไชย;Mrt Sanam Chaiไปยังมหาวิทยาลัยศิลปากร วังท่าพระด้วยขนส่งสาธารณะ",
+      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxQMHhnUG9jbVY3bkUzS29WOGZnNmkxYVY0TlZrUTAtM0lKcUNrcFhDSmMxWFE1bTVyc1plMi1DeEFLT2dudHdoaTh2Njl1cGpOb3JGNmtnV2NMQWthVXM0TENJWDZUaU9saE9vLUpUV0g0c0c2Y2hVOWYwRklBU2tmOEs0NGdxSWZhMjFLbUxFczZqT3E1OEhqWkRhb2l1cDlUQ0RBQnN1bFhqck11bFQ0U0M2QWVoV2VRYm5CWHlVTXhGVG1YRm9ZdEp0NDBWeEVSMi1RRmlaOWRrazFCVzNXNWF1N3ExR3M4QzcyMFB3QkxpVzY0V3ZDUEo4NDlRUFhfZ0dzd1ZjN0dTOGRKay1OdGJMMnlIQTN3ejU1d21OTHZvRWd0RjdjU1hINk5aSGhvTHdDNjhzc2NVRzF3ckZ2djFzVnQyOHc0MU5Hb042bWZ0LXd6WVl2ZHNQb3lEd2ZOSU95RkhqYjVUVFMtVWhlX1ZKM2x0WjRVbDBKT2RhVDJyRHN0MGc5d2VUVlFZUDdlTFlmVUZHQlhlNTd5RENjYTlRXzcxUkJNTDU4MFNfcjUwUkk3c2Z2NDlnbzc?oc=5",
+      "summary": "รายงานโดย Moovit",
+      "image": null,
+      "publishedAt": "2026-08-01T12:00:00.000Z",
+      "source": "ม.ศิลปากร",
+      "sourceId": "su",
+      "category": "ม.ศิลปากร"
     },
     {
       "title": "เจาะลึกโครงการจุฬาฯ–ชนบท คืออะไร? ใครสมัครได้ ได้รับทุนอะไร และมีข้อผูกพันอย่างไร",
@@ -481,7 +531,7 @@
     {
       "title": "มช.ต่อยอดงานวิจัยสู่ภาคอุตสาหกรรม หนุนผู้ประกอบการไทยคว้ารางวัล 7 Innovation Awards 2026",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzaW91ZmhYMzg5Z1JsWlpNT1pxTEU5MnJqSUU0Z3E0WUpLNUZCRkFkQ0NBQktwMUVyU1JVcEVyNHR1NTBScWRteFdHR1ppX1RXM1Q2REI4a0pkc1FiNUJFR0xnUWY3UQ?oc=5",
-      "summary": "รายงานโดย bangkokbiznews",
+      "summary": "รายงานโดย bangkokbiznews.com",
       "image": null,
       "publishedAt": "2026-07-29T03:11:52.000Z",
       "source": "ม.เชียงใหม่",
@@ -611,7 +661,7 @@
     {
       "title": "มหิดล–จุฬาฯ –เชียงใหม่ พลิกโฉมอุดมศึกษาไทย เริ่มให้นิสิตนักศึกษาเรียนร่วม “MC² GenEd” สร้างระบบเรียนรู้ข้ามมหาวิทยาลัย เตรียมบัณฑิตพร้อมโลก AI และอนาคต",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aalVuQlJONFl6cHU1dm4zcXdEVW5QSVozWXJ2bjhPT1ZCSGlKV2FHbGRMQVctRGRVUVkxdENuZHVsWDRwMHJZc2VnaXUydGRYQmhvWA?oc=5",
-      "summary": "รายงานโดย Marketeer Online",
+      "summary": "รายงานโดย marketeeronline.co",
       "image": null,
       "publishedAt": "2026-07-27T07:00:00.000Z",
       "source": "ม.เชียงใหม่",
@@ -771,7 +821,7 @@
     {
       "title": "มหาวิทยาลัยขอนแก่น ต้อนรับคณะกรรมการสมาชิกวุฒิสภาพบประชาชน รับฟังข้อเสนอเชิงนโยบาย ขับเคลื่อนการพัฒนาคุณภาพชีวิตบุคลากรและสังคม - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBySEs1a2NoMjR3S1Z0WGhVOXVJZzd0c2xSLVBvOFJpS2w1c0l1b3BKeDFqME9kc05Xd2poblNMZG1BaWYzX3c0?oc=5",
-      "summary": "รายงานโดย kku.ac.th",
+      "summary": "รายงานโดย มหาวิทยาลัยขอนแก่น",
       "image": null,
       "publishedAt": "2026-07-23T09:45:05.000Z",
       "source": "ม.ขอนแก่น",
@@ -1001,7 +1051,7 @@
     {
       "title": "เชฟรอนร่วมกับมหาวิทยาลัยเกษตรศาสตร์ และ ซีโอฮุน สนับสนุนการศึกษาด้านสุขภาพหนึ่งเดียว ในวัน International One Health Day ปี 2568",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RWTJvRWMtMGFvWVF6WFFkLTFCUVM4UDIwRG9GZGp3Qi0yZy1BRG5DT1hwcDQ2RTF5ZU15UXUzaXFfT0Y0cGM2ZVktMkMwVExFZUdfVg?oc=5",
-      "summary": "รายงานโดย Marketeer Online",
+      "summary": "รายงานโดย marketeeronline.co",
       "image": null,
       "publishedAt": "2026-07-15T07:00:00.000Z",
       "source": "ม.เกษตรศาสตร์",
@@ -1161,7 +1211,7 @@
     {
       "title": "อธิการบดีมหาวิทยาลัยขอนแก่น กล่าวแสดงความยินดีกับผู้สำเร็จการศึกษา ประจำปี 2566",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0VDBxdnRYRHZYMk9pb19Yc2VOdUNGeFZ6VjRzcXRGSWtOOWY1TGJiQTF1TFVXVzBGTWNWMGg3UWtNNnZXdGI0?oc=5",
-      "summary": "รายงานโดย kku.ac.th",
+      "summary": "รายงานโดย มหาวิทยาลัยขอนแก่น",
       "image": null,
       "publishedAt": "2026-07-04T09:17:57.000Z",
       "source": "ม.ขอนแก่น",
@@ -1214,56 +1264,6 @@
       "summary": "The post คณะมนุษยศาสตร์และสังคมศาสตร์ประกาศให้บุคคลภายนอกเช่าพื้นที่ appeared first on มหาวิทยาลัยบูรพา .",
       "image": null,
       "publishedAt": "2026-05-21T06:55:25.000Z",
-      "source": "ม.บูรพา",
-      "sourceId": "buu",
-      "category": "ม.บูรพา"
-    },
-    {
-      "title": "วิทยาลัยนานาชาติ มหาวิทยาลัยบูรพา ประกาศผลผู้ได้รับการคัดเลือกเพื่อบรรจุเป็นพนักงานมหาวิทยาลัย ตำแหน่งนักวิชาการศึกษา",
-      "link": "https://www.buu.ac.th/%e0%b8%a7%e0%b8%b4%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%a5%e0%b8%b1%e0%b8%a2%e0%b8%99%e0%b8%b2%e0%b8%99%e0%b8%b2%e0%b8%8a%e0%b8%b2%e0%b8%95%e0%b8%b4-%e0%b8%a1%e0%b8%ab%e0%b8%b2%e0%b8%a7%e0%b8%b4-10/?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%25a7%25e0%25b8%25b4%25e0%25b8%2597%25e0%25b8%25a2%25e0%25b8%25b2%25e0%25b8%25a5%25e0%25b8%25b1%25e0%25b8%25a2%25e0%25b8%2599%25e0%25b8%25b2%25e0%25b8%2599%25e0%25b8%25b2%25e0%25b8%258a%25e0%25b8%25b2%25e0%25b8%2595%25e0%25b8%25b4-%25e0%25b8%25a1%25e0%25b8%25ab%25e0%25b8%25b2%25e0%25b8%25a7%25e0%25b8%25b4-10",
-      "summary": "ตามประกาศวิทยาลัยนานาชาติ มหาวิทยาลัยบูรพา ที่ 0019/256 […] The post วิทยาลัยนานาชาติ มหาวิทยาลัยบูรพา ประกาศผลผู้ได้รับการคัดเลือกเพื่อบรรจุเป็นพนักงานมหาวิทยาลัย ตำแหน่งนักวิชาการศึกษา appeared first on มหาวิทยาลัยบูรพ…",
-      "image": null,
-      "publishedAt": "2026-05-06T03:11:44.000Z",
-      "source": "ม.บูรพา",
-      "sourceId": "buu",
-      "category": "ม.บูรพา"
-    },
-    {
-      "title": "วิทยาลัยนานาชาติ มหาวิทยาลัยบูรพา ประกาศผลผู้ได้รับการคัดเลือกเพื่อบรรจุเป็นพนักงานมหาวิทยาลัย ตำแหน่งอาจารย์",
-      "link": "https://www.buu.ac.th/%e0%b8%a7%e0%b8%b4%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%a5%e0%b8%b1%e0%b8%a2%e0%b8%99%e0%b8%b2%e0%b8%99%e0%b8%b2%e0%b8%8a%e0%b8%b2%e0%b8%95%e0%b8%b4-%e0%b8%a1%e0%b8%ab%e0%b8%b2%e0%b8%a7%e0%b8%b4-9/?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%25a7%25e0%25b8%25b4%25e0%25b8%2597%25e0%25b8%25a2%25e0%25b8%25b2%25e0%25b8%25a5%25e0%25b8%25b1%25e0%25b8%25a2%25e0%25b8%2599%25e0%25b8%25b2%25e0%25b8%2599%25e0%25b8%25b2%25e0%25b8%258a%25e0%25b8%25b2%25e0%25b8%2595%25e0%25b8%25b4-%25e0%25b8%25a1%25e0%25b8%25ab%25e0%25b8%25b2%25e0%25b8%25a7%25e0%25b8%25b4-9",
-      "summary": "ตามประกาศวิทยาลัยนานาชาติ มหาวิทยาลัยบูรพา ที่ 0015/256 […] The post วิทยาลัยนานาชาติ มหาวิทยาลัยบูรพา ประกาศผลผู้ได้รับการคัดเลือกเพื่อบรรจุเป็นพนักงานมหาวิทยาลัย ตำแหน่งอาจารย์ appeared first on มหาวิทยาลัยบูรพา .",
-      "image": null,
-      "publishedAt": "2026-05-06T03:10:28.000Z",
-      "source": "ม.บูรพา",
-      "sourceId": "buu",
-      "category": "ม.บูรพา"
-    },
-    {
-      "title": "ประกาศรายชื่อผู้มีสิทธิ์เข้ารับการคัดเลือกเพื่อบรรจุเป็นพนักงานมหาวิทยาลัย สังกัดวิทยาลัยนานาชาติ ตำแหน่ง อาจารย์",
-      "link": "https://www.buu.ac.th/%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81%e0%b8%b2%e0%b8%a8%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b8%a1%e0%b8%b5%e0%b8%aa%e0%b8%b4%e0%b8%97%e0%b8%98-3/?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%259b%25e0%25b8%25a3%25e0%25b8%25b0%25e0%25b8%2581%25e0%25b8%25b2%25e0%25b8%25a8%25e0%25b8%25a3%25e0%25b8%25b2%25e0%25b8%25a2%25e0%25b8%258a%25e0%25b8%25b7%25e0%25b9%2588%25e0%25b8%25ad%25e0%25b8%259c%25e0%25b8%25b9%25e0%25b9%2589%25e0%25b8%25a1%25e0%25b8%25b5%25e0%25b8%25aa%25e0%25b8%25b4%25e0%25b8%2597%25e0%25b8%2598-3",
-      "summary": "ตามประกาศวิทยาลัยนานาชาติ มหาวิทยาลัยบูรพา ที่ 0015/256 […] The post ประกาศรายชื่อผู้มีสิทธิ์เข้ารับการคัดเลือกเพื่อบรรจุเป็นพนักงานมหาวิทยาลัย สังกัดวิทยาลัยนานาชาติ ตำแหน่ง อาจารย์ appeared first on มหาวิทยาลัยบูรพา .",
-      "image": null,
-      "publishedAt": "2026-05-01T07:35:19.000Z",
-      "source": "ม.บูรพา",
-      "sourceId": "buu",
-      "category": "ม.บูรพา"
-    },
-    {
-      "title": "ประกาศรายชื่อผู้มีสิทธิ์เข้ารับการคัดเลือกเพื่อบรรจุเป็นพนักงานมหาวิทยาลัย สังกัดวิทยาลัยนานาชาติ (ภาค ข.)",
-      "link": "https://www.buu.ac.th/%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81%e0%b8%b2%e0%b8%a8%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b8%a1%e0%b8%b5%e0%b8%aa%e0%b8%b4%e0%b8%97%e0%b8%98-2/?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%259b%25e0%25b8%25a3%25e0%25b8%25b0%25e0%25b8%2581%25e0%25b8%25b2%25e0%25b8%25a8%25e0%25b8%25a3%25e0%25b8%25b2%25e0%25b8%25a2%25e0%25b8%258a%25e0%25b8%25b7%25e0%25b9%2588%25e0%25b8%25ad%25e0%25b8%259c%25e0%25b8%25b9%25e0%25b9%2589%25e0%25b8%25a1%25e0%25b8%25b5%25e0%25b8%25aa%25e0%25b8%25b4%25e0%25b8%2597%25e0%25b8%2598-2",
-      "summary": "ตามประกาศวิทยาลัยนานาชาติ มหาวิทยาลัยบูรพา ที่ 0019/256 […] The post ประกาศรายชื่อผู้มีสิทธิ์เข้ารับการคัดเลือกเพื่อบรรจุเป็นพนักงานมหาวิทยาลัย สังกัดวิทยาลัยนานาชาติ (ภาค ข.) appeared first on มหาวิทยาลัยบูรพา .",
-      "image": null,
-      "publishedAt": "2026-04-29T01:45:06.000Z",
-      "source": "ม.บูรพา",
-      "sourceId": "buu",
-      "category": "ม.บูรพา"
-    },
-    {
-      "title": "ประกาศผลการคัดเลือกเพื่อบรรจุเป็นพนักงานมหาวิทยาลัย ตำแหน่ง นักประชาสัมพันธ์",
-      "link": "https://www.buu.ac.th/%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81%e0%b8%b2%e0%b8%a8%e0%b8%9c%e0%b8%a5%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%b1%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b9%80%e0%b8%9e%e0%b8%b7/?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%259b%25e0%25b8%25a3%25e0%25b8%25b0%25e0%25b8%2581%25e0%25b8%25b2%25e0%25b8%25a8%25e0%25b8%259c%25e0%25b8%25a5%25e0%25b8%2581%25e0%25b8%25b2%25e0%25b8%25a3%25e0%25b8%2584%25e0%25b8%25b1%25e0%25b8%2594%25e0%25b9%2580%25e0%25b8%25a5%25e0%25b8%25b7%25e0%25b8%25ad%25e0%25b8%2581%25e0%25b9%2580%25e0%25b8%259e%25e0%25b8%25b7",
-      "summary": "ตามประกาศวิทยาลัยนานาชาติ มหาวิทยาลัยบูรพา ที่ 0014/256 […] The post ประกาศผลการคัดเลือกเพื่อบรรจุเป็นพนักงานมหาวิทยาลัย ตำแหน่ง นักประชาสัมพันธ์ appeared first on มหาวิทยาลัยบูรพา .",
-      "image": null,
-      "publishedAt": "2026-04-24T04:51:42.000Z",
       "source": "ม.บูรพา",
       "sourceId": "buu",
       "category": "ม.บูรพา"
