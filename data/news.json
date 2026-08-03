@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T08:53:56.030Z",
+  "updatedAt": "2026-08-03T12:08:55.389Z",
   "sources": [
     {
       "id": "eduzones",
@@ -141,7 +141,7 @@
     {
       "title": "คณะศิลปกรรมศาสตร์ สำนักบริหารศิลปวัฒนธรรม จุฬาฯ เข้าร่วมงานและรับธงเจ้าภาพจัดงาน AUN-AYCF 2027 อย่างงดงามและยิ่งใหญ่ จาก Guizhou University สาธารณรัฐประชาชนจีน",
       "link": "https://www.chula.ac.th/news/419322/",
-      "summary": "ศ.ดร.ขำคม พรประสิทธิ์ คณบดีคณะศิลปกรรมศาสตร์ จุฬาฯ นายกรรชิต จิตระทาน ผู้อำนวยการสำนักบริหารศิลปวัฒนธรรม พร้อมด้วย ดร.ภูริต โสภนคณาภรณ์ ผู้อำนวยการฝ่ายพัฒนาและส่งเสริมศิลปวัฒนธรรม จุฬาฯ เข้าร่วมกิจกรรม The 21st ASEAN and…",
+      "summary": "ศ.ดร.ขำคม พรประสิทธิ์ คณบดีคณะศิลปกรรมศาสตร์ จุฬาฯ นายกรรชิต จิตระทาน ผู้อำนวยการสำนักบริหารศิลปวัฒนธรรม จุฬาฯม พร้อมด้วย ดร.ภูริต โสภนคณาภรณ์ ผู้อำนวยการฝ่ายพัฒนาและส่งเสริมศิลปวัฒนธรรม จุฬาฯ เข้าร่วมกิจกรรม The 21st AS…",
       "image": "https://web-cdn.chula.ac.th/web-dev/2026/08/07_0.webp",
       "publishedAt": "2026-08-03T04:06:16.000Z",
       "source": "จุฬาฯ",
@@ -167,6 +167,16 @@
       "source": "ม.พะเยา",
       "sourceId": "up",
       "category": "ม.พะเยา"
+    },
+    {
+      "title": "ขอนแก่น ‘เทส’ เต็มฮอลล์! พลังคนรุ่นใหม่เต็มห้อง! ตั้งแต่น้อง ม.ต้น จนถึงมหาวิทยาลัย",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lMjJkYk9PaXJRRWNuUWloN19ZRGRjeExBdE9PLWE0WFRtcndoT3dfOFZlQ1JCVk1XMERsS3RRTzdKek1lTEFXVlZMUHl1cklyTDdiRjUtdGxvaFM2LTFtemtiWEw4Zw?oc=5",
+      "summary": "รายงานโดย thestandard.co",
+      "image": null,
+      "publishedAt": "2026-08-02T21:50:58.000Z",
+      "source": "ม.ขอนแก่น",
+      "sourceId": "kku",
+      "category": "ม.ขอนแก่น"
     },
     {
       "title": "คณะเภสัชศาสตร์ มหาวิทยาลัยมหิดล เปิดรับ TCAS70 รอบ Portfolio 20 ที่นั่ง ใช้ TCASFolio เท่านั้น พร้อมกำหนด GPAX และคะแนนภาษาอังกฤษ",
@@ -291,12 +301,22 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "summary": "รายงานโดย dek-d.com",
+      "summary": "รายงานโดย Dek-D.com",
       "image": null,
       "publishedAt": "2026-07-31T08:15:00.000Z",
       "source": "ม.ขอนแก่น",
       "sourceId": "kku",
       "category": "ม.ขอนแก่น"
+    },
+    {
+      "title": "มหาวิทยาลัยนเรศวรร่วมพิธีบำเพ็ญกุศลปัญญาสมวาร 50 วัน แห่งการสิ้นพระชนม์ ถวายเป็นพระกุศลแด่ สมเด็จพระเจ้าลูกเธอ เจ้าฟ้าพัชรกิติยาภาฯ",
+      "link": "https://www.nu.ac.th/?p=23536",
+      "summary": "เมื่อวันที่ 30 กรกฎาคม 2569 ผศ. ดร.จรูญ สารินทร์ ร…",
+      "image": "https://www.nu.ac.th/wp-content/uploads/photo-gallery/69-218/thumb/DSC_2448.jpg?bwg=1785751869",
+      "publishedAt": "2026-07-31T08:11:34.000Z",
+      "source": "ม.นเรศวร",
+      "sourceId": "nu",
+      "category": "ม.นเรศวร"
     },
     {
       "title": "ขอแสดงความยินดีกับผู้ได้รับปริญญากิตติมศักดิ์ ประจำปี พ.ศ. 2569 ศาสตราจารย์พิเศษ ดร.ทันตแพทย์หญิงวิสาขะ ลิ่มวงศ์ ปริญญาปรัชญาดุษฎีบัณฑิตกิตติมศักดิ์ (ปร.ด.) สาขาวิชาวิทยาศาสตร์ช่องปาก",
@@ -341,7 +361,7 @@
     {
       "title": "มหาวิทยาลัยขอนแก่น ผนึกกำลังเครือข่าย ยกระดับ \"การแพทย์แม่นยำ\" พลิกโฉมการรักษามะเร็งไทย",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wV3FqYnNicDNVN3c4anQtZzdOYkNxak01azNIQ0pNWFJtbGZmMjhCMGs5dFRPUXR0d1FCaXpJeG5rOUVRa21COWY1Z0lmT3ppRHdj?oc=5",
-      "summary": "รายงานโดย dailynews.co.th",
+      "summary": "รายงานโดย เดลินิวส์",
       "image": null,
       "publishedAt": "2026-07-31T03:36:00.000Z",
       "source": "ม.ขอนแก่น",
@@ -387,16 +407,6 @@
       "source": "ม.พะเยา",
       "sourceId": "up",
       "category": "ม.พะเยา"
-    },
-    {
-      "title": "ขอนแก่น ‘เทส’ เต็มฮอลล์! พลังคนรุ่นใหม่เต็มห้อง! ตั้งแต่น้อง ม.ต้น จนถึงมหาวิทยาลัย",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lMjJkYk9PaXJRRWNuUWloN19ZRGRjeExBdE9PLWE0WFRtcndoT3dfOFZlQ1JCVk1XMERsS3RRTzdKek1lTEFXVlZMUHl1cklyTDdiRjUtdGxvaFM2LTFtemtiWEw4Zw?oc=5",
-      "summary": "รายงานโดย thestandard.co",
-      "image": null,
-      "publishedAt": "2026-07-30T08:47:56.000Z",
-      "source": "ม.ขอนแก่น",
-      "sourceId": "kku",
-      "category": "ม.ขอนแก่น"
     },
     {
       "title": "วิศวกรรมโยธา ม.พะเยา สร้างชื่อบนเวที BIM Competition 2026 คว้า 2 รางวัลชมเชย พร้อมรับรางวัลอาจารย์ที่ปรึกษาดีเด่น",
@@ -449,6 +459,26 @@
       "category": "ม.เกษตรศาสตร์"
     },
     {
+      "title": "NU และ JBNU กระชับความร่วมมือทางวิชาการและเสริมสร้างเครือข่ายระดับนานาชาติ",
+      "link": "https://www.nu.ac.th/?p=23540",
+      "summary": "รองศาสตราจารย์ ดร.ศรินทร์ทิพย์ แทนธานี รักษาราชการ…",
+      "image": "https://www.nu.ac.th/wp-content/uploads/photo-gallery/69-219/thumb/759751878_1482254443944104_6738113360050472116_n.jpg?bwg=1785752217",
+      "publishedAt": "2026-07-30T03:13:24.000Z",
+      "source": "ม.นเรศวร",
+      "sourceId": "nu",
+      "category": "ม.นเรศวร"
+    },
+    {
+      "title": "ม.นเรศวร จัดกิจกรรมเนื่องในวันคล้ายวันสถาปนามหาวิทยาลัยนเรศวร ครบรอบ 36 ปี",
+      "link": "https://www.nu.ac.th/?p=23544",
+      "summary": "เมื่อวันที่ 29 กรกฎาคม 2569 ผศ. ดร.จรูญ สารินทร์ ร…",
+      "image": "https://www.nu.ac.th/wp-content/uploads/2026/08/758368154_1482418377261044_9212343354886290208_n.jpg",
+      "publishedAt": "2026-07-29T11:18:48.000Z",
+      "source": "ม.นเรศวร",
+      "sourceId": "nu",
+      "category": "ม.นเรศวร"
+    },
+    {
       "title": "มช.ต่อยอดงานวิจัยสู่ภาคอุตสาหกรรม หนุนผู้ประกอบการไทยคว้ารางวัล 7 Innovation Awards 2026",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzaW91ZmhYMzg5Z1JsWlpNT1pxTEU5MnJqSUU0Z3E0WUpLNUZCRkFkQ0NBQktwMUVyU1JVcEVyNHR1NTBScWRteFdHR1ppX1RXM1Q2REI4a0pkc1FiNUJFR0xnUWY3UQ?oc=5",
       "summary": "รายงานโดย bangkokbiznews",
@@ -457,6 +487,16 @@
       "source": "ม.เชียงใหม่",
       "sourceId": "cmu",
       "category": "ม.เชียงใหม่"
+    },
+    {
+      "title": "มหาวิทยาลัยนเรศวร ร่วมกิจกรรมเฉลิมพระเกียรติ พระบาทสมเด็จพระเจ้าอยู่หัว เนื่องในโอกาสวันเฉลิมพระชนมพรรษา 28 กรกฎาคม 2569",
+      "link": "https://www.nu.ac.th/?p=23532",
+      "summary": "เมื่อวันที่ 28 กรกฎาคม 2569 นางศิริมาศ เสนารักษ์ ผ…",
+      "image": "https://www.nu.ac.th/wp-content/uploads/photo-gallery/69-217/thumb/DSC_7607.jpg?bwg=1785751339",
+      "publishedAt": "2026-07-29T03:02:24.000Z",
+      "source": "ม.นเรศวร",
+      "sourceId": "nu",
+      "category": "ม.นเรศวร"
     },
     {
       "title": "สัตวแพทย์ จุฬาฯ เจ้าภาพจัดประชุมวิชาการนานาชาติ ISCFR และ EVSSAR 2026",
@@ -659,6 +699,16 @@
       "category": "ม.เกษตรศาสตร์"
     },
     {
+      "title": "ภาคีเครือข่ายการบริหารจัดการทรัพยากรน้ำลุ่มน้ำยมตอนบน จ.แพร่ และมหาวิทยาลัยนเรศวร เข้ารับการส่งมอบโล่และเกียรติบัตรรางวัลนวัตกรรมเพื่อการพัฒนาประชาธิปไตยเกียรติยศ 1 ทศวรรษ ประจำปี 2568 ในงานประชุมวิชาการระดับชาติ “นเรศวรวิจัยและนวัตกรรม” ครั้งที่ 22 มหาวิทยาลัยนเรศวร",
+      "link": "https://www.nu.ac.th/?p=23525",
+      "summary": "​วันที่ 24 กรกฎาคม 2569 เวลา 13.00 น. รองศาสตราจาร…",
+      "image": "https://www.nu.ac.th/wp-content/uploads/2026/08/758841184_912716778573372_2008145594549570411_n.jpg",
+      "publishedAt": "2026-07-25T09:55:13.000Z",
+      "source": "ม.นเรศวร",
+      "sourceId": "nu",
+      "category": "ม.นเรศวร"
+    },
+    {
       "title": "มหาวิทยาลัยเชียงใหม่หนุนผู้ประกอบการไทยสร้างนวัตกรรมอาหารสู่ตลาดโลก ร่วมยินดีผลงานบริษัทไทยนิจิคว้ารางวัล 7Innovation Awards 2026",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fU2hNWUNxcXIyTmFud1VlNWdrenJ1MEdDY3lGOG41Q2tJalMxZmtuT3pXV2lMN2NENmJKSEpsQmhuRFJpWVIzT0s1SFNFQm83RmVNSlFZRWJzQzU0S2x1czNXSGNGdw?oc=5",
       "summary": "รายงานโดย ไทยโพสต์",
@@ -671,12 +721,22 @@
     {
       "title": "ศูนย์ปฏิบัติการจิตอาสา กองกิจการนิสิต มหาวิทยาลัยพะเยา จัดกิจกรรมจิตอาสาพัฒนาบำเพ็ญประโยชน์โบราณสถานพระธาตุจอมทอง เฉลิมพระเกียรติพระบาทสมเด็จพระเจ้าอยู่หัว เนื่องในโอกาสวันเฉลิมพระชนมพรรษา 28 กรกฎาคม 2569",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yd1J2M3h1alc2dEp4QjRuMjJLZlI5RzNycjhONnBvNFdsMjE4d3lBOUFjMTJUNl9QTUpRdDBMbVl0SnVKVHdjUDZ1eWNiU2w1NVAwNk9iQ2xHLUgwQjJMM0hYaEZlQ0MtN1NqZjVGc1VfcTk1TGlMUE5HRQ?oc=5",
-      "summary": "รายงานโดย region3.prd.go.th",
+      "summary": "รายงานโดย สำนักงานประชาสัมพันธ์ที่ 3 เชียงใหม่",
       "image": null,
       "publishedAt": "2026-07-24T11:24:47.000Z",
       "source": "ม.พะเยา",
       "sourceId": "up",
       "category": "ม.พะเยา"
+    },
+    {
+      "title": "มหาวิทยาลัยนเรศวรจัด “นเรศวรวิจัยและนวัตกรรม ครั้งที่ 22” เปิดเวทีนักวิจัยทั่วประเทศ ขับเคลื่อนเศรษฐกิจสีเขียวและนิเวศนวัตกรรม",
+      "link": "https://www.nu.ac.th/?p=23521",
+      "summary": "มหาวิทยาลัยนเรศวรจัดการประชุมวิชาการระดับชาติ &#82…",
+      "image": "https://www.nu.ac.th/wp-content/uploads/photo-gallery/69-216/thumb/DSC_0012.jpg?bwg=1785750817",
+      "publishedAt": "2026-07-24T09:48:15.000Z",
+      "source": "ม.นเรศวร",
+      "sourceId": "nu",
+      "category": "ม.นเรศวร"
     },
     {
       "title": "สำนักงาน ก.พ. ขอเชิญชวนข้าราชการ เจ้าหน้าที่ของรัฐ และประชาชน ร่วมลงนามถวายสัตย์ปฏิญานเพื่อเป็นข้าราชการที่ดีและพลังของแผ่นดิน เนื่องในโอกาสวันเฉลิมพระชนมพรรษา 28 กรกฎาคม 2569",
@@ -711,7 +771,7 @@
     {
       "title": "มหาวิทยาลัยขอนแก่น ต้อนรับคณะกรรมการสมาชิกวุฒิสภาพบประชาชน รับฟังข้อเสนอเชิงนโยบาย ขับเคลื่อนการพัฒนาคุณภาพชีวิตบุคลากรและสังคม - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBySEs1a2NoMjR3S1Z0WGhVOXVJZzd0c2xSLVBvOFJpS2w1c0l1b3BKeDFqME9kc05Xd2poblNMZG1BaWYzX3c0?oc=5",
-      "summary": "รายงานโดย มหาวิทยาลัยขอนแก่น",
+      "summary": "รายงานโดย kku.ac.th",
       "image": null,
       "publishedAt": "2026-07-23T09:45:05.000Z",
       "source": "ม.ขอนแก่น",
@@ -821,7 +881,7 @@
     {
       "title": "มหาวิทยาลัยศิลปากร-ภาคีเครือข่ายยกระดับงานวิจัยสู่การใช้ประโยชน์เชิงพาณิชย์ เปิดเวที “The Silpakorn Legacy Launch”",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80UXFFOHFXaklKZTFQU2E2c1NhdEpNNEtfLWkyZW1Mb1VnSlMySnJfbzVfSDJ1RTVTb1J5dGFPMy1fQk1Fb0tlMTJJUE4zYzhSLUdB?oc=5",
-      "summary": "รายงานโดย dailynews.co.th",
+      "summary": "รายงานโดย เดลินิวส์",
       "image": null,
       "publishedAt": "2026-07-21T07:00:00.000Z",
       "source": "ม.ศิลปากร",
@@ -881,7 +941,7 @@
     {
       "title": "TCAS70 รอบ 1 : Portfolio มหาวิทยาลัยเชียงใหม่",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9qUlVnV2JpWDBjX2dLb2tSdElFcUhIQVNhRDhkLVZiQ0U5QzR1QVFoa2c4cGVXOXllaVhSN0lLNkZEaWFEWkVRNw?oc=5",
-      "summary": "รายงานโดย dek-d.com",
+      "summary": "รายงานโดย Dek-D.com",
       "image": null,
       "publishedAt": "2026-07-18T07:00:00.000Z",
       "source": "ม.เชียงใหม่",
@@ -971,7 +1031,7 @@
     {
       "title": "มาแล้ว! ปฏิทิน TCAS70 มหาวิทยาลัยศิลปากร เริ่มเปิดสมัคร 20 ส.ค.69 นี้",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NWmRCWjJaTjRBZzZseTJIWDd4QjRXLVp2blN3cmFDRC1XbWZPdnJCWnJRQ3VXLUlRanNGSTNJZ3J2RlB1cmw1Ug?oc=5",
-      "summary": "รายงานโดย dek-d.com",
+      "summary": "รายงานโดย Dek-D.com",
       "image": null,
       "publishedAt": "2026-07-14T07:00:00.000Z",
       "source": "ม.ศิลปากร",
@@ -1101,22 +1161,12 @@
     {
       "title": "อธิการบดีมหาวิทยาลัยขอนแก่น กล่าวแสดงความยินดีกับผู้สำเร็จการศึกษา ประจำปี 2566",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0VDBxdnRYRHZYMk9pb19Yc2VOdUNGeFZ6VjRzcXRGSWtOOWY1TGJiQTF1TFVXVzBGTWNWMGg3UWtNNnZXdGI0?oc=5",
-      "summary": "รายงานโดย มหาวิทยาลัยขอนแก่น",
+      "summary": "รายงานโดย kku.ac.th",
       "image": null,
       "publishedAt": "2026-07-04T09:17:57.000Z",
       "source": "ม.ขอนแก่น",
       "sourceId": "kku",
       "category": "ม.ขอนแก่น"
-    },
-    {
-      "title": "The Reporters. . NEWSCLIP: อธิการบดี มศว แจ้งความเพจดังปล่อยคลิปเสียงเป็นเท็จ ยันไม่เป็นความจริง ไม่มีการเรียกรับเงินใด ๆ วันนี้ ( 26 มิ.ย. 69) ที่ สน. ทองหล่อ ศ. ดร. ชลวิทย์ เจียรจิตต์ อธิการบดีมหาวิทยาลัยศรีนครินทรวิโรฒ (มศว) ได้เข้าแจ้งความดำเนินคดีกับเพจ CSI LA และผู้แสดง",
-      "link": "https://news.google.com/rss/articles/CBMiqAdBVV95cUxOb0UyT3YtUklYNE5GeTN3T21NNUFlZHpQZzRvLWF1aXU3RXRrTWtDYU14VTZRTkFQZmstV3NtdURxMGdBZWdvaTRxMXgzdm5ENDVUYzhoWnZkQ29qa0tqNnBnci1RZk5hWmU3SGp2WU9qUWV1TldWOUdPc0l5WXNLeGNrQk1pWi1WXzhZcVFnT09QUDd6NnVsc0xpWEpUd3REbWR1b19ZUm11d1dqT1l3VW9McGJRT2NQamJnbTFiYTZjUVRHV1lRcFc2YUdzaC1scUlTXzFHcVM1RnVLVzZ3NVhieVNxWERDVjhSX1FuYXFpN2hJRm9kN09Db2J5MnFwT2NScTZPbVJ6VW9UZHNHNUlPejIyS1ZHTkFsWGxKU01KMTZ2Y0I1RDVkWGpxaTJscDFWcmpzX1c0QURUVnNfczhpZUJpdG5NZmR6OUc1N0tXQzdTUk52R1Fhb2lyZ2pQUXJxUW53Y2xEbGNGVTJzeVdyQmZWYlNnTl9xTmpsMVoxNnJsc1pCMzdsY0FDcF9NUEprV2s5T0xPYkI3TVVDU1dTYXZJZ2tqRlBoSmJLT2RnRGhWeVlXck84V3RCQmxFT1QxMzIxb1hHSUdlUFBTYlFGX09zdERBNTE4VzV3VFVTbExHSjhuR2Q3Y1o3bC1RS3ZpMmxpb2Z5N21HSGV6S21EY0tqZllob0lpTnFnWHFhNE5JRFhlVlFDdVJLT0laOVFGLXZWaTJPVHRmMzZpSWE3My1ZQ1BfSVZiaU9qMVFDUFBwOUNHdlYwSlpnYVBqMXZITTdWeUtmUUpLbUVqTFZHV2hxMUpLcmlUeXNOYkJvWlpMcy1lRzk1c0toUzY4WUphaXBkWG9RMlpKYUk3aFpYM1BmYzNCUUUzaFBtWVpLRFNLNEFKRlBMVFF0WjNyZmVUY00wa29IOGN1LWdXekswOE54OVB5UUc5akg5ZU93V3o0VDhSczhkTkhoV3BQczVieTdTem1iTkNEVVhzeldsdmdPTTNHNmlLSXBIMExCaVYzYWxfTGNuNVFmWGx3T1NQQlZLd21sV3EtcEZWMGEzWV8zMGxFYVVJZl9VbnFnbXV3VDBQaEJNNHI5cVdmNEx6WjVXbWpFVWI0d0pubUNXZTkxWGJkMGF4V1Z1RjJrXzA4UzB2cEpOZnRGREQ3cTRWSDBoTUhKY2dsVXNIYnlJOFZUU2dvMU54X2tNd0xWbkt3VW9tbm9JNDJpdjg1aE5jdXJ1TlQ?oc=5",
-      "summary": "รายงานโดย facebook.com",
-      "image": null,
-      "publishedAt": "2026-06-25T07:00:00.000Z",
-      "source": "มศว",
-      "sourceId": "swu",
-      "category": "มศว"
     },
     {
       "title": "อดีตคณบดี มศว จี้ สถ. พูดให้หมด แจงปมแก้คะแนนสอบท้องถิ่นบนระบบ หวั่นทำเสียหาย-ถูกเข้าใจผิด",
@@ -1129,9 +1179,19 @@
       "category": "มศว"
     },
     {
+      "title": "The Reporters. . NEWSCLIP: อธิการบดี มศว แจ้งความเพจดังปล่อยคลิปเสียงเป็นเท็จ ยันไม่เป็นความจริง ไม่มีการเรียกรับเงินใด ๆ วันนี้ ( 26 มิ.ย. 69) ที่ สน. ทองหล่อ ศ. ดร. ชลวิทย์ เจียรจิตต์ อธิการบดีมหาวิทยาลัยศรีนครินทรวิโรฒ (มศว) ได้เข้าแจ้งความดำเนินคดีกับเพจ CSI LA และผู้แสดง",
+      "link": "https://news.google.com/rss/articles/CBMiqAdBVV95cUxOb0UyT3YtUklYNE5GeTN3T21NNUFlZHpQZzRvLWF1aXU3RXRrTWtDYU14VTZRTkFQZmstV3NtdURxMGdBZWdvaTRxMXgzdm5ENDVUYzhoWnZkQ29qa0tqNnBnci1RZk5hWmU3SGp2WU9qUWV1TldWOUdPc0l5WXNLeGNrQk1pWi1WXzhZcVFnT09QUDd6NnVsc0xpWEpUd3REbWR1b19ZUm11d1dqT1l3VW9McGJRT2NQamJnbTFiYTZjUVRHV1lRcFc2YUdzaC1scUlTXzFHcVM1RnVLVzZ3NVhieVNxWERDVjhSX1FuYXFpN2hJRm9kN09Db2J5MnFwT2NScTZPbVJ6VW9UZHNHNUlPejIyS1ZHTkFsWGxKU01KMTZ2Y0I1RDVkWGpxaTJscDFWcmpzX1c0QURUVnNfczhpZUJpdG5NZmR6OUc1N0tXQzdTUk52R1Fhb2lyZ2pQUXJxUW53Y2xEbGNGVTJzeVdyQmZWYlNnTl9xTmpsMVoxNnJsc1pCMzdsY0FDcF9NUEprV2s5T0xPYkI3TVVDU1dTYXZJZ2tqRlBoSmJLT2RnRGhWeVlXck84V3RCQmxFT1QxMzIxb1hHSUdlUFBTYlFGX09zdERBNTE4VzV3VFVTbExHSjhuR2Q3Y1o3bC1RS3ZpMmxpb2Z5N21HSGV6S21EY0tqZllob0lpTnFnWHFhNE5JRFhlVlFDdVJLT0laOVFGLXZWaTJPVHRmMzZpSWE3My1ZQ1BfSVZiaU9qMVFDUFBwOUNHdlYwSlpnYVBqMXZITTdWeUtmUUpLbUVqTFZHV2hxMUpLcmlUeXNOYkJvWlpMcy1lRzk1c0toUzY4WUphaXBkWG9RMlpKYUk3aFpYM1BmYzNCUUUzaFBtWVpLRFNLNEFKRlBMVFF0WjNyZmVUY00wa29IOGN1LWdXekswOE54OVB5UUc5akg5ZU93V3o0VDhSczhkTkhoV3BQczVieTdTem1iTkNEVVhzeldsdmdPTTNHNmlLSXBIMExCaVYzYWxfTGNuNVFmWGx3T1NQQlZLd21sV3EtcEZWMGEzWV8zMGxFYVVJZl9VbnFnbXV3VDBQaEJNNHI5cVdmNEx6WjVXbWpFVWI0d0pubUNXZTkxWGJkMGF4V1Z1RjJrXzA4UzB2cEpOZnRGREQ3cTRWSDBoTUhKY2dsVXNIYnlJOFZUU2dvMU54X2tNd0xWbkt3VW9tbm9JNDJpdjg1aE5jdXJ1TlQ?oc=5",
+      "summary": "รายงานโดย facebook.com",
+      "image": null,
+      "publishedAt": "2026-06-25T07:00:00.000Z",
+      "source": "มศว",
+      "sourceId": "swu",
+      "category": "มศว"
+    },
+    {
       "title": "ก.พ. แจงจ้างมหาวิทยาลัยศรีนครินทรวิโรฒจัดสอบเป็นไปตามระเบียบราชการ",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLaFBlaVd0VnFWWTFyclNaSHZkeWVpaVJ6bHVCOTBKdFBOVUlYUUpUV0V5Yzg3WlNYd09TaHFaUV9wSldZVzBZS3p6Q2RHR3M2VnlF?oc=5",
-      "summary": "รายงานโดย dailynews.co.th",
+      "summary": "รายงานโดย เดลินิวส์",
       "image": null,
       "publishedAt": "2026-06-24T07:00:00.000Z",
       "source": "มศว",
@@ -1207,66 +1267,6 @@
       "source": "ม.บูรพา",
       "sourceId": "buu",
       "category": "ม.บูรพา"
-    },
-    {
-      "title": "รายชื่อผู้มีสิทธิ์เข้ารับการคัดเลือกเพื่อบรรจุเป็นพนักงานมหาวิทยาลัย สังกัดวิทยาลัยนานาชาติ ตำแหน่ง เจ้าหน้าที่นักประชาสัมพันธ์",
-      "link": "https://www.buu.ac.th/%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b8%a1%e0%b8%b5%e0%b8%aa%e0%b8%b4%e0%b8%97%e0%b8%98%e0%b8%b4%e0%b9%8c%e0%b9%80%e0%b8%82%e0%b9%89%e0%b8%b2/?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%25a3%25e0%25b8%25b2%25e0%25b8%25a2%25e0%25b8%258a%25e0%25b8%25b7%25e0%25b9%2588%25e0%25b8%25ad%25e0%25b8%259c%25e0%25b8%25b9%25e0%25b9%2589%25e0%25b8%25a1%25e0%25b8%25b5%25e0%25b8%25aa%25e0%25b8%25b4%25e0%25b8%2597%25e0%25b8%2598%25e0%25b8%25b4%25e0%25b9%258c%25e0%25b9%2580%25e0%25b8%2582%25e0%25b9%2589%25e0%25b8%25b2",
-      "summary": "ตามประกาศวิทยาลัยนานาชาติ มหาวิทยาลัยบูรพา ที่ 0014/256 […] The post รายชื่อผู้มีสิทธิ์เข้ารับการคัดเลือกเพื่อบรรจุเป็นพนักงานมหาวิทยาลัย สังกัดวิทยาลัยนานาชาติ ตำแหน่ง เจ้าหน้าที่นักประชาสัมพันธ์ appeared first on มหาวิ…",
-      "image": null,
-      "publishedAt": "2026-04-10T03:48:07.000Z",
-      "source": "ม.บูรพา",
-      "sourceId": "buu",
-      "category": "ม.บูรพา"
-    },
-    {
-      "title": "วิทยาลัยนานาชาติ เปิดรับสมัครคัดเลือกบุคคลเพื่อบรรจุและแต่งตั้งเป็นพนักงานมหาวิทยาลัย ตำแหน่ง นักวิชาการศึกษา",
-      "link": "https://www.buu.ac.th/%e0%b8%a7%e0%b8%b4%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%a5%e0%b8%b1%e0%b8%a2%e0%b8%99%e0%b8%b2%e0%b8%99%e0%b8%b2%e0%b8%8a%e0%b8%b2%e0%b8%95%e0%b8%b4-%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b8%a3-5/?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%25a7%25e0%25b8%25b4%25e0%25b8%2597%25e0%25b8%25a2%25e0%25b8%25b2%25e0%25b8%25a5%25e0%25b8%25b1%25e0%25b8%25a2%25e0%25b8%2599%25e0%25b8%25b2%25e0%25b8%2599%25e0%25b8%25b2%25e0%25b8%258a%25e0%25b8%25b2%25e0%25b8%2595%25e0%25b8%25b4-%25e0%25b9%2580%25e0%25b8%259b%25e0%25b8%25b4%25e0%25b8%2594%25e0%25b8%25a3-5",
-      "summary": "ด้วยวิทยาลัยนานาชาติ มหาวิทยาลัยบูรพา มีความประสงค์รับส […] The post วิทยาลัยนานาชาติ เปิดรับสมัครคัดเลือกบุคคลเพื่อบรรจุและแต่งตั้งเป็นพนักงานมหาวิทยาลัย ตำแหน่ง นักวิชาการศึกษา appeared first on มหาวิทยาลัยบูรพา .",
-      "image": null,
-      "publishedAt": "2026-04-08T04:28:20.000Z",
-      "source": "ม.บูรพา",
-      "sourceId": "buu",
-      "category": "ม.บูรพา"
-    },
-    {
-      "title": "ศึกษาทั่วไป มข. ต้อนรับคณะศึกษาดูงานจากมหาวิทยาลัยพะเยา แลกเปลี่ยนองค์ความรู้การจัดการศึกษาทั่วไป",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9uUHQ2VExUR1djZGZBUDRQd09xVW5sc1hwaUtUWGhFcmNVVHVHbHBacmNYVE5sUkVNM3BSMkV6U2RkVVZERmM4?oc=5",
-      "summary": "รายงานโดย มหาวิทยาลัยขอนแก่น",
-      "image": null,
-      "publishedAt": "2026-03-30T07:00:00.000Z",
-      "source": "ม.พะเยา",
-      "sourceId": "up",
-      "category": "ม.พะเยา"
-    },
-    {
-      "title": "วิทยาลัยนานาชาติ เปิดรับสมัครคัดเลือกบุคคลเพื่อบรรจุและแต่งตั้งเป็นพนักงานมหาวิทยาลัย ตำแหน่งนักประชาสัมพันธ์",
-      "link": "https://www.buu.ac.th/%e0%b8%a7%e0%b8%b4%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%a5%e0%b8%b1%e0%b8%a2%e0%b8%99%e0%b8%b2%e0%b8%99%e0%b8%b2%e0%b8%8a%e0%b8%b2%e0%b8%95%e0%b8%b4-%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b8%a3-4/?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%25a7%25e0%25b8%25b4%25e0%25b8%2597%25e0%25b8%25a2%25e0%25b8%25b2%25e0%25b8%25a5%25e0%25b8%25b1%25e0%25b8%25a2%25e0%25b8%2599%25e0%25b8%25b2%25e0%25b8%2599%25e0%25b8%25b2%25e0%25b8%258a%25e0%25b8%25b2%25e0%25b8%2595%25e0%25b8%25b4-%25e0%25b9%2580%25e0%25b8%259b%25e0%25b8%25b4%25e0%25b8%2594%25e0%25b8%25a3-4",
-      "summary": "ด้วยวิทยาลัยนานาชาติ มหาวิทยาลัยบูรพา มีความประสงค์รับส […] The post วิทยาลัยนานาชาติ เปิดรับสมัครคัดเลือกบุคคลเพื่อบรรจุและแต่งตั้งเป็นพนักงานมหาวิทยาลัย ตำแหน่งนักประชาสัมพันธ์ appeared first on มหาวิทยาลัยบูรพา .",
-      "image": null,
-      "publishedAt": "2026-03-24T08:28:18.000Z",
-      "source": "ม.บูรพา",
-      "sourceId": "buu",
-      "category": "ม.บูรพา"
-    },
-    {
-      "title": "วิทยาลัยนานาชาติ เปิดรับสมัครคัดเลือกบุคคลเพื่อบรรจุและแต่งตั้งเป็นพนักงานมหาวิทยาลัย ตำแหน่งอาจารย์",
-      "link": "https://www.buu.ac.th/%e0%b8%a7%e0%b8%b4%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%a5%e0%b8%b1%e0%b8%a2%e0%b8%99%e0%b8%b2%e0%b8%99%e0%b8%b2%e0%b8%8a%e0%b8%b2%e0%b8%95%e0%b8%b4-%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b8%a3-3/?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%25a7%25e0%25b8%25b4%25e0%25b8%2597%25e0%25b8%25a2%25e0%25b8%25b2%25e0%25b8%25a5%25e0%25b8%25b1%25e0%25b8%25a2%25e0%25b8%2599%25e0%25b8%25b2%25e0%25b8%2599%25e0%25b8%25b2%25e0%25b8%258a%25e0%25b8%25b2%25e0%25b8%2595%25e0%25b8%25b4-%25e0%25b9%2580%25e0%25b8%259b%25e0%25b8%25b4%25e0%25b8%2594%25e0%25b8%25a3-3",
-      "summary": "เป็นพนักงานมหาวิทยาลัย ตำแหน่งอาจารย์ สังกัดสำนักงานการ […] The post วิทยาลัยนานาชาติ เปิดรับสมัครคัดเลือกบุคคลเพื่อบรรจุและแต่งตั้งเป็นพนักงานมหาวิทยาลัย ตำแหน่งอาจารย์ appeared first on มหาวิทยาลัยบูรพา .",
-      "image": null,
-      "publishedAt": "2026-03-24T08:26:59.000Z",
-      "source": "ม.บูรพา",
-      "sourceId": "buu",
-      "category": "ม.บูรพา"
-    },
-    {
-      "title": "สภาพนักงานมหาวิทยาลัยเชียงใหม่แลกเปลี่ยนเรียนรู้ศึกษาดูงานจุฬาฯ ด้านการพัฒนาสวัสดิการแก่บุคลากร",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1WRUV5U0dyaFJEdXhMaFBxRjB2THFXRXJTTThoU05OeWlTbGlVbDZiN0QxLXk3RVAzOUQ5NWMwV0xWbXA2anZZZ1FfTUs?oc=5",
-      "summary": "รายงานโดย จุฬาลงกรณ์มหาวิทยาลัย",
-      "image": null,
-      "publishedAt": "2026-03-14T07:00:00.000Z",
-      "source": "ม.เชียงใหม่",
-      "sourceId": "cmu",
-      "category": "ม.เชียงใหม่"
     }
   ]
 }
