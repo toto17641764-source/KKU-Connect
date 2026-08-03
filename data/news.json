@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T17:38:08.570Z",
+  "updatedAt": "2026-08-03T19:13:21.496Z",
   "sources": [
     {
       "id": "eduzones",
@@ -110,6 +110,16 @@
     },
     {
       "title": "'ปชป.' จ่อชง กมธ.สภาฯ สอบโครงการช่วย SME ไม่โปร่งใส- ส่อล็อกสเปค",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzNmI4X0lfSm1TZ2FoT2dUdG8yaVVrTDQtTnpMejhGM3BUbW95NE1sVm9iN0ZDSWRNWVJkSVpMT0dfVWItQVRMa0MyR2RlLWRkM3B0bExReFpnUQ?oc=5",
+      "summary": "รายงานโดย bangkokbiznews",
+      "image": null,
+      "publishedAt": "2026-08-03T10:19:00.000Z",
+      "source": "ม.ศิลปากร",
+      "sourceId": "su",
+      "category": "ม.ศิลปากร"
+    },
+    {
+      "title": "'ปชป.' จ่อชง กมธ.สภาฯ สอบโครงการช่วย SME ไม่โปร่งใส- ส่อล็อกสเปค",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WS1RNNnIxQWRIQU1Vekhya0I1LXdlek5DVjNBTXlJaU03YS15X0VHaTlEMmVVUW9sX0V5aktIcm1yTXVlZkpQV2ZidTM4YTdJa3hMSzB6RUp6ZUk?oc=5",
       "summary": "รายงานโดย bangkokbiznews",
       "image": null,
@@ -171,7 +181,7 @@
     {
       "title": "มก.ชี้โจทย์ใหญ่มหา’ลัยไทย เร่งปรับตัวรับเกิดน้อย-งบวิจัยหด ชูเรียนรู้ตลอดชีวิต",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BM3ktMXR1d296cUR6UzhwNnFqMFRKOWptRGVrclFfVGNHbUVDaFBXV04wcUJTUXlTYzc5OGY5ZXpIWlk4X0VaWEhGYXRtMzRucGMtLW8wVzlXZXp4N3ItMzY4Q1FDUQ?oc=5",
-      "summary": "รายงานโดย Matichon Online",
+      "summary": "รายงานโดย มติชนออนไลน์",
       "image": null,
       "publishedAt": "2026-08-03T06:49:57.000Z",
       "source": "ม.เกษตรศาสตร์",
@@ -277,6 +287,26 @@
       "source": "จุฬาฯ",
       "sourceId": "chula",
       "category": "จุฬาฯ"
+    },
+    {
+      "title": "โรงเรียนหอวัง Rongrian Ho WangไปยังKasetsart University (มหาวิทยาลัยเกษตรศาสตร์)ด้วยขนส่งสาธารณะ",
+      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQWFI1V2E4N0QyVlpMbGRLWkVHbGZqYmpxUmFzUkZfNXp2WW84eVB5alpNX2JQNjEyNUtnRW9qZThldmgwZHJwZC14NkpURjFvVEczc3FLYXhNc1BXS08ycWpjMDVjQjVsenRvbkY2ajBpOHZuSWZGcW1SMUo1N1pSclNieXd0d1pwRjQ3RmM2N0lCOUh0bGFVUENfd01lUXBHWW11cGhEUXc5WmdzZFJuTTB1VjZWX3F3dkNxNFhyMWdrLVZUYVhqQmFCVGp0cmJfQld5NThodngzYzdqZVBwQXFUVmROQWlfX3JRUHJhc3pDcXJ2YTRlZlBCR1JrckdIRnMwdDRyaThxQzdiRGpXZGRWUGdkZVVqTFVJLUU3dk05UDBINWlqWEdUeE13MWc1ZXlNU3VpQUJrbnRhb2hkTFRyNGVxb29YOUltMEJEZTRMVWotNDNHQ2pReU4wVVhmRGdjY0N2aUM2NGxGZTd4cUJ4SXM2bGh3Ukl4QU9HX3ZaTU1ZUExlTm9HRVpHWV9iQUVOcGpKR0hqQ3M?oc=5",
+      "summary": "รายงานโดย Moovit",
+      "image": null,
+      "publishedAt": "2026-08-01T12:00:00.000Z",
+      "source": "ม.เกษตรศาสตร์",
+      "sourceId": "ku",
+      "category": "ม.เกษตรศาสตร์"
+    },
+    {
+      "title": "โรงเรียนเชียงใหม่คริสเตียน the Chiangmai Christian Schoolไปยังมหาวิทยาลัยเชียงใหม่ด้วยขนส่งสาธารณะ",
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQUDFYNm5YMlU0VVB2alFWNng2X1JtSk5pa295RjRRRDh3N29WZnJ5SEhpSU90UmNkNDJjOEoxekdXcFljZGZKM2lvTl8tV0JjS0kwaE5tWWxfYzN3SWpjS21iN3FzVjh1LWJDdUlOd0Z5Vk5kUFdCbjNOOTNwU3UtWEdWaE5xZzE4dnJLc18tbVlRMWhsSTZhbk1semhxb1o3SkNkYjBwMkNGeXpUOGpia3Y5V1lIWWx1NF8xUWoxcDFkbUVWR3pSU2EzM0FEOXAyVTdHVlo3S2toQ0cyQlIydlZOZ1RzOVlUQUxtV2ZRN09sVDdkbml2cUNZLVhSNnVEMWMyb20wSkNBZm00RUlvZzdGelUtUTlNRzBwYXZqV2xJYlVidnd5SXFCazlxaGxKSkE3a0l4YTFvblJWSXVaZmtpem93WmQzbnRxVnJEMXNQVXRuSkVwSGxqZjh1NU9DaUowWUJzLXQ?oc=5",
+      "summary": "รายงานโดย Moovit",
+      "image": null,
+      "publishedAt": "2026-08-01T12:00:00.000Z",
+      "source": "ม.เชียงใหม่",
+      "sourceId": "cmu",
+      "category": "ม.เชียงใหม่"
     },
     {
       "title": "Bts สุรศักดิ์ (ทางออก3);Bts Surasak (Exit 3)ไปยังมหาวิทยาลัยศิลปากร วังท่าพระด้วยขนส่งสาธารณะ",
@@ -791,7 +821,7 @@
     {
       "title": "ศูนย์ปฏิบัติการจิตอาสา กองกิจการนิสิต มหาวิทยาลัยพะเยา จัดกิจกรรมจิตอาสาพัฒนาบำเพ็ญประโยชน์โบราณสถานพระธาตุจอมทอง เฉลิมพระเกียรติพระบาทสมเด็จพระเจ้าอยู่หัว เนื่องในโอกาสวันเฉลิมพระชนมพรรษา 28 กรกฎาคม 2569",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yd1J2M3h1alc2dEp4QjRuMjJLZlI5RzNycjhONnBvNFdsMjE4d3lBOUFjMTJUNl9QTUpRdDBMbVl0SnVKVHdjUDZ1eWNiU2w1NVAwNk9iQ2xHLUgwQjJMM0hYaEZlQ0MtN1NqZjVGc1VfcTk1TGlMUE5HRQ?oc=5",
-      "summary": "รายงานโดย สำนักงานประชาสัมพันธ์ที่ 3 เชียงใหม่",
+      "summary": "รายงานโดย region3.prd.go.th",
       "image": null,
       "publishedAt": "2026-07-24T11:24:47.000Z",
       "source": "ม.พะเยา",
@@ -1237,36 +1267,6 @@
       "source": "ม.ขอนแก่น",
       "sourceId": "kku",
       "category": "ม.ขอนแก่น"
-    },
-    {
-      "title": "อดีตคณบดี มศว จี้ สถ. พูดให้หมด แจงปมแก้คะแนนสอบท้องถิ่นบนระบบ หวั่นทำเสียหาย-ถูกเข้าใจผิด",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDLVFtTUpUZ2pJMTFaVzhxVTREZGlTTjVrYjh1WUNGc1l0UHJKOUE5Zll2a0ZDcndxUmJPbzVHSkJUREtDR2ZwY0gwT25wLVZDRTlOQW0teGd5N3NJWFBBbTl2UVA2dw?oc=5",
-      "summary": "รายงานโดย Matichon Online",
-      "image": null,
-      "publishedAt": "2026-06-25T07:00:00.000Z",
-      "source": "มศว",
-      "sourceId": "swu",
-      "category": "มศว"
-    },
-    {
-      "title": "The Reporters. . NEWSCLIP: อธิการบดี มศว แจ้งความเพจดังปล่อยคลิปเสียงเป็นเท็จ ยันไม่เป็นความจริง ไม่มีการเรียกรับเงินใด ๆ วันนี้ ( 26 มิ.ย. 69) ที่ สน. ทองหล่อ ศ. ดร. ชลวิทย์ เจียรจิตต์ อธิการบดีมหาวิทยาลัยศรีนครินทรวิโรฒ (มศว) ได้เข้าแจ้งความดำเนินคดีกับเพจ CSI LA และผู้แสดง",
-      "link": "https://news.google.com/rss/articles/CBMiqAdBVV95cUxOb0UyT3YtUklYNE5GeTN3T21NNUFlZHpQZzRvLWF1aXU3RXRrTWtDYU14VTZRTkFQZmstV3NtdURxMGdBZWdvaTRxMXgzdm5ENDVUYzhoWnZkQ29qa0tqNnBnci1RZk5hWmU3SGp2WU9qUWV1TldWOUdPc0l5WXNLeGNrQk1pWi1WXzhZcVFnT09QUDd6NnVsc0xpWEpUd3REbWR1b19ZUm11d1dqT1l3VW9McGJRT2NQamJnbTFiYTZjUVRHV1lRcFc2YUdzaC1scUlTXzFHcVM1RnVLVzZ3NVhieVNxWERDVjhSX1FuYXFpN2hJRm9kN09Db2J5MnFwT2NScTZPbVJ6VW9UZHNHNUlPejIyS1ZHTkFsWGxKU01KMTZ2Y0I1RDVkWGpxaTJscDFWcmpzX1c0QURUVnNfczhpZUJpdG5NZmR6OUc1N0tXQzdTUk52R1Fhb2lyZ2pQUXJxUW53Y2xEbGNGVTJzeVdyQmZWYlNnTl9xTmpsMVoxNnJsc1pCMzdsY0FDcF9NUEprV2s5T0xPYkI3TVVDU1dTYXZJZ2tqRlBoSmJLT2RnRGhWeVlXck84V3RCQmxFT1QxMzIxb1hHSUdlUFBTYlFGX09zdERBNTE4VzV3VFVTbExHSjhuR2Q3Y1o3bC1RS3ZpMmxpb2Z5N21HSGV6S21EY0tqZllob0lpTnFnWHFhNE5JRFhlVlFDdVJLT0laOVFGLXZWaTJPVHRmMzZpSWE3My1ZQ1BfSVZiaU9qMVFDUFBwOUNHdlYwSlpnYVBqMXZITTdWeUtmUUpLbUVqTFZHV2hxMUpLcmlUeXNOYkJvWlpMcy1lRzk1c0toUzY4WUphaXBkWG9RMlpKYUk3aFpYM1BmYzNCUUUzaFBtWVpLRFNLNEFKRlBMVFF0WjNyZmVUY00wa29IOGN1LWdXekswOE54OVB5UUc5akg5ZU93V3o0VDhSczhkTkhoV3BQczVieTdTem1iTkNEVVhzeldsdmdPTTNHNmlLSXBIMExCaVYzYWxfTGNuNVFmWGx3T1NQQlZLd21sV3EtcEZWMGEzWV8zMGxFYVVJZl9VbnFnbXV3VDBQaEJNNHI5cVdmNEx6WjVXbWpFVWI0d0pubUNXZTkxWGJkMGF4V1Z1RjJrXzA4UzB2cEpOZnRGREQ3cTRWSDBoTUhKY2dsVXNIYnlJOFZUU2dvMU54X2tNd0xWbkt3VW9tbm9JNDJpdjg1aE5jdXJ1TlQ?oc=5",
-      "summary": "รายงานโดย facebook.com",
-      "image": null,
-      "publishedAt": "2026-06-25T07:00:00.000Z",
-      "source": "มศว",
-      "sourceId": "swu",
-      "category": "มศว"
-    },
-    {
-      "title": "ก.พ. แจงจ้างมหาวิทยาลัยศรีนครินทรวิโรฒจัดสอบเป็นไปตามระเบียบราชการ",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLaFBlaVd0VnFWWTFyclNaSHZkeWVpaVJ6bHVCOTBKdFBOVUlYUUpUV0V5Yzg3WlNYd09TaHFaUV9wSldZVzBZS3p6Q2RHR3M2VnlF?oc=5",
-      "summary": "รายงานโดย เดลินิวส์",
-      "image": null,
-      "publishedAt": "2026-06-24T07:00:00.000Z",
-      "source": "มศว",
-      "sourceId": "swu",
-      "category": "มศว"
     }
   ]
 }
