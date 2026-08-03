@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T20:50:06.300Z",
+  "updatedAt": "2026-08-03T21:55:07.744Z",
   "sources": [
     {
       "id": "eduzones",
@@ -110,7 +110,7 @@
     },
     {
       "title": "'ปชป.' จ่อชง กมธ.สภาฯ สอบโครงการช่วย SME ไม่โปร่งใส- ส่อล็อกสเปค",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WS1RNNnIxQWRIQU1Vekhya0I1LXdlek5DVjNBTXlJaU03YS15X0VHaTlEMmVVUW9sX0V5aktIcm1yTXVlZkpQV2ZidTM4YTdJa3hMSzB6RUp6ZUk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzNmI4X0lfSm1TZ2FoT2dUdG8yaVVrTDQtTnpMejhGM3BUbW95NE1sVm9iN0ZDSWRNWVJkSVpMT0dfVWItQVRMa0MyR2RlLWRkM3B0bExReFpnUQ?oc=5",
       "summary": "รายงานโดย bangkokbiznews",
       "image": null,
       "publishedAt": "2026-08-03T10:19:00.000Z",
@@ -120,7 +120,7 @@
     },
     {
       "title": "'ปชป.' จ่อชง กมธ.สภาฯ สอบโครงการช่วย SME ไม่โปร่งใส- ส่อล็อกสเปค",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzNmI4X0lfSm1TZ2FoT2dUdG8yaVVrTDQtTnpMejhGM3BUbW95NE1sVm9iN0ZDSWRNWVJkSVpMT0dfVWItQVRMa0MyR2RlLWRkM3B0bExReFpnUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WS1RNNnIxQWRIQU1Vekhya0I1LXdlek5DVjNBTXlJaU03YS15X0VHaTlEMmVVUW9sX0V5aktIcm1yTXVlZkpQV2ZidTM4YTdJa3hMSzB6RUp6ZUk?oc=5",
       "summary": "รายงานโดย bangkokbiznews",
       "image": null,
       "publishedAt": "2026-08-03T10:19:00.000Z",
@@ -287,6 +287,16 @@
       "source": "จุฬาฯ",
       "sourceId": "chula",
       "category": "จุฬาฯ"
+    },
+    {
+      "title": "อนุสาวรีย์ชัยสมรภูมิ (เกาะพญาไท) Victory Monumentไปยังมหาวิทยาลัยศิลปากร วังท่าพระด้วยขนส่งสาธารณะ",
+      "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxOUElJSHR4VUJmUDlBVHJVTUpfbzN1R21DZEhuNnYwbEpJSzBZeWFORHBZc2NqN19hNTVhd1I4RkhTNGlmb19BY3NkMDI5anozcWo5Vm9LNGdrd0lkZTRwY1JFQTJGSU5YWTM4ZTJiNkhEbE5SYjRodk04UWhaWlYxcDMtSDVFdXE2VmR0NFlYNjdnSnI1V3AtbUF1RklOZzR2eEcxMjNld05sWC13MDd2OTd3X0lNeS13cHRjZktGbWNOYlFkaU4xbUVjS3VMNWh6TFpQR2xqUVMxd0pBR3VfVXNZbmY1OFo1WTF5emdfdnBmeV9QRHRudDFaS01TQnJLM1UtakQ3WjJVcXR4cmk2aVdab1ctM3hZQTdzVjl5cW85TzZoQzRlV2tUNXJsTlpRVy1ycDFITVRYbnZCRWlpbXdfdWlTYXdFN1ZvWHdVUjZMbklpVUJ4LUtRUkZCdmdrLURvcHQ4MjJNWllCYjQ1Ymc0N0dPeUFEVmFZQ2ZMLVYta1RsWVROcXhVblZjaTk5X0s1cVoxWmR6VjZyYzIyZzkzcElnNFMxMFNtYzVnV3Q1aFhzcldjVVRoOTY?oc=5",
+      "summary": "รายงานโดย Moovit",
+      "image": null,
+      "publishedAt": "2026-08-01T12:00:00.000Z",
+      "source": "ม.ศิลปากร",
+      "sourceId": "su",
+      "category": "ม.ศิลปากร"
     },
     {
       "title": "Bts สุรศักดิ์ (ทางออก3);Bts Surasak (Exit 3)ไปยังมหาวิทยาลัยศิลปากร วังท่าพระด้วยขนส่งสาธารณะ",
@@ -521,7 +531,7 @@
     {
       "title": "สธ. จับมือคณะเภสัชฯ ศิลปากร ผลิตบุคลากรสาขา “สุขภาพดิจิทัล” เสริมแกร่งระบบสาธารณสุขไทย",
       "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxNZV8xdUdEcGhHdENzNDJoODZ6aGZfVTEySXRKU1lvY0JxeTBfTTZrNGhBQ0tyeDBuZW54akd1YmtYeWp0QnhmVFduX05jY0R5ODdMS242OXpxWmRLZFduTmVNLUgtTzVzd29uVEJWSkhaeE1sLVpjRnppdFV6V0JCNE16dGZQRlZwWXJJVEJmMlN1R1BWXzRpZEdCSGEwb3ZSWnZkcUlXV250TjQ2Q3BabkR6bjBXa1ZwOGxwYmo4YlZ6UTRjQzlfNEtLSkk1ZDJSVGdxQVlDdDV2ZWpuN3VDQ0RYdTBFb2VkTENmVTJDbG5GdUJ0YmtDOXI2YmFaSmFsVmg5bkZrLXJnM2dLR3dsTEoxVXF2ZDhsTkx0RE5XMWlwMklYTDFvTTdFX21JRjBfT3RTNzVVbk5DaVlDdmczWlFLc00yMEpkQi0xZFN1WHprZ2JvaHJpek1NSERmTUlFMmtLZC1meFMwR0FrY21xOHM3Z0hoc2VYRmp2QmRDaXl3aVRfWkFNeTFEOGthanJhY0hGdWhnYTNyNHpWQk43UGRUemhwYlYycXo1b2ZHV1poM1liR3AwV2dvMFJGcjh6Y3VweFZZYlMyOGloSFk2SDhId1VCVzgyandEZGlB?oc=5",
-      "summary": "รายงานโดย pr.moph.go.th",
+      "summary": "รายงานโดย สำนัก สารนิเทศ",
       "image": null,
       "publishedAt": "2026-07-30T08:29:16.000Z",
       "source": "ม.ศิลปากร",
@@ -711,7 +721,7 @@
     {
       "title": "มหิดล–จุฬาฯ –เชียงใหม่ พลิกโฉมอุดมศึกษาไทย เริ่มให้นิสิตนักศึกษาเรียนร่วม “MC² GenEd” สร้างระบบเรียนรู้ข้ามมหาวิทยาลัย เตรียมบัณฑิตพร้อมโลก AI และอนาคต",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aalVuQlJONFl6cHU1dm4zcXdEVW5QSVozWXJ2bjhPT1ZCSGlKV2FHbGRMQVctRGRVUVkxdENuZHVsWDRwMHJZc2VnaXUydGRYQmhvWA?oc=5",
-      "summary": "รายงานโดย Marketeer Online",
+      "summary": "รายงานโดย marketeeronline.co",
       "image": null,
       "publishedAt": "2026-07-27T07:00:00.000Z",
       "source": "ม.เชียงใหม่",
@@ -1101,7 +1111,7 @@
     {
       "title": "เชฟรอนร่วมกับมหาวิทยาลัยเกษตรศาสตร์ และ ซีโอฮุน สนับสนุนการศึกษาด้านสุขภาพหนึ่งเดียว ในวัน International One Health Day ปี 2568",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RWTJvRWMtMGFvWVF6WFFkLTFCUVM4UDIwRG9GZGp3Qi0yZy1BRG5DT1hwcDQ2RTF5ZU15UXUzaXFfT0Y0cGM2ZVktMkMwVExFZUdfVg?oc=5",
-      "summary": "รายงานโดย Marketeer Online",
+      "summary": "รายงานโดย marketeeronline.co",
       "image": null,
       "publishedAt": "2026-07-15T07:00:00.000Z",
       "source": "ม.เกษตรศาสตร์",
@@ -1257,16 +1267,6 @@
       "source": "CampHub",
       "sourceId": "camphub",
       "category": "ค่าย / กิจกรรม"
-    },
-    {
-      "title": "อธิการบดีมหาวิทยาลัยขอนแก่น กล่าวแสดงความยินดีกับผู้สำเร็จการศึกษา ประจำปี 2566",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0VDBxdnRYRHZYMk9pb19Yc2VOdUNGeFZ6VjRzcXRGSWtOOWY1TGJiQTF1TFVXVzBGTWNWMGg3UWtNNnZXdGI0?oc=5",
-      "summary": "รายงานโดย มหาวิทยาลัยขอนแก่น",
-      "image": null,
-      "publishedAt": "2026-07-04T09:17:57.000Z",
-      "source": "ม.ขอนแก่น",
-      "sourceId": "kku",
-      "category": "ม.ขอนแก่น"
     }
   ]
 }
