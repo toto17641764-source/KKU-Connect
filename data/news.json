@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T01:21:25.322Z",
+  "updatedAt": "2026-08-03T05:25:07.074Z",
   "sources": [
     {
       "id": "eduzones",
@@ -68,6 +68,26 @@
     }
   ],
   "items": [
+    {
+      "title": "คณะศิลปกรรมศาสตร์ สำนักบริหารศิลปวัฒนธรรม จุฬาฯ เข้าร่วมงานและรับธงเจ้าภาพจัดงาน AUN-AYCF 2027 อย่างงดงามและยิ่งใหญ่ จาก Guizhou University สาธารณรัฐประชาชนจีน",
+      "link": "https://www.chula.ac.th/news/419322/",
+      "summary": "ศ.ดร.ขำคม พรประสิทธิ์ คณบดีคณะศิลปกรรมศาสตร์ จุฬาฯ นายกรรชิต จิตระทาน ผู้อำนวยการสำนักบริหารศิลปวัฒนธรรม พร้อมด้วย ดร.ภูริต โสภนคณาภรณ์ ผู้อำนวยการฝ่ายพัฒนาและส่งเสริมศิลปวัฒนธรรม จุฬาฯ เข้าร่วมกิจกรรม The 21st ASEAN and…",
+      "image": "https://web-cdn.chula.ac.th/web-dev/2026/08/07_0.webp",
+      "publishedAt": "2026-08-03T04:06:16.000Z",
+      "source": "จุฬาฯ",
+      "sourceId": "chula",
+      "category": "จุฬาฯ"
+    },
+    {
+      "title": "คณะ ICT ม.พะเยา พัฒนาศักยภาพนิสิตด้าน Generative AI เสริมทักษะสร้างสรรค์สื่อดิจิทัล พร้อมปลูกฝังการใช้ AI อย่างมีจริยธรรม",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSb0pfNXNpZ0l2b0QzYmE2OXRNTlNpcG43SDg2ekdPWGwyWEoyQUdLcUpuUExCc21kak53MTdUX0VWOTVwNVlnQzhkaGdldDhiTUE?oc=5",
+      "summary": "รายงานโดย thaipr.net",
+      "image": null,
+      "publishedAt": "2026-08-03T01:23:00.000Z",
+      "source": "ม.พะเยา",
+      "sourceId": "up",
+      "category": "ม.พะเยา"
+    },
     {
       "title": "คณะเภสัชศาสตร์ มหาวิทยาลัยมหิดล เปิดรับ TCAS70 รอบ Portfolio 20 ที่นั่ง ใช้ TCASFolio เท่านั้น พร้อมกำหนด GPAX และคะแนนภาษาอังกฤษ",
       "link": "https://www.eduzones.com/2026/08/02/pharmacy-mahidol70/?utm_source=rss&utm_medium=rss&utm_campaign=pharmacy-mahidol70",
@@ -261,7 +281,7 @@
     {
       "title": "ข่าวสมเด็จพระกนิษฐาธิราชเจ้า กรมสมเด็จพระเทพรัตนราชสุดา ฯ สยามบรมราชกุมารี ทรงปลูกต้นไม้ร่วมกับนิสิต และบุคลากรคณะวนศาสตร์ มหาวิทยาลัยเกษตรศาสตร์ เนื่องในเทศกาลเข้าพรรษา",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xeElmSnQwTGRwY2xaSUNhMFlNaDZ3OFlxX0ZhbFlKQnl1SFltWlM5aTVEME11U25zcjhYbkJIODVMMGNHVDdUTGVn?oc=5",
-      "summary": "รายงานโดย news.ch7.com",
+      "summary": "รายงานโดย Ch7.com",
       "image": null,
       "publishedAt": "2026-07-30T13:06:00.000Z",
       "source": "ม.เกษตรศาสตร์",
@@ -271,7 +291,7 @@
     {
       "title": "‘มหาวิทยาลัยขอนแก่น’ ผนึกเครือข่ายยกระดับ ‘การแพทย์แม่นยำ’ พลิกโฉมรักษา ‘มะเร็งไทย’",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02d2VrejU1UnRnRFRRREo1RG5uSlVMTmpFR2NyQlpIRmhrSF9rQkI0VGF5ZHFHa3paUGk4WFpoS0JwcE11dXJxV2QxZTFkZU9LWGVxMGFnczRyS0NaTmlydkw1VDNkc1dx?oc=5",
-      "summary": "รายงานโดย thebangkokinsight.com",
+      "summary": "รายงานโดย The Bangkok Insight",
       "image": null,
       "publishedAt": "2026-07-30T09:55:46.000Z",
       "source": "ม.ขอนแก่น",
@@ -301,7 +321,7 @@
     {
       "title": "วิศวกรรมโยธา ม.พะเยา สร้างชื่อบนเวที BIM Competition 2026 คว้า 2 รางวัลชมเชย พร้อมรับรางวัลอาจารย์ที่ปรึกษาดีเด่น",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tUUNOMTQtQ3BUOUNRWVZLaEluR1pydjNjSl9sNlpfNnNmQTBDTk4zLXZUSldadjY4eEVOcERWWFBmUWhGSDNRMXkxaGJoYmc?oc=5",
-      "summary": "รายงานโดย ThaiPR.NET",
+      "summary": "รายงานโดย thaipr.net",
       "image": null,
       "publishedAt": "2026-07-30T08:34:00.000Z",
       "source": "ม.พะเยา",
@@ -791,7 +811,7 @@
     {
       "title": "มศว ตั้งคณะกรรมการสอบวินัยร้ายแรง บุคลากรมหาวิทยาลัย เชื่อมปมโกงสอบท้องถิ่น",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMU2xUdjdoSDRsMXoyQi1JRVNqVy1OcWthTmp2MU1KNk1hNE9ITmx2MXJremZmV0hwdTZRXzhHcXhVbkhKR2d2cklyd1NkZ2pVckhjajFLTXN0UQ?oc=5",
-      "summary": "รายงานโดย JS100.com",
+      "summary": "รายงานโดย js100.com",
       "image": null,
       "publishedAt": "2026-07-17T12:56:00.000Z",
       "source": "มศว",
@@ -1009,9 +1029,9 @@
       "category": "ม.ขอนแก่น"
     },
     {
-      "title": "อดีตคณบดี มศว จี้ สถ. พูดให้หมด แจงปมแก้คะแนนสอบท้องถิ่นบนระบบ หวั่นทำเสียหาย-ถูกเข้าใจผิด",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDLVFtTUpUZ2pJMTFaVzhxVTREZGlTTjVrYjh1WUNGc1l0UHJKOUE5Zll2a0ZDcndxUmJPbzVHSkJUREtDR2ZwY0gwT25wLVZDRTlOQW0teGd5N3NJWFBBbTl2UVA2dw?oc=5",
-      "summary": "รายงานโดย Matichon Online",
+      "title": "The Reporters. . NEWSCLIP: อธิการบดี มศว แจ้งความเพจดังปล่อยคลิปเสียงเป็นเท็จ ยันไม่เป็นความจริง ไม่มีการเรียกรับเงินใด ๆ วันนี้ ( 26 มิ.ย. 69) ที่ สน. ทองหล่อ ศ. ดร. ชลวิทย์ เจียรจิตต์ อธิการบดีมหาวิทยาลัยศรีนครินทรวิโรฒ (มศว) ได้เข้าแจ้งความดำเนินคดีกับเพจ CSI LA และผู้แสดง",
+      "link": "https://news.google.com/rss/articles/CBMiqAdBVV95cUxOb0UyT3YtUklYNE5GeTN3T21NNUFlZHpQZzRvLWF1aXU3RXRrTWtDYU14VTZRTkFQZmstV3NtdURxMGdBZWdvaTRxMXgzdm5ENDVUYzhoWnZkQ29qa0tqNnBnci1RZk5hWmU3SGp2WU9qUWV1TldWOUdPc0l5WXNLeGNrQk1pWi1WXzhZcVFnT09QUDd6NnVsc0xpWEpUd3REbWR1b19ZUm11d1dqT1l3VW9McGJRT2NQamJnbTFiYTZjUVRHV1lRcFc2YUdzaC1scUlTXzFHcVM1RnVLVzZ3NVhieVNxWERDVjhSX1FuYXFpN2hJRm9kN09Db2J5MnFwT2NScTZPbVJ6VW9UZHNHNUlPejIyS1ZHTkFsWGxKU01KMTZ2Y0I1RDVkWGpxaTJscDFWcmpzX1c0QURUVnNfczhpZUJpdG5NZmR6OUc1N0tXQzdTUk52R1Fhb2lyZ2pQUXJxUW53Y2xEbGNGVTJzeVdyQmZWYlNnTl9xTmpsMVoxNnJsc1pCMzdsY0FDcF9NUEprV2s5T0xPYkI3TVVDU1dTYXZJZ2tqRlBoSmJLT2RnRGhWeVlXck84V3RCQmxFT1QxMzIxb1hHSUdlUFBTYlFGX09zdERBNTE4VzV3VFVTbExHSjhuR2Q3Y1o3bC1RS3ZpMmxpb2Z5N21HSGV6S21EY0tqZllob0lpTnFnWHFhNE5JRFhlVlFDdVJLT0laOVFGLXZWaTJPVHRmMzZpSWE3My1ZQ1BfSVZiaU9qMVFDUFBwOUNHdlYwSlpnYVBqMXZITTdWeUtmUUpLbUVqTFZHV2hxMUpLcmlUeXNOYkJvWlpMcy1lRzk1c0toUzY4WUphaXBkWG9RMlpKYUk3aFpYM1BmYzNCUUUzaFBtWVpLRFNLNEFKRlBMVFF0WjNyZmVUY00wa29IOGN1LWdXekswOE54OVB5UUc5akg5ZU93V3o0VDhSczhkTkhoV3BQczVieTdTem1iTkNEVVhzeldsdmdPTTNHNmlLSXBIMExCaVYzYWxfTGNuNVFmWGx3T1NQQlZLd21sV3EtcEZWMGEzWV8zMGxFYVVJZl9VbnFnbXV3VDBQaEJNNHI5cVdmNEx6WjVXbWpFVWI0d0pubUNXZTkxWGJkMGF4V1Z1RjJrXzA4UzB2cEpOZnRGREQ3cTRWSDBoTUhKY2dsVXNIYnlJOFZUU2dvMU54X2tNd0xWbkt3VW9tbm9JNDJpdjg1aE5jdXJ1TlQ?oc=5",
+      "summary": "รายงานโดย facebook.com",
       "image": null,
       "publishedAt": "2026-06-25T07:00:00.000Z",
       "source": "มศว",
@@ -1019,9 +1039,9 @@
       "category": "มศว"
     },
     {
-      "title": "The Reporters. . NEWSCLIP: อธิการบดี มศว แจ้งความเพจดังปล่อยคลิปเสียงเป็นเท็จ ยันไม่เป็นความจริง ไม่มีการเรียกรับเงินใด ๆ วันนี้ ( 26 มิ.ย. 69) ที่ สน. ทองหล่อ ศ. ดร. ชลวิทย์ เจียรจิตต์ อธิการบดีมหาวิทยาลัยศรีนครินทรวิโรฒ (มศว) ได้เข้าแจ้งความดำเนินคดีกับเพจ CSI LA และผู้แสดง",
-      "link": "https://news.google.com/rss/articles/CBMiqAdBVV95cUxOb0UyT3YtUklYNE5GeTN3T21NNUFlZHpQZzRvLWF1aXU3RXRrTWtDYU14VTZRTkFQZmstV3NtdURxMGdBZWdvaTRxMXgzdm5ENDVUYzhoWnZkQ29qa0tqNnBnci1RZk5hWmU3SGp2WU9qUWV1TldWOUdPc0l5WXNLeGNrQk1pWi1WXzhZcVFnT09QUDd6NnVsc0xpWEpUd3REbWR1b19ZUm11d1dqT1l3VW9McGJRT2NQamJnbTFiYTZjUVRHV1lRcFc2YUdzaC1scUlTXzFHcVM1RnVLVzZ3NVhieVNxWERDVjhSX1FuYXFpN2hJRm9kN09Db2J5MnFwT2NScTZPbVJ6VW9UZHNHNUlPejIyS1ZHTkFsWGxKU01KMTZ2Y0I1RDVkWGpxaTJscDFWcmpzX1c0QURUVnNfczhpZUJpdG5NZmR6OUc1N0tXQzdTUk52R1Fhb2lyZ2pQUXJxUW53Y2xEbGNGVTJzeVdyQmZWYlNnTl9xTmpsMVoxNnJsc1pCMzdsY0FDcF9NUEprV2s5T0xPYkI3TVVDU1dTYXZJZ2tqRlBoSmJLT2RnRGhWeVlXck84V3RCQmxFT1QxMzIxb1hHSUdlUFBTYlFGX09zdERBNTE4VzV3VFVTbExHSjhuR2Q3Y1o3bC1RS3ZpMmxpb2Z5N21HSGV6S21EY0tqZllob0lpTnFnWHFhNE5JRFhlVlFDdVJLT0laOVFGLXZWaTJPVHRmMzZpSWE3My1ZQ1BfSVZiaU9qMVFDUFBwOUNHdlYwSlpnYVBqMXZITTdWeUtmUUpLbUVqTFZHV2hxMUpLcmlUeXNOYkJvWlpMcy1lRzk1c0toUzY4WUphaXBkWG9RMlpKYUk3aFpYM1BmYzNCUUUzaFBtWVpLRFNLNEFKRlBMVFF0WjNyZmVUY00wa29IOGN1LWdXekswOE54OVB5UUc5akg5ZU93V3o0VDhSczhkTkhoV3BQczVieTdTem1iTkNEVVhzeldsdmdPTTNHNmlLSXBIMExCaVYzYWxfTGNuNVFmWGx3T1NQQlZLd21sV3EtcEZWMGEzWV8zMGxFYVVJZl9VbnFnbXV3VDBQaEJNNHI5cVdmNEx6WjVXbWpFVWI0d0pubUNXZTkxWGJkMGF4V1Z1RjJrXzA4UzB2cEpOZnRGREQ3cTRWSDBoTUhKY2dsVXNIYnlJOFZUU2dvMU54X2tNd0xWbkt3VW9tbm9JNDJpdjg1aE5jdXJ1TlQ?oc=5",
-      "summary": "รายงานโดย facebook.com",
+      "title": "อดีตคณบดี มศว จี้ สถ. พูดให้หมด แจงปมแก้คะแนนสอบท้องถิ่นบนระบบ หวั่นทำเสียหาย-ถูกเข้าใจผิด",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDLVFtTUpUZ2pJMTFaVzhxVTREZGlTTjVrYjh1WUNGc1l0UHJKOUE5Zll2a0ZDcndxUmJPbzVHSkJUREtDR2ZwY0gwT25wLVZDRTlOQW0teGd5N3NJWFBBbTl2UVA2dw?oc=5",
+      "summary": "รายงานโดย Matichon Online",
       "image": null,
       "publishedAt": "2026-06-25T07:00:00.000Z",
       "source": "มศว",
@@ -1037,6 +1057,16 @@
       "source": "มศว",
       "sourceId": "swu",
       "category": "มศว"
+    },
+    {
+      "title": "ข่าว\"มหาวิทยาลัยเชียงใหม่\" สืบสานประเพณีรับน้องรถไฟ ต้อนรับนักศึกษาใหม่จากทั่วประเทศ ผ่านขบวนรถไฟแห่งมิตรภาพ สานสายใยความผูกพันจากรุ่นสู่รุ่น",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0yX3JjTnhYcXNsTTVOVEhsZUpPUVFMN05uT1l5cmxDZVBFWDVtZVZBZVp0eXFFM3dmOUY5a051QUYxNFpYaGptNDZ3?oc=5",
+      "summary": "รายงานโดย Ch7.com",
+      "image": null,
+      "publishedAt": "2026-06-07T07:00:00.000Z",
+      "source": "ม.เชียงใหม่",
+      "sourceId": "cmu",
+      "category": "ม.เชียงใหม่"
     },
     {
       "title": "คณะมนุษยศาสตร์และสังคมศาสตร์ประกาศให้บุคคลภายนอกเช่าพื้นที่",
