@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T17:26:17.751Z",
+  "updatedAt": "2026-08-04T19:14:22.840Z",
   "sources": [
     {
       "id": "eduzones",
@@ -529,16 +529,6 @@
       "category": "จุฬาฯ"
     },
     {
-      "title": "โรงเรียนหอวัง Rongrian Ho WangไปยังKasetsart University (มหาวิทยาลัยเกษตรศาสตร์)ด้วยขนส่งสาธารณะ",
-      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQWFI1V2E4N0QyVlpMbGRLWkVHbGZqYmpxUmFzUkZfNXp2WW84eVB5alpNX2JQNjEyNUtnRW9qZThldmgwZHJwZC14NkpURjFvVEczc3FLYXhNc1BXS08ycWpjMDVjQjVsenRvbkY2ajBpOHZuSWZGcW1SMUo1N1pSclNieXd0d1pwRjQ3RmM2N0lCOUh0bGFVUENfd01lUXBHWW11cGhEUXc5WmdzZFJuTTB1VjZWX3F3dkNxNFhyMWdrLVZUYVhqQmFCVGp0cmJfQld5NThodngzYzdqZVBwQXFUVmROQWlfX3JRUHJhc3pDcXJ2YTRlZlBCR1JrckdIRnMwdDRyaThxQzdiRGpXZGRWUGdkZVVqTFVJLUU3dk05UDBINWlqWEdUeE13MWc1ZXlNU3VpQUJrbnRhb2hkTFRyNGVxb29YOUltMEJEZTRMVWotNDNHQ2pReU4wVVhmRGdjY0N2aUM2NGxGZTd4cUJ4SXM2bGh3Ukl4QU9HX3ZaTU1ZUExlTm9HRVpHWV9iQUVOcGpKR0hqQ3M?oc=5",
-      "summary": "รายงานโดย Moovit",
-      "image": null,
-      "publishedAt": "2026-08-01T12:00:00.000Z",
-      "source": "ม.เกษตรศาสตร์",
-      "sourceId": "ku",
-      "category": "ม.เกษตรศาสตร์"
-    },
-    {
       "title": "โรงเรียนเชียงใหม่คริสเตียน the Chiangmai Christian Schoolไปยังมหาวิทยาลัยเชียงใหม่ด้วยขนส่งสาธารณะ",
       "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQUDFYNm5YMlU0VVB2alFWNng2X1JtSk5pa295RjRRRDh3N29WZnJ5SEhpSU90UmNkNDJjOEoxekdXcFljZGZKM2lvTl8tV0JjS0kwaE5tWWxfYzN3SWpjS21iN3FzVjh1LWJDdUlOd0Z5Vk5kUFdCbjNOOTNwU3UtWEdWaE5xZzE4dnJLc18tbVlRMWhsSTZhbk1semhxb1o3SkNkYjBwMkNGeXpUOGpia3Y5V1lIWWx1NF8xUWoxcDFkbUVWR3pSU2EzM0FEOXAyVTdHVlo3S2toQ0cyQlIydlZOZ1RzOVlUQUxtV2ZRN09sVDdkbml2cUNZLVhSNnVEMWMyb20wSkNBZm00RUlvZzdGelUtUTlNRzBwYXZqV2xJYlVidnd5SXFCazlxaGxKSkE3a0l4YTFvblJWSXVaZmtpem93WmQzbnRxVnJEMXNQVXRuSkVwSGxqZjh1NU9DaUowWUJzLXQ?oc=5",
       "summary": "รายงานโดย Moovit",
@@ -557,6 +547,16 @@
       "source": "ม.ศิลปากร",
       "sourceId": "su",
       "category": "ม.ศิลปากร"
+    },
+    {
+      "title": "โรงเรียนหอวัง Rongrian Ho WangไปยังKasetsart University (มหาวิทยาลัยเกษตรศาสตร์)ด้วยขนส่งสาธารณะ",
+      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQWFI1V2E4N0QyVlpMbGRLWkVHbGZqYmpxUmFzUkZfNXp2WW84eVB5alpNX2JQNjEyNUtnRW9qZThldmgwZHJwZC14NkpURjFvVEczc3FLYXhNc1BXS08ycWpjMDVjQjVsenRvbkY2ajBpOHZuSWZGcW1SMUo1N1pSclNieXd0d1pwRjQ3RmM2N0lCOUh0bGFVUENfd01lUXBHWW11cGhEUXc5WmdzZFJuTTB1VjZWX3F3dkNxNFhyMWdrLVZUYVhqQmFCVGp0cmJfQld5NThodngzYzdqZVBwQXFUVmROQWlfX3JRUHJhc3pDcXJ2YTRlZlBCR1JrckdIRnMwdDRyaThxQzdiRGpXZGRWUGdkZVVqTFVJLUU3dk05UDBINWlqWEdUeE13MWc1ZXlNU3VpQUJrbnRhb2hkTFRyNGVxb29YOUltMEJEZTRMVWotNDNHQ2pReU4wVVhmRGdjY0N2aUM2NGxGZTd4cUJ4SXM2bGh3Ukl4QU9HX3ZaTU1ZUExlTm9HRVpHWV9iQUVOcGpKR0hqQ3M?oc=5",
+      "summary": "รายงานโดย Moovit",
+      "image": null,
+      "publishedAt": "2026-08-01T12:00:00.000Z",
+      "source": "ม.เกษตรศาสตร์",
+      "sourceId": "ku",
+      "category": "ม.เกษตรศาสตร์"
     },
     {
       "title": "Bts สุรศักดิ์ (ทางออก3);Bts Surasak (Exit 3)ไปยังมหาวิทยาลัยศิลปากร วังท่าพระด้วยขนส่งสาธารณะ",
@@ -771,7 +771,7 @@
     {
       "title": "วิศวกรรมโยธา ม.พะเยา สร้างชื่อบนเวที BIM Competition 2026 คว้า 2 รางวัลชมเชย พร้อมรับรางวัลอาจารย์ที่ปรึกษาดีเด่น",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tUUNOMTQtQ3BUOUNRWVZLaEluR1pydjNjSl9sNlpfNnNmQTBDTk4zLXZUSldadjY4eEVOcERWWFBmUWhGSDNRMXkxaGJoYmc?oc=5",
-      "summary": "รายงานโดย ThaiPR.NET",
+      "summary": "รายงานโดย thaipr.net",
       "image": null,
       "publishedAt": "2026-07-30T08:34:00.000Z",
       "source": "ม.พะเยา",
@@ -821,7 +821,7 @@
     {
       "title": "ตักบาตรพระ 572 รูป มหาวิทยาลัยเกษตรศาสตร์ บางเขน : ข่าวประชาสัมพันธ์",
       "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE54VVp2cXBnWVdPVWxDVS1GTG11cS1wV01wWUFJTmZweTYtamp0RU5DX01Xbkw5UlhrZm5WTDR6b1JxeDNG?oc=5",
-      "summary": "รายงานโดย dmc.tv",
+      "summary": "รายงานโดย DMC.tv",
       "image": null,
       "publishedAt": "2026-07-30T03:35:37.000Z",
       "source": "ม.เกษตรศาสตร์",
