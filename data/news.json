@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T10:23:36.055Z",
+  "updatedAt": "2026-08-04T12:50:44.143Z",
   "sources": [
     {
       "id": "eduzones",
@@ -69,9 +69,19 @@
   ],
   "items": [
     {
-      "title": "จุฬาฯ เตือนภัย! มิจฉาชีพมีหลายรูปแบบ อย่าหลงเชื่อ",
+      "title": "สนจ. ขนทัพนักร้องน้องพี่จุฬาฯ ขึ้นเวที “CUTUBE” ระดมทุนกว่า 2 ล้านบาท ส่งน้องเรียนกว่า 400 คน",
+      "link": "https://www.chula.ac.th/news/419796/",
+      "summary": "เมื่อวันอาทิตย์ที่ 26 กรกฎาคม 2569 ณ หอประชุมจุฬาลงกรณ์มหาวิทยาลัย สมาคมนิสิตเก่าจุฬาลงกรณ์มหาวิทยาลัย ในพระบรมราชูปถัมภ์ (สนจ.) จัดคอนเสิร์ตการกุศล “CUTUBE Charity Concert : The Golden Memories มีวันนี้…เพราะพี่ให้” รวม…",
+      "image": "https://web-cdn.chula.ac.th/web-dev/2026/08/BR6_3467_0-1024x683.webp",
+      "publishedAt": "2026-08-04T11:53:46.000Z",
+      "source": "จุฬาฯ",
+      "sourceId": "chula",
+      "category": "จุฬาฯ"
+    },
+    {
+      "title": "จุฬาฯ เตือนภัย! มิจฉาชีพมีหลายรูปแบบ นิสิตอย่าหลงเชื่อ",
       "link": "https://www.chula.ac.th/news/419840/",
-      "summary": "มิจฉาชีพในปัจจุบันใช้วิธีการที่แนบเนียนและอาศัยความตกใจ ความกังวล หรือความฝันของเหยื่อในการหลอกลวง ไม่ว่าจะเป็น โปรดสังเกต– เจ้าหน้าที่รัฐจะไม่โทรมาขอให้โอนเงิน– จะไม่ขออายัดบัญชีผ่านโทรศัพท์– อย่ารีบโอนเงิน อย่าให้ข้อมู…",
+      "summary": "ปัจจุบันมิจฉาชีพใช้วิธีการที่แนบเนียนและอาศัยความตกใจ ความกังวล หรือความฝันของเหยื่อในการหลอกลวงในรูปแบบต่าง ๆ ทำให้นิสิตหลงเชื่อ ไม่ว่าจะเป็น โปรดสังเกต– เจ้าหน้าที่รัฐจะไม่โทรมาขอให้โอนเงิน– จะไม่ขออายัดบัญชีผ่านโทรศัพ…",
       "image": "https://web-cdn.chula.ac.th/web-dev/2026/08/เตือนภัยนิสิตจุฬาฯ-รู้ทัน-4-รูปแบบจากมิจฉาชีพ-5-724x1024.webp",
       "publishedAt": "2026-08-04T10:19:29.000Z",
       "source": "จุฬาฯ",
@@ -201,7 +211,7 @@
     {
       "title": "⚽ มข. เจ้าภาพฟุตบอลมหาวิทยาลัย ครั้งที่ 4 ชูกีฬาเพื่อการพัฒนาที่ยั่งยืน",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43NFpfdUc0YUEtcGxLMVliN3RPRjNObHdSbTJocWUyU1AwRDFmVjdjajN3QUZsWHd2WE9zWElEdTFjWE1nRS0yX1FFdEh4ZVZqRGVkYw?oc=5",
-      "summary": "รายงานโดย ขอนแก่นลิงก์ Khon Kaen Link",
+      "summary": "รายงานโดย khonkaenlink.info",
       "image": null,
       "publishedAt": "2026-08-04T02:54:00.000Z",
       "source": "ม.ขอนแก่น",
@@ -241,7 +251,7 @@
     {
       "title": "“อาจารย์ ม.ศิลปากร” ร้อง ปชป.ถูกสกัดร่วม “โครงการช่วย SME สสว.” ด้าน สสว.ร่อนเอกสารยันโปร่งใส",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FbktmUlNvNlY0dWNoaDNud040MmtTRVVOWmdwQXdfVlNreVZVMDRhTE1FSnFtWE5vVjlqcTRKNFV1X05TYk01SnVnSHBjcVo1MUQ4ZnA5cXZXOG8?oc=5",
-      "summary": "รายงานโดย Thairath",
+      "summary": "รายงานโดย Thairath.co.th",
       "image": null,
       "publishedAt": "2026-08-03T14:39:49.000Z",
       "source": "ม.ศิลปากร",
@@ -691,7 +701,7 @@
     {
       "title": "วิศวกรรมโยธา ม.พะเยา สร้างชื่อบนเวที BIM Competition 2026 คว้า 2 รางวัลชมเชย พร้อมรับรางวัลอาจารย์ที่ปรึกษาดีเด่น",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tUUNOMTQtQ3BUOUNRWVZLaEluR1pydjNjSl9sNlpfNnNmQTBDTk4zLXZUSldadjY4eEVOcERWWFBmUWhGSDNRMXkxaGJoYmc?oc=5",
-      "summary": "รายงานโดย ThaiPR.NET",
+      "summary": "รายงานโดย thaipr.net",
       "image": null,
       "publishedAt": "2026-07-30T08:34:00.000Z",
       "source": "ม.พะเยา",
@@ -1257,16 +1267,6 @@
       "source": "ม.มหิดล",
       "sourceId": "mahidol",
       "category": "ม.มหิดล"
-    },
-    {
-      "title": "หลักสูตรอบรมภาษาอังกฤษประจำเดือน สิงหาคม 2569",
-      "link": "https://www.nulc.nu.ac.th/th/training/apply_new_courses-2019.php#new_tab",
-      "summary": "",
-      "image": "https://www.nu.ac.th/wp-content/plugins/page-views-count/ajax-loader-2x.gif",
-      "publishedAt": "2026-07-17T09:42:46.000Z",
-      "source": "ม.นเรศวร",
-      "sourceId": "nu",
-      "category": "ม.นเรศวร"
     }
   ]
 }
