@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T23:56:27.071Z",
+  "updatedAt": "2026-08-04T01:25:24.567Z",
   "sources": [
     {
       "id": "eduzones",
@@ -289,14 +289,14 @@
       "category": "จุฬาฯ"
     },
     {
-      "title": "โรงเรียนเชียงใหม่คริสเตียน the Chiangmai Christian Schoolไปยังมหาวิทยาลัยเชียงใหม่ด้วยขนส่งสาธารณะ",
-      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQUDFYNm5YMlU0VVB2alFWNng2X1JtSk5pa295RjRRRDh3N29WZnJ5SEhpSU90UmNkNDJjOEoxekdXcFljZGZKM2lvTl8tV0JjS0kwaE5tWWxfYzN3SWpjS21iN3FzVjh1LWJDdUlOd0Z5Vk5kUFdCbjNOOTNwU3UtWEdWaE5xZzE4dnJLc18tbVlRMWhsSTZhbk1semhxb1o3SkNkYjBwMkNGeXpUOGpia3Y5V1lIWWx1NF8xUWoxcDFkbUVWR3pSU2EzM0FEOXAyVTdHVlo3S2toQ0cyQlIydlZOZ1RzOVlUQUxtV2ZRN09sVDdkbml2cUNZLVhSNnVEMWMyb20wSkNBZm00RUlvZzdGelUtUTlNRzBwYXZqV2xJYlVidnd5SXFCazlxaGxKSkE3a0l4YTFvblJWSXVaZmtpem93WmQzbnRxVnJEMXNQVXRuSkVwSGxqZjh1NU9DaUowWUJzLXQ?oc=5",
+      "title": "โรงเรียนหอวัง Rongrian Ho WangไปยังKasetsart University (มหาวิทยาลัยเกษตรศาสตร์)ด้วยขนส่งสาธารณะ",
+      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQWFI1V2E4N0QyVlpMbGRLWkVHbGZqYmpxUmFzUkZfNXp2WW84eVB5alpNX2JQNjEyNUtnRW9qZThldmgwZHJwZC14NkpURjFvVEczc3FLYXhNc1BXS08ycWpjMDVjQjVsenRvbkY2ajBpOHZuSWZGcW1SMUo1N1pSclNieXd0d1pwRjQ3RmM2N0lCOUh0bGFVUENfd01lUXBHWW11cGhEUXc5WmdzZFJuTTB1VjZWX3F3dkNxNFhyMWdrLVZUYVhqQmFCVGp0cmJfQld5NThodngzYzdqZVBwQXFUVmROQWlfX3JRUHJhc3pDcXJ2YTRlZlBCR1JrckdIRnMwdDRyaThxQzdiRGpXZGRWUGdkZVVqTFVJLUU3dk05UDBINWlqWEdUeE13MWc1ZXlNU3VpQUJrbnRhb2hkTFRyNGVxb29YOUltMEJEZTRMVWotNDNHQ2pReU4wVVhmRGdjY0N2aUM2NGxGZTd4cUJ4SXM2bGh3Ukl4QU9HX3ZaTU1ZUExlTm9HRVpHWV9iQUVOcGpKR0hqQ3M?oc=5",
       "summary": "รายงานโดย Moovit",
       "image": null,
       "publishedAt": "2026-08-01T12:00:00.000Z",
-      "source": "ม.เชียงใหม่",
-      "sourceId": "cmu",
-      "category": "ม.เชียงใหม่"
+      "source": "ม.เกษตรศาสตร์",
+      "sourceId": "ku",
+      "category": "ม.เกษตรศาสตร์"
     },
     {
       "title": "Bts สุรศักดิ์ (ทางออก3);Bts Surasak (Exit 3)ไปยังมหาวิทยาลัยศิลปากร วังท่าพระด้วยขนส่งสาธารณะ",
@@ -309,6 +309,16 @@
       "category": "ม.ศิลปากร"
     },
     {
+      "title": "โรงเรียนเชียงใหม่คริสเตียน the Chiangmai Christian Schoolไปยังมหาวิทยาลัยเชียงใหม่ด้วยขนส่งสาธารณะ",
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQUDFYNm5YMlU0VVB2alFWNng2X1JtSk5pa295RjRRRDh3N29WZnJ5SEhpSU90UmNkNDJjOEoxekdXcFljZGZKM2lvTl8tV0JjS0kwaE5tWWxfYzN3SWpjS21iN3FzVjh1LWJDdUlOd0Z5Vk5kUFdCbjNOOTNwU3UtWEdWaE5xZzE4dnJLc18tbVlRMWhsSTZhbk1semhxb1o3SkNkYjBwMkNGeXpUOGpia3Y5V1lIWWx1NF8xUWoxcDFkbUVWR3pSU2EzM0FEOXAyVTdHVlo3S2toQ0cyQlIydlZOZ1RzOVlUQUxtV2ZRN09sVDdkbml2cUNZLVhSNnVEMWMyb20wSkNBZm00RUlvZzdGelUtUTlNRzBwYXZqV2xJYlVidnd5SXFCazlxaGxKSkE3a0l4YTFvblJWSXVaZmtpem93WmQzbnRxVnJEMXNQVXRuSkVwSGxqZjh1NU9DaUowWUJzLXQ?oc=5",
+      "summary": "รายงานโดย Moovit",
+      "image": null,
+      "publishedAt": "2026-08-01T12:00:00.000Z",
+      "source": "ม.เชียงใหม่",
+      "sourceId": "cmu",
+      "category": "ม.เชียงใหม่"
+    },
+    {
       "title": "อนุสาวรีย์ชัยสมรภูมิ (เกาะพญาไท) Victory Monumentไปยังมหาวิทยาลัยศิลปากร วังท่าพระด้วยขนส่งสาธารณะ",
       "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxOUElJSHR4VUJmUDlBVHJVTUpfbzN1R21DZEhuNnYwbEpJSzBZeWFORHBZc2NqN19hNTVhd1I4RkhTNGlmb19BY3NkMDI5anozcWo5Vm9LNGdrd0lkZTRwY1JFQTJGSU5YWTM4ZTJiNkhEbE5SYjRodk04UWhaWlYxcDMtSDVFdXE2VmR0NFlYNjdnSnI1V3AtbUF1RklOZzR2eEcxMjNld05sWC13MDd2OTd3X0lNeS13cHRjZktGbWNOYlFkaU4xbUVjS3VMNWh6TFpQR2xqUVMxd0pBR3VfVXNZbmY1OFo1WTF5emdfdnBmeV9QRHRudDFaS01TQnJLM1UtakQ3WjJVcXR4cmk2aVdab1ctM3hZQTdzVjl5cW85TzZoQzRlV2tUNXJsTlpRVy1ycDFITVRYbnZCRWlpbXdfdWlTYXdFN1ZvWHdVUjZMbklpVUJ4LUtRUkZCdmdrLURvcHQ4MjJNWllCYjQ1Ymc0N0dPeUFEVmFZQ2ZMLVYta1RsWVROcXhVblZjaTk5X0s1cVoxWmR6VjZyYzIyZzkzcElnNFMxMFNtYzVnV3Q1aFhzcldjVVRoOTY?oc=5",
       "summary": "รายงานโดย Moovit",
@@ -317,16 +327,6 @@
       "source": "ม.ศิลปากร",
       "sourceId": "su",
       "category": "ม.ศิลปากร"
-    },
-    {
-      "title": "โรงเรียนหอวัง Rongrian Ho WangไปยังKasetsart University (มหาวิทยาลัยเกษตรศาสตร์)ด้วยขนส่งสาธารณะ",
-      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQWFI1V2E4N0QyVlpMbGRLWkVHbGZqYmpxUmFzUkZfNXp2WW84eVB5alpNX2JQNjEyNUtnRW9qZThldmgwZHJwZC14NkpURjFvVEczc3FLYXhNc1BXS08ycWpjMDVjQjVsenRvbkY2ajBpOHZuSWZGcW1SMUo1N1pSclNieXd0d1pwRjQ3RmM2N0lCOUh0bGFVUENfd01lUXBHWW11cGhEUXc5WmdzZFJuTTB1VjZWX3F3dkNxNFhyMWdrLVZUYVhqQmFCVGp0cmJfQld5NThodngzYzdqZVBwQXFUVmROQWlfX3JRUHJhc3pDcXJ2YTRlZlBCR1JrckdIRnMwdDRyaThxQzdiRGpXZGRWUGdkZVVqTFVJLUU3dk05UDBINWlqWEdUeE13MWc1ZXlNU3VpQUJrbnRhb2hkTFRyNGVxb29YOUltMEJEZTRMVWotNDNHQ2pReU4wVVhmRGdjY0N2aUM2NGxGZTd4cUJ4SXM2bGh3Ukl4QU9HX3ZaTU1ZUExlTm9HRVpHWV9iQUVOcGpKR0hqQ3M?oc=5",
-      "summary": "รายงานโดย Moovit",
-      "image": null,
-      "publishedAt": "2026-08-01T12:00:00.000Z",
-      "source": "ม.เกษตรศาสตร์",
-      "sourceId": "ku",
-      "category": "ม.เกษตรศาสตร์"
     },
     {
       "title": "Mrt สนามไชย;Mrt Sanam Chaiไปยังมหาวิทยาลัยศิลปากร วังท่าพระด้วยขนส่งสาธารณะ",
@@ -521,7 +521,7 @@
     {
       "title": "วิศวกรรมโยธา ม.พะเยา สร้างชื่อบนเวที BIM Competition 2026 คว้า 2 รางวัลชมเชย พร้อมรับรางวัลอาจารย์ที่ปรึกษาดีเด่น",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tUUNOMTQtQ3BUOUNRWVZLaEluR1pydjNjSl9sNlpfNnNmQTBDTk4zLXZUSldadjY4eEVOcERWWFBmUWhGSDNRMXkxaGJoYmc?oc=5",
-      "summary": "รายงานโดย thaipr.net",
+      "summary": "รายงานโดย ThaiPR.NET",
       "image": null,
       "publishedAt": "2026-07-30T08:34:00.000Z",
       "source": "ม.พะเยา",
@@ -531,7 +531,7 @@
     {
       "title": "สธ. จับมือคณะเภสัชฯ ศิลปากร ผลิตบุคลากรสาขา “สุขภาพดิจิทัล” เสริมแกร่งระบบสาธารณสุขไทย",
       "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxNZV8xdUdEcGhHdENzNDJoODZ6aGZfVTEySXRKU1lvY0JxeTBfTTZrNGhBQ0tyeDBuZW54akd1YmtYeWp0QnhmVFduX05jY0R5ODdMS242OXpxWmRLZFduTmVNLUgtTzVzd29uVEJWSkhaeE1sLVpjRnppdFV6V0JCNE16dGZQRlZwWXJJVEJmMlN1R1BWXzRpZEdCSGEwb3ZSWnZkcUlXV250TjQ2Q3BabkR6bjBXa1ZwOGxwYmo4YlZ6UTRjQzlfNEtLSkk1ZDJSVGdxQVlDdDV2ZWpuN3VDQ0RYdTBFb2VkTENmVTJDbG5GdUJ0YmtDOXI2YmFaSmFsVmg5bkZrLXJnM2dLR3dsTEoxVXF2ZDhsTkx0RE5XMWlwMklYTDFvTTdFX21JRjBfT3RTNzVVbk5DaVlDdmczWlFLc00yMEpkQi0xZFN1WHprZ2JvaHJpek1NSERmTUlFMmtLZC1meFMwR0FrY21xOHM3Z0hoc2VYRmp2QmRDaXl3aVRfWkFNeTFEOGthanJhY0hGdWhnYTNyNHpWQk43UGRUemhwYlYycXo1b2ZHV1poM1liR3AwV2dvMFJGcjh6Y3VweFZZYlMyOGloSFk2SDhId1VCVzgyandEZGlB?oc=5",
-      "summary": "รายงานโดย สำนักสารนิเทศ",
+      "summary": "รายงานโดย สำนัก สารนิเทศ",
       "image": null,
       "publishedAt": "2026-07-30T08:29:16.000Z",
       "source": "ม.ศิลปากร",
