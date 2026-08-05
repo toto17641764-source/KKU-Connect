@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T15:05:19.263Z",
+  "updatedAt": "2026-08-05T17:15:06.272Z",
   "sources": [
     {
       "id": "med",
@@ -315,7 +315,7 @@
     {
       "title": "มหาวิทยาลัยขอนแก่น ผนึกกำลังเครือข่าย ยกระดับ \"การแพทย์แม่นยำ\" พลิกโฉมการรักษามะเร็งไทย",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wV3FqYnNicDNVN3c4anQtZzdOYkNxak01azNIQ0pNWFJtbGZmMjhCMGs5dFRPUXR0d1FCaXpJeG5rOUVRa21COWY1Z0lmT3ppRHdj?oc=5",
-      "outlet": "dailynews.co.th",
+      "outlet": "เดลินิวส์",
       "publishedAt": "2026-07-31T03:36:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -477,10 +477,10 @@
     {
       "title": "คณะเศรษฐศาสตร์ มข. ร่วมกับคณะบริหารธุรกิจและการบัญชี เปิดรับบทความวิจัยตีพิมพ์วารสาร KKBS ฉบับพิเศษ ประจำปี 2026",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBOLWFycWxUYnplZm1VYkVjck83OHRjYzVoSklrS3dRVGlHOVZ1MVZHVEdKdVRvRHVKakhxVXdwV1gtbFBXZjA0?oc=5",
-      "outlet": "kku.ac.th",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
       "publishedAt": "2026-07-22T09:46:35.000Z",
-      "sourceId": "econ",
-      "category": "คณะเศรษฐศาสตร์",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
       "topic": "research"
     },
     {
@@ -728,6 +728,15 @@
       "sourceId": "kku",
       "category": "มข.",
       "topic": "research"
+    },
+    {
+      "title": "4 เหตุผลทำไมต้องยุบ กอ.รมน. พร้อมโต้ \"อนุทิน\" บอกอยู่คู่ชาติเป็นข้อมูลผิดๆ",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DQ2pZaFFHblFIVXVwRUhLWWxkaGhnRHBtYW96Q042NnBqa3B3SjdvZW9PTjhHZDBOM3A2ZHk4SGlyR1RFb3NndUNFWEpBUC1IVmJJaktiNmV1aWcy?oc=5",
+      "outlet": "komchadluek",
+      "publishedAt": "2026-07-10T09:58:00.000Z",
+      "sourceId": "hs",
+      "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+      "topic": "other"
     },
     {
       "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
@@ -1369,15 +1378,6 @@
       "topic": "activity"
     },
     {
-      "title": "ศึกษาศาสตร์ มข. ร่วมสถานศึกษาเครือข่าย เตรียมความพร้อมครูพี่เลี้ยง และอาจารย์นิเทศก์ ก่อนส่งนักศึกษาฝึกปฏิบัติการสอนฯ ประจำปี 2569 - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zVk5UZnNLTmdsd1hwc0Ryc0xWbzdRTWZDTTRPN1pFdFBTMWFlUWdfSWxseEJzdjhlQkF4YzV2VWtILXdwWGNV?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
-      "publishedAt": "2026-05-11T07:00:00.000Z",
-      "sourceId": "edu",
-      "category": "คณะศึกษาศาสตร์",
-      "topic": "other"
-    },
-    {
       "title": "ขอเชิญอาจารย์และบุคลากร มหาวิทยาลัยขอนแก่น เข้าทดสอบความรู้ “ความปลอดภัยทางไซเบอร์” ประจำปี 2569",
       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPOHRJajI2bU5LWVNUbVNLb0xrQW1PZnR6NTRCN1VRVWFiS2ZRX0xMb3V5ekZDeElENnUzQXhGV2RYVEVDazNRNk9EZ05hZ0VMdmtPRDVwYmhMdUQ2elpoVlRSMHRpVEVWVUZxb2V2ZnFqYW5LNkhhMXZqYTJIUTVwbW85UVZQdzlVTDJ0UkR5TzRPUW80WEZJRWMyYTBJQ2Q1M1hMcGlIQTZwYXg0dzcydXdOckJMLWlGbFBKQ19rNnk4blJiRF9FbWI1R3R1aGMxUDVDVEJubVlCRFg1cTZQS25FWk9RakNjTXZEOUZTZUtIUkRVVkZ3VkxVN0hzaUlHWFFTbnFzd0cybDdWZTBscHZfT3ZzcVVsTUVOVTFCUmVJQ3REd2s2ZmVGYlNIVjZnVGpEYllzU3JBbVBLVHE4SEdkbUxnNmlBeVJHRWpfYw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -1385,6 +1385,15 @@
       "sourceId": "kku",
       "category": "มข.",
       "topic": "study"
+    },
+    {
+      "title": "ศึกษาศาสตร์ มข. ร่วมสถานศึกษาเครือข่าย เตรียมความพร้อมครูพี่เลี้ยง และอาจารย์นิเทศก์ ก่อนส่งนักศึกษาฝึกปฏิบัติการสอนฯ ประจำปี 2569 - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zVk5UZnNLTmdsd1hwc0Ryc0xWbzdRTWZDTTRPN1pFdFBTMWFlUWdfSWxseEJzdjhlQkF4YzV2VWtILXdwWGNV?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-05-11T07:00:00.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "topic": "other"
     },
     {
       "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
@@ -1511,6 +1520,15 @@
       "sourceId": "edu",
       "category": "คณะศึกษาศาสตร์",
       "topic": "research"
+    },
+    {
+      "title": "“Aggie Night วันไหล: จากความสนุก สู่พลังจิตอาสาเพื่อชุมชน” เทศกาลสร้างสรรค์ สะท้อนพลังนักศึกษา มหาวิทยาลัยขอนแก่น",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5wMENMc0p1OTZMaGRaMHMyMEphelladWlxM1c3N1VUSGZqanJWYXRLZjBtY1p3bTh5a2oxeEoySjZtX3d2NUdV?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-04-30T07:00:00.000Z",
+      "sourceId": "agri",
+      "category": "คณะเกษตรศาสตร์",
+      "topic": "activity"
     },
     {
       "title": "นักวิชาการ ม.ขอนแก่น แนะ “ณัฐพงษ์” อดทนรอจังหวะ ชี้พรรคประชาชนส่อเปลี่ยนแปลงครั้งใหญ่",
@@ -1830,7 +1848,7 @@
     {
       "title": "MBA KKU จัดเวที Thailand–Vietnam Trade Dialogue 2026 ดึงกงสุลเวียดนาม-ภาคธุรกิจอีสาน ร่วมเชื่อมโยงการค้า-การลงทุน ผลักดันขอนแก่นสู่ศูนย์กลางเศรษฐกิจภูมิภาค - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9xWDRrNXFwbUFwaXYwaEhjbk5wcTlaWVY2clZ6alZSeDg2eG5YdlVzYlEzekpGSUhSaVpmY1ZMc3hxZ0g2TlIw?oc=5",
-      "outlet": "kku.ac.th",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
       "publishedAt": "2026-03-19T08:24:04.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -2136,7 +2154,7 @@
     {
       "title": "คณะพยาบาลศาสตร์ ม.ขอนแก่น จัดพิธีมอบขีดหมวกและเข็มสถาบัน ประจำปีการศึกษา 2568 สร้างบัณฑิตพยาบาลรุ่นใหม่สู่วิชาชีพ - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0weHNBdFBpOG12VldYNHk0U3YxRXo1OXktcUJweXJmbDdQUXlnTG1lSW5mY2JidUZQd2xIOVVORmlvelVRZ1c4?oc=5",
-      "outlet": "kku.ac.th",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
       "publishedAt": "2026-02-23T05:47:54.000Z",
       "sourceId": "nurse",
       "category": "คณะพยาบาลศาสตร์",
@@ -2584,6 +2602,15 @@
       "topic": "research"
     },
     {
+      "title": "วิทยาลัยการคอมพิวเตอร์ มข. ลงนาม MOU ขยายความร่วมมือ 5 หน่วยงาน พัฒนาหลักสูตร AI ข้ามศาสตร์",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBvRVhmUWdPd1RHWVJMLWlrbVJ0SFo0Z0lRSXFSR19IMkVUb1ExcmUxajFjZ2d3V0tFLVM1T2ZrSFVQOHl6WVZR?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2025-08-18T07:00:00.000Z",
+      "sourceId": "cola",
+      "category": "วิทยาลัยการปกครองท้องถิ่น",
+      "topic": "study"
+    },
+    {
       "title": "คณะสาธารณสุขศาสตร์ มข. จัดโครงการแลกเปลี่ยนนักศึกษา ณ YMUN ประเทศจีน",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBHRGJTMmNBak1XVDU4VVRsZWpsd05MZGJDNnVfVFpxaElxbHYtSjBNdDQ4WnF3am81eTlJUm5sSVhaaUE3Zkw4?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -2757,7 +2784,7 @@
     {
       "title": "สมาคมศิษย์เก่า ร่วมรำลึก วันสถาปนาวิทยาลัยบัณฑิตศึกษาการจัดการ ครบรอบ 30 ปี",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HLUtBaGxJUWowY3Q2MjRUTWx1QmNodEJIMmwxTl9RSFRVazVRRk9uMFNsVGZBa1c2enRFX2YxY2E0ZjB2VlJkZExTSDJORVE0Q1J2NEp5RDFtb09VcXVhSHc5WnRGZkpJanpZTGlhRVFhX1pQd2RyNw?oc=5",
-      "outlet": "prachachat.net",
+      "outlet": "ประชาชาติธุรกิจ",
       "publishedAt": "2023-09-11T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
