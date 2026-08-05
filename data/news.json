@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T22:01:58.220Z",
+  "updatedAt": "2026-08-05T23:44:15.384Z",
   "sources": [
     {
       "id": "med",
@@ -351,7 +351,7 @@
     {
       "title": "มหาวิทยาลัยขอนแก่น ผนึกกำลังเครือข่าย ยกระดับ \"การแพทย์แม่นยำ\" พลิกโฉมการรักษามะเร็งไทย",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wV3FqYnNicDNVN3c4anQtZzdOYkNxak01azNIQ0pNWFJtbGZmMjhCMGs5dFRPUXR0d1FCaXpJeG5rOUVRa21COWY1Z0lmT3ppRHdj?oc=5",
-      "outlet": "เดลินิวส์",
+      "outlet": "dailynews.co.th",
       "publishedAt": "2026-07-31T03:36:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -482,6 +482,15 @@
       "sourceId": "econ",
       "category": "คณะเศรษฐศาสตร์",
       "topic": "other"
+    },
+    {
+      "title": "บุคลากรวิศวะ มข. คว้า 4 รางวัล ผลงานวิจัยแบบโปสเตอร์ บนเวทีประชุมวิชาการระดับชาติ ครั้งที่ 18",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8yVXVNMmRpMVRGUm1KdWd5RTVMQlVGX1ZvTnNjMzdkc3dNanV2VENidk1iUkk5ZHM4cUU3MzhaSWxsWTFtRU9J?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-07-23T12:18:25.000Z",
+      "sourceId": "eng",
+      "category": "คณะวิศวกรรมศาสตร์",
+      "topic": "research"
     },
     {
       "title": "“โครงการสัปดาห์สุขภาพสัตว์เลี้ยง” 4 สิงหาคม เนื่องในโอกาส “วันสัตวแพทย์ไทย”",
@@ -730,6 +739,24 @@
       "topic": "scholarship"
     },
     {
+      "title": "วิศวะ ม.ขอนแก่น แถลงการณ์ ปมนักศึกษาสาวถูกเพื่อนในสาขารุมบูลลี่ กลั่นแกล้ง | Khaosod",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWVkdlMWFiV0luWHlTM0QzMWE2MEwtNDY1RUNSS2w0R1hGaHVxUHY5SGZWVG4zakZhNXJHRnJHc2FGSVlwaHZJd2R2SGxuQTVWUG01ZE9R?oc=5",
+      "outlet": "LINE TODAY",
+      "publishedAt": "2026-07-13T07:00:00.000Z",
+      "sourceId": "eng",
+      "category": "คณะวิศวกรรมศาสตร์",
+      "topic": "other"
+    },
+    {
+      "title": "คณะทันตแพทยศาสตร์ มข. เป็นเจ้าภาพจัดประชุมองค์กรผู้บริหารคณะทันตแพทยศาสตร์แห่งประเทศไทย (อ.บ.ท.ท.) ประจำปี 2569",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5FX1hwdDk0NmxpNkdwTTZXVHZ2UFhJa2RWS2kzMUNPTzdqM1duRkxSMVI1cnBxYVZZaEJDS3Jfc3JFbFByR0Rj?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-07-13T07:00:00.000Z",
+      "sourceId": "dent",
+      "category": "คณะทันตแพทยศาสตร์",
+      "topic": "other"
+    },
+    {
       "title": "วิศวะ ม.ขอนแก่น แถลงการณ์ ปมนักศึกษาสาวถูกเพื่อนในสาขารุมบูลลี่ กลั่นแกล้ง",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05Q09MQ25Oei1jV1NnSjFiWTIxZjVURHliYTE4c21adjIxNzA5NF93MW1oVXZvUjBueEwwSVRfY1Q1X3IyWHJtRy1sYmZoR3hDZHVMOWV3clc3R0ZPQ3FNUzlDZTYwQQ?oc=5",
       "outlet": "ข่าวสด",
@@ -746,24 +773,6 @@
       "sourceId": "eng",
       "category": "คณะวิศวกรรมศาสตร์",
       "topic": "study"
-    },
-    {
-      "title": "คณะทันตแพทยศาสตร์ มข. เป็นเจ้าภาพจัดประชุมองค์กรผู้บริหารคณะทันตแพทยศาสตร์แห่งประเทศไทย (อ.บ.ท.ท.) ประจำปี 2569",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5FX1hwdDk0NmxpNkdwTTZXVHZ2UFhJa2RWS2kzMUNPTzdqM1duRkxSMVI1cnBxYVZZaEJDS3Jfc3JFbFByR0Rj?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
-      "publishedAt": "2026-07-13T07:00:00.000Z",
-      "sourceId": "dent",
-      "category": "คณะทันตแพทยศาสตร์",
-      "topic": "other"
-    },
-    {
-      "title": "วิศวะ ม.ขอนแก่น แถลงการณ์ ปมนักศึกษาสาวถูกเพื่อนในสาขารุมบูลลี่ กลั่นแกล้ง | Khaosod",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWVkdlMWFiV0luWHlTM0QzMWE2MEwtNDY1RUNSS2w0R1hGaHVxUHY5SGZWVG4zakZhNXJHRnJHc2FGSVlwaHZJd2R2SGxuQTVWUG01ZE9R?oc=5",
-      "outlet": "LINE TODAY",
-      "publishedAt": "2026-07-13T07:00:00.000Z",
-      "sourceId": "eng",
-      "category": "คณะวิศวกรรมศาสตร์",
-      "topic": "other"
     },
     {
       "title": "งานมหกรรมงานแสดงผลงานสร้างสรรค์และนวัตกรรมแห่งภูมิภาคอีสาน ประจำปี 2569 (ICIS 2026)",
@@ -1020,7 +1029,7 @@
     {
       "title": "นิติ นิด้า เชิญร่วมงาน IP & COPYRIGHT PROGRAM 2026 ฟรี",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0MUpldFM1R1Z1dFdlX1RWSy1VZjBDUGZKcy1RUUhZUWRyZFF3M3hQUENfNUhlTVVYWXY2LVdMTlR0dWZ2SEhvZ3FHNTVVX0NuZ0M3VmhrM1F5VXg2NFB3VUZ4VVhlT2RleGRJSGVCR2RlQQ?oc=5",
-      "outlet": "nida.ac.th",
+      "outlet": "สถาบันบัณฑิตพัฒนบริหารศาสตร์ (NIDA)",
       "publishedAt": "2026-06-26T07:00:00.000Z",
       "sourceId": "law",
       "category": "คณะนิติศาสตร์",
@@ -1477,15 +1486,6 @@
       "topic": "other"
     },
     {
-      "title": "บ้านและสวนแฟร์ ขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HdWZoQ0hfWmxuU2xGS25lQjhVSnhFdGZ4VkRGMnZTMXpZeG82X2cxSE56ekZBaG4tdlV3MTU4b002eFVjWmFwUTdub3gxRDA2WFFudXp6bVBjbFVXaDRiYQ?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
-      "publishedAt": "2026-05-09T07:00:00.000Z",
-      "sourceId": "vet",
-      "category": "คณะสัตวแพทยศาสตร์",
-      "topic": "other"
-    },
-    {
       "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
       "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
@@ -1501,6 +1501,15 @@
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
+      "topic": "other"
+    },
+    {
+      "title": "บ้านและสวนแฟร์ ขอนแก่น",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HdWZoQ0hfWmxuU2xGS25lQjhVSnhFdGZ4VkRGMnZTMXpZeG82X2cxSE56ekZBaG4tdlV3MTU4b002eFVjWmFwUTdub3gxRDA2WFFudXp6bVBjbFVXaDRiYQ?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-05-09T07:00:00.000Z",
+      "sourceId": "vet",
+      "category": "คณะสัตวแพทยศาสตร์",
       "topic": "other"
     },
     {
