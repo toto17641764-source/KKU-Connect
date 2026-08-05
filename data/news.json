@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T17:15:06.272Z",
+  "updatedAt": "2026-08-05T19:07:51.871Z",
   "sources": [
     {
       "id": "med",
@@ -211,6 +211,15 @@
       "publishedAt": "2026-08-04T02:54:00.000Z",
       "sourceId": "kku",
       "category": "มข.",
+      "topic": "other"
+    },
+    {
+      "title": "คณบดีคณะวิทยาศาสตร์ มข. ร่วมรายการสด “ข่าวอีสานวันนี้” เชิญชวนร่วมงานสัปดาห์วิทยาศาสตร์แห่งชาติ 2569",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE50MzhsZE1STk93Qll5azJRN2ZkWjB5RG42aWl4cl94QWlnQ3FkS2QzOTJxVUFRTDBtQzB1ZjZFcmlBREZHdGQ0?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-08-03T07:00:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
       "topic": "other"
     },
     {
@@ -630,7 +639,7 @@
     {
       "title": "วิศวะ ม.ขอนแก่น แถลงการณ์สั่งสอบข้อเท็จจริง น.ศ.สาวถูกคนทั้งสาขาบูลลี่ จนชีวิตพัง-ป่วยซึมเศร้า",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WVkpZLXVUbUIxSFRNZWxnM2VYQVRJNkJBSHBhZV8zVXVkR19xYVYzb09SX0lGWXBoQU5HdUp1UFhINGx2c1dwYktUbXNBVjYyVGpHSnNOZGtpUVBkZk81Q1ptOHN0QQ?oc=5",
-      "outlet": "Matichon Online",
+      "outlet": "matichon.co.th",
       "publishedAt": "2026-07-14T07:00:00.000Z",
       "sourceId": "eng",
       "category": "คณะวิศวกรรมศาสตร์",
@@ -921,7 +930,7 @@
     {
       "title": "'แทน ไท' ตื่นเต้นเปิดเทอมวันแรก สู่รั้วสถาปัตย์มหาวิทยาลัยขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yQTFGdmpRY29qREUtb2VfTnBJWUdZMjRlTHpSeFFRV3czQi10aV9fS29sbHVTWVpnYzRPUk1FWTduVndHU21FUGRQbnZwYVZKS2JpZFJtNWF6aC1mYjJhRlZR?oc=5",
-      "outlet": "ไทยโพสต์",
+      "outlet": "thaipost.net",
       "publishedAt": "2026-06-30T07:00:00.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
@@ -1146,7 +1155,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "Matichon Online",
+      "outlet": "matichon.co.th",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -1164,7 +1173,7 @@
     {
       "title": "รพ.ศรีนครินทร์ ออกหน่วยแพทย์ พอ.สว. โรงเรียนบ้านดงเค็ง อำเภอหนองสองห้อง จังหวัดขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE54aUtXZzA3S01VbkhEcXBoWW8yMWJ3NTdtZS12YjEydXRBZ2lHOWRCQjlTYXRyVGVvVDBuWTdMZTg1MnMxMl9V?oc=5",
-      "outlet": "kku.ac.th",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
       "publishedAt": "2026-06-04T03:06:24.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -2352,7 +2361,7 @@
     {
       "title": "โปรดเกล้าฯ แต่งตั้งศาสตราจารย์ จำนวน 13 ราย จาก 7 มหาวิทยาลัย",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBteGNoMmRQdkJNX3Y2aXpwX1B1SkZWQnFQOEhoalBhbVAxSHdfc3ZLdlJWN0YxMF8yejhQOGJHOG0xOUdRRnZBbUpTX2lLbUdwNkVDUjFYSHc4a1N5Y2J5bzZRdGREVERlTzNvcWhyeDRpanJyQUlnUkxfZXY?oc=5",
-      "outlet": "สำนักข่าวอิศรา",
+      "outlet": "isranews.org",
       "publishedAt": "2025-12-27T08:00:00.000Z",
       "sourceId": "ph",
       "category": "คณะสาธารณสุขศาสตร์",
@@ -2388,7 +2397,7 @@
     {
       "title": "วิทยาลัยนานาชาติ มข. จับมือ S Curve ยกระดับศักยภาพบุคลากรสู่การเติบโตอย่างยั่งยืน",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9GdkxrNDd2VzZiVW85aXBaaDlaNHdmX21KZzY1WUFXWDhRSmFTTVJYZG9sZXZxTG90ck5Jd1J2SkFzak9JSHZj?oc=5",
-      "outlet": "kku.ac.th",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
       "publishedAt": "2025-12-24T10:54:50.000Z",
       "sourceId": "ic",
       "category": "วิทยาลัยนานาชาติ",
@@ -2762,6 +2771,15 @@
       "sourceId": "ph",
       "category": "คณะสาธารณสุขศาสตร์",
       "topic": "other"
+    },
+    {
+      "title": "ยินดีต้อนรับนักศึกษาใหม่ระดับบัณฑิตศึกษา รุ่นที่ 45",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43dkxWcEJQeTJJbEw4VnRvZEdRd0x6TF9VWjVUbFpzdUN5dTV5TUxqZTJTcDhZUFk0S05NeWhnV1VEWm4wRnNF?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2025-05-05T18:27:10.000Z",
+      "sourceId": "gs",
+      "category": "บัณฑิตวิทยาลัย",
+      "topic": "activity"
     },
     {
       "title": "ส่องค่าเทอม มหาวิทยาลัยขอนแก่น ตลอดภาคการศึกษา แต่ละคณะ ต้องจ่ายเท่าไร",
