@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T20:52:35.839Z",
+  "updatedAt": "2026-08-05T22:01:58.220Z",
   "sources": [
     {
       "id": "med",
@@ -205,6 +205,15 @@
       "topic": "study"
     },
     {
+      "title": "มข. เตรียมจัดงานสัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 ชูแนวคิด \"วิทยาศาสตร์อัจฉริยะเพื่ออนาคตที่ยั่งยืน\" - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ndnBPZTR1M0lhenNLSFQwNUQ1N1I5RFdhdkVvVE83QVJXSTZRSFFReTcwMXpuVm5TV1NldzBSLVNNLVlOeEJR?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-08-05T10:41:05.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "topic": "activity"
+    },
+    {
       "title": "นักศึกษา AI วิทยาลัยการคอมพิวเตอร์ มข. สุดเจ๋ง! คว้า 2 รางวัลหุ่นยนต์ระดับอาเซียน จากเวที CPU’4th ASEAN GRAND PRIX YOUTH ROBOTICS AND ESPORTS COMPETITION 2026",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1aalUzOGtvTjdZVl9ocG9xbkFEQWMxT05IYjBFdUtfbEtmWEZhUHdsN0VPUHRMZGtCb0ZyNUxBS01weUoxN2Rv?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -232,15 +241,6 @@
       "topic": "other"
     },
     {
-      "title": "คณะศึกษาศาสตร์ มข. ร่วมกับ สพป.ขอนแก่น เขต 1 และ สพป.สกลนคร เขต 2 จัดประกวดผลงาน “Best Practice: ครูต้นแบบนวัตกรรม” มุ่งขับเคลื่อนสมรรถนะการอ่าน เขียน และคิดขั้นสูง - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE94M1MwUnJIWEJyVlp3SXVLZW5sdnFKWFpSM05fNHNZUmhPdWZCLVpVQUlKMnZPVmxVVDFpTHAxUWRRYy1pZENn?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
-      "publishedAt": "2026-08-03T07:00:00.000Z",
-      "sourceId": "edu",
-      "category": "คณะศึกษาศาสตร์",
-      "topic": "research"
-    },
-    {
       "title": "คณบดีคณะวิทยาศาสตร์ มข. ร่วมรายการสด “ข่าวอีสานวันนี้” เชิญชวนร่วมงานสัปดาห์วิทยาศาสตร์แห่งชาติ 2569",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE50MzhsZE1STk93Qll5azJRN2ZkWjB5RG42aWl4cl94QWlnQ3FkS2QzOTJxVUFRTDBtQzB1ZjZFcmlBREZHdGQ0?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -257,6 +257,15 @@
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
       "topic": "activity"
+    },
+    {
+      "title": "คณะศึกษาศาสตร์ มข. ร่วมกับ สพป.ขอนแก่น เขต 1 และ สพป.สกลนคร เขต 2 จัดประกวดผลงาน “Best Practice: ครูต้นแบบนวัตกรรม” มุ่งขับเคลื่อนสมรรถนะการอ่าน เขียน และคิดขั้นสูง - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE94M1MwUnJIWEJyVlp3SXVLZW5sdnFKWFpSM05fNHNZUmhPdWZCLVpVQUlKMnZPVmxVVDFpTHAxUWRRYy1pZENn?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-08-03T07:00:00.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "topic": "research"
     },
     {
       "title": "วิทยาลัยการคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น จับมือ Lenovo และ AMD ยกระดับโครงสร้างพื้นฐาน AI พร้อมขับเคลื่อนการเรียน การวิจัย และนวัตกรรมสู่สังคม - Khon Kaen University",
@@ -657,7 +666,7 @@
     {
       "title": "วิศวะ ม.ขอนแก่น แถลงการณ์สั่งสอบข้อเท็จจริง น.ศ.สาวถูกคนทั้งสาขาบูลลี่ จนชีวิตพัง-ป่วยซึมเศร้า",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WVkpZLXVUbUIxSFRNZWxnM2VYQVRJNkJBSHBhZV8zVXVkR19xYVYzb09SX0lGWXBoQU5HdUp1UFhINGx2c1dwYktUbXNBVjYyVGpHSnNOZGtpUVBkZk81Q1ptOHN0QQ?oc=5",
-      "outlet": "matichon.co.th",
+      "outlet": "Matichon Online",
       "publishedAt": "2026-07-14T07:00:00.000Z",
       "sourceId": "eng",
       "category": "คณะวิศวกรรมศาสตร์",
@@ -721,9 +730,9 @@
       "topic": "scholarship"
     },
     {
-      "title": "วิศวะ ม.ขอนแก่น แถลงการณ์ ปมนักศึกษาสาวถูกเพื่อนในสาขารุมบูลลี่ กลั่นแกล้ง | Khaosod",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWVkdlMWFiV0luWHlTM0QzMWE2MEwtNDY1RUNSS2w0R1hGaHVxUHY5SGZWVG4zakZhNXJHRnJHc2FGSVlwaHZJd2R2SGxuQTVWUG01ZE9R?oc=5",
-      "outlet": "LINE TODAY",
+      "title": "วิศวะ ม.ขอนแก่น แถลงการณ์ ปมนักศึกษาสาวถูกเพื่อนในสาขารุมบูลลี่ กลั่นแกล้ง",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05Q09MQ25Oei1jV1NnSjFiWTIxZjVURHliYTE4c21adjIxNzA5NF93MW1oVXZvUjBueEwwSVRfY1Q1X3IyWHJtRy1sYmZoR3hDZHVMOWV3clc3R0ZPQ3FNUzlDZTYwQQ?oc=5",
+      "outlet": "ข่าวสด",
       "publishedAt": "2026-07-13T07:00:00.000Z",
       "sourceId": "eng",
       "category": "คณะวิศวกรรมศาสตร์",
@@ -745,6 +754,15 @@
       "publishedAt": "2026-07-13T07:00:00.000Z",
       "sourceId": "dent",
       "category": "คณะทันตแพทยศาสตร์",
+      "topic": "other"
+    },
+    {
+      "title": "วิศวะ ม.ขอนแก่น แถลงการณ์ ปมนักศึกษาสาวถูกเพื่อนในสาขารุมบูลลี่ กลั่นแกล้ง | Khaosod",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWVkdlMWFiV0luWHlTM0QzMWE2MEwtNDY1RUNSS2w0R1hGaHVxUHY5SGZWVG4zakZhNXJHRnJHc2FGSVlwaHZJd2R2SGxuQTVWUG01ZE9R?oc=5",
+      "outlet": "LINE TODAY",
+      "publishedAt": "2026-07-13T07:00:00.000Z",
+      "sourceId": "eng",
+      "category": "คณะวิศวกรรมศาสตร์",
       "topic": "other"
     },
     {
@@ -937,15 +955,6 @@
       "topic": "activity"
     },
     {
-      "title": "'แทน ไท' ตื่นเต้นเปิดเทอมวันแรก สู่รั้วสถาปัตย์มหาวิทยาลัยขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yQTFGdmpRY29qREUtb2VfTnBJWUdZMjRlTHpSeFFRV3czQi10aV9fS29sbHVTWVpnYzRPUk1FWTduVndHU21FUGRQbnZwYVZKS2JpZFJtNWF6aC1mYjJhRlZR?oc=5",
-      "outlet": "ไทยโพสต์",
-      "publishedAt": "2026-06-30T07:00:00.000Z",
-      "sourceId": "agri",
-      "category": "คณะเกษตรศาสตร์",
-      "topic": "study"
-    },
-    {
       "title": "นักศึกษาคณะวิทยาศาสตร์ มข. นำเสนอผลงานในเวที International CWIE KKU พร้อมอาจารย์ร่วมเป็นกรรมการตัดสิน",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5nX1RvaVJoQXMxc1RTc3RsR2xDYVNxdjVIeFVEWXdtVkg2UG5qUW5fYmNCcHE0UTBIUG5BSWVIV0VCUkFvcEgw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -953,6 +962,15 @@
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
       "topic": "other"
+    },
+    {
+      "title": "'แทน ไท' ตื่นเต้นเปิดเทอมวันแรก สู่รั้วสถาปัตย์มหาวิทยาลัยขอนแก่น",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yQTFGdmpRY29qREUtb2VfTnBJWUdZMjRlTHpSeFFRV3czQi10aV9fS29sbHVTWVpnYzRPUk1FWTduVndHU21FUGRQbnZwYVZKS2JpZFJtNWF6aC1mYjJhRlZR?oc=5",
+      "outlet": "ไทยโพสต์",
+      "publishedAt": "2026-06-30T07:00:00.000Z",
+      "sourceId": "agri",
+      "category": "คณะเกษตรศาสตร์",
+      "topic": "study"
     },
     {
       "title": "ประกาศสรรหาคณบดีคณะนิติศาสตร์ มหาวิทยาลัยขอนแก่น",
@@ -1002,7 +1020,7 @@
     {
       "title": "นิติ นิด้า เชิญร่วมงาน IP & COPYRIGHT PROGRAM 2026 ฟรี",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0MUpldFM1R1Z1dFdlX1RWSy1VZjBDUGZKcy1RUUhZUWRyZFF3M3hQUENfNUhlTVVYWXY2LVdMTlR0dWZ2SEhvZ3FHNTVVX0NuZ0M3VmhrM1F5VXg2NFB3VUZ4VVhlT2RleGRJSGVCR2RlQQ?oc=5",
-      "outlet": "สถาบันบัณฑิตพัฒนบริหารศาสตร์ (NIDA)",
+      "outlet": "nida.ac.th",
       "publishedAt": "2026-06-26T07:00:00.000Z",
       "sourceId": "law",
       "category": "คณะนิติศาสตร์",
@@ -1126,6 +1144,15 @@
       "topic": "study"
     },
     {
+      "title": "คณะเศรษฐศาสตร์ มข. เปิดตัว \"ศูนย์วิจัยและการเรียนรู้ระดับโลกเพื่อพัฒนา GMS และภูมิภาคเศรษฐกิจที่เกี่ยวข้อง\" ศูนย์วิจัยแห่งใหม่ขับเคลื่อนการพัฒนาอนุภูมิภาคลุ่มน้ำโขงสู่เวทีโลก - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9TRFBLSWQwTDk0U0MyQ3F4dWlOdm5zZEpTRnhBQjJOWDFLRVBKMkZNMm9ZYVVLUDdocnJCOGJia3NiVkFoYTdF?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-06-15T06:00:53.000Z",
+      "sourceId": "econ",
+      "category": "คณะเศรษฐศาสตร์",
+      "topic": "research"
+    },
+    {
       "title": "คณะสถาปัตยกรรมศาสตร์ มข. ร่วมงานแถลงข่าว “เทศกาลอีสานสร้างสรรค์ 2569” ยกระดับเศรษฐกิจสร้างสรรค์ภูมิภาค",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9DUGlHRGFPUG45WkxheUdMT0hvaXdpZ0t1YXlGcWwwQUtRa180YzJhbU1IQ2VLTXpfOVEwYmw0LVExeC1FbVVj?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -1162,6 +1189,24 @@
       "topic": "study"
     },
     {
+      "title": "คณะเศรษฐศาสตร์ มข. ร่วมลงนาม MOU กับคณะบริหารธุรกิจและการบัญชี จัดทำวารสารวิชาการฉบับพิเศษ \"เศรษฐศาสตร์ประยุกต์และเศรษฐกิจ GMS\" - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1jY2xwNTNjWjVYcGRVVU9XYVZrb1UyMEtaTzk3SmRtOXRWNXhJSWo3YmNoOC1lX0hJeU85TV9rN0ZpazBSZ0k4?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-06-09T07:00:00.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "topic": "research"
+    },
+    {
+      "title": "มหาวิทยาลัยขอนแก่นเปิดบ้านต้อนรับสื่อมวลชน เยี่ยมชมโครงการสำคัญ ขับเคลื่อนองค์ความรู้สู่สังคม",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE15Q3pWMXI3V0hvV1RXYjNuUE1DbV9zT3dVNGlsSHQ0dlFadVpiY0E2ekdiLS02aXM3emh6LVpsc01KVHhnVFZz?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-06-09T07:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "topic": "activity"
+    },
+    {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่ ขับเคลื่อนเศรษฐกิจสุขภาพด้วย AI นวัตกรรม และความยั่งยืน - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBNV1ZzMWFISDgyUWdHUk53NHN3RGVYbkxNQTg1eC1yY1JLYk84TUVqUzQyZGJhdTlOckJxTGVkY2dmQkxSbER3?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -1173,7 +1218,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "matichon.co.th",
+      "outlet": "Matichon Online",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -1331,6 +1376,15 @@
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
       "topic": "other"
+    },
+    {
+      "title": "“ทีมหวานใจ” นักศึกษาคณะพยาบาลศาสตร์ มข. คว้ารางวัล Platinum ( ชนะเลิศอันดับ 1) ในการแข่งขันจำลองสถานการณ์ทางการพยาบาลระดับประเทศ (The 1st INACSL Thailand RIG) - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA3cC1oemhmOFBjdWNSR29vbkw2ZmgyYTVPemxUc2tPWC16bk1WaFlwMmwyaWNWRVc4eTB4N0hub3oxOUd6aF9J?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-05-25T03:34:42.000Z",
+      "sourceId": "nurse",
+      "category": "คณะพยาบาลศาสตร์",
+      "topic": "activity"
     },
     {
       "title": "คณะมนุษยศาสตร์ฯ มข. ยกระดับงานวิจัยไทยสู่เวทีนานาชาติ ผนึกความร่วมมือนักวิจัยมหาวิทยาลัยชั้นนำ จัดนิทรรศการ ‘Science as Diplomacy: a Thai Historical Context’ ถ่ายทอดบทบาท ‘วิทยาศาสตร์การทูต’ ในบริบทประวัติศาสตร์ไทย ณ เมืองลีดส์ สหราชอาณาจักร - Khon Kaen Univ",
@@ -1560,7 +1614,7 @@
     {
       "title": "นักวิชาการ ม.ขอนแก่น แนะ “ณัฐพงษ์” อดทนรอจังหวะ ชี้พรรคประชาชนส่อเปลี่ยนแปลงครั้งใหญ่",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pbDBMNDFZbXlNOFUwcU16RDh2QVl3MmE2eVduTW12VEpOUHRhbW4wMDRCT0lRV3A5U2V0RWFzRU50YTlxbU9XNEN4dVVySGFEbUJPSVJR?oc=5",
-      "outlet": "siamrath.co.th",
+      "outlet": "สยามรัฐ",
       "publishedAt": "2026-04-29T07:00:00.000Z",
       "sourceId": "hs",
       "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
@@ -2379,7 +2433,7 @@
     {
       "title": "โปรดเกล้าฯ แต่งตั้งศาสตราจารย์ จำนวน 13 ราย จาก 7 มหาวิทยาลัย",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBteGNoMmRQdkJNX3Y2aXpwX1B1SkZWQnFQOEhoalBhbVAxSHdfc3ZLdlJWN0YxMF8yejhQOGJHOG0xOUdRRnZBbUpTX2lLbUdwNkVDUjFYSHc4a1N5Y2J5bzZRdGREVERlTzNvcWhyeDRpanJyQUlnUkxfZXY?oc=5",
-      "outlet": "isranews.org",
+      "outlet": "สำนักข่าวอิศรา",
       "publishedAt": "2025-12-27T08:00:00.000Z",
       "sourceId": "ph",
       "category": "คณะสาธารณสุขศาสตร์",
