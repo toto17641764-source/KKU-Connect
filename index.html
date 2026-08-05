@@ -3,346 +3,875 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Admission NEWS — รวมข่าวรับสมัครมหาวิทยาลัย</title>
+<title>KKU Connect — รวมข่าวทุกเรื่องใน มข. ไว้ที่เดียว</title>
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@400;500;600;700&family=Anuphan:wght@400;500;600&display=swap" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@400;500;600;700&family=Anuphan:wght@400;500;600;700&display=swap" rel="stylesheet" />
 <style>
   :root {
-    --paper: #faf9f5;
+    --paper: #fbf5ee;
     --card: #ffffff;
-    --ink: #1b2431;
-    --ink-soft: #5d6878;
-    --line: #e5e2d9;
-    --navy: #2b4c9b;
-    --navy-soft: #eaeff9;
-    --hilite: #ffd84d;
-    --hilite-ink: #3a3208;
-    --shadow: 0 1px 2px rgba(27, 36, 49, 0.06), 0 6px 20px rgba(27, 36, 49, 0.05);
-  }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --paper: #151a23;
-      --card: #1d242f;
-      --ink: #e8eaf0;
-      --ink-soft: #9aa4b4;
-      --line: #2b3442;
-      --navy: #8fadf0;
-      --navy-soft: #232f45;
-      --hilite: #f5c832;
-      --hilite-ink: #241f04;
-      --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 6px 20px rgba(0, 0, 0, 0.25);
-    }
-  }
-  :root[data-theme="light"] {
-    --paper: #faf9f5; --card: #ffffff; --ink: #1b2431; --ink-soft: #5d6878;
-    --line: #e5e2d9; --navy: #2b4c9b; --navy-soft: #eaeff9;
-    --hilite: #ffd84d; --hilite-ink: #3a3208;
-    --shadow: 0 1px 2px rgba(27,36,49,.06), 0 6px 20px rgba(27,36,49,.05);
-  }
-  :root[data-theme="dark"] {
-    --paper: #151a23; --card: #1d242f; --ink: #e8eaf0; --ink-soft: #9aa4b4;
-    --line: #2b3442; --navy: #8fadf0; --navy-soft: #232f45;
-    --hilite: #f5c832; --hilite-ink: #241f04;
-    --shadow: 0 1px 2px rgba(0,0,0,.3), 0 6px 20px rgba(0,0,0,.25);
+    --ink: #34302a;
+    --ink-soft: #8d8377;
+    --line: #f0e5d9;
+    --brand: #bf4d1e;
+    --brand-dark: #9d3a12;
+    --brand-soft: #fcece1;
+    --brand-softer: #fdf4ec;
+    --gold: #f2b544;
+    --gold-soft: #fdf3dd;
+    --shadow: 0 1px 2px rgba(90, 50, 20, 0.05), 0 8px 24px rgba(90, 50, 20, 0.06);
   }
 
   * { box-sizing: border-box; margin: 0; }
+  html { scroll-behavior: smooth; }
   body {
     background: var(--paper);
     color: var(--ink);
     font-family: "Anuphan", "IBM Plex Sans Thai", "Leelawadee UI", "Noto Sans Thai", sans-serif;
-    line-height: 1.65;
+    line-height: 1.6;
     -webkit-font-smoothing: antialiased;
   }
   a { color: inherit; text-decoration: none; }
+  button { font: inherit; cursor: pointer; }
 
-  .wrap { max-width: 1080px; margin: 0 auto; padding: 0 20px; }
-
+  /* ---------- Header ---------- */
   header {
+    background: var(--card);
     border-bottom: 1px solid var(--line);
-    background: var(--paper);
-    position: sticky; top: 0; z-index: 10;
+    position: sticky; top: 0; z-index: 50;
   }
   .head-row {
-    display: flex; align-items: baseline; justify-content: space-between;
-    gap: 16px; padding: 18px 0 14px;
-    flex-wrap: wrap;
+    max-width: 1280px; margin: 0 auto; padding: 12px 20px;
+    display: flex; align-items: center; gap: 18px;
   }
-  .logo {
-    font-family: "IBM Plex Sans Thai", "Leelawadee UI", sans-serif;
-    font-weight: 700; font-size: 1.5rem; letter-spacing: -0.01em;
+  .logo { display: flex; align-items: center; gap: 10px; flex-shrink: 0; }
+  .logo svg { width: 38px; height: 38px; }
+  .logo-name {
+    font-family: "IBM Plex Sans Thai", sans-serif;
+    font-weight: 700; font-size: 1.28rem; letter-spacing: -0.01em; line-height: 1.15;
   }
-  .logo .mark {
-    background: linear-gradient(transparent 55%, var(--hilite) 55%, var(--hilite) 92%, transparent 92%);
-    padding: 0 2px;
+  .logo-name .kku { color: var(--brand); }
+  .logo-tag { font-size: 0.72rem; color: var(--ink-soft); line-height: 1.2; }
+
+  .search {
+    flex: 1; max-width: 560px; position: relative; margin: 0 auto;
   }
-  .updated {
-    font-size: 0.82rem; color: var(--ink-soft);
+  .search input {
+    width: 100%; padding: 10px 16px 10px 42px;
+    border: 1.5px solid var(--line); border-radius: 999px;
+    background: var(--paper); font: inherit; font-size: 0.92rem; color: var(--ink);
+    outline: none; transition: border-color 0.15s, background 0.15s;
+  }
+  .search input:focus { border-color: var(--brand); background: var(--card); }
+  .search input::placeholder { color: var(--ink-soft); }
+  .search .icon {
+    position: absolute; left: 15px; top: 50%; transform: translateY(-50%);
+    color: var(--ink-soft); pointer-events: none;
+  }
+
+  .head-actions { display: flex; align-items: center; gap: 8px; flex-shrink: 0; margin-left: auto; }
+  .bell-wrap, .profile-wrap { position: relative; }
+  .bell {
+    width: 42px; height: 42px; border-radius: 50%;
+    border: 1px solid var(--line); background: var(--card);
+    display: grid; place-items: center; position: relative; color: var(--ink);
+    transition: background 0.15s;
+  }
+  .bell:hover { background: var(--brand-softer); }
+  .bell .badge {
+    position: absolute; top: -3px; right: -3px;
+    background: #d93a2b; color: #fff; font-size: 0.66rem; font-weight: 700;
+    min-width: 18px; height: 18px; border-radius: 999px;
+    display: grid; place-items: center; padding: 0 4px;
+    border: 2px solid var(--card);
+  }
+  .profile {
+    display: flex; align-items: center; gap: 10px;
+    border: 1px solid var(--line); background: var(--card);
+    border-radius: 999px; padding: 5px 14px 5px 6px;
+    transition: background 0.15s;
+  }
+  .profile:hover { background: var(--brand-softer); }
+  .avatar {
+    width: 32px; height: 32px; border-radius: 50%;
+    background: linear-gradient(135deg, var(--brand), var(--gold));
+    color: #fff; font-weight: 700; font-size: 0.85rem;
+    display: grid; place-items: center;
+  }
+  .profile-name { font-size: 0.82rem; font-weight: 600; line-height: 1.25; text-align: left; }
+  .profile-name small { display: block; font-weight: 400; color: var(--ink-soft); font-size: 0.7rem; }
+
+  .dropdown {
+    position: absolute; right: 0; top: calc(100% + 10px);
+    width: 320px; background: var(--card);
+    border: 1px solid var(--line); border-radius: 16px; box-shadow: var(--shadow);
+    padding: 8px; display: none; z-index: 60;
+  }
+  .dropdown.open { display: block; }
+  .dropdown h4 {
+    font-size: 0.82rem; padding: 8px 10px 6px; color: var(--ink);
+    display: flex; justify-content: space-between; align-items: baseline;
+  }
+  .dropdown h4 small { color: var(--ink-soft); font-weight: 400; font-size: 0.7rem; }
+  .noti-item {
+    display: flex; gap: 10px; padding: 9px 10px; border-radius: 10px; align-items: flex-start;
+  }
+  .noti-item:hover { background: var(--brand-softer); }
+  .noti-item .dot {
+    width: 8px; height: 8px; border-radius: 50%; background: var(--brand);
+    margin-top: 7px; flex-shrink: 0;
+  }
+  .noti-item p { font-size: 0.8rem; line-height: 1.45; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .noti-item small { color: var(--ink-soft); font-size: 0.7rem; }
+  .dropdown .foot {
+    font-size: 0.75rem; text-align: center;
+    padding: 8px 10px 4px; border-top: 1px solid var(--line); margin-top: 4px;
+  }
+  .dropdown .foot button {
+    border: 0; background: none; color: var(--brand-dark); font-weight: 700; font-size: 0.75rem;
+  }
+
+  /* ---------- Layout ---------- */
+  .shell {
+    max-width: 1280px; margin: 0 auto; padding: 22px 20px 60px;
+    display: grid; grid-template-columns: 252px minmax(0, 1fr) 296px; gap: 22px;
+    align-items: start;
+  }
+
+  /* ---------- Sidebar ---------- */
+  .side {
+    position: sticky; top: 76px;
+    max-height: calc(100vh - 96px); overflow-y: auto;
+    background: var(--card); border: 1px solid var(--line); border-radius: 18px;
+    padding: 12px; scrollbar-width: thin;
+  }
+  .side-label {
+    font-size: 0.7rem; font-weight: 700; color: var(--ink-soft);
+    text-transform: uppercase; letter-spacing: 0.06em;
+    padding: 14px 12px 6px;
+  }
+  .side-item {
+    width: 100%; display: flex; align-items: center; gap: 10px;
+    padding: 8px 12px; border: 0; background: none; border-radius: 10px;
+    color: var(--ink); font-size: 0.86rem; text-align: left;
+    transition: background 0.12s, color 0.12s;
+  }
+  .side-item:hover { background: var(--brand-softer); }
+  .side-item.on { background: var(--brand-soft); color: var(--brand-dark); font-weight: 700; }
+  .side-item .emoji { width: 22px; text-align: center; flex-shrink: 0; font-size: 0.95rem; }
+  .side-item .txt { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .side-item .num {
+    font-size: 0.68rem; color: var(--ink-soft); font-weight: 500;
+    background: var(--paper); border-radius: 999px; padding: 1px 8px; flex-shrink: 0;
     font-variant-numeric: tabular-nums;
   }
+  .side-item.on .num { background: #fff; color: var(--brand-dark); }
+  .side-item .caret { flex-shrink: 0; color: var(--ink-soft); transition: transform 0.18s; }
+  .side-item.expanded .caret { transform: rotate(180deg); }
+  .fac-list { overflow: hidden; }
+  .fac-list[hidden] { display: none; }
+  .fac-list .side-item { padding-left: 22px; font-size: 0.83rem; }
+  .side hr { border: 0; border-top: 1px solid var(--line); margin: 10px 4px; }
 
+  /* ---------- Mobile chips ---------- */
   .chips {
-    display: flex; gap: 8px; padding: 0 0 16px; flex-wrap: wrap;
+    display: none; gap: 8px; overflow-x: auto; padding: 2px 0 10px;
+    scrollbar-width: none; -webkit-overflow-scrolling: touch;
   }
+  .chips::-webkit-scrollbar { display: none; }
   .chip {
-    border: 1px solid var(--line); background: var(--card); color: var(--ink-soft);
-    font: inherit; font-size: 0.86rem; font-weight: 500;
-    padding: 5px 14px; border-radius: 999px; cursor: pointer;
-    transition: border-color 0.15s, color 0.15s;
+    flex-shrink: 0; border: 1px solid var(--line); background: var(--card);
+    color: var(--ink); font-size: 0.8rem; padding: 6px 14px; border-radius: 999px;
+    white-space: nowrap;
   }
-  .chip:hover { border-color: var(--ink-soft); color: var(--ink); }
-  .chip.on {
-    background: var(--hilite); border-color: var(--hilite);
-    color: var(--hilite-ink); font-weight: 600;
-  }
-  .chip:focus-visible { outline: 2px solid var(--navy); outline-offset: 2px; }
+  .chip.on { background: var(--brand); border-color: var(--brand); color: #fff; font-weight: 600; }
 
-  main { padding: 28px 0 60px; }
-
-  .lead {
-    display: grid; grid-template-columns: 1.15fr 1fr; gap: 0;
-    background: var(--card); border: 1px solid var(--line); border-radius: 14px;
-    overflow: hidden; box-shadow: var(--shadow); margin-bottom: 36px;
+  /* ---------- Hero ---------- */
+  .hero {
+    position: relative; overflow: hidden; border-radius: 20px;
+    background: linear-gradient(118deg, #93340e 0%, #bf4d1e 55%, #de7b33 100%);
+    color: #fff; padding: 34px 32px 30px; margin-bottom: 22px;
+    box-shadow: var(--shadow); display: block;
   }
-  .lead .thumb { min-height: 280px; }
-  .lead-body { padding: 28px 30px; display: flex; flex-direction: column; gap: 12px; }
-  .lead-body h2 {
+  .hero::after {
+    content: ""; position: absolute; right: -70px; top: -80px;
+    width: 300px; height: 300px; border-radius: 50%;
+    background: rgba(255, 255, 255, 0.07);
+  }
+  .hero::before {
+    content: ""; position: absolute; right: 40px; bottom: -120px;
+    width: 240px; height: 240px; border-radius: 50%;
+    background: rgba(255, 255, 255, 0.06);
+  }
+  .hero .tagchip {
+    display: inline-block; background: var(--gold); color: #5c3c00;
+    font-size: 0.74rem; font-weight: 700; padding: 3px 12px; border-radius: 999px;
+    margin-bottom: 12px;
+  }
+  .hero h2 {
     font-family: "IBM Plex Sans Thai", sans-serif;
-    font-size: 1.45rem; font-weight: 700; line-height: 1.45; text-wrap: balance;
+    font-size: clamp(1.15rem, 2.4vw, 1.55rem); font-weight: 700; line-height: 1.4;
+    max-width: 640px; position: relative; z-index: 1;
   }
-  .lead-body p { color: var(--ink-soft); font-size: 0.95rem; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
-  .lead:hover h2, .card:hover h3 { color: var(--navy); }
+  .hero .meta { margin-top: 10px; font-size: 0.82rem; opacity: 0.9; position: relative; z-index: 1; }
+  .hero .cta {
+    display: inline-flex; align-items: center; gap: 6px; margin-top: 18px;
+    background: #fff; color: var(--brand-dark); font-weight: 700; font-size: 0.86rem;
+    padding: 9px 20px; border-radius: 999px; position: relative; z-index: 1;
+    transition: transform 0.12s;
+  }
+  .hero .cta:hover { transform: translateY(-1px); }
 
-  .section-label {
-    font-size: 0.78rem; font-weight: 600; letter-spacing: 0.08em;
-    text-transform: uppercase; color: var(--ink-soft); margin-bottom: 14px;
+  /* ---------- Section head ---------- */
+  .sec-head {
+    display: flex; align-items: baseline; justify-content: space-between;
+    gap: 12px; margin: 4px 2px 14px; flex-wrap: wrap;
   }
+  .sec-head h3 {
+    font-family: "IBM Plex Sans Thai", sans-serif;
+    font-size: 1.08rem; font-weight: 700;
+  }
+  .sec-head .sub { font-size: 0.78rem; color: var(--ink-soft); font-variant-numeric: tabular-nums; }
 
-  .grid {
-    display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 20px;
-  }
+  /* ---------- Cards ---------- */
+  .grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
   .card {
-    background: var(--card); border: 1px solid var(--line); border-radius: 12px;
-    overflow: hidden; box-shadow: var(--shadow);
-    display: flex; flex-direction: column;
-    transition: transform 0.15s;
+    background: var(--card); border: 1px solid var(--line); border-radius: 16px;
+    padding: 16px; display: flex; flex-direction: column; gap: 10px;
+    transition: box-shadow 0.15s, transform 0.15s;
+    position: relative;
   }
-  .card:hover { transform: translateY(-2px); }
-  .thumb {
-    aspect-ratio: 16 / 9; background: var(--navy-soft); position: relative; overflow: hidden;
+  .card:hover { box-shadow: var(--shadow); transform: translateY(-2px); }
+  .card-top { display: flex; gap: 12px; align-items: flex-start; }
+  .tile {
+    width: 46px; height: 46px; border-radius: 12px; flex-shrink: 0;
+    display: grid; place-items: center; font-size: 1.35rem;
   }
-  .lead .thumb { aspect-ratio: auto; }
-  .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
-  .thumb .ph {
-    position: absolute; inset: 0; display: grid; place-items: center;
-    font-family: "IBM Plex Sans Thai", sans-serif; font-size: 2.2rem; font-weight: 700;
-    color: var(--navy); opacity: 0.55;
+  .card .cat {
+    display: inline-block; font-size: 0.68rem; font-weight: 700;
+    color: var(--brand-dark); background: var(--brand-soft);
+    padding: 2px 10px; border-radius: 999px; margin: 0 4px 5px 0;
+    max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
   }
-  .thumb .ph-logo {
-    position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
-    width: 92px; height: 92px; padding: 18px; object-fit: contain;
-    background: #fff; border-radius: 999px;
-    box-shadow: 0 2px 12px rgba(27, 36, 49, 0.15);
-  }
-  .lead .ph-logo { width: 116px; height: 116px; padding: 24px; }
-  .card-body { padding: 16px 18px 18px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
-  .card h3 {
-    font-family: "IBM Plex Sans Thai", sans-serif;
-    font-size: 1.02rem; font-weight: 600; line-height: 1.5;
+  .card .cat.topic { color: #6b5218; background: var(--gold-soft); }
+  .card h4 {
+    font-size: 0.9rem; font-weight: 600; line-height: 1.5;
     display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
   }
-  .card p {
-    color: var(--ink-soft); font-size: 0.86rem;
+  .card h4 a::after { content: ""; position: absolute; inset: 0; border-radius: 16px; }
+  .card-foot {
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 10px; margin-top: auto; padding-top: 4px;
+  }
+  .card-foot .src {
+    font-size: 0.72rem; color: var(--ink-soft);
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  .save-btn {
+    border: 1px solid var(--line); background: var(--card); color: var(--ink-soft);
+    width: 34px; height: 34px; border-radius: 10px; display: grid; place-items: center;
+    flex-shrink: 0; position: relative; z-index: 2;
+    transition: color 0.12s, border-color 0.12s, background 0.12s;
+  }
+  .save-btn:hover { color: var(--brand); border-color: var(--brand); }
+  .save-btn.saved { background: var(--brand); border-color: var(--brand); color: #fff; }
+
+  .more-wrap { text-align: center; margin-top: 22px; }
+  .more-btn {
+    border: 1.5px solid var(--brand); color: var(--brand-dark); background: var(--card);
+    font-weight: 700; font-size: 0.86rem; padding: 10px 30px; border-radius: 999px;
+    transition: background 0.15s, color 0.15s;
+  }
+  .more-btn:hover { background: var(--brand); color: #fff; }
+
+  .empty {
+    background: var(--card); border: 1px dashed var(--line); border-radius: 16px;
+    padding: 46px 20px; text-align: center; color: var(--ink-soft); font-size: 0.9rem;
+  }
+  .empty .big { font-size: 2rem; margin-bottom: 8px; }
+
+  /* ---------- หน้าการแจ้งเตือน ---------- */
+  .noti-page { background: var(--card); border: 1px solid var(--line); border-radius: 18px; padding: 10px; }
+  .noti-row {
+    display: flex; gap: 12px; padding: 13px 12px; border-radius: 12px; align-items: flex-start;
+  }
+  .noti-row:hover { background: var(--brand-softer); }
+  .noti-row + .noti-row { border-top: 1px solid var(--line); border-radius: 0 0 12px 12px; }
+  .noti-row .tile { width: 40px; height: 40px; font-size: 1.15rem; border-radius: 10px; }
+  .noti-row p { font-size: 0.86rem; font-weight: 600; line-height: 1.5; }
+  .noti-row small { color: var(--ink-soft); font-size: 0.72rem; font-weight: 400; }
+  .noti-row .when { margin-left: auto; flex-shrink: 0; font-size: 0.7rem; color: var(--ink-soft); white-space: nowrap; padding-top: 3px; }
+
+  /* ---------- หน้าตั้งค่า ---------- */
+  .settings { display: flex; flex-direction: column; gap: 14px; }
+  .set-panel { background: var(--card); border: 1px solid var(--line); border-radius: 18px; padding: 18px 20px; }
+  .set-panel h4 { font-family: "IBM Plex Sans Thai", sans-serif; font-size: 0.95rem; font-weight: 700; margin-bottom: 4px; }
+  .set-panel .desc { font-size: 0.78rem; color: var(--ink-soft); margin-bottom: 12px; }
+  .set-row {
+    display: flex; align-items: center; justify-content: space-between; gap: 14px;
+    padding: 10px 0; border-top: 1px solid var(--line); font-size: 0.86rem;
+  }
+  .set-row:first-of-type { border-top: 0; }
+  .set-row label { flex: 1; }
+  .set-row label small { display: block; color: var(--ink-soft); font-size: 0.72rem; }
+  .set-row select {
+    font: inherit; font-size: 0.84rem; color: var(--ink);
+    border: 1.5px solid var(--line); border-radius: 10px; padding: 6px 10px;
+    background: var(--paper); max-width: 220px;
+  }
+  .switch { position: relative; width: 44px; height: 24px; flex-shrink: 0; }
+  .switch input { opacity: 0; width: 100%; height: 100%; position: absolute; margin: 0; cursor: pointer; z-index: 2; }
+  .switch .track {
+    position: absolute; inset: 0; border-radius: 999px; background: var(--line); transition: background 0.15s;
+  }
+  .switch .track::after {
+    content: ""; position: absolute; left: 3px; top: 3px; width: 18px; height: 18px;
+    border-radius: 50%; background: #fff; box-shadow: 0 1px 3px rgba(0,0,0,0.2); transition: left 0.15s;
+  }
+  .switch input:checked + .track { background: var(--brand); }
+  .switch input:checked + .track::after { left: 23px; }
+  .danger-btn {
+    border: 1.5px solid #d93a2b; color: #d93a2b; background: var(--card);
+    font-weight: 700; font-size: 0.8rem; padding: 7px 18px; border-radius: 999px;
+    transition: background 0.15s, color 0.15s;
+  }
+  .danger-btn:hover { background: #d93a2b; color: #fff; }
+
+  /* ---------- Right rail ---------- */
+  .rail { display: flex; flex-direction: column; gap: 16px; position: sticky; top: 76px; }
+  .panel {
+    background: var(--card); border: 1px solid var(--line); border-radius: 18px; padding: 16px;
+  }
+  .panel h3 {
+    font-family: "IBM Plex Sans Thai", sans-serif;
+    font-size: 0.95rem; font-weight: 700; margin-bottom: 10px;
+    display: flex; align-items: center; gap: 7px;
+  }
+  .hot-item { display: flex; gap: 11px; padding: 8px 6px; border-radius: 12px; align-items: flex-start; }
+  .hot-item:hover { background: var(--brand-softer); }
+  .hot-item .tile { width: 40px; height: 40px; font-size: 1.15rem; border-radius: 10px; }
+  .hot-item p {
+    font-size: 0.79rem; font-weight: 600; line-height: 1.45;
     display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
   }
-
-  .meta { display: flex; align-items: center; gap: 8px; margin-top: auto; padding-top: 6px; }
-  .src {
-    display: inline-flex; align-items: center; gap: 5px;
-    font-size: 0.75rem; font-weight: 600; color: var(--navy);
-    background: var(--navy-soft); padding: 2px 9px; border-radius: 999px;
+  .hot-item small { color: var(--ink-soft); font-size: 0.69rem; font-weight: 400; }
+  .quick a {
+    display: flex; align-items: center; justify-content: space-between; gap: 8px;
+    font-size: 0.82rem; padding: 9px 10px; border-radius: 10px; color: var(--ink);
   }
-  .src img { width: 14px; height: 14px; border-radius: 3px; }
-  .time { font-size: 0.78rem; color: var(--ink-soft); font-variant-numeric: tabular-nums; }
+  .quick a:hover { background: var(--brand-softer); color: var(--brand-dark); }
+  .quick svg { color: var(--ink-soft); flex-shrink: 0; }
+  .panel.notice {
+    background: var(--gold-soft); border-color: #f3dfb2;
+  }
+  .panel.notice p { font-size: 0.76rem; color: #6b5218; line-height: 1.55; }
 
+  /* ---------- Footer ---------- */
   footer {
-    border-top: 1px solid var(--line); padding: 22px 0 40px;
-    font-size: 0.82rem; color: var(--ink-soft);
+    border-top: 1px solid var(--line); background: var(--card);
+    padding: 20px; text-align: center; font-size: 0.75rem; color: var(--ink-soft);
+    line-height: 1.8;
   }
-  footer a { color: var(--navy); }
 
-  .empty { color: var(--ink-soft); padding: 40px 0; text-align: center; }
-
-  @media (max-width: 760px) {
-    .lead { grid-template-columns: 1fr; }
-    .lead .thumb { aspect-ratio: 16 / 9; min-height: 0; }
-    .lead-body { padding: 20px; }
-    .lead-body h2 { font-size: 1.2rem; }
+  /* ---------- Responsive ---------- */
+  @media (max-width: 1120px) {
+    .shell { grid-template-columns: 232px minmax(0, 1fr); }
+    .rail { display: none; }
   }
-  @media (prefers-reduced-motion: reduce) {
-    .card, .chip { transition: none; }
-    .card:hover { transform: none; }
+  @media (max-width: 880px) {
+    .shell { grid-template-columns: minmax(0, 1fr); padding-top: 14px; }
+    .side { display: none; }
+    .chips { display: flex; }
+    .grid { grid-template-columns: minmax(0, 1fr); }
+    .profile-name { display: none; }
+    .profile { padding: 5px; border-radius: 50%; }
+    .head-row { flex-wrap: wrap; }
+    .search { order: 3; max-width: none; flex-basis: 100%; }
   }
 </style>
 </head>
 <body>
+
 <header>
-  <div class="wrap">
-    <div class="head-row">
-      <div class="logo"><span class="mark">Admission</span> NEWS</div>
-      <div class="updated" id="updated"></div>
+  <div class="head-row">
+    <a class="logo" href="#" onclick="goHome(event)">
+      <svg viewBox="0 0 48 48" fill="none" aria-hidden="true">
+        <path d="M24 4 L27 12 H21 Z" fill="#bf4d1e"/>
+        <path d="M22 12 h4 v5 h-4 z" fill="#bf4d1e"/>
+        <path d="M18 17 h12 l-2 8 h-8 z" fill="#d0662a"/>
+        <path d="M16 25 h16 l-1.6 9 h-12.8 z" fill="#bf4d1e"/>
+        <path d="M13 34 h22 l-1.4 8 h-19.2 z" fill="#93340e"/>
+      </svg>
+      <span>
+        <span class="logo-name"><span class="kku">KKU</span> Connect</span>
+        <span class="logo-tag">รวมข่าวทุกเรื่องใน มข. ไว้ที่เดียว</span>
+      </span>
+    </a>
+
+    <div class="search">
+      <svg class="icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round">
+        <circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/>
+      </svg>
+      <input id="q" type="search" placeholder="ค้นหาข่าวสาร กิจกรรม หรือประกาศ..." autocomplete="off" />
     </div>
-    <div class="chips" id="chips" role="group" aria-label="กรองตามหมวด"></div>
+
+    <div class="head-actions">
+      <div class="bell-wrap">
+        <button class="bell" id="bellBtn" aria-label="การแจ้งเตือน">
+          <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M18 8a6 6 0 0 0-12 0c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.7 21a2 2 0 0 1-3.4 0"/>
+          </svg>
+          <span class="badge" id="bellBadge" hidden>0</span>
+        </button>
+        <div class="dropdown" id="bellDrop">
+          <h4>การแจ้งเตือน <small>ข่าวใหม่ล่าสุด</small></h4>
+          <div id="notiList"></div>
+          <div class="foot"><button id="openNotiPage">ดูการแจ้งเตือนทั้งหมด →</button></div>
+        </div>
+      </div>
+
+      <div class="profile-wrap">
+        <button class="profile" id="profBtn">
+          <span class="avatar">น</span>
+          <span class="profile-name">สวัสดี, นักศึกษา<small>มหาวิทยาลัยขอนแก่น</small></span>
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="m6 9 6 6 6-6"/></svg>
+        </button>
+        <div class="dropdown" id="profDrop">
+          <h4>โปรไฟล์ <small>ตัวอย่างจำลอง</small></h4>
+          <div class="noti-item"><span class="dot"></span><div><p>ระบบเข้าสู่ระบบด้วยบัญชี KKU Mail จะพัฒนาในเวอร์ชันถัดไป — ตั้งค่าการใช้งานได้ที่เมนู "ตั้งค่า"</p></div></div>
+        </div>
+      </div>
+    </div>
   </div>
 </header>
 
-<main class="wrap">
-  <div id="content"><p class="empty">กำลังโหลดข่าว…</p></div>
-</main>
+<div class="shell">
+
+  <!-- ========== Sidebar ========== -->
+  <nav class="side" id="side"></nav>
+
+  <!-- ========== Main ========== -->
+  <main>
+    <div class="chips" id="chips"></div>
+    <a class="hero" id="hero" target="_blank" rel="noopener" hidden></a>
+    <div class="sec-head" id="secHead">
+      <h3 id="secTitle">ข่าวสารล่าสุด</h3>
+      <span class="sub" id="secSub"></span>
+    </div>
+    <div class="grid" id="grid"></div>
+    <div class="noti-page" id="notiPage" hidden></div>
+
+    <!-- หน้าตั้งค่า -->
+    <div class="settings" id="settingsPage" hidden>
+      <div class="set-panel">
+        <h4>การแสดงผล</h4>
+        <div class="desc">ตั้งค่าถูกเก็บไว้ในเครื่องของคุณ (localStorage) ใช้ได้ทันทีไม่ต้องเข้าสู่ระบบ</div>
+        <div class="set-row">
+          <label>แสดงแบนเนอร์ข่าวล่าสุดด้านบน<small>ป้ายสีแดงอิฐขนาดใหญ่ในหน้าหลัก</small></label>
+          <span class="switch"><input type="checkbox" id="setHero" /><span class="track"></span></span>
+        </div>
+        <div class="set-row">
+          <label>จำนวนข่าวต่อการโหลดหนึ่งครั้ง</label>
+          <select id="setPageSize">
+            <option value="12">12 ข่าว</option>
+            <option value="24">24 ข่าว</option>
+            <option value="48">48 ข่าว</option>
+          </select>
+        </div>
+        <div class="set-row">
+          <label>หน้าเริ่มต้นเมื่อเปิดเว็บ<small>เช่น คณะหรือหมวดที่คุณสนใจเป็นพิเศษ</small></label>
+          <select id="setDefault"></select>
+        </div>
+      </div>
+      <div class="set-panel">
+        <h4>ข้อมูลของฉัน</h4>
+        <div class="set-row">
+          <label>ล้างรายการข่าวที่บันทึกไว้<small id="setSavedCount"></small></label>
+          <button class="danger-btn" id="setClearSaved">ล้างบันทึก</button>
+        </div>
+      </div>
+      <div class="set-panel" style="background: var(--gold-soft); border-color: #f3dfb2;">
+        <h4>หมายเหตุ</h4>
+        <div class="desc" style="margin: 0; color: #6b5218;">การแจ้งเตือนแบบพุชถึงมือถือและการเข้าสู่ระบบด้วยบัญชี KKU Mail เป็นแผนพัฒนาในเวอร์ชันถัดไป</div>
+      </div>
+    </div>
+
+    <div class="empty" id="empty" hidden>
+      <div class="big">🔍</div>
+      ไม่พบข่าวที่ตรงกับเงื่อนไข ลองเปลี่ยนคำค้นหรือเลือกหมวด/คณะอื่นดูครับ
+    </div>
+    <div class="more-wrap"><button class="more-btn" id="moreBtn" hidden>โหลดข่าวเพิ่มเติม</button></div>
+  </main>
+
+  <!-- ========== Right rail ========== -->
+  <aside class="rail">
+    <div class="panel">
+      <h3>🔥 ข่าวเด่นตอนนี้</h3>
+      <div id="hotList"></div>
+    </div>
+    <div class="panel quick">
+      <h3>🔗 ลิงก์ด่วน</h3>
+      <a href="https://www.kku.ac.th" target="_blank" rel="noopener">เว็บไซต์มหาวิทยาลัยขอนแก่น
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><path d="M15 3h6v6"/><path d="M10 14 21 3"/></svg></a>
+      <a href="https://reg.kku.ac.th" target="_blank" rel="noopener">ระบบทะเบียน KKU REG
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><path d="M15 3h6v6"/><path d="M10 14 21 3"/></svg></a>
+      <a href="https://mail.kku.ac.th" target="_blank" rel="noopener">KKU Mail
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><path d="M15 3h6v6"/><path d="M10 14 21 3"/></svg></a>
+      <a href="https://elearn.kku.ac.th" target="_blank" rel="noopener">KKU e-Learning
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><path d="M15 3h6v6"/><path d="M10 14 21 3"/></svg></a>
+    </div>
+    <div class="panel notice">
+      <h3>💡 เกี่ยวกับเว็บนี้</h3>
+      <p>KKU Connect รวบรวมข่าวของมหาวิทยาลัยขอนแก่นแยกตามหมวดและคณะโดยอัตโนมัติทุกชั่วโมง แสดงเฉพาะหัวข้อข่าวและลิงก์กลับไปอ่านฉบับเต็มที่ต้นทาง</p>
+    </div>
+  </aside>
+</div>
 
 <footer>
-  <div class="wrap">
-    รวบรวมหัวข้อข่าวอัตโนมัติจาก 13 แหล่ง — Eduzones · CampHub · เว็บทางการ 10 มหาวิทยาลัยยอดนิยม (ธรรมศาสตร์ จุฬาฯ มหิดล เกษตรฯ มศว บูรพา ขอนแก่น นเรศวร เชียงใหม่ ศิลปากร พะเยา)
-    · คลิกข่าวเพื่ออ่านฉบับเต็มที่เว็บไซต์ต้นทาง · อัปเดตอัตโนมัติทุก 1 ชั่วโมง
-  </div>
+  © 2569 KKU Connect — โปรเจกต์นักศึกษา ไม่ใช่เว็บไซต์ทางการของมหาวิทยาลัยขอนแก่น<br/>
+  ข้อมูลข่าวรวบรวมผ่าน Google News และลิงก์กลับไปยังแหล่งข่าวต้นทางทุกรายการ · <span id="footUpdated"></span>
 </footer>
 
 <script>
-const state = { items: [], filter: "ทั้งหมด" };
+/* ---------- ตั้งค่าผู้ใช้ (localStorage) ---------- */
+const DEFAULT_SETTINGS = { showHero: true, pageSize: 24, defaultCat: "all" };
+let settings = { ...DEFAULT_SETTINGS, ...JSON.parse(localStorage.getItem("kkuconnect-settings") || "{}") };
+function saveSettings() { localStorage.setItem("kkuconnect-settings", JSON.stringify(settings)); }
 
-// โดเมนของแต่ละแหล่งข่าว — ใช้ดึงตราสัญลักษณ์ (favicon) มาแสดงแทนชื่อย่อ
-const DOMAINS = {
-  eduzones: "eduzones.com",
-  camphub: "camphub.in.th",
-  tu: "tu.ac.th",
-  chula: "chula.ac.th",
-  mahidol: "mahidol.ac.th",
-  buu: "buu.ac.th",
-  nu: "nu.ac.th",
-  ku: "ku.ac.th",
-  swu: "swu.ac.th",
-  kku: "kku.ac.th",
-  cmu: "cmu.ac.th",
-  su: "su.ac.th",
-  up: "up.ac.th",
-};
+// state.cat: 'all' | 'saved' | 'noti' | 'settings' | 't:<topicId>' | 'f:<sourceId>'
+const state = { cat: settings.defaultCat, q: "", shown: settings.pageSize };
+let DATA = { sources: [], topics: [], items: [] };
+let saved = new Set(JSON.parse(localStorage.getItem("kkuconnect-saved") || "[]"));
+let facOpen = localStorage.getItem("kkuconnect-fac-open") === "1";
 
-// eduzones.com ไม่มี favicon ให้ดึง (ไฟล์บนเว็บเสีย) — ใช้รูปโปรไฟล์ Twitter แทน
-const LOGO_OVERRIDES = {
-  eduzones: "https://unavatar.io/twitter/eduzones?fallback=false",
-};
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
-function logoUrl(sourceId, size = 128) {
-  if (LOGO_OVERRIDES[sourceId]) return LOGO_OVERRIDES[sourceId];
-  const domain = DOMAINS[sourceId];
-  return domain ? `https://www.google.com/s2/favicons?domain=${domain}&sz=${size}` : null;
-}
+// พาเลตพื้นอ่อนสำหรับไอคอนคณะ — เลือกตามลำดับให้สีไม่ซ้ำติดกัน
+const TILES = [
+  "#fcece1", "#fdf3dd", "#eef3e6", "#e9f1f4", "#f6eaf0", "#efeaf6", "#faeee7", "#eaf2ec",
+];
+const tileColor = (i) => TILES[i % TILES.length];
 
-function srcBadge(item) {
-  const logo = logoUrl(item.sourceId, 32);
-  const icon = logo ? `<img src="${logo}" alt="" loading="lazy" onerror="this.remove()" />` : "";
-  return `<span class="src">${icon}${item.source}</span>`;
-}
-
+const THAI_MONTHS = ["ม.ค.","ก.พ.","มี.ค.","เม.ย.","พ.ค.","มิ.ย.","ก.ค.","ส.ค.","ก.ย.","ต.ค.","พ.ย.","ธ.ค."];
 function timeAgo(iso) {
   if (!iso) return "";
-  const mins = Math.floor((Date.now() - new Date(iso)) / 60000);
+  const d = new Date(iso), mins = Math.floor((Date.now() - d) / 60000);
   if (mins < 60) return `${Math.max(mins, 1)} นาทีที่แล้ว`;
-  const hrs = Math.floor(mins / 60);
-  if (hrs < 24) return `${hrs} ชั่วโมงที่แล้ว`;
-  const days = Math.floor(hrs / 24);
-  if (days < 7) return `${days} วันที่แล้ว`;
-  return new Date(iso).toLocaleDateString("th-TH", { day: "numeric", month: "short", year: "2-digit" });
+  if (mins < 1440) return `${Math.floor(mins / 60)} ชั่วโมงที่แล้ว`;
+  if (mins < 10080) return `${Math.floor(mins / 1440)} วันที่แล้ว`;
+  return `${d.getDate()} ${THAI_MONTHS[d.getMonth()]} ${d.getFullYear() + 543}`;
 }
 
-function thumb(item, isLead) {
-  const logo = logoUrl(item.sourceId);
-  // ชื่อย่อเป็นตัวสำรอง — จะโผล่เฉพาะตอนโหลดโลโก้ไม่สำเร็จ
-  const logoImg = logo
-    ? `<img class="ph-logo" src="${logo}" alt="" loading="lazy" onerror="this.remove()" />`
-    : "";
-  const ph = `<div class="ph">${item.source.replace(/^ม\./, "").slice(0, 2)}${logoImg}</div>`;
-  const img = item.image
-    ? `<img src="${item.image}" alt="" loading="lazy" onerror="this.remove()" />`
-    : "";
-  return `<div class="thumb">${ph}${img}</div>`;
-}
+const srcIndex = new Map(); // sourceId -> ตำแหน่งในรายการ (ใช้เลือกสีไอคอน)
+const srcIcon = new Map();  // sourceId -> อีโมจิ
+const topicById = new Map(); // topicId -> {name, icon}
 
-function render() {
-  const el = document.getElementById("content");
-  const items = state.filter === "ทั้งหมด"
-    ? state.items
-    : state.items.filter((it) => it.category === state.filter);
-
-  if (!items.length) {
-    el.innerHTML = `<p class="empty">ยังไม่มีข่าวในหมวดนี้</p>`;
-    return;
+function filtered() {
+  let items = DATA.items;
+  if (state.cat === "saved") items = items.filter((it) => saved.has(it.link));
+  else if (state.cat.startsWith("t:")) { const t = state.cat.slice(2); items = items.filter((it) => it.topic === t); }
+  else if (state.cat.startsWith("f:")) { const f = state.cat.slice(2); items = items.filter((it) => it.sourceId === f); }
+  if (state.q) {
+    const q = state.q.toLowerCase();
+    items = items.filter((it) => it.title.toLowerCase().includes(q) || it.category.toLowerCase().includes(q));
   }
-
-  const [lead, ...rest] = items;
-  const leadHtml = `
-    <a class="lead" href="${lead.link}" target="_blank" rel="noopener">
-      ${thumb(lead, true)}
-      <div class="lead-body">
-        <div class="meta" style="margin:0;padding:0">
-          ${srcBadge(lead)}
-          <span class="time">${timeAgo(lead.publishedAt)}</span>
-        </div>
-        <h2>${lead.title}</h2>
-        <p>${lead.summary}</p>
-      </div>
-    </a>`;
-
-  const cards = rest.map((it) => `
-    <a class="card" href="${it.link}" target="_blank" rel="noopener">
-      ${thumb(it)}
-      <div class="card-body">
-        <h3>${it.title}</h3>
-        <p>${it.summary}</p>
-        <div class="meta">
-          ${srcBadge(it)}
-          <span class="time">${timeAgo(it.publishedAt)}</span>
-        </div>
-      </div>
-    </a>`).join("");
-
-  el.innerHTML = leadHtml + `<div class="section-label">ข่าวทั้งหมด</div><div class="grid">${cards}</div>`;
+  return items;
 }
 
-function renderChips(categories) {
-  const el = document.getElementById("chips");
-  el.innerHTML = ["ทั้งหมด", ...categories].map((c) =>
-    `<button class="chip${c === state.filter ? " on" : ""}" data-cat="${c}">${c}</button>`
-  ).join("");
-  el.querySelectorAll(".chip").forEach((btn) =>
-    btn.addEventListener("click", () => {
-      state.filter = btn.dataset.cat;
-      renderChips(categories);
+const facCount = (id) => DATA.items.filter((it) => it.sourceId === id).length;
+const topicCount = (id) => DATA.items.filter((it) => it.topic === id).length;
+// การแจ้งเตือน = ข่าวใหม่ใน 48 ชม. (ถ้ายังไม่มีเลย แสดง 20 ข่าวล่าสุดแทน)
+function notiItems() {
+  const cutoff = Date.now() - 48 * 3600000;
+  const fresh = DATA.items.filter((it) => it.publishedAt && new Date(it.publishedAt) > cutoff);
+  return fresh.length ? fresh : DATA.items.slice(0, 20);
+}
+
+/* ---------- Sidebar + chips ---------- */
+function renderNav() {
+  const faculties = DATA.sources.filter((s) => s.id !== "kku");
+
+  const item = (id, icon, label, count) => `
+    <button class="side-item ${state.cat === id ? "on" : ""}" data-cat="${id}">
+      <span class="emoji">${icon}</span><span class="txt">${esc(label)}</span>
+      ${count != null ? `<span class="num">${count}</span>` : ""}
+    </button>`;
+
+  const showFacList = facOpen;
+
+  $("side").innerHTML =
+    item("all", "🏠", "หน้าหลัก", DATA.items.length) +
+    `<div class="side-label">หมวดหมู่</div>` +
+    DATA.topics.map((t) => item("t:" + t.id, t.icon, t.name, topicCount(t.id))).join("") +
+    `<div class="side-label">คณะ / วิทยาลัย</div>
+    <button class="side-item ${showFacList ? "expanded" : ""}" id="facToggle">
+      <span class="emoji">🏛️</span><span class="txt">ดูรายคณะ (${faculties.length})</span>
+      <svg class="caret" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="m6 9 6 6 6-6"/></svg>
+    </button>
+    <div class="fac-list" ${showFacList ? "" : "hidden"}>` +
+    faculties.map((s) => item("f:" + s.id, s.icon, s.name, facCount(s.id))).join("") +
+    `</div><hr/>` +
+    item("saved", "🔖", "บันทึกของฉัน", saved.size) +
+    item("noti", "🔔", "การแจ้งเตือน", notiItems().length) +
+    item("settings", "⚙️", "ตั้งค่า") +
+    `<hr/><div style="padding:4px 12px 8px;font-size:0.7rem;color:var(--ink-soft)">อัปเดตล่าสุด ${timeAgo(DATA.updatedAt)}</div>`;
+
+  $("facToggle").addEventListener("click", () => {
+    facOpen = !facOpen;
+    localStorage.setItem("kkuconnect-fac-open", facOpen ? "1" : "0");
+    renderNav();
+  });
+
+  const chip = (id, label) => `<button class="chip ${state.cat === id ? "on" : ""}" data-cat="${id}">${esc(label)}</button>`;
+  $("chips").innerHTML =
+    chip("all", "🏠 ทั้งหมด") +
+    DATA.topics.map((t) => chip("t:" + t.id, t.icon + " " + t.name)).join("") +
+    chip("saved", `🔖 บันทึก (${saved.size})`) + chip("noti", "🔔 แจ้งเตือน") + chip("settings", "⚙️ ตั้งค่า") +
+    faculties.map((s) => chip("f:" + s.id, s.icon + " " + s.name.replace(/^คณะ/, ""))).join("");
+
+  document.querySelectorAll("[data-cat]").forEach((b) =>
+    b.addEventListener("click", () => {
+      state.cat = b.dataset.cat;
+      state.shown = settings.pageSize;
+      // เลือกคณะแล้วเปิดรายการคณะค้างไว้ จะได้เห็นว่าเลือกอะไรอยู่
+      if (state.cat.startsWith("f:") && !facOpen) {
+        facOpen = true;
+        localStorage.setItem("kkuconnect-fac-open", "1");
+      }
+      render();
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    })
+  );
+}
+
+/* ---------- Hero ---------- */
+function renderHero(items) {
+  const hero = $("hero");
+  const top = items[0];
+  const showHero = settings.showHero && top && !state.q && state.cat === "all";
+  hero.hidden = !showHero;
+  if (!showHero) return;
+  hero.href = top.link;
+  hero.innerHTML = `
+    <span class="tagchip">📌 ข่าวล่าสุด · ${esc(top.category)}</span>
+    <h2>${esc(top.title)}</h2>
+    <div class="meta">${esc(top.outlet)} · ${timeAgo(top.publishedAt)}</div>
+    <span class="cta">อ่านเพิ่มเติม
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="m9 6 6 6-6 6"/></svg>
+    </span>`;
+}
+
+/* ---------- Cards ---------- */
+function cardHtml(it) {
+  const idx = srcIndex.get(it.sourceId) ?? 0;
+  const isSaved = saved.has(it.link);
+  const topic = topicById.get(it.topic);
+  return `
+  <article class="card">
+    <div class="card-top">
+      <div class="tile" style="background:${tileColor(idx)}">${srcIcon.get(it.sourceId) || "📰"}</div>
+      <div style="min-width:0">
+        <span class="cat">${esc(it.category)}</span>${topic ? `<span class="cat topic">${topic.icon} ${esc(topic.name)}</span>` : ""}
+        <h4><a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.title)}</a></h4>
+      </div>
+    </div>
+    <div class="card-foot">
+      <span class="src">${esc(it.outlet)} · ${timeAgo(it.publishedAt)}</span>
+      <button class="save-btn ${isSaved ? "saved" : ""}" data-link="${esc(it.link)}" title="${isSaved ? "เอาออกจากบันทึก" : "บันทึกข่าวนี้"}" aria-label="บันทึกข่าว">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="${isSaved ? "currentColor" : "none"}" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
+      </button>
+    </div>
+  </article>`;
+}
+
+function renderGrid(items) {
+  const hero = !$("hero").hidden;
+  const list = hero ? items.slice(1) : items;
+  const shown = list.slice(0, state.shown);
+  $("grid").innerHTML = shown.map(cardHtml).join("");
+  $("empty").hidden = items.length > 0;
+  $("moreBtn").hidden = list.length <= state.shown;
+
+  let title = "ข่าวสารล่าสุด";
+  if (state.cat === "saved") title = "บันทึกของฉัน";
+  else if (state.cat.startsWith("t:")) title = topicById.get(state.cat.slice(2))?.name ?? title;
+  else if (state.cat.startsWith("f:")) title = DATA.sources.find((s) => s.id === state.cat.slice(2))?.name ?? title;
+  $("secTitle").textContent = state.q ? `ผลการค้นหา “${state.q}”` : title;
+  $("secSub").textContent = `${items.length} รายการ`;
+
+  document.querySelectorAll(".save-btn").forEach((b) =>
+    b.addEventListener("click", (e) => {
+      e.preventDefault();
+      const link = b.dataset.link;
+      saved.has(link) ? saved.delete(link) : saved.add(link);
+      localStorage.setItem("kkuconnect-saved", JSON.stringify([...saved]));
       render();
     })
   );
 }
 
-async function init() {
-  try {
-    const res = await fetch("data/news.json", { cache: "no-store" });
-    const data = await res.json();
-    state.items = data.items;
-    document.getElementById("updated").textContent =
-      "อัปเดตล่าสุด " + new Date(data.updatedAt).toLocaleString("th-TH", { dateStyle: "medium", timeStyle: "short" }) + " น.";
-    // เรียงหมวดตามลำดับแหล่งข่าว (ไม่ใช่ตามวันที่ข่าว) และแสดงเฉพาะหมวดที่มีข่าวจริง
-    const have = new Set(data.items.map((it) => it.category));
-    const cats = [...new Set(data.sources.map((s) => s.category))].filter((c) => have.has(c));
-    renderChips(cats);
-    render();
-  } catch {
-    document.getElementById("content").innerHTML =
-      `<p class="empty">โหลดข้อมูลไม่สำเร็จ — รัน <code>node fetch-news.mjs</code> ก่อน แล้วเปิดผ่าน local server</p>`;
-  }
+/* ---------- หน้าการแจ้งเตือน ---------- */
+function renderNotiPage() {
+  const items = notiItems();
+  $("secTitle").textContent = "การแจ้งเตือน — ข่าวใหม่ใน 48 ชั่วโมง";
+  $("secSub").textContent = `${items.length} รายการ`;
+  $("notiPage").innerHTML = items.map((it) => {
+    const idx = srcIndex.get(it.sourceId) ?? 0;
+    return `<a class="noti-row" href="${esc(it.link)}" target="_blank" rel="noopener">
+      <div class="tile" style="background:${tileColor(idx)}">${srcIcon.get(it.sourceId) || "📰"}</div>
+      <div style="min-width:0"><p>${esc(it.title)}</p><small>${esc(it.category)} · ${esc(it.outlet)}</small></div>
+      <span class="when">${timeAgo(it.publishedAt)}</span>
+    </a>`;
+  }).join("");
 }
-init();
+
+/* ---------- หน้าตั้งค่า ---------- */
+function initSettingsPage() {
+  $("setHero").checked = settings.showHero;
+  $("setPageSize").value = String(settings.pageSize);
+
+  const faculties = DATA.sources.filter((s) => s.id !== "kku");
+  $("setDefault").innerHTML =
+    `<option value="all">หน้าหลัก (ข่าวทุกคณะ)</option>` +
+    `<optgroup label="หมวดหมู่">` +
+    DATA.topics.map((t) => `<option value="t:${t.id}">${esc(t.name)}</option>`).join("") +
+    `</optgroup><optgroup label="คณะ / วิทยาลัย">` +
+    faculties.map((s) => `<option value="f:${s.id}">${esc(s.name)}</option>`).join("") +
+    `</optgroup>`;
+  $("setDefault").value = settings.defaultCat;
+  if ($("setDefault").selectedIndex < 0) $("setDefault").value = "all";
+
+  $("setHero").addEventListener("change", (e) => { settings.showHero = e.target.checked; saveSettings(); });
+  $("setPageSize").addEventListener("change", (e) => { settings.pageSize = Number(e.target.value); state.shown = settings.pageSize; saveSettings(); });
+  $("setDefault").addEventListener("change", (e) => { settings.defaultCat = e.target.value; saveSettings(); });
+  $("setClearSaved").addEventListener("click", () => {
+    if (!saved.size) return alert("ยังไม่มีข่าวที่บันทึกไว้ครับ");
+    if (confirm(`ล้างข่าวที่บันทึกไว้ทั้งหมด ${saved.size} รายการ?`)) {
+      saved.clear();
+      localStorage.setItem("kkuconnect-saved", "[]");
+      render();
+    }
+  });
+}
+function renderSettingsPage() {
+  $("secTitle").textContent = "ตั้งค่า";
+  $("secSub").textContent = "";
+  $("setSavedCount").textContent = `ตอนนี้บันทึกไว้ ${saved.size} รายการ`;
+}
+
+/* ---------- Right rail: ข่าวเด่น (ข่าวใหม่สุดจากคนละคณะ) ---------- */
+function renderHot() {
+  const seen = new Set(), hot = [];
+  for (const it of DATA.items) {
+    if (seen.has(it.sourceId)) continue;
+    seen.add(it.sourceId);
+    hot.push(it);
+    if (hot.length >= 4) break;
+  }
+  $("hotList").innerHTML = hot.map((it) => {
+    const idx = srcIndex.get(it.sourceId) ?? 0;
+    return `<a class="hot-item" href="${esc(it.link)}" target="_blank" rel="noopener">
+      <div class="tile" style="background:${tileColor(idx)}">${srcIcon.get(it.sourceId) || "📰"}</div>
+      <div style="min-width:0"><p>${esc(it.title)}</p><small>${esc(it.category)} · ${timeAgo(it.publishedAt)}</small></div>
+    </a>`;
+  }).join("");
+}
+
+/* ---------- Bell dropdown ---------- */
+function renderBell() {
+  const recent = DATA.items.slice(0, 5);
+  const dayAgo = Date.now() - 86400000;
+  const fresh = DATA.items.filter((it) => it.publishedAt && new Date(it.publishedAt) > dayAgo).length;
+  const badge = $("bellBadge");
+  badge.hidden = fresh === 0;
+  badge.textContent = fresh > 9 ? "9+" : fresh;
+  $("notiList").innerHTML = recent.map((it) => `
+    <a class="noti-item" href="${esc(it.link)}" target="_blank" rel="noopener">
+      <span class="dot"></span>
+      <div><p>${esc(it.title)}</p><small>${esc(it.category)} · ${timeAgo(it.publishedAt)}</small></div>
+    </a>`).join("");
+}
+
+function render() {
+  renderNav();
+  const isNoti = state.cat === "noti";
+  const isSettings = state.cat === "settings";
+  $("notiPage").hidden = !isNoti;
+  $("settingsPage").hidden = !isSettings;
+  $("grid").hidden = isNoti || isSettings;
+  $("moreBtn").hidden = true;
+  $("empty").hidden = true;
+  $("hero").hidden = true;
+
+  if (isNoti) return renderNotiPage();
+  if (isSettings) return renderSettingsPage();
+
+  const items = filtered();
+  renderHero(items);
+  renderGrid(items);
+}
+
+function goHome(e) {
+  e.preventDefault();
+  state.cat = "all"; state.q = ""; state.shown = settings.pageSize;
+  $("q").value = "";
+  render();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+/* ---------- Events ---------- */
+$("q").addEventListener("input", (e) => {
+  state.q = e.target.value.trim();
+  state.shown = settings.pageSize;
+  if (state.cat === "noti" || state.cat === "settings") state.cat = "all";
+  render();
+});
+$("moreBtn").addEventListener("click", () => { state.shown += settings.pageSize; render(); });
+$("openNotiPage").addEventListener("click", () => {
+  document.querySelectorAll(".dropdown.open").forEach((x) => x.classList.remove("open"));
+  state.cat = "noti";
+  render();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+});
+
+function toggleDrop(btnId, dropId) {
+  $(btnId).addEventListener("click", (e) => {
+    e.stopPropagation();
+    const d = $(dropId);
+    document.querySelectorAll(".dropdown.open").forEach((x) => x !== d && x.classList.remove("open"));
+    d.classList.toggle("open");
+  });
+}
+toggleDrop("bellBtn", "bellDrop");
+toggleDrop("profBtn", "profDrop");
+document.addEventListener("click", (e) => {
+  if (!e.target.closest(".dropdown")) document.querySelectorAll(".dropdown.open").forEach((x) => x.classList.remove("open"));
+});
+
+/* ---------- Load ---------- */
+fetch("data/news.json")
+  .then((r) => r.json())
+  .then((data) => {
+    DATA = data;
+    DATA.topics = data.topics ?? [];
+    DATA.sources.forEach((s, i) => { srcIndex.set(s.id, i); srcIcon.set(s.id, s.icon); });
+    DATA.topics.forEach((t) => topicById.set(t.id, t));
+    // กันกรณีหน้าเริ่มต้นที่ตั้งไว้ชี้ไปหมวด/คณะที่ไม่มีแล้ว
+    const validCats = new Set(["all", "saved", "noti", "settings",
+      ...DATA.topics.map((t) => "t:" + t.id), ...DATA.sources.map((s) => "f:" + s.id)]);
+    if (!validCats.has(state.cat)) state.cat = "all";
+    $("footUpdated").textContent = "อัปเดตล่าสุด " + timeAgo(data.updatedAt);
+    initSettingsPage();
+    render();
+    renderHot();
+    renderBell();
+  })
+  .catch(() => {
+    $("empty").hidden = false;
+    $("empty").innerHTML = `<div class="big">⚠️</div>โหลดข้อมูลข่าวไม่สำเร็จ — ถ้าเปิดไฟล์ตรง ๆ ให้รัน local server ก่อน เช่น <code>npx serve .</code>`;
+  });
 </script>
 </body>
 </html>
