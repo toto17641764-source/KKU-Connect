@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T10:21:20.585Z",
+  "updatedAt": "2026-08-06T12:47:42.662Z",
   "sources": [
     {
       "id": "med",
@@ -232,6 +232,15 @@
       "topic": "service"
     },
     {
+      "title": "ขอนแก่น ‘เทส’ เต็มฮอลล์! พลังคนรุ่นใหม่เต็มห้อง! ตั้งแต่น้อง ม.ต้น จนถึงมหาวิทยาลัย",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lMjJkYk9PaXJRRWNuUWloN19ZRGRjeExBdE9PLWE0WFRtcndoT3dfOFZlQ1JCVk1XMERsS3RRTzdKek1lTEFXVlZMUHl1cklyTDdiRjUtdGxvaFM2LTFtemtiWEw4Zw?oc=5",
+      "outlet": "thestandard.co",
+      "publishedAt": "2026-08-06T02:15:41.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "topic": "other"
+    },
+    {
       "title": "คณะศึกษาศาสตร์ร่วมกับกองทรัพยากรบุคคล จัดกิจกรรมเตรียมความพร้อมบุคลากรสายผู้สอน ก้าวสู่ตำแหน่งทางวิชาการตามเกณฑ์ใหม่ 2569 - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1XUjFGc2xKZDRibW9kc3NSUHpLaV84c0pKa0hMLWYtbkM3enJkX2Y2UDBqdl9EOWcxU3hNdGlwZXdaN2hRWms4?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -331,15 +340,6 @@
       "topic": "research"
     },
     {
-      "title": "ขอนแก่น ‘เทส’ เต็มฮอลล์! พลังคนรุ่นใหม่เต็มห้อง! ตั้งแต่น้อง ม.ต้น จนถึงมหาวิทยาลัย",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lMjJkYk9PaXJRRWNuUWloN19ZRGRjeExBdE9PLWE0WFRtcndoT3dfOFZlQ1JCVk1XMERsS3RRTzdKek1lTEFXVlZMUHl1cklyTDdiRjUtdGxvaFM2LTFtemtiWEw4Zw?oc=5",
-      "outlet": "thestandard.co",
-      "publishedAt": "2026-08-02T21:50:58.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "topic": "other"
-    },
-    {
       "title": "อีเวนต์ขอนแก่น 2569 งานวันนี้–งานเดือนนี้",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZUJ1RFVSdU90RjdZQjZsVGdJbHFsWUdaNzNKNkZTSDE1a0V3emZiZUJROEs5a3pkWVpfRjhvdTVrWVp2ODk4OG50RU1Sd1VDMEwtMXdQME1Na3MxZ0paTkFnMzdTQ2NlRy00VTVoUDhfUTAtZHgyNDJaeDV0b3F1ZXh3?oc=5",
       "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
@@ -387,7 +387,7 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2026-07-31T08:15:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -720,7 +720,7 @@
     {
       "title": "วิศวะ ม.ขอนแก่น แถลงการณ์สั่งสอบข้อเท็จจริง น.ศ.สาวถูกคนทั้งสาขาบูลลี่ จนชีวิตพัง-ป่วยซึมเศร้า",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WVkpZLXVUbUIxSFRNZWxnM2VYQVRJNkJBSHBhZV8zVXVkR19xYVYzb09SX0lGWXBoQU5HdUp1UFhINGx2c1dwYktUbXNBVjYyVGpHSnNOZGtpUVBkZk81Q1ptOHN0QQ?oc=5",
-      "outlet": "matichon.co.th",
+      "outlet": "Matichon Online",
       "publishedAt": "2026-07-14T07:00:00.000Z",
       "sourceId": "eng",
       "category": "คณะวิศวกรรมศาสตร์",
@@ -1270,6 +1270,15 @@
       "topic": "activity"
     },
     {
+      "title": "คณะแพทยฯ ม.ขอนแก่น เปิดข้อมูล ภาวะขาดวิตามิน-แร่ธาตุที่สำคัญ Triple Burden พบในเด็กภาวะน้ำหนักเกิน",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tMG9UYW9xbXpzR2FSUzdNWWU4VG5qR052a1M5MVpyaFlpZUw2UUMtRlJHdFdSRWE3YWxVTUlnRTkxS29VUXo3cDY3cnJZSDhyVFB5aFRvMnM0V3c?oc=5",
+      "outlet": "khaosod.co.th",
+      "publishedAt": "2026-06-08T07:00:00.000Z",
+      "sourceId": "med",
+      "category": "คณะแพทยศาสตร์",
+      "topic": "other"
+    },
+    {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่ ขับเคลื่อนเศรษฐกิจสุขภาพด้วย AI นวัตกรรม และความยั่งยืน - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBNV1ZzMWFISDgyUWdHUk53NHN3RGVYbkxNQTg1eC1yY1JLYk84TUVqUzQyZGJhdTlOckJxTGVkY2dmQkxSbER3?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -1281,7 +1290,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "matichon.co.th",
+      "outlet": "Matichon Online",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -1348,6 +1357,15 @@
       "publishedAt": "2026-05-29T06:26:17.000Z",
       "sourceId": "pharm",
       "category": "คณะเภสัชศาสตร์",
+      "topic": "activity"
+    },
+    {
+      "title": "มหกรรมแสดงผลงานระดับชาติของบุคลากรสายสนับสนุนในสถาบันอุดมศึกษา ครั้งที่ 8 ประจำปี 2569",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JVXRJMTdSendNZ1owYjRzcGpxWXFWcnk4d2tsTWdSX2RBdng4WG00cFpuS0tHSHoxUkQtc21QMzYxMnFnNUpRMHluRFpSaVZ0ckRobmFmSkZFUW5MS2I2TjVvUE5WSENjX2c2NmZBVTV6MTVRTDFLQk5GX0M?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-05-29T05:07:59.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
       "topic": "activity"
     },
     {
@@ -2199,7 +2217,7 @@
     {
       "title": "เปิดรั้ว 7 สาขา คณะบริหารธุรกิจและการบัญชี ม.ขอนแก่น ครอบคลุมทั้งด้านธุรกิจ-บัญชี-ดิจิทัล",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tVHc4cVlQMl9kaDlGSGMxeUdxRHNUbVd2TEpZb1FwOENLS1ZBZDh4OTFRRlVrRXpManEwdHdyM1JaUllHalkxVQ?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2026-03-09T07:00:00.000Z",
       "sourceId": "kkbs",
       "category": "คณะบริหารธุรกิจและการบัญชี",
@@ -2393,6 +2411,15 @@
       "sourceId": "cola",
       "category": "วิทยาลัยการปกครองท้องถิ่น",
       "topic": "study"
+    },
+    {
+      "title": "เปิดบ้านหมอฟัน DENT KKU OPEN HOUSE 2026 คณะทันตแพทยศาสตร์ มข. จุดประกายฝัน..ว่าที่ทันตแพทย์",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5HUkV4ZmNtalZTODA4VkVwTWdxbVBlSjAtbTJBZTV1enpTNXhlY3hTT3Q3YWFjZ0JFX1NWeFM0dmNYanlfYUtn?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-02-15T08:00:00.000Z",
+      "sourceId": "dent",
+      "category": "คณะทันตแพทยศาสตร์",
+      "topic": "activity"
     },
     {
       "title": "กิจกรรม Journal Club: Special Talk",
@@ -2604,7 +2631,7 @@
     {
       "title": "2nd Pharmacy Academic by PSAT โครงการแข่งขันตอบปัญหาวิชาการวิทยาศาสตร์เภสัชกรรมระดับชั้นมัธยมศึกษาตอนปลาย ครั้งที่2",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VR3B6b1JKVk1NWmFObTJ0cG8zZHF0cS1XMFp2d0dUWFZBTEdkTVR5Y2sxbWpYdmdPc2g0UHpOaXpoNzd6ci1YUWV5V0dsZ2ZwcVVv?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2025-12-16T03:58:24.000Z",
       "sourceId": "pharm",
       "category": "คณะเภสัชศาสตร์",
@@ -2802,7 +2829,7 @@
     {
       "title": "เปิดตัว 3 สาขาใหม่ที่วิทยาลัยนานาชาติ มหาวิทยาลัยขอนแก่น!",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04UVNKLXgyQ1FQTDMxWEZpWkxJWjF4NHlGd3VIZUVMMWs4WUxNTDg2cjlaUV9XTUdCTy1tTHlVRm9GcDJLQXROcw?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2025-09-17T07:00:00.000Z",
       "sourceId": "ic",
       "category": "วิทยาลัยนานาชาติ",
