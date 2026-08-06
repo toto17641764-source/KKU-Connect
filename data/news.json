@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T15:03:33.499Z",
+  "updatedAt": "2026-08-06T22:41:04.734Z",
   "sources": [
     {
       "id": "med",
@@ -199,7 +199,7 @@
       "title": "ศาลฎีกายืนจำคุก 2 ปี ไม่รอลงอาญา คดีรถบัส มข. ชน น้องอาย นักศึกษาแพทย์เสียชีวิต แม่หวังเป็นบทเรียนทั้งสังคม",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BNS12Q1lVVEQwMk1HV0hOc2NnaUxkRWVLdGttUkpKUWNGVXpWamRmdGpTRlJtMnZ4TFdPbEE1eVhhamxOX0VmOFo1Z0UxMWI3MkhkdWh3?oc=5",
       "outlet": "LINE TODAY",
-      "publishedAt": "2026-08-06T14:57:09.000Z",
+      "publishedAt": "2026-08-06T15:51:50.000Z",
       "sourceId": "nurse",
       "category": "คณะพยาบาลศาสตร์",
       "topic": "service"
@@ -234,10 +234,19 @@
     {
       "title": "ศาลฎีกายืนคุก 2 ปี คนขับรถบัส มข. คดีชน 'น้องอาย' เสียชีวิต",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqOWhxWnBkNF9sNlFDWDdfLXJNdXQ4OGc3V2xfWnFoVU5ObGRJSGhpMlFvdTlXbDJYVXgyRC1oTmItdVNFdVlKMElScE5EMi1TNWFZRFNfOGg2ZDg?oc=5",
-      "outlet": "thaipost.net",
+      "outlet": "ไทยโพสต์",
       "publishedAt": "2026-08-06T07:25:08.000Z",
       "sourceId": "nurse",
       "category": "คณะพยาบาลศาสตร์",
+      "topic": "service"
+    },
+    {
+      "title": "ศาลฎีกา สั่งคุก 4 ปี คนขับรถบัส ชน น้องอาย นศ.แพทย์ ม.ขอนแก่น เสียชีวิต ในรั้วมหาวิทยาลัย",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2c3o1RmFNMld0LTlNYnBsVW5YcjEwSGJrci1fN3VRaU9vMTd5WmVSSkZ5WmExS2V1azFYRS0tMEcyekNXaVM1X0RvRi1BZ3FZV3FZdHBwY3gwZw?oc=5",
+      "outlet": "Matichon Online",
+      "publishedAt": "2026-08-06T07:11:44.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
       "topic": "service"
     },
     {
@@ -248,6 +257,15 @@
       "sourceId": "kku",
       "category": "มข.",
       "topic": "service"
+    },
+    {
+      "title": "คณะเศรษฐศาสตร์ มข. แสดงความยินดี รศ.วรวีร์ แสงอาวุธ ได้รับทุนสนับสนุน Top 300 ร่วมกับสถาบันชั้นนำต่างประเทศ ประจำปีงบประมาณ 2569 - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5IVFZSX2JPYVIwMjZuaXVvbFZPMVppS2FNdDNIOXIwTHhFbU1NeXowYTY5R3c1S0tScGZPeERnclZIakZMc3pv?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-08-06T06:39:53.000Z",
+      "sourceId": "econ",
+      "category": "คณะเศรษฐศาสตร์",
+      "topic": "scholarship"
     },
     {
       "title": "ย้อน 4 ปี คดีสะเทือนใจ มข. รถบัสชน นศ.แพทย์เสียชีวิต",
@@ -295,6 +313,15 @@
       "topic": "activity"
     },
     {
+      "title": "คณะศิลปกรรมศาสตร์เปิดพื้นที่การเรียนรู้แบบผสมผสานด้วย “หลักสูตรนวัตกรเทศกาลวัฒนธรรม” หวังสร้างกำลังคนเพื่อขับเคลื่อนการพัฒนาเทศกาลวัฒนธรรมของประเทศไทย - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8yLVNfTlNXU1VWWmpIem03dHhxN3dxbE9OWV93TmMtcElPT1hXSWRTZXZ0THFuZmdMQk5Zc1dOY245OFVnWUEw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-08-05T04:24:07.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "topic": "study"
+    },
+    {
       "title": "รองอธิการบดี มข.ได้รับเกียรติเป็นประธานพิธีทำบุญครบรอบ 39 ปี วันสถาปนาคณะสัตวแพทยศาสตร์",
       "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQVUxEeVhTNlRIXzlHWnhOV2JtdzB1TGxtUzhQTlRkcFFKOGp6VTVteTU3cnBjdkl1d09WQ1kxT0F4ZFhVVHI0YzhCUTZYS2dvbWJTZUhqMU9kb3NhV2tRYTZ1ekFWRWFGaUhFZ1pETjhjaXBoRnhMak80NEQzcHRSWURYVmFranVsS2ZZMnhZVlI2WFp3RTJtYnotZE9HcGExb1dwN2xETW9LWm96OVI4ZFFoQkZnblgtMUMxRFVKVURHM3NTeXliSWJCZ0NIaFNKX3BKNFNLcnBYQklhZk9waVctZTIyYlBsWTJMMm9rVUVNRkszMjFXczVDTnJ2MnNwWUIxQ0hwWEFLQWNiR1dpTUFJUUs3QjVLaFlGWENOSzZJMFgwVDE5SGE3M2NXUzBmd3BOX1ZGNVZoSXc2RDZSWi1icGxESG92c3d6NHNmTlRZM1h5aUNaNQ?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -302,6 +329,15 @@
       "sourceId": "vet",
       "category": "คณะสัตวแพทยศาสตร์",
       "topic": "study"
+    },
+    {
+      "title": "วิทยาลัยการคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น จับมือ Lenovo และ AMD ยกระดับโครงสร้างพื้นฐาน AI พร้อมขับเคลื่อนการเรียน การวิจัย และนวัตกรรมสู่สังคม - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9YSTg0T2diQ0E3cnV6Y05jekZpTXRNYXdZRmNma1NDT2ZRYkNpYW03RlhKS0hJN0Z6UGZIWWU4WHFqMFZkb0tJ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-08-04T07:00:00.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
+      "topic": "research"
     },
     {
       "title": "⚽ มข. เจ้าภาพฟุตบอลมหาวิทยาลัย ครั้งที่ 4 ชูกีฬาเพื่อการพัฒนาที่ยั่งยืน",
@@ -331,15 +367,6 @@
       "topic": "other"
     },
     {
-      "title": "คณะวิทยาศาสตร์ มข. ต้อนรับคณะศึกษาดูงาน มรภ.ร้อยเอ็ด แลกเปลี่ยนแนวทาง EdPEx และมาตรฐานห้องปฏิบัติการ",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Ebm90ME9kZTNzZzM3aUliNlE4S1p2MGhpXzNpZU0yeHlyeWpDaXpNVG00NmFpYWszbXIxMXo2Sm93N1c1NDJZ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
-      "publishedAt": "2026-08-03T07:00:00.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
-      "topic": "activity"
-    },
-    {
       "title": "คณะศึกษาศาสตร์ มข. ร่วมกับ สพป.ขอนแก่น เขต 1 และ สพป.สกลนคร เขต 2 จัดประกวดผลงาน “Best Practice: ครูต้นแบบนวัตกรรม” มุ่งขับเคลื่อนสมรรถนะการอ่าน เขียน และคิดขั้นสูง - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE94M1MwUnJIWEJyVlp3SXVLZW5sdnFKWFpSM05fNHNZUmhPdWZCLVpVQUlKMnZPVmxVVDFpTHAxUWRRYy1pZENn?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -358,13 +385,13 @@
       "topic": "service"
     },
     {
-      "title": "วิทยาลัยการคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น จับมือ Lenovo และ AMD ยกระดับโครงสร้างพื้นฐาน AI พร้อมขับเคลื่อนการเรียน การวิจัย และนวัตกรรมสู่สังคม - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9YSTg0T2diQ0E3cnV6Y05jekZpTXRNYXdZRmNma1NDT2ZRYkNpYW03RlhKS0hJN0Z6UGZIWWU4WHFqMFZkb0tJ?oc=5",
+      "title": "คณะวิทยาศาสตร์ มข. ต้อนรับคณะศึกษาดูงาน มรภ.ร้อยเอ็ด แลกเปลี่ยนแนวทาง EdPEx และมาตรฐานห้องปฏิบัติการ",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Ebm90ME9kZTNzZzM3aUliNlE4S1p2MGhpXzNpZU0yeHlyeWpDaXpNVG00NmFpYWszbXIxMXo2Sm93N1c1NDJZ?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
-      "publishedAt": "2026-08-03T05:42:17.000Z",
-      "sourceId": "cp",
-      "category": "วิทยาลัยการคอมพิวเตอร์",
-      "topic": "research"
+      "publishedAt": "2026-08-03T07:00:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "topic": "activity"
     },
     {
       "title": "อีเวนต์ขอนแก่น 2569 งานวันนี้–งานเดือนนี้",
@@ -482,6 +509,15 @@
       "sourceId": "fa",
       "category": "คณะศิลปกรรมศาสตร์",
       "topic": "research"
+    },
+    {
+      "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-07-29T08:37:40.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "topic": "other"
     },
     {
       "title": "“วิศวะ มข. โชว์ศักยภาพด้านหุ่นยนต์ กวาด 3 ทอง 2 เงิน เวทีแข่งขันฝีมือแรงงานแห่งชาติ ครั้งที่ 31 ระดับภาค",
@@ -874,15 +910,6 @@
       "topic": "service"
     },
     {
-      "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
-      "publishedAt": "2026-07-10T07:00:00.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
-      "topic": "other"
-    },
-    {
       "title": "นักวิชาการ มข. ยก 4 เหตุผล หนุนให้ ยุบ กอ.รมน. ชี้ผลาญงบฯนับแสนล้าน",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qVlg3ekdaQkxJNGlGam9BQ01jbTFBYVQ4bDBtV1E0UXozTHE2Tk40dU44c3U0U09Pbm9hTFBRMXNLX1o4a1A4aElScVBzRDU1OXJvRE9Zdzh3YTg?oc=5",
       "outlet": "nationtv.tv",
@@ -1056,7 +1083,7 @@
     {
       "title": "'แทน ไท' ตื่นเต้นเปิดเทอมวันแรก สู่รั้วสถาปัตย์มหาวิทยาลัยขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yQTFGdmpRY29qREUtb2VfTnBJWUdZMjRlTHpSeFFRV3czQi10aV9fS29sbHVTWVpnYzRPUk1FWTduVndHU21FUGRQbnZwYVZKS2JpZFJtNWF6aC1mYjJhRlZR?oc=5",
-      "outlet": "thaipost.net",
+      "outlet": "ไทยโพสต์",
       "publishedAt": "2026-06-30T07:00:00.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
@@ -1110,7 +1137,7 @@
     {
       "title": "นิติ นิด้า เชิญร่วมงาน IP & COPYRIGHT PROGRAM 2026 ฟรี",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0MUpldFM1R1Z1dFdlX1RWSy1VZjBDUGZKcy1RUUhZUWRyZFF3M3hQUENfNUhlTVVYWXY2LVdMTlR0dWZ2SEhvZ3FHNTVVX0NuZ0M3VmhrM1F5VXg2NFB3VUZ4VVhlT2RleGRJSGVCR2RlQQ?oc=5",
-      "outlet": "nida.ac.th",
+      "outlet": "สถาบันบัณฑิตพัฒนบริหารศาสตร์ (NIDA)",
       "publishedAt": "2026-06-26T07:00:00.000Z",
       "sourceId": "law",
       "category": "คณะนิติศาสตร์",
@@ -2438,6 +2465,15 @@
       "sourceId": "cola",
       "category": "วิทยาลัยการปกครองท้องถิ่น",
       "topic": "study"
+    },
+    {
+      "title": "การแข่งขันกีฬาภายในมหาวิทยาลัยขอนแก่น ระหว่างคณะ KKU GAMES 2025",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40dUEtdTdzVXphTlZiLTVSSzhoZ0NISXJHSkdKUVVERHBncXhMVWZacVJsSmR4YWRtcElrQTFRMUc2NkFnSF9pQmp0VVpFakwyTnRDZHFSZnBfYm15X3BnZA?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-02-15T08:00:00.000Z",
+      "sourceId": "arch",
+      "category": "คณะสถาปัตยกรรมศาสตร์",
+      "topic": "activity"
     },
     {
       "title": "เปิดบ้านหมอฟัน DENT KKU OPEN HOUSE 2026 คณะทันตแพทยศาสตร์ มข. จุดประกายฝัน..ว่าที่ทันตแพทย์",
