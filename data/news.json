@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T04:51:00.588Z",
+  "updatedAt": "2026-08-06T07:29:17.754Z",
   "sources": [
     {
       "id": "med",
@@ -195,6 +195,24 @@
     }
   ],
   "items": [
+    {
+      "title": "ศาลฎีกายืนคุก 2 ปี คนขับรถบัส มข. คดีชน 'น้องอาย' เสียชีวิต",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqOWhxWnBkNF9sNlFDWDdfLXJNdXQ4OGc3V2xfWnFoVU5ObGRJSGhpMlFvdTlXbDJYVXgyRC1oTmItdVNFdVlKMElScE5EMi1TNWFZRFNfOGg2ZDg?oc=5",
+      "outlet": "ไทยโพสต์",
+      "publishedAt": "2026-08-06T07:25:08.000Z",
+      "sourceId": "nurse",
+      "category": "คณะพยาบาลศาสตร์",
+      "topic": "service"
+    },
+    {
+      "title": "ศาลฎีกา สั่งจำคุก 4 ปี คนขับรถบัส ชน น้องอาย นศ.แพทย์ ม.ขอนแก่น เสียชีวิต แม่เปิดใจ รอความยุติธรรม 4 ปี",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwWjd3TEk1MUVCUG1BQi1XU3V4OVI1aUF3RWd1ei1XZUNQc2FQT0luUU1LRjJiTVhkZGVHSXdMNmhmUkVfX2pKMDlOeXBQSGd3RW9pamZkTmxjNzNkM1paaGlCNlBhQQ?oc=5",
+      "outlet": "ข่าวสด",
+      "publishedAt": "2026-08-06T06:50:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "topic": "service"
+    },
     {
       "title": "ย้อน 4 ปี คดีสะเทือนใจ มข. รถบัสชน นศ.แพทย์เสียชีวิต",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wcjFTR0x1TENKcnpGX2o3Y1h6M1d4eThVOTFpWVNaTGtFNHJ5ZDhOR1o4YmU3T21iMHdCVkpTS0VWSVQxWDhnZHRZc3I1RDlGdkFrY05qQzA?oc=5",
@@ -766,15 +784,6 @@
       "topic": "other"
     },
     {
-      "title": "\"คณะวิศวะ ม.ขอนแก่น\" แถลงการณ์ สั่งสอบ \"นศ.หญิงชีวิตพัง\" ถูกกลุ่มเพื่อนแกล้ง บูลลี่ จนป่วยซึมเศร้า",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qdWxPSUhuQ0diZVpSbTgyQ1BhZWVyZGFNdElzUEJZdm5fRWMxTHNJdjBka1JEeDlfNDJKbXBtbHU5RTRMNGpCS1BGNUNCYXM?oc=5",
-      "outlet": "topnews.co.th",
-      "publishedAt": "2026-07-13T07:00:00.000Z",
-      "sourceId": "eng",
-      "category": "คณะวิศวกรรมศาสตร์",
-      "topic": "study"
-    },
-    {
       "title": "คณะทันตแพทยศาสตร์ มข. เป็นเจ้าภาพจัดประชุมองค์กรผู้บริหารคณะทันตแพทยศาสตร์แห่งประเทศไทย (อ.บ.ท.ท.) ประจำปี 2569",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5FX1hwdDk0NmxpNkdwTTZXVHZ2UFhJa2RWS2kzMUNPTzdqM1duRkxSMVI1cnBxYVZZaEJDS3Jfc3JFbFByR0Rj?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -782,6 +791,15 @@
       "sourceId": "dent",
       "category": "คณะทันตแพทยศาสตร์",
       "topic": "other"
+    },
+    {
+      "title": "\"คณะวิศวะ ม.ขอนแก่น\" แถลงการณ์ สั่งสอบ \"นศ.หญิงชีวิตพัง\" ถูกกลุ่มเพื่อนแกล้ง บูลลี่ จนป่วยซึมเศร้า",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qdWxPSUhuQ0diZVpSbTgyQ1BhZWVyZGFNdElzUEJZdm5fRWMxTHNJdjBka1JEeDlfNDJKbXBtbHU5RTRMNGpCS1BGNUNCYXM?oc=5",
+      "outlet": "topnews.co.th",
+      "publishedAt": "2026-07-13T07:00:00.000Z",
+      "sourceId": "eng",
+      "category": "คณะวิศวกรรมศาสตร์",
+      "topic": "study"
     },
     {
       "title": "วิศวะ ม.ขอนแก่น แถลงการณ์ ปมนักศึกษาสาวถูกเพื่อนในสาขารุมบูลลี่ กลั่นแกล้ง",
@@ -836,6 +854,15 @@
       "sourceId": "hs",
       "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
       "topic": "other"
+    },
+    {
+      "title": "คณะเศรษฐศาสตร์ มข. จัด Springer Nature Book Workshop รวมเครือข่ายนักวิจัย 11 ประเทศอาเซียน ขับเคลื่อนองค์ความรู้ด้านแรงงานยุคดิจิทัลสู่การตีพิมพ์ระดับนานาชาติ - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xOUVuUW9CRnp6Uk1KTFozNEQyaERwUTVaWUVEOEJEVDJuNU9pQ00xa3VHUmFoNTdhR1NPajZBMXUyaVVKYWFN?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-07-09T12:41:26.000Z",
+      "sourceId": "econ",
+      "category": "คณะเศรษฐศาสตร์",
+      "topic": "research"
     },
     {
       "title": "คณะทันตแพทยศาสตร์ ให้การต้อนรับผู้เชี่ยวชาญด้านทันตกรรมจัดฟันจากสหรัฐอเมริกา",
@@ -2017,6 +2044,15 @@
       "topic": "activity"
     },
     {
+      "title": "1 ทศวรรษ พลังอาสา “ค่าย 6 สถาบัน” มนุษย์-สังคม มข. ผนึกกำลังจัดกิจกรรมเรียนรู้ชุมชน สร้างความเข้มแข็งของเครือข่าย",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ySlZ5QjJKMG1rQXBvb1Z2UkFCQTIxWUdJMzVERENlQkNyWEFkMDFMSXFuTVZPX1BjR3lfajNiRG1kU1Z1UmJz?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-03-16T08:34:08.000Z",
+      "sourceId": "hs",
+      "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+      "topic": "activity"
+    },
+    {
       "title": "KKBS จับมือ TradingView ยกระดับการเรียนรู้ด้านการเงินด้วยเครื่องมือวิเคราะห์ระดับโลก",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBZODRfd05mMDA2N1pRQWViSm45cDhCaThqT1BPTHlnX0l0Y3o3NlhvaGZTUTE2Wkl0Z1BQbVdVVnVVazVXWk9F?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -2188,15 +2224,6 @@
       "topic": "activity"
     },
     {
-      "title": "มข. ผนึก 62 หน่วยงาน จัดมหกรรม KKU Societal Contribution ครั้งที่ 6 เปิดพื้นที่บริการประชาชน ยกระดับคุณภาพชีวิตชุมชนสู่ความยั่งยืน",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43UXY3U3hKTHVPZzBwQzlnNW1qMXFFNmRJZGVHOU5EeVlaMzVjTXNoSkY2bXU2alllWmFEZ1M0dVZ5ZjlUZ1RN?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
-      "publishedAt": "2026-03-06T08:00:00.000Z",
-      "sourceId": "nurse",
-      "category": "คณะพยาบาลศาสตร์",
-      "topic": "activity"
-    },
-    {
       "title": "นักกฎหมายรุ่นใหม่ลงสนามจริง! คณะนิติฯ มข. ปิดฉาก “Young Lawyers and Police Engagement Project รุ่น 3",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1RaUhWUkFrQ0hIZWhLUTBySFFjQjBoamdFYkdYc3RPWnhJSjRFOU96Qi1VQ0hJOGhjbTk4ZFlhZjE1bm56OWtN?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -2204,6 +2231,15 @@
       "sourceId": "law",
       "category": "คณะนิติศาสตร์",
       "topic": "other"
+    },
+    {
+      "title": "มข. ผนึก 62 หน่วยงาน จัดมหกรรม KKU Societal Contribution ครั้งที่ 6 เปิดพื้นที่บริการประชาชน ยกระดับคุณภาพชีวิตชุมชนสู่ความยั่งยืน",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43UXY3U3hKTHVPZzBwQzlnNW1qMXFFNmRJZGVHOU5EeVlaMzVjTXNoSkY2bXU2alllWmFEZ1M0dVZ5ZjlUZ1RN?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-03-06T08:00:00.000Z",
+      "sourceId": "nurse",
+      "category": "คณะพยาบาลศาสตร์",
+      "topic": "activity"
     },
     {
       "title": "คณะสหวิทยาการ มข. สู้ภัยไซเบอร์ เสริมเกราะดิจิทัล",
@@ -2487,7 +2523,7 @@
     {
       "title": "โปรดเกล้าฯ แต่งตั้งศาสตราจารย์ จำนวน 13 ราย จาก 7 มหาวิทยาลัย",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBteGNoMmRQdkJNX3Y2aXpwX1B1SkZWQnFQOEhoalBhbVAxSHdfc3ZLdlJWN0YxMF8yejhQOGJHOG0xOUdRRnZBbUpTX2lLbUdwNkVDUjFYSHc4a1N5Y2J5bzZRdGREVERlTzNvcWhyeDRpanJyQUlnUkxfZXY?oc=5",
-      "outlet": "สำนักข่าวอิศรา",
+      "outlet": "isranews.org",
       "publishedAt": "2025-12-27T08:00:00.000Z",
       "sourceId": "ph",
       "category": "คณะสาธารณสุขศาสตร์",
@@ -2519,6 +2555,15 @@
       "sourceId": "ams",
       "category": "คณะเทคนิคการแพทย์",
       "topic": "service"
+    },
+    {
+      "title": "ศูนย์ความเป็นเลิศด้านการพัฒนาเด็กปฐมวัย คณะพยาบาลศาสตร์ มหาวิทยาลัยขอนแก่น จัดกิจกรรมกีฬาสี ประจำปีการศึกษา 2568 เสริมสร้างพัฒนาการเด็กและสานสัมพันธ์ผู้ปกครอง - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1VTkhYUWZsSTJZbi11dHJ3Y2RWR0tPanl4SUFUWEMyUjRPRWZHT292NlZfdWUzZGZTMDRaUUtVcGNzTFNJZzJR?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2025-12-25T06:09:50.000Z",
+      "sourceId": "nurse",
+      "category": "คณะพยาบาลศาสตร์",
+      "topic": "activity"
     },
     {
       "title": "วิทยาลัยนานาชาติ มข. จับมือ S Curve ยกระดับศักยภาพบุคลากรสู่การเติบโตอย่างยั่งยืน",
@@ -2575,6 +2620,15 @@
       "topic": "research"
     },
     {
+      "title": "คณะพยาบาลศาสตร์ มข. จัดพิธีมอบหมวกและเสื้อแก่นักศึกษาพยาบาลชั้นปีที่ 2 ประจำปีการศึกษา 2568",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5EeFVNWW9SakdLNkdGYjFKT3hraW1sbnh5a3VnaTc0NEVlb1RJNG9oejF1RkkxbXlpbGpGTXRyQXBmTllTbjZV?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2025-12-02T06:25:32.000Z",
+      "sourceId": "nurse",
+      "category": "คณะพยาบาลศาสตร์",
+      "topic": "activity"
+    },
+    {
       "title": "เภสัช มข.เปิด Telehealth Thailand บริการปรึกษาสุขภาพทางไกล ไม่ต้องเดินทาง",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE13T3V3anE1R1lld2dPQ1R5QllDUG80eGpxRTNidkdqZU8ydFBSU1lUTDVvdTMwNy1YbDkwR0o4cXFxRVRESGpz?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -2602,6 +2656,15 @@
       "topic": "activity"
     },
     {
+      "title": "คณะพยาบาลศาสตร์ มข. ร่วมส่งต่อน้ำใจ ช่วยผู้ประสบภัยน้ำท่วมภาคใต้",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE05VjVrNXlpMU5aLXNJUkNBVlA4UHZ5WW5mUDNMUE9aeGI1azZyeWtHeVNRNy1XaE43el9Jd1JkNXh5VWdXSU5n?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2025-11-27T08:00:00.000Z",
+      "sourceId": "nurse",
+      "category": "คณะพยาบาลศาสตร์",
+      "topic": "other"
+    },
+    {
       "title": "เรียนต่อ มข. KKU Insight Ep.24 วิทยาลัยบัณฑิตศึกษาการจัดการ(MBA) มหาวิทยาลัยขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9aT3RNSlprZ1JEdjBKZ05ua0xydFZuWHBuWFZ3RUp3VzlWTWNhcm43NURNdE8xSk5yZTJhcnFWVzlLY3N0dzVF?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -2618,6 +2681,24 @@
       "sourceId": "pharm",
       "category": "คณะเภสัชศาสตร์",
       "topic": "activity"
+    },
+    {
+      "title": "คณบดีคณะพยาบาลศาสตร์ มข. บรรยายเวทีนานาชาติ พร้อมกระชับความร่วมมือกับสมาคมพยาบาลกวางสี สาธารณรัฐประชาชนจีน",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBwV3BKdnRHLXZHalpWemJ6ZmtPRlNwNUNfZVRCaFZ4S1gxRVlQOXd2N2VLZjlTQ1dmUXJZcHBnSFdmN3k5ejJn?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2025-11-14T08:00:00.000Z",
+      "sourceId": "nurse",
+      "category": "คณะพยาบาลศาสตร์",
+      "topic": "activity"
+    },
+    {
+      "title": "คณะพยาบาลศาสตร์ มข. จัดประชุมวิชาการนานาชาติ INHSC 2025 เสริมสร้างนวัตกรรมดิจิทัลเพื่อความยั่งยืนด้านสุขภาพระดับโลก - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9MQklXZlN3eVF5MWljcDBJaHMtRWw1U1E4RHRSQXF6T2pObzFhSjN2MmJMcWRMYi1SSTNrdnZTekQ3QmFaUUVR?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2025-11-14T04:50:04.000Z",
+      "sourceId": "nurse",
+      "category": "คณะพยาบาลศาสตร์",
+      "topic": "research"
     },
     {
       "title": "คณะเภสัชศาสตร์ มข. ร่วมประชุม “The 2025 ASEAN PharmNET Dean’s Summit” เสริมสร้างความร่วมมือทางวิชาการระดับภูมิภาค",
@@ -2735,6 +2816,15 @@
       "sourceId": "cp",
       "category": "วิทยาลัยการคอมพิวเตอร์",
       "topic": "research"
+    },
+    {
+      "title": "คณะทันตแพทยศาสตร์ มหาวิทยาลัยขอนแก่น ขอแสดงความยินดี กับ “นักศึกษารางวัลพระราชทาน ระดับอุดมศึกษา” ประจำปีการศึกษา ๒๕๖๗ - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84V3I4dVFJa3ZnYkEyZHNNb0dDU2lWRW5JaGlHVWJBaU9jaDdZRzVTcUhXUDdManZBVW9pOVdDWGt1MXFYUUlr?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2025-08-28T19:04:12.000Z",
+      "sourceId": "ph",
+      "category": "คณะสาธารณสุขศาสตร์",
+      "topic": "activity"
     },
     {
       "title": "วิทยาลัยการคอมพิวเตอร์ มข. ลงนาม MOU ขยายความร่วมมือ 5 หน่วยงาน พัฒนาหลักสูตร AI ข้ามศาสตร์",
