@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T01:11:33.856Z",
+  "updatedAt": "2026-08-06T04:51:00.588Z",
   "sources": [
     {
       "id": "med",
@@ -196,6 +196,15 @@
   ],
   "items": [
     {
+      "title": "ย้อน 4 ปี คดีสะเทือนใจ มข. รถบัสชน นศ.แพทย์เสียชีวิต",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wcjFTR0x1TENKcnpGX2o3Y1h6M1d4eThVOTFpWVNaTGtFNHJ5ZDhOR1o4YmU3T21iMHdCVkpTS0VWSVQxWDhnZHRZc3I1RDlGdkFrY05qQzA?oc=5",
+      "outlet": "Thai PBS",
+      "publishedAt": "2026-08-06T03:22:40.000Z",
+      "sourceId": "med",
+      "category": "คณะแพทยศาสตร์",
+      "topic": "service"
+    },
+    {
       "title": "คณะศึกษาศาสตร์ร่วมกับกองทรัพยากรบุคคล จัดกิจกรรมเตรียมความพร้อมบุคลากรสายผู้สอน ก้าวสู่ตำแหน่งทางวิชาการตามเกณฑ์ใหม่ 2569 - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1XUjFGc2xKZDRibW9kc3NSUHpLaV84c0pKa0hMLWYtbkM3enJkX2Y2UDBqdl9EOWcxU3hNdGlwZXdaN2hRWms4?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -241,6 +250,15 @@
       "topic": "other"
     },
     {
+      "title": "มข. ผนึกเครือข่ายดัน \"การแพทย์แม่นยำ\" ใช้จีโนมิกส์ยกระดับรักษามะเร็ง | The Better",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sT2RWVnFJVllIZU5iOU5Ud1Z5Q0dzNmFGYmpwbTZBVWNfbGJ3Vi1nLUhtS3o2dDFlNGR4RUpOMldiMWUweTFKYlE5cGxvSlhCUWtqbEp3?oc=5",
+      "outlet": "LINE TODAY",
+      "publishedAt": "2026-08-03T13:14:22.000Z",
+      "sourceId": "med",
+      "category": "คณะแพทยศาสตร์",
+      "topic": "service"
+    },
+    {
       "title": "คณบดีคณะวิทยาศาสตร์ มข. ร่วมรายการสด “ข่าวอีสานวันนี้” เชิญชวนร่วมงานสัปดาห์วิทยาศาสตร์แห่งชาติ 2569",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE50MzhsZE1STk93Qll5azJRN2ZkWjB5RG42aWl4cl94QWlnQ3FkS2QzOTJxVUFRTDBtQzB1ZjZFcmlBREZHdGQ0?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -266,6 +284,15 @@
       "sourceId": "edu",
       "category": "คณะศึกษาศาสตร์",
       "topic": "research"
+    },
+    {
+      "title": "“โครงการสัปดาห์สุขภาพสัตว์เลี้ยง” 4 สิงหาคม เนื่องในโอกาส “วันสัตวแพทย์ไทย”",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOVXZZaUN3S0tWNkFpSjA4NlZwcURySWdCclFQNFYxWUxlX2xGM3VvU3hhOFB3Z1p2VHlqWXpMNjdsdVNjemJpdVJ6SE1TaGpnM3M4Q0UyZTZMMWZHSl82elJ3V1hiQnZZVmNrcXZDdE9oTzlMTWdxNzZScndoUElIeDM4SGMxZHh2M25Xa3o5YkhGNjRtMDUtWDZybTRqNktFNnpLZFFuRG5zeUpVNXNVcmdfcjgxN3VJQy1GdGpFdC1Kd0VUUTBHRXRjX2RjNTY5WnZXVmwweVVmeC11Um92ZEk1YXV6X3FzN2RTRTU0VVNkT1kxQmhYcFp4WmhzREM1eXJNbmIyb1FEZVY4TThERzN3YjRJLUhWakdUUVNwZzVTTmdKSHpWQ2NRbDYxeFcwZ2hEa256N3ZkZ01iVVFqaHA0MU5tUHVybTU1V2lRaw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-08-03T07:00:00.000Z",
+      "sourceId": "vet",
+      "category": "คณะสัตวแพทยศาสตร์",
+      "topic": "service"
     },
     {
       "title": "วิทยาลัยการคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น จับมือ Lenovo และ AMD ยกระดับโครงสร้างพื้นฐาน AI พร้อมขับเคลื่อนการเรียน การวิจัย และนวัตกรรมสู่สังคม - Khon Kaen University",
@@ -353,15 +380,6 @@
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wV3FqYnNicDNVN3c4anQtZzdOYkNxak01azNIQ0pNWFJtbGZmMjhCMGs5dFRPUXR0d1FCaXpJeG5rOUVRa21COWY1Z0lmT3ppRHdj?oc=5",
       "outlet": "เดลินิวส์",
       "publishedAt": "2026-07-31T03:36:00.000Z",
-      "sourceId": "med",
-      "category": "คณะแพทยศาสตร์",
-      "topic": "service"
-    },
-    {
-      "title": "มข. ผนึกเครือข่ายดัน \"การแพทย์แม่นยำ\" ใช้จีโนมิกส์ยกระดับรักษามะเร็ง | The Better",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sT2RWVnFJVllIZU5iOU5Ud1Z5Q0dzNmFGYmpwbTZBVWNfbGJ3Vi1nLUhtS3o2dDFlNGR4RUpOMldiMWUweTFKYlE5cGxvSlhCUWtqbEp3?oc=5",
-      "outlet": "LINE TODAY",
-      "publishedAt": "2026-07-31T03:02:26.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
       "topic": "service"
@@ -493,24 +511,6 @@
       "topic": "research"
     },
     {
-      "title": "“โครงการสัปดาห์สุขภาพสัตว์เลี้ยง” 4 สิงหาคม เนื่องในโอกาส “วันสัตวแพทย์ไทย”",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOVXZZaUN3S0tWNkFpSjA4NlZwcURySWdCclFQNFYxWUxlX2xGM3VvU3hhOFB3Z1p2VHlqWXpMNjdsdVNjemJpdVJ6SE1TaGpnM3M4Q0UyZTZMMWZHSl82elJ3V1hiQnZZVmNrcXZDdE9oTzlMTWdxNzZScndoUElIeDM4SGMxZHh2M25Xa3o5YkhGNjRtMDUtWDZybTRqNktFNnpLZFFuRG5zeUpVNXNVcmdfcjgxN3VJQy1GdGpFdC1Kd0VUUTBHRXRjX2RjNTY5WnZXVmwweVVmeC11Um92ZEk1YXV6X3FzN2RTRTU0VVNkT1kxQmhYcFp4WmhzREM1eXJNbmIyb1FEZVY4TThERzN3YjRJLUhWakdUUVNwZzVTTmdKSHpWQ2NRbDYxeFcwZ2hEa256N3ZkZ01iVVFqaHA0MU5tUHVybTU1V2lRaw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
-      "publishedAt": "2026-07-23T10:35:36.000Z",
-      "sourceId": "vet",
-      "category": "คณะสัตวแพทยศาสตร์",
-      "topic": "service"
-    },
-    {
-      "title": "มหาวิทยาลัยขอนแก่น ต้อนรับคณะกรรมการสมาชิกวุฒิสภาพบประชาชน รับฟังข้อเสนอเชิงนโยบาย ขับเคลื่อนการพัฒนาคุณภาพชีวิตบุคลากรและสังคม - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBySEs1a2NoMjR3S1Z0WGhVOXVJZzd0c2xSLVBvOFJpS2w1c0l1b3BKeDFqME9kc05Xd2poblNMZG1BaWYzX3c0?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
-      "publishedAt": "2026-07-23T09:45:05.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "topic": "activity"
-    },
-    {
       "title": "ทีม Playground คณะเทคโนฯ มข. ร่วมแถลงข่าว เตรียมลุยรอบชิงฯ Gourmet & Cuisine Young Chef 2026",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBiTFpURkQwNThfV1plU3FTMVlIbHB6Sl9WRXBFM01ZUzl2VW04NWNIMTRWX09NaURMdm0yUjgwR3lsaFh0Q3NB?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -547,6 +547,15 @@
       "topic": "other"
     },
     {
+      "title": "มหาวิทยาลัยขอนแก่น ต้อนรับคณะกรรมการสมาชิกวุฒิสภาพบประชาชน รับฟังข้อเสนอเชิงนโยบาย ขับเคลื่อนการพัฒนาคุณภาพชีวิตบุคลากรและสังคม - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBySEs1a2NoMjR3S1Z0WGhVOXVJZzd0c2xSLVBvOFJpS2w1c0l1b3BKeDFqME9kc05Xd2poblNMZG1BaWYzX3c0?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-07-22T07:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "topic": "activity"
+    },
+    {
       "title": "คณะวิศวกรรมศาสตร์ มหาวิทยาลัยขอนแก่น อบรมเชิงปฏิบัติการ “การบูรณาการ Generative AI สำหรับงานนักข่าวและสื่อสารมวลชนยุคดิจิทัล - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1VYzMwa1gtYWdKT2REV3NqYkQxZENPS3NMaEs5bWZFS0RzX2FGdWt5SXpDQldhaHhVWUVFZ2tpQXBjLWJrRS13?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -580,6 +589,15 @@
       "publishedAt": "2026-07-21T08:20:34.000Z",
       "sourceId": "edu",
       "category": "คณะศึกษาศาสตร์",
+      "topic": "activity"
+    },
+    {
+      "title": "ส่งผลงานเข้าประกวด “SMART KKU” ชิงเงินรางวัลรวมกว่า 85,000 บาท",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNLTRMUWtuS0lNYW1Tb2dmNTJzaGtOOXhTRmo4dUpvdWMxUzU4eFFvbjZGa3VHR1dHUTRVNnphdkZqN3BKYXU3T1JJeWZPNVZzXzFYM1ctSm9vN0R4ZmQzQUF3c1ZNUm5uelVEbEhONWJDNXZwa0hMUWJlS3BUbVZjY1g0UElGbS14UGpPa3RkVGtpOTVKWkNraTJTTHJEWDF5WmV6aGR1ZW1nRzRTa1hRN01UZGpMaEFUUWJ3bXl1b3ZaWlJyaE5QdlZZbnhfQTJ6VnlrOEw0UlRzS1FaN1N6ak9wOFNrY2VFWGRtemdDc2V2ZW41dk9McF9lOUlkanVKQy03Ujd5MjQybkR1dlRiLVFYZEpDSlZSdzU5QXJqVU9xTWZIdk5EcmdSZEhhSzI5U0ZYcUhWYmdQdGFVVDlKWA?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-07-21T06:05:03.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
       "topic": "activity"
     },
     {
@@ -748,6 +766,15 @@
       "topic": "other"
     },
     {
+      "title": "\"คณะวิศวะ ม.ขอนแก่น\" แถลงการณ์ สั่งสอบ \"นศ.หญิงชีวิตพัง\" ถูกกลุ่มเพื่อนแกล้ง บูลลี่ จนป่วยซึมเศร้า",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qdWxPSUhuQ0diZVpSbTgyQ1BhZWVyZGFNdElzUEJZdm5fRWMxTHNJdjBka1JEeDlfNDJKbXBtbHU5RTRMNGpCS1BGNUNCYXM?oc=5",
+      "outlet": "topnews.co.th",
+      "publishedAt": "2026-07-13T07:00:00.000Z",
+      "sourceId": "eng",
+      "category": "คณะวิศวกรรมศาสตร์",
+      "topic": "study"
+    },
+    {
       "title": "คณะทันตแพทยศาสตร์ มข. เป็นเจ้าภาพจัดประชุมองค์กรผู้บริหารคณะทันตแพทยศาสตร์แห่งประเทศไทย (อ.บ.ท.ท.) ประจำปี 2569",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5FX1hwdDk0NmxpNkdwTTZXVHZ2UFhJa2RWS2kzMUNPTzdqM1duRkxSMVI1cnBxYVZZaEJDS3Jfc3JFbFByR0Rj?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -764,15 +791,6 @@
       "sourceId": "eng",
       "category": "คณะวิศวกรรมศาสตร์",
       "topic": "other"
-    },
-    {
-      "title": "\"คณะวิศวะ ม.ขอนแก่น\" แถลงการณ์ สั่งสอบ \"นศ.หญิงชีวิตพัง\" ถูกกลุ่มเพื่อนแกล้ง บูลลี่ จนป่วยซึมเศร้า",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qdWxPSUhuQ0diZVpSbTgyQ1BhZWVyZGFNdElzUEJZdm5fRWMxTHNJdjBka1JEeDlfNDJKbXBtbHU5RTRMNGpCS1BGNUNCYXM?oc=5",
-      "outlet": "topnews.co.th",
-      "publishedAt": "2026-07-13T07:00:00.000Z",
-      "sourceId": "eng",
-      "category": "คณะวิศวกรรมศาสตร์",
-      "topic": "study"
     },
     {
       "title": "งานมหกรรมงานแสดงผลงานสร้างสรรค์และนวัตกรรมแห่งภูมิภาคอีสาน ประจำปี 2569 (ICIS 2026)",
@@ -1927,6 +1945,15 @@
       "topic": "activity"
     },
     {
+      "title": "ศึกษาศาสตร์ร่วมนำเสนอการขับเคลื่อนการศึกษา สู่ยุค New Isan ในปาฐกถาพิเศษ 60ปี มข. โดยรองนายกฯ",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4xQlFxMTlfdGNBSzc2SG1UdDFMSDNVVmE1ZjZLNkVad3hhcXgyY1pWU3JuSXRDVlRTa25TTk5mVTZEUQ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-03-21T15:31:02.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "topic": "other"
+    },
+    {
       "title": "การแสดง faith : The Miracle of Heaven and Earth *มหัศจรรย์แห่งท้องฟ้าและผืนดิน*",
       "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOODBBMkUzY2NzTnRkTURWa3BQWHd6SnI2NzE0aDl5a1RsLVpaNnVNQmo4WjZsbnp2a1ZLVWxaaFlhY2xZY1N1SGJBTnhobzBNUXNPcVphNlNmSkJGdG04NTl5RUdqT0loVTB5VU96QUYtUzJ1MlNoQWVuVHEtQjJiMzBpbUQzdmxkUGM2UnNlVlVaSXNPOXlRRjREcHRBYm02cEFvWmVldnY0RTdGY0JmNmZXNlhEaHNpaU1jeEUxQUtiZzAxRGx1Y2t2UUd1MGZkQXZRZE1WcFcxWXJNYjUtUTZ0SFpaSTdPTXlaVDN2S3A1V1p0MF9iQVdxR1lnNTFWWDg5Y1pLSG1wTGhxZlVkNUZWa19XNjZhZkVpU2VraUM1UzdvX1k5ci1wOFM1dzlZYnYzdDFtWk5uZHNncVhGcFhB?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -2114,6 +2141,15 @@
       "sourceId": "ams",
       "category": "คณะเทคนิคการแพทย์",
       "topic": "study"
+    },
+    {
+      "title": "มหาวิทยาลัยขอนแก่นบริการชุมชน | KKU Societal Contribution 2026 | ประมวลภาพกิจกรรม",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5KdTRVNV9JUU4telJFN3RrWkp0LWRuOU5KaGNiMkczQ3dKd0Y5T3pua1B0bnlJTnotVGxuUzkyUG4yMHVJUlVz?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-03-09T08:45:32.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "topic": "activity"
     },
     {
       "title": "เปิดรั้ว 7 สาขา คณะบริหารธุรกิจและการบัญชี ม.ขอนแก่น ครอบคลุมทั้งด้านธุรกิจ-บัญชี-ดิจิทัล",
@@ -2339,6 +2375,15 @@
       "sourceId": "gs",
       "category": "บัณฑิตวิทยาลัย",
       "topic": "activity"
+    },
+    {
+      "title": "กองคลัง ประชาสัมพันธ์ให้บุคลากรมหาวิทยาลัยขอนแก่นทราบ เกี่ยวกับการตรวจสอบและดำเนินการพิมพ์หนังสือรับรองภาษีหัก ณ ที่จ่ายประจำปี 2568 (ตามมาตรา 50 ทวิ) - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB4M1lydVhZQUNLQkxVczFOOTh2TEpxTGpaZWtUQk5aNE9tTHhrdXFpNzhaNjBtejJKVDVnY1RLZEFSU3UwZEZn?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-02-06T05:26:57.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "topic": "study"
     },
     {
       "title": "คณะศิลปกรรมศาสตร์ มข.ร่วมเป็นเจ้าภาพประชุมสัมมนาเครือข่ายสถาบันอุดมศึกษาทางด้านสถาปัตยกรรม ศิลปกรรมและการออกแบบ สู่ความเป็นเลิศทางวิชาการ - Khon Kaen University",
