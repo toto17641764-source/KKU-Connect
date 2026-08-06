@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T12:47:42.662Z",
+  "updatedAt": "2026-08-06T15:03:33.499Z",
   "sources": [
     {
       "id": "med",
@@ -196,6 +196,24 @@
   ],
   "items": [
     {
+      "title": "ศาลฎีกายืนจำคุก 2 ปี ไม่รอลงอาญา คดีรถบัส มข. ชน น้องอาย นักศึกษาแพทย์เสียชีวิต แม่หวังเป็นบทเรียนทั้งสังคม",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BNS12Q1lVVEQwMk1HV0hOc2NnaUxkRWVLdGttUkpKUWNGVXpWamRmdGpTRlJtMnZ4TFdPbEE1eVhhamxOX0VmOFo1Z0UxMWI3MkhkdWh3?oc=5",
+      "outlet": "LINE TODAY",
+      "publishedAt": "2026-08-06T14:57:09.000Z",
+      "sourceId": "nurse",
+      "category": "คณะพยาบาลศาสตร์",
+      "topic": "service"
+    },
+    {
+      "title": "รอคอยมา4 ปี!! แม่ \"น้องอาย\" นศ.แพทยศาสตร์ ฟังคำ\"ศาลฎีกา\" สั่งจำคุก 4 ปี \"โชเฟอร์รถบัส\" ขับชนลูกสาวเสียชีวิต สู้ต่อฟ้อง \"ม.ขอนแก่น\" ชดใช้ 9 ล้าน",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBdGNpUHFXUkxKQjdCeEw5VU9fLVpsbVJxSDlsX3dEQ3BKZlROdEVCZzdCMU1xR29RY3ltMEw4S2o0U3dVcHhkVUtOaXJWWXM?oc=5",
+      "outlet": "topnews.co.th",
+      "publishedAt": "2026-08-06T10:37:32.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "topic": "service"
+    },
+    {
       "title": "ศาลสั่งจำคุก 4 ปี พนักงานขับรถบัส เฉี่ยวชน \"นศ.แพทย์\" ปี 2 เสียชีวิต",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NaVhleC1xZHctWHAtUGxPVVdfOVFhR1V5S0ZYY1pId1dnTEFXRXFTcHBEUzRndER4bFNIb09wWDF2WUVJTll6N0VhUHNvSGg0QUQ5OG1KZ2ZwakpqWFlqRFBR?oc=5",
       "outlet": "komchadluek",
@@ -205,9 +223,18 @@
       "topic": "service"
     },
     {
+      "title": "ศาลฎีกายืนคำตัดสิน จำคุก 2 ปี ไม่รอลงอาญา คนขับรถบัสคณะพยาบาลศาสตร์ชนนักศึกษาแพทย์เสียชีวิต",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tcDc0VnduUk5JVElLSXpmdXB1aC1tM1NvaHRWLWgydXVlQW1VTmFqbFJ5Q0RzNVpnNEQ5ZW5oTEVjZlh2QnRTY0lsWlYzZjRNUGtWRmRkTmNldw?oc=5",
+      "outlet": "CH3Plus.com",
+      "publishedAt": "2026-08-06T07:39:52.000Z",
+      "sourceId": "nurse",
+      "category": "คณะพยาบาลศาสตร์",
+      "topic": "service"
+    },
+    {
       "title": "ศาลฎีกายืนคุก 2 ปี คนขับรถบัส มข. คดีชน 'น้องอาย' เสียชีวิต",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqOWhxWnBkNF9sNlFDWDdfLXJNdXQ4OGc3V2xfWnFoVU5ObGRJSGhpMlFvdTlXbDJYVXgyRC1oTmItdVNFdVlKMElScE5EMi1TNWFZRFNfOGg2ZDg?oc=5",
-      "outlet": "ไทยโพสต์",
+      "outlet": "thaipost.net",
       "publishedAt": "2026-08-06T07:25:08.000Z",
       "sourceId": "nurse",
       "category": "คณะพยาบาลศาสตร์",
@@ -387,7 +414,7 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "outlet": "dek-d.com",
+      "outlet": "Dek-D.com",
       "publishedAt": "2026-07-31T08:15:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -639,7 +666,7 @@
     {
       "title": "แสงทอง-อัครา ส่งมอบปรับปรุงอาคารเรียนรวมสัตว์ปีกและสุกร ม.ขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlYXBGMnpIc1VRY3I1SmJFTTI3SFo0bzdqLUtUd2dXaHVKd3A0SE5WRUZ1bmU5Wm9GNTRrQnh6TWpadlBFbUxOTWJ3aUkwQU5DcHN4cWdlTmJPMDlzdERxTVRUak5fcFFNWTQ2eGl5TWk4QUVXbGtVYw?oc=5",
-      "outlet": "khaosod.co.th",
+      "outlet": "ข่าวสด",
       "publishedAt": "2026-07-20T07:00:00.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
@@ -1029,7 +1056,7 @@
     {
       "title": "'แทน ไท' ตื่นเต้นเปิดเทอมวันแรก สู่รั้วสถาปัตย์มหาวิทยาลัยขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yQTFGdmpRY29qREUtb2VfTnBJWUdZMjRlTHpSeFFRV3czQi10aV9fS29sbHVTWVpnYzRPUk1FWTduVndHU21FUGRQbnZwYVZKS2JpZFJtNWF6aC1mYjJhRlZR?oc=5",
-      "outlet": "ไทยโพสต์",
+      "outlet": "thaipost.net",
       "publishedAt": "2026-06-30T07:00:00.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
@@ -1083,7 +1110,7 @@
     {
       "title": "นิติ นิด้า เชิญร่วมงาน IP & COPYRIGHT PROGRAM 2026 ฟรี",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0MUpldFM1R1Z1dFdlX1RWSy1VZjBDUGZKcy1RUUhZUWRyZFF3M3hQUENfNUhlTVVYWXY2LVdMTlR0dWZ2SEhvZ3FHNTVVX0NuZ0M3VmhrM1F5VXg2NFB3VUZ4VVhlT2RleGRJSGVCR2RlQQ?oc=5",
-      "outlet": "สถาบันบัณฑิตพัฒนบริหารศาสตร์ (NIDA)",
+      "outlet": "nida.ac.th",
       "publishedAt": "2026-06-26T07:00:00.000Z",
       "sourceId": "law",
       "category": "คณะนิติศาสตร์",
@@ -1272,7 +1299,7 @@
     {
       "title": "คณะแพทยฯ ม.ขอนแก่น เปิดข้อมูล ภาวะขาดวิตามิน-แร่ธาตุที่สำคัญ Triple Burden พบในเด็กภาวะน้ำหนักเกิน",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tMG9UYW9xbXpzR2FSUzdNWWU4VG5qR052a1M5MVpyaFlpZUw2UUMtRlJHdFdSRWE3YWxVTUlnRTkxS29VUXo3cDY3cnJZSDhyVFB5aFRvMnM0V3c?oc=5",
-      "outlet": "khaosod.co.th",
+      "outlet": "ข่าวสด",
       "publishedAt": "2026-06-08T07:00:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -2046,7 +2073,7 @@
     {
       "title": "เวียดนามชูไทย 'คู่ค้ารายใหญ่สุดในอาเซียน' เร่งดึงนักลงทุนเป้า 2.5 หมื่นล้านดอลลาร์",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93TUhoV1E5dThnT19sVnV3d2NuYTdmWnBaOV9aTFVPZHFpRDdWSjl2TVFKX2MtNi1nNHI3b3RFWDV5MG0yem1vN3Noa1kyTTRuLS1qVXhfNmV0dkVDUVV3?oc=5",
-      "outlet": "springnews.co.th",
+      "outlet": "springnews",
       "publishedAt": "2026-03-18T10:34:37.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -2217,7 +2244,7 @@
     {
       "title": "เปิดรั้ว 7 สาขา คณะบริหารธุรกิจและการบัญชี ม.ขอนแก่น ครอบคลุมทั้งด้านธุรกิจ-บัญชี-ดิจิทัล",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tVHc4cVlQMl9kaDlGSGMxeUdxRHNUbVd2TEpZb1FwOENLS1ZBZDh4OTFRRlVrRXpManEwdHdyM1JaUllHalkxVQ?oc=5",
-      "outlet": "dek-d.com",
+      "outlet": "Dek-D.com",
       "publishedAt": "2026-03-09T07:00:00.000Z",
       "sourceId": "kkbs",
       "category": "คณะบริหารธุรกิจและการบัญชี",
@@ -2631,7 +2658,7 @@
     {
       "title": "2nd Pharmacy Academic by PSAT โครงการแข่งขันตอบปัญหาวิชาการวิทยาศาสตร์เภสัชกรรมระดับชั้นมัธยมศึกษาตอนปลาย ครั้งที่2",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VR3B6b1JKVk1NWmFObTJ0cG8zZHF0cS1XMFp2d0dUWFZBTEdkTVR5Y2sxbWpYdmdPc2g0UHpOaXpoNzd6ci1YUWV5V0dsZ2ZwcVVv?oc=5",
-      "outlet": "dek-d.com",
+      "outlet": "Dek-D.com",
       "publishedAt": "2025-12-16T03:58:24.000Z",
       "sourceId": "pharm",
       "category": "คณะเภสัชศาสตร์",
@@ -2829,7 +2856,7 @@
     {
       "title": "เปิดตัว 3 สาขาใหม่ที่วิทยาลัยนานาชาติ มหาวิทยาลัยขอนแก่น!",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04UVNKLXgyQ1FQTDMxWEZpWkxJWjF4NHlGd3VIZUVMMWs4WUxNTDg2cjlaUV9XTUdCTy1tTHlVRm9GcDJLQXROcw?oc=5",
-      "outlet": "dek-d.com",
+      "outlet": "Dek-D.com",
       "publishedAt": "2025-09-17T07:00:00.000Z",
       "sourceId": "ic",
       "category": "วิทยาลัยนานาชาติ",
