@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T09:46:03.175Z",
+  "updatedAt": "2026-08-07T10:39:11.203Z",
   "sources": [
     {
       "id": "med",
@@ -225,7 +225,7 @@
     {
       "title": "ศาลฎีกายืนคำตัดสิน จำคุก 2 ปี ไม่รอลงอาญา คนขับรถบัสคณะพยาบาลศาสตร์ชนนักศึกษาแพทย์เสียชีวิต",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tcDc0VnduUk5JVElLSXpmdXB1aC1tM1NvaHRWLWgydXVlQW1VTmFqbFJ5Q0RzNVpnNEQ5ZW5oTEVjZlh2QnRTY0lsWlYzZjRNUGtWRmRkTmNldw?oc=5",
-      "outlet": "CH3Plus.com",
+      "outlet": "ch3plus.com",
       "publishedAt": "2026-08-06T07:39:52.000Z",
       "sourceId": "nurse",
       "category": "คณะพยาบาลศาสตร์",
@@ -252,7 +252,7 @@
     {
       "title": "ศาลฎีกา สั่งจำคุก 4 ปี คนขับรถบัส ชน น้องอาย นศ.แพทย์ ม.ขอนแก่น เสียชีวิต แม่เปิดใจ รอความยุติธรรม 4 ปี",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwWjd3TEk1MUVCUG1BQi1XU3V4OVI1aUF3RWd1ei1XZUNQc2FQT0luUU1LRjJiTVhkZGVHSXdMNmhmUkVfX2pKMDlOeXBQSGd3RW9pamZkTmxjNzNkM1paaGlCNlBhQQ?oc=5",
-      "outlet": "khaosod.co.th",
+      "outlet": "ข่าวสด",
       "publishedAt": "2026-08-06T06:50:00.000Z",
       "sourceId": "kku",
       "category": "มข.",
@@ -1288,15 +1288,6 @@
       "topic": "activity"
     },
     {
-      "title": "เปิดเส้นทางชีวิต วีระศักดิ์ ขอบเขต ผู้ประกาศข่าวที่ถูกบันทึกในหน้าประวัติศาสตร์ กับภารกิจที่หัวใจต้องแกร่ง | แนวหน้า",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11OS1ic3QxelNsVlFKZnhNVlhYa0x0REx4TEpmVG11WHdpeHMtYVdVcUI1LVBIQ2hXSFhDYUdaUXE4X3JJanhBdFVUVFN5SXJKUk92Vjln?oc=5",
-      "outlet": "LINE TODAY",
-      "publishedAt": "2026-06-12T11:47:40.000Z",
-      "sourceId": "hs",
-      "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
-      "topic": "announce"
-    },
-    {
       "title": "นิติศาสตร์ มข. จับมือสภาทนายความขอนแก่น ยกระดับการศึกษากฎหมายสู่ภาคปฏิบัติ",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SbmREU1pTOGFKeW1uSjNaZTNRUlpiTEx4QWVzVnk2UWVCaWIzMnRPc0ozejFVUW5YdmdCMnhVNTRKbHhLRklZdURpNWhWRTNIbG9vN1owT1E?oc=5",
       "outlet": "banmuang.co.th",
@@ -1304,6 +1295,15 @@
       "sourceId": "law",
       "category": "คณะนิติศาสตร์",
       "topic": "other"
+    },
+    {
+      "title": "เปิดเส้นทางชีวิต วีระศักดิ์ ขอบเขต ผู้ประกาศข่าวที่ถูกบันทึกในหน้าประวัติศาสตร์ กับภารกิจที่หัวใจต้องแกร่ง | แนวหน้า",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11OS1ic3QxelNsVlFKZnhNVlhYa0x0REx4TEpmVG11WHdpeHMtYVdVcUI1LVBIQ2hXSFhDYUdaUXE4X3JJanhBdFVUVFN5SXJKUk92Vjln?oc=5",
+      "outlet": "LINE TODAY",
+      "publishedAt": "2026-06-11T07:00:00.000Z",
+      "sourceId": "hs",
+      "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+      "topic": "announce"
     },
     {
       "title": "เปิดรับสมัครแล้ว! MBA มข. ชวนอบรม “พลิกมุมมอง เปลี่ยนวิธีคิด เรื่องคุณภาพ”",
@@ -1882,15 +1882,6 @@
       "topic": "other"
     },
     {
-      "title": "วิทยาลัยการปกครองท้องถิ่น มข. ฉลอง 19 ปี แห่งความภาคภูมิใจ มุ่งส่งมอบคุณค่าสู่สังคมอย่างยั่งยืน",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Jc3lrc2pqTG55VlJ4ZXNJZ2ZlVHA0TWgxeXZ6enh0VGI0TFdTZ2s4SGNIZFM4eTZJWHl4OEUwS0tjTnFyM0R1NGx3NTdRZ0gwR1o3SHJIcEY?oc=5",
-      "outlet": "banmuang.co.th",
-      "publishedAt": "2026-04-07T07:00:00.000Z",
-      "sourceId": "cola",
-      "category": "วิทยาลัยการปกครองท้องถิ่น",
-      "topic": "other"
-    },
-    {
       "title": "วิศวะ-วิทย์ มข. เปิด “ตรีควบโท” เรียน 5 ปี ได้ 2 ปริญญา ปั้นบัณฑิตสายเทคนวัตกรรมรับอุตสาหกรรมอนาคต",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5pYXdkR1hjLWRQdE5ONThKRzB6OTRWbUNGWGJwN29aamM2eUpBWHdrLVR6LVI2eEJmcVpwa0VVYUYtd2dlTmEw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -1898,6 +1889,15 @@
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
       "topic": "research"
+    },
+    {
+      "title": "วิทยาลัยการปกครองท้องถิ่น มข. ฉลอง 19 ปี แห่งความภาคภูมิใจ มุ่งส่งมอบคุณค่าสู่สังคมอย่างยั่งยืน",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Jc3lrc2pqTG55VlJ4ZXNJZ2ZlVHA0TWgxeXZ6enh0VGI0TFdTZ2s4SGNIZFM4eTZJWHl4OEUwS0tjTnFyM0R1NGx3NTdRZ0gwR1o3SHJIcEY?oc=5",
+      "outlet": "banmuang.co.th",
+      "publishedAt": "2026-04-07T07:00:00.000Z",
+      "sourceId": "cola",
+      "category": "วิทยาลัยการปกครองท้องถิ่น",
+      "topic": "other"
     },
     {
       "title": "ศูนย์หัวใจสิริกิติ์ฯ ปลุกพลัง “เมล็ดพันธุ์ CPR” ที่คณะสาธารณสุขศาสตร์ มข.",
