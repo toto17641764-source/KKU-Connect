@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T18:34:49.150Z",
+  "updatedAt": "2026-08-07T19:41:22.974Z",
   "sources": [
     {
       "id": "med",
@@ -205,6 +205,15 @@
       "topic": "other"
     },
     {
+      "title": "วิทยาลัยการคอมพิวเตอร์ มข. เปิดยุทธศาสตร์ Quantum Computing ในกิจกรรม Siam-Quantum Nexus 2026",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9vZDIzU0NnTnZDMmdnakhnd0VyOHkyX3FzM3EtMDQ3QTBBVm9qOWpfRm9McDlWd0FUeTJTeHNmYUJlcm4ySnRz?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-08-07T10:10:35.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
+      "topic": "activity"
+    },
+    {
       "title": "ศาลฎีกายืนจำคุก 2 ปี ไม่รอลงอาญา คดีรถบัส มข. ชน น้องอาย นักศึกษาแพทย์เสียชีวิต แม่หวังเป็นบทเรียนทั้งสังคม",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BNS12Q1lVVEQwMk1HV0hOc2NnaUxkRWVLdGttUkpKUWNGVXpWamRmdGpTRlJtMnZ4TFdPbEE1eVhhamxOX0VmOFo1Z0UxMWI3MkhkdWh3?oc=5",
       "outlet": "LINE TODAY",
@@ -360,7 +369,7 @@
     {
       "title": "⚽ มข. เจ้าภาพฟุตบอลมหาวิทยาลัย ครั้งที่ 4 ชูกีฬาเพื่อการพัฒนาที่ยั่งยืน",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43NFpfdUc0YUEtcGxLMVliN3RPRjNObHdSbTJocWUyU1AwRDFmVjdjajN3QUZsWHd2WE9zWElEdTFjWE1nRS0yX1FFdEh4ZVZqRGVkYw?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-08-04T02:54:00.000Z",
       "sourceId": "kku",
       "category": "มข.",
@@ -423,7 +432,7 @@
     {
       "title": "อีเวนต์ขอนแก่น 2569 งานวันนี้–งานเดือนนี้",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX0ZpNWQ5Z0RJNFB4VmY0VnpFLU5EaDlKcnZhWFM1Yi1SUUlxeml3RklPd3NINk9JZ3ZfNEl1YVR1RFcxYzhYd19wMzBlWXFHMzdmd1dMU3JOeG1ONVlyR3VKcDNxWU5ybnUwSzlCOUk2OHhpMkFvYkJGY21faDAzVUhn?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-08-02T06:53:41.000Z",
       "sourceId": "tech",
       "category": "คณะเทคโนโลยี",
@@ -441,7 +450,7 @@
     {
       "title": "อีเวนต์ขอนแก่น 2569 งานวันนี้–งานเดือนนี้",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX1lOdlFnNWtRcFliVTVCTGhNcV90ZEFRc01IZW1DcUFpYTMyc0I4eVp3ZXQ1d2E4MDNkNV80Z191cTFoTFVVZS1ER2ZtQW9oeEowR25fVTFRR1NmRW9rU3F6XzRLUVFnQlZZSkt1bUJZS0tGa0RleUFua2lpMWs2TQ?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-07-31T17:51:25.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
@@ -459,7 +468,7 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "outlet": "dek-d.com",
+      "outlet": "Dek-D.com",
       "publishedAt": "2026-07-31T08:15:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -522,7 +531,7 @@
     {
       "title": "ประชุมวิชาการศิลปกรรมวิจัย 2569",
       "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNOHFWMFJ6dnRmSnBvMXdYNWVlVFp1QkpGbTYxWE8td0p6WjdCbFFsTEVNaTZsTEFmMURtQ3hDaGFFODhudDRNMjlwUWdxOHpFOVhOaWxuN05LOGxWNm85OFAzUlJ0djBuYW5BN05Pc3ZvZFEtZzJLT3NqZnVORHdYTDNzZE1nR05uQzVMZWRGaDVsOGtxSFdlNXJFd1BpSVFETFp3TEdwQ0tRaElJX2VWbE9fcVp2UXpBY1JWNlN3c2ZBTEhBSGVpOU9PLVlKZVZmV0psN2o1NEdZOGR0TlF2YlFVMlNTUC0xOTA5Y1Z3ZHNlY1NJV0FhQnk2UGhNWUVBcm1rMjZNTlVtV1FINVMzMUo2RlRIUzl6ak02M1E5Unp3WlFrRzl1ZUFWalRSd1NnUTQ3bWNtSHhTTW96NmdIOU1iZXVJanc3VkF0RU91VVlrLTFERmc?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-07-29T09:36:36.000Z",
       "sourceId": "fa",
       "category": "คณะศิลปกรรมศาสตร์",
@@ -531,7 +540,7 @@
     {
       "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-07-29T08:37:40.000Z",
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
@@ -801,7 +810,7 @@
     {
       "title": "E-San Thailand Robotic Season 1",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wdk1vUUJLSThUTmwtWnNVYzFnY2l5ZjhPOS1tQkRYVXhLaWJmUmx4UjBXdTNCRGRLYjJPM1UwcncxLTlqc2RMOGZkOFFMdzJsSTNMZUdlbEFhbGxralp3NVJqT3BUU2pwYi03LUJ2QVp1dkJ0eHJZ?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-07-16T07:00:00.000Z",
       "sourceId": "edu",
       "category": "คณะศึกษาศาสตร์",
@@ -1191,7 +1200,7 @@
     {
       "title": "นิติ นิด้า เชิญร่วมงาน IP & COPYRIGHT PROGRAM 2026 ฟรี",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0MUpldFM1R1Z1dFdlX1RWSy1VZjBDUGZKcy1RUUhZUWRyZFF3M3hQUENfNUhlTVVYWXY2LVdMTlR0dWZ2SEhvZ3FHNTVVX0NuZ0M3VmhrM1F5VXg2NFB3VUZ4VVhlT2RleGRJSGVCR2RlQQ?oc=5",
-      "outlet": "สถาบันบัณฑิตพัฒนบริหารศาสตร์ (NIDA)",
+      "outlet": "nida.ac.th",
       "publishedAt": "2026-06-26T07:00:00.000Z",
       "sourceId": "law",
       "category": "คณะนิติศาสตร์",
@@ -1677,7 +1686,7 @@
     {
       "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -1999,7 +2008,7 @@
       "topic": "research"
     },
     {
-      "title": "คณบดีคณะสาธารณสุขศาสตร์ เข้ารับพระราชทานรางวัลบุคคลดีเด่นด้านการส่งเสริมสุขภาพและอนามัยสิ่งแวดล้อม ประจำปี 2568 จากสมเด็จพระกนิษฐาธิราชเจ้า กรมสมเด็จพระเทพรัตนราชสุดาฯ สยามบรมราชกุมารี - Khon Kaen University",
+      "title": "คณบดีคณะสาธารณสุขศาสตร์ เข้ารับพระราชทานรางวัลบุคคลดีเด่นด้านการส่งเสริมสุขภาพและอนามัยสิ่งแวดล้อม ประจำปี 2568 จากสมเด็จพระกนิษฐาธิราชเจ้า กรมสมเด็จพระเทพรัตนราชสุดาฯ สยามบรมราชกุมารี",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5kVXlHY01JOWFnN0ZvZGh4a3dFR20yVFI2NFhaY0dsUVBFeEt5SkVMLWRxbHRVNW1kNGlVQnkxVEJYWU9rWHVv?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
       "publishedAt": "2026-03-30T07:33:54.000Z",
@@ -2163,7 +2172,7 @@
     {
       "title": "คณะสถาปัตยกรรมศาสตร์ มหาวิทยาลัยขอนแก่น จับมือ SEA Bridge ลงนาม MOU ขับเคลื่อนอุตสาหกรรมสร้างสรรค์อีสาน เตรียมพร้อมสู่เวที GEN SEA Summit 2026 » ขอนแก่นลิงก์ %",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2N1Qtc2JlTE5XdHVodjEwTjNjMDFObTFPYjdLUm4xYmw1aDBMSEc5Q0xKbmdISUNzMmVRQzJFQ3I1Z0swNUMwdkdJd2VSV2tPY3p0MA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-03-19T07:00:00.000Z",
       "sourceId": "arch",
       "category": "คณะสถาปัตยกรรมศาสตร์",
@@ -2172,7 +2181,7 @@
     {
       "title": "⚖️ นิติศาสตร์ มข. จับมือ THAC และกระทรวงยุติธรรม เปิดเวที ADR ยุค AI ชูเทคโนโลยีช่วยไกล่เกลี่ย-ระงับข้อพิพาท ลดเวลา ลดค่าใช้จ่าย มุ่งขยายโอกาสประชาชนเข้าถึงความยุติธรรมอย่างเท่าเทียม » ขอนแก่นลิงก์ %",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZSFl5UEZkRXBYenVZNkl6dTNmSmRVQnhLUjhlWm1zdnBQMktFS0JEQlBhZy1KWW4wZFlRWkhjOTBNRDZzNEtqdnJSRjlrUHBxTktQag?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-03-19T07:00:00.000Z",
       "sourceId": "law",
       "category": "คณะนิติศาสตร์",
@@ -2370,7 +2379,7 @@
     {
       "title": "เปิดรั้ว 7 สาขา คณะบริหารธุรกิจและการบัญชี ม.ขอนแก่น ครอบคลุมทั้งด้านธุรกิจ-บัญชี-ดิจิทัล",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tVHc4cVlQMl9kaDlGSGMxeUdxRHNUbVd2TEpZb1FwOENLS1ZBZDh4OTFRRlVrRXpManEwdHdyM1JaUllHalkxVQ?oc=5",
-      "outlet": "dek-d.com",
+      "outlet": "Dek-D.com",
       "publishedAt": "2026-03-09T07:00:00.000Z",
       "sourceId": "kkbs",
       "category": "คณะบริหารธุรกิจและการบัญชี",
@@ -2442,7 +2451,7 @@
     {
       "title": "อีสานแฟร์",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FRTlNVlE5c1RjTUsyWUNYeldOdEFCWmZfYl9qZ3p6ZTV5LW1IR2dTVVpJTkR5Tk55ZDVrREtqWFB1ZlY2WUowRFNtaTNhOFRoUDE0SEhWSFdmUzA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-02-28T08:00:00.000Z",
       "sourceId": "vet",
       "category": "คณะสัตวแพทยศาสตร์",
@@ -2577,7 +2586,7 @@
     {
       "title": "การแข่งขันกีฬาภายในมหาวิทยาลัยขอนแก่น ระหว่างคณะ KKU GAMES 2025",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40dUEtdTdzVXphTlZiLTVSSzhoZ0NISXJHSkdKUVVERHBncXhMVWZacVJsSmR4YWRtcElrQTFRMUc2NkFnSF9pQmp0VVpFakwyTnRDZHFSZnBfYm15X3BnZA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-02-15T08:00:00.000Z",
       "sourceId": "arch",
       "category": "คณะสถาปัตยกรรมศาสตร์",
@@ -2595,7 +2604,7 @@
     {
       "title": "กิจกรรม Journal Club: Special Talk",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OVFBQcjhMcEhvbUhGUTRsdjl2MWJFclRBZGlTTWpaSzdlVkNhV1F6WXBGd2h2NnlxSFdMWlJWTnU4UzNtRjRkSDFvdmRya1ZrMUpBc3FQcVJ1cEVxRnROWmhpZXJkb25yS0JfOFRFWQ?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-02-13T08:00:00.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
@@ -2811,7 +2820,7 @@
     {
       "title": "2nd Pharmacy Academic by PSAT โครงการแข่งขันตอบปัญหาวิชาการวิทยาศาสตร์เภสัชกรรมระดับชั้นมัธยมศึกษาตอนปลาย ครั้งที่2",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VR3B6b1JKVk1NWmFObTJ0cG8zZHF0cS1XMFp2d0dUWFZBTEdkTVR5Y2sxbWpYdmdPc2g0UHpOaXpoNzd6ci1YUWV5V0dsZ2ZwcVVv?oc=5",
-      "outlet": "dek-d.com",
+      "outlet": "Dek-D.com",
       "publishedAt": "2025-12-16T03:58:24.000Z",
       "sourceId": "pharm",
       "category": "คณะเภสัชศาสตร์",
@@ -2953,6 +2962,15 @@
       "topic": "study"
     },
     {
+      "title": "มหกรรมหนังสือภาคอีสาน I-SAN BOOK FAIR 2025",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xU2c4UHVnSmFtVEczeWpTMHY0MS13OTg5RHNsVGRYSjJIbXZ5Uy0zZXpOYlZ0dFRxWEJfa1lBWENlVDgzUGRSUl83LXBtTHNEcmdkeTRMbUF1ZXc?oc=5",
+      "outlet": "khonkaenlink.info",
+      "publishedAt": "2025-11-04T08:00:00.000Z",
+      "sourceId": "vet",
+      "category": "คณะสัตวแพทยศาสตร์",
+      "topic": "activity"
+    },
+    {
       "title": "Coffee and Bakery Fair 2025",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BcUZXV0w4OGJpcENyT0cyVHVXeGdkcnNNY2ZCRjFpVTlqV0M5N1gxZ0hnakVMSC04cUNJaUQ0bGRCMi0wOTBHckJUTnNESGsyTmlKRXZ0aFdlN0k0eTVNYW5rRVREajhsYmxFdXE2Yy15QQ?oc=5",
       "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
@@ -3018,7 +3036,7 @@
     {
       "title": "เปิดตัว 3 สาขาใหม่ที่วิทยาลัยนานาชาติ มหาวิทยาลัยขอนแก่น!",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04UVNKLXgyQ1FQTDMxWEZpWkxJWjF4NHlGd3VIZUVMMWs4WUxNTDg2cjlaUV9XTUdCTy1tTHlVRm9GcDJLQXROcw?oc=5",
-      "outlet": "dek-d.com",
+      "outlet": "Dek-D.com",
       "publishedAt": "2025-09-17T07:00:00.000Z",
       "sourceId": "ic",
       "category": "วิทยาลัยนานาชาติ",
