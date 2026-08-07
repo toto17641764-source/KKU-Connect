@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T21:25:25.712Z",
+  "updatedAt": "2026-08-07T22:22:04.578Z",
   "sources": [
     {
       "id": "med",
@@ -212,6 +212,15 @@
       "sourceId": "cp",
       "category": "วิทยาลัยการคอมพิวเตอร์",
       "topic": "activity"
+    },
+    {
+      "title": "คณะเทคโนโลยี มข. รับการตรวจประเมินห้องปฏิบัติการ FerVAAP ในรูปแบบ Peer Evaluation มุ่งยกระดับมาตรฐานความปลอดภัยห้องปฏิบัติการระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5XTnlwQ19oODF6bmEzNUt3Nk9HVjBoU2dvZUk0VEdaLVJ4MUdXM0UwQW9BMl96RDlBazctNnktNjU2U2lES0M4?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-08-07T10:04:17.000Z",
+      "sourceId": "tech",
+      "category": "คณะเทคโนโลยี",
+      "topic": "other"
     },
     {
       "title": "ศาลฎีกายืนจำคุก 2 ปี ไม่รอลงอาญา คดีรถบัส มข. ชน น้องอาย นักศึกษาแพทย์เสียชีวิต แม่หวังเป็นบทเรียนทั้งสังคม",
@@ -819,7 +828,7 @@
     {
       "title": "วิศวะ ม.ขอนแก่น แถลงการณ์สั่งสอบข้อเท็จจริง น.ศ.สาวถูกคนทั้งสาขาบูลลี่ จนชีวิตพัง-ป่วยซึมเศร้า",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WVkpZLXVUbUIxSFRNZWxnM2VYQVRJNkJBSHBhZV8zVXVkR19xYVYzb09SX0lGWXBoQU5HdUp1UFhINGx2c1dwYktUbXNBVjYyVGpHSnNOZGtpUVBkZk81Q1ptOHN0QQ?oc=5",
-      "outlet": "matichon.co.th",
+      "outlet": "Matichon Online",
       "publishedAt": "2026-07-14T07:00:00.000Z",
       "sourceId": "eng",
       "category": "คณะวิศวกรรมศาสตร์",
@@ -1407,7 +1416,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "matichon.co.th",
+      "outlet": "Matichon Online",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -1999,7 +2008,7 @@
       "topic": "research"
     },
     {
-      "title": "คณะเกษตรศาสตร์ มข. ต้อนรับคณาจารย์และนักเรียน ค่ายวิทยาศาสตร์สานสัมพันธ์ฉันท์ วมว.ครั้งที่ 18 ศึกษาดูงานด้านการเกษตร",
+      "title": "คณะเกษตรศาสตร์ มข. ต้อนรับคณาจารย์และนักเรียน ค่ายวิทยาศาสตร์สานสัมพันธ์ฉันท์ วมว.ครั้งที่ 18 ศึกษาดูงานด้านการเกษตร - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBZQjNiOWk2d08xQVdfc2FGZ1B1emJadUhrRkNzS2l2bk5hWTczcVhzdU9sOFo2VTVNS3Qxb1RNNG9OOVdwczU4?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
       "publishedAt": "2026-04-02T07:00:00.000Z",
@@ -2026,7 +2035,7 @@
       "topic": "research"
     },
     {
-      "title": "คณบดีคณะสาธารณสุขศาสตร์ เข้ารับพระราชทานรางวัลบุคคลดีเด่นด้านการส่งเสริมสุขภาพและอนามัยสิ่งแวดล้อม ประจำปี 2568 จากสมเด็จพระกนิษฐาธิราชเจ้า กรมสมเด็จพระเทพรัตนราชสุดาฯ สยามบรมราชกุมารี - Khon Kaen University",
+      "title": "คณบดีคณะสาธารณสุขศาสตร์ เข้ารับพระราชทานรางวัลบุคคลดีเด่นด้านการส่งเสริมสุขภาพและอนามัยสิ่งแวดล้อม ประจำปี 2568 จากสมเด็จพระกนิษฐาธิราชเจ้า กรมสมเด็จพระเทพรัตนราชสุดาฯ สยามบรมราชกุมารี",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5kVXlHY01JOWFnN0ZvZGh4a3dFR20yVFI2NFhaY0dsUVBFeEt5SkVMLWRxbHRVNW1kNGlVQnkxVEJYWU9rWHVv?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
       "publishedAt": "2026-03-30T07:33:54.000Z",
