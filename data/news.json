@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T17:37:29.589Z",
+  "updatedAt": "2026-08-07T18:34:49.150Z",
   "sources": [
     {
       "id": "med",
@@ -459,7 +459,7 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2026-07-31T08:15:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -581,6 +581,15 @@
       "sourceId": "ams",
       "category": "คณะเทคนิคการแพทย์",
       "topic": "activity"
+    },
+    {
+      "title": "มาแล้ว! ผลสำรวจอีสานโพล คนอีสานสนับสนุนให้ใครเป็นนายกฯ",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zZGItZ2dUTkRUSFZKeWp5NnpaSnE0emRJRnN1OW1HVmxrbnltV3FjaDB5VW0tQUExa29wMml3LTJhM2dXMFoxMng1WVNxSkh2bE5vRVpqUEN5dXlOemlfaVBfMVRrWjhSM2RCVlh1eDU?oc=5",
+      "outlet": "LINE TODAY",
+      "publishedAt": "2026-07-26T00:20:20.000Z",
+      "sourceId": "econ",
+      "category": "คณะเศรษฐศาสตร์",
+      "topic": "other"
     },
     {
       "title": "มาแล้ว! ผลสำรวจอีสานโพล คนอีสานสนับสนุนให้ใครเป็นนายกฯ | มุมข่าว",
@@ -1099,6 +1108,15 @@
       "topic": "activity"
     },
     {
+      "title": "\"แทน ไท\" ตื่นเต้นเปิดเทอมวันแรก สู่รั้วสถาปัตย์ ม.ขอนแก่น ไม่ลืมดูแล \"ถ้วยฟู\" แมวสุดรัก",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50a0ZnZE91dEg0ZkRZRWFmWURlUVl1YWxJcnd3R0FjanJkbHZMaHg4NDFuUlplMm5ydVM0VldSSW9za25rN1FydklqVnAwSVZwQ0gtbUZiX2NNbzRkRE95a19B?oc=5",
+      "outlet": "TrueID",
+      "publishedAt": "2026-07-01T07:00:00.000Z",
+      "sourceId": "arch",
+      "category": "คณะสถาปัตยกรรมศาสตร์",
+      "topic": "study"
+    },
+    {
       "title": "นักศึกษาคณะวิทยาศาสตร์ มข. นำเสนอผลงานในเวที International CWIE KKU พร้อมอาจารย์ร่วมเป็นกรรมการตัดสิน",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5nX1RvaVJoQXMxc1RTc3RsR2xDYVNxdjVIeFVEWXdtVkg2UG5qUW5fYmNCcHE0UTBIUG5BSWVIV0VCUkFvcEgw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -1484,6 +1502,15 @@
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
       "topic": "activity"
+    },
+    {
+      "title": "คณะวิทยาศาสตร์ มข. จัดงาน “SCi Show & Share 2026” โชว์ไอเดียนวัตกรรมบุคลากรประเภทสนับสนุน ชูแนวคิด “Reimagine Work Process” รื้อปรับกระบวนการทำงานจากประสิทธิผลสู่ประสิทธิภาพ มุ่งสร้างองค์กรสมรรถนะสูง - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1SVG5fcXozaC0tdFJSeWltc3RnLWFhR2c5UzBINnRSc0hjdEVsSV9EYTMyZGhHeHE3QUpLMDNEdWg3Y0RmMjNZ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-05-27T06:35:58.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "topic": "research"
     },
     {
       "title": "SCI Centre คณะวิทยาศาสตร์ ม.ขอนแก่น จัดเวิร์กชอป “จุลินทรีย์กับอาหารหมัก” เสริมทักษะเยาวชน มุ่งสู่ศูนย์กลางบริการวิชาการและถ่ายทอดเทคโนโลยีแห่งอนาคต - Khon Kaen University",
@@ -1972,7 +1999,7 @@
       "topic": "research"
     },
     {
-      "title": "คณบดีคณะสาธารณสุขศาสตร์ เข้ารับพระราชทานรางวัลบุคคลดีเด่นด้านการส่งเสริมสุขภาพและอนามัยสิ่งแวดล้อม ประจำปี 2568 จากสมเด็จพระกนิษฐาธิราชเจ้า กรมสมเด็จพระเทพรัตนราชสุดาฯ สยามบรมราชกุมารี",
+      "title": "คณบดีคณะสาธารณสุขศาสตร์ เข้ารับพระราชทานรางวัลบุคคลดีเด่นด้านการส่งเสริมสุขภาพและอนามัยสิ่งแวดล้อม ประจำปี 2568 จากสมเด็จพระกนิษฐาธิราชเจ้า กรมสมเด็จพระเทพรัตนราชสุดาฯ สยามบรมราชกุมารี - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5kVXlHY01JOWFnN0ZvZGh4a3dFR20yVFI2NFhaY0dsUVBFeEt5SkVMLWRxbHRVNW1kNGlVQnkxVEJYWU9rWHVv?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
       "publishedAt": "2026-03-30T07:33:54.000Z",
@@ -2343,7 +2370,7 @@
     {
       "title": "เปิดรั้ว 7 สาขา คณะบริหารธุรกิจและการบัญชี ม.ขอนแก่น ครอบคลุมทั้งด้านธุรกิจ-บัญชี-ดิจิทัล",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tVHc4cVlQMl9kaDlGSGMxeUdxRHNUbVd2TEpZb1FwOENLS1ZBZDh4OTFRRlVrRXpManEwdHdyM1JaUllHalkxVQ?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2026-03-09T07:00:00.000Z",
       "sourceId": "kkbs",
       "category": "คณะบริหารธุรกิจและการบัญชี",
@@ -2784,7 +2811,7 @@
     {
       "title": "2nd Pharmacy Academic by PSAT โครงการแข่งขันตอบปัญหาวิชาการวิทยาศาสตร์เภสัชกรรมระดับชั้นมัธยมศึกษาตอนปลาย ครั้งที่2",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VR3B6b1JKVk1NWmFObTJ0cG8zZHF0cS1XMFp2d0dUWFZBTEdkTVR5Y2sxbWpYdmdPc2g0UHpOaXpoNzd6ci1YUWV5V0dsZ2ZwcVVv?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2025-12-16T03:58:24.000Z",
       "sourceId": "pharm",
       "category": "คณะเภสัชศาสตร์",
@@ -2991,7 +3018,7 @@
     {
       "title": "เปิดตัว 3 สาขาใหม่ที่วิทยาลัยนานาชาติ มหาวิทยาลัยขอนแก่น!",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04UVNKLXgyQ1FQTDMxWEZpWkxJWjF4NHlGd3VIZUVMMWs4WUxNTDg2cjlaUV9XTUdCTy1tTHlVRm9GcDJLQXROcw?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2025-09-17T07:00:00.000Z",
       "sourceId": "ic",
       "category": "วิทยาลัยนานาชาติ",
