@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T12:33:42.145Z",
+  "updatedAt": "2026-08-07T14:02:58.012Z",
   "sources": [
     {
       "id": "med",
@@ -225,7 +225,7 @@
     {
       "title": "ศาลฎีกายืนคำตัดสิน จำคุก 2 ปี ไม่รอลงอาญา คนขับรถบัสคณะพยาบาลศาสตร์ชนนักศึกษาแพทย์เสียชีวิต",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tcDc0VnduUk5JVElLSXpmdXB1aC1tM1NvaHRWLWgydXVlQW1VTmFqbFJ5Q0RzNVpnNEQ5ZW5oTEVjZlh2QnRTY0lsWlYzZjRNUGtWRmRkTmNldw?oc=5",
-      "outlet": "CH3Plus.com",
+      "outlet": "ch3plus.com",
       "publishedAt": "2026-08-06T07:39:52.000Z",
       "sourceId": "nurse",
       "category": "คณะพยาบาลศาสตร์",
@@ -486,7 +486,7 @@
     {
       "title": "‘มหาวิทยาลัยขอนแก่น’ ผนึกเครือข่ายยกระดับ ‘การแพทย์แม่นยำ’ พลิกโฉมรักษา ‘มะเร็งไทย’",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02d2VrejU1UnRnRFRRREo1RG5uSlVMTmpFR2NyQlpIRmhrSF9rQkI0VGF5ZHFHa3paUGk4WFpoS0JwcE11dXJxV2QxZTFkZU9LWGVxMGFnczRyS0NaTmlydkw1VDNkc1dx?oc=5",
-      "outlet": "The Bangkok Insight",
+      "outlet": "thebangkokinsight.com",
       "publishedAt": "2026-07-30T09:55:46.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -565,6 +565,15 @@
       "topic": "activity"
     },
     {
+      "title": "มาแล้ว! ผลสำรวจอีสานโพล คนอีสานสนับสนุนให้ใครเป็นนายกฯ | มุมข่าว",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00NndfaFVoZk5aLWdlRDF1bTNKQzFsYW5PSEdrZnBDbHg3dl9MWHRhOXZ1ZE42ejBfUTRDSlVGRGtERmtTNU9RNHZzWjQ2YzJianhSdWd3?oc=5",
+      "outlet": "LINE TODAY",
+      "publishedAt": "2026-07-24T07:00:00.000Z",
+      "sourceId": "econ",
+      "category": "คณะเศรษฐศาสตร์",
+      "topic": "other"
+    },
+    {
       "title": "คณะมนุษยศาสตร์และสังคมศาสตร์ มหาวิทยาลัยขอนแก่น ผนึกกำลัง 8 เครือข่ายวิชาการ ลงนาม MOU ยกระดับการสอนภาษาไทยสำหรับชาวต่างชาติพัฒนาองค์ความรู้สู่มาตรฐานสากล - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5SVkJxQnhzZF80RTZzQlZFMm1tSklHb1ZMREl5ZmVNcW16ODJZSzc5aVpsajI1TTU3eHNLRDR1bmMzYnQzNGdR?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -576,15 +585,6 @@
     {
       "title": "มาแล้ว! ผลสำรวจอีสานโพล คนอีสานสนับสนุนให้ใครเป็นนายกฯ | มุมข่าว",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSS1MdEFYTWptN1FYZl9SWUtaM0EwWVJrY0pPLUlmMmViY2xqVlI3QUVtcll5dGpYSVNfbGtrOWppRkdwN0hNTkZxV1FIdF85TUp0b0lrSV9PbmdmYmpUaV9BN0lTS3lxVFNLS2dkTkRKTWVjazZJNTlwZ0JCc25tSVpLamRRc25B?oc=5",
-      "outlet": "LINE TODAY",
-      "publishedAt": "2026-07-24T07:00:00.000Z",
-      "sourceId": "econ",
-      "category": "คณะเศรษฐศาสตร์",
-      "topic": "other"
-    },
-    {
-      "title": "มาแล้ว! ผลสำรวจอีสานโพล คนอีสานสนับสนุนให้ใครเป็นนายกฯ | มุมข่าว",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00NndfaFVoZk5aLWdlRDF1bTNKQzFsYW5PSEdrZnBDbHg3dl9MWHRhOXZ1ZE42ejBfUTRDSlVGRGtERmtTNU9RNHZzWjQ2YzJianhSdWd3?oc=5",
       "outlet": "LINE TODAY",
       "publishedAt": "2026-07-24T07:00:00.000Z",
       "sourceId": "econ",
@@ -783,7 +783,7 @@
     {
       "title": "วิศวะ ม.ขอนแก่น แถลงการณ์สั่งสอบข้อเท็จจริง น.ศ.สาวถูกคนทั้งสาขาบูลลี่ จนชีวิตพัง-ป่วยซึมเศร้า",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WVkpZLXVUbUIxSFRNZWxnM2VYQVRJNkJBSHBhZV8zVXVkR19xYVYzb09SX0lGWXBoQU5HdUp1UFhINGx2c1dwYktUbXNBVjYyVGpHSnNOZGtpUVBkZk81Q1ptOHN0QQ?oc=5",
-      "outlet": "Matichon Online",
+      "outlet": "matichon.co.th",
       "publishedAt": "2026-07-14T07:00:00.000Z",
       "sourceId": "eng",
       "category": "คณะวิศวกรรมศาสตร์",
@@ -1353,7 +1353,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "Matichon Online",
+      "outlet": "matichon.co.th",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -1882,15 +1882,6 @@
       "topic": "other"
     },
     {
-      "title": "วิศวะ-วิทย์ มข. เปิด “ตรีควบโท” เรียน 5 ปี ได้ 2 ปริญญา ปั้นบัณฑิตสายเทคนวัตกรรมรับอุตสาหกรรมอนาคต",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5pYXdkR1hjLWRQdE5ONThKRzB6OTRWbUNGWGJwN29aamM2eUpBWHdrLVR6LVI2eEJmcVpwa0VVYUYtd2dlTmEw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
-      "publishedAt": "2026-04-07T07:00:00.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
-      "topic": "research"
-    },
-    {
       "title": "วิทยาลัยการปกครองท้องถิ่น มข. ฉลอง 19 ปี แห่งความภาคภูมิใจ มุ่งส่งมอบคุณค่าสู่สังคมอย่างยั่งยืน",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Jc3lrc2pqTG55VlJ4ZXNJZ2ZlVHA0TWgxeXZ6enh0VGI0TFdTZ2s4SGNIZFM4eTZJWHl4OEUwS0tjTnFyM0R1NGx3NTdRZ0gwR1o3SHJIcEY?oc=5",
       "outlet": "banmuang.co.th",
@@ -1898,6 +1889,15 @@
       "sourceId": "cola",
       "category": "วิทยาลัยการปกครองท้องถิ่น",
       "topic": "other"
+    },
+    {
+      "title": "วิศวะ-วิทย์ มข. เปิด “ตรีควบโท” เรียน 5 ปี ได้ 2 ปริญญา ปั้นบัณฑิตสายเทคนวัตกรรมรับอุตสาหกรรมอนาคต",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5pYXdkR1hjLWRQdE5ONThKRzB6OTRWbUNGWGJwN29aamM2eUpBWHdrLVR6LVI2eEJmcVpwa0VVYUYtd2dlTmEw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-04-07T07:00:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "topic": "research"
     },
     {
       "title": "ศูนย์หัวใจสิริกิติ์ฯ ปลุกพลัง “เมล็ดพันธุ์ CPR” ที่คณะสาธารณสุขศาสตร์ มข.",
