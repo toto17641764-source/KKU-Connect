@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T22:41:04.734Z",
+  "updatedAt": "2026-08-07T01:39:17.576Z",
   "sources": [
     {
       "id": "med",
@@ -565,15 +565,6 @@
       "topic": "activity"
     },
     {
-      "title": "คณะมนุษยศาสตร์และสังคมศาสตร์ มหาวิทยาลัยขอนแก่น ผนึกกำลัง 8 เครือข่ายวิชาการ ลงนาม MOU ยกระดับการสอนภาษาไทยสำหรับชาวต่างชาติพัฒนาองค์ความรู้สู่มาตรฐานสากล - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5SVkJxQnhzZF80RTZzQlZFMm1tSklHb1ZMREl5ZmVNcW16ODJZSzc5aVpsajI1TTU3eHNLRDR1bmMzYnQzNGdR?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
-      "publishedAt": "2026-07-24T07:00:00.000Z",
-      "sourceId": "hs",
-      "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
-      "topic": "activity"
-    },
-    {
       "title": "มาแล้ว! ผลสำรวจอีสานโพล คนอีสานสนับสนุนให้ใครเป็นนายกฯ | มุมข่าว",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSS1MdEFYTWptN1FYZl9SWUtaM0EwWVJrY0pPLUlmMmViY2xqVlI3QUVtcll5dGpYSVNfbGtrOWppRkdwN0hNTkZxV1FIdF85TUp0b0lrSV9PbmdmYmpUaV9BN0lTS3lxVFNLS2dkTkRKTWVjazZJNTlwZ0JCc25tSVpLamRRc25B?oc=5",
       "outlet": "LINE TODAY",
@@ -581,6 +572,15 @@
       "sourceId": "econ",
       "category": "คณะเศรษฐศาสตร์",
       "topic": "other"
+    },
+    {
+      "title": "คณะมนุษยศาสตร์และสังคมศาสตร์ มหาวิทยาลัยขอนแก่น ผนึกกำลัง 8 เครือข่ายวิชาการ ลงนาม MOU ยกระดับการสอนภาษาไทยสำหรับชาวต่างชาติพัฒนาองค์ความรู้สู่มาตรฐานสากล - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5SVkJxQnhzZF80RTZzQlZFMm1tSklHb1ZMREl5ZmVNcW16ODJZSzc5aVpsajI1TTU3eHNLRDR1bmMzYnQzNGdR?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-07-24T07:00:00.000Z",
+      "sourceId": "hs",
+      "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+      "topic": "activity"
     },
     {
       "title": "มาแล้ว! ผลสำรวจอีสานโพล คนอีสานสนับสนุนให้ใครเป็นนายกฯ | มุมข่าว",
@@ -1999,6 +1999,15 @@
       "topic": "other"
     },
     {
+      "title": "กองคลัง ประชาสัมพันธ์ให้บุคลากรมหาวิทยาลัยขอนแก่นทราบ เกี่ยวกับการตรวจสอบและดำเนินการพิมพ์หนังสือรับรองภาษีหัก ณ ที่จ่ายประจำปี 2568 (ตามมาตรา 50 ทวิ) - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5lME5pTTJxOHVXLVBILXdJRnUyNXFpVkZfQWFnaXpBOTNoVGE4NGdBTjNKNDFIOWhTVnpUaTZwTjBhUQ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-03-24T10:06:39.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "topic": "study"
+    },
+    {
       "title": "คณะเทคโนโลยี มข. เปิดเวที TE SEF 2026 โชว์ศักยภาพนักศึกษา ก้าวสู่โลกอาชีพอย่างมั่นใจ",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA5X0xzNnE4c0FhRE9qWDFzbC1aNEppT05YZ01vMVM4c1FhOTQ3NC1rdC1JazZjYS1YVGZWT3FCc25qQQ?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -2104,6 +2113,15 @@
       "publishedAt": "2026-03-18T10:34:37.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
+      "topic": "other"
+    },
+    {
+      "title": "KKBS เจ้าภาพประชุมวิชาการระดับชาติ–นานาชาติ “INCBAA 2026” เชื่อมเทคโนโลยีสู่การพัฒนาธุรกิจอย่างยั่งยืน",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Raks3VEJvZnBwcEg0LXFMUTU3U2hQblMycnJmUlBPTnpaOFh0aXJ1WXdyeGJBNU44cWlEaHgwX1R3dTVuTzM4?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-03-18T09:54:10.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
       "topic": "other"
     },
     {
