@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T06:02:25.622Z",
+  "updatedAt": "2026-08-07T08:02:51.319Z",
   "sources": [
     {
       "id": "med",
@@ -1288,6 +1288,15 @@
       "topic": "activity"
     },
     {
+      "title": "เปิดเส้นทางชีวิต วีระศักดิ์ ขอบเขต ผู้ประกาศข่าวที่ถูกบันทึกในหน้าประวัติศาสตร์ กับภารกิจที่หัวใจต้องแกร่ง | แนวหน้า",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11OS1ic3QxelNsVlFKZnhNVlhYa0x0REx4TEpmVG11WHdpeHMtYVdVcUI1LVBIQ2hXSFhDYUdaUXE4X3JJanhBdFVUVFN5SXJKUk92Vjln?oc=5",
+      "outlet": "LINE TODAY",
+      "publishedAt": "2026-06-12T11:47:40.000Z",
+      "sourceId": "hs",
+      "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+      "topic": "announce"
+    },
+    {
       "title": "นิติศาสตร์ มข. จับมือสภาทนายความขอนแก่น ยกระดับการศึกษากฎหมายสู่ภาคปฏิบัติ",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SbmREU1pTOGFKeW1uSjNaZTNRUlpiTEx4QWVzVnk2UWVCaWIzMnRPc0ozejFVUW5YdmdCMnhVNTRKbHhLRklZdURpNWhWRTNIbG9vN1owT1E?oc=5",
       "outlet": "banmuang.co.th",
@@ -1295,15 +1304,6 @@
       "sourceId": "law",
       "category": "คณะนิติศาสตร์",
       "topic": "other"
-    },
-    {
-      "title": "เปิดเส้นทางชีวิต วีระศักดิ์ ขอบเขต ผู้ประกาศข่าวที่ถูกบันทึกในหน้าประวัติศาสตร์ กับภารกิจที่หัวใจต้องแกร่ง | แนวหน้า",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11OS1ic3QxelNsVlFKZnhNVlhYa0x0REx4TEpmVG11WHdpeHMtYVdVcUI1LVBIQ2hXSFhDYUdaUXE4X3JJanhBdFVUVFN5SXJKUk92Vjln?oc=5",
-      "outlet": "LINE TODAY",
-      "publishedAt": "2026-06-11T07:00:00.000Z",
-      "sourceId": "hs",
-      "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
-      "topic": "announce"
     },
     {
       "title": "เปิดรับสมัครแล้ว! MBA มข. ชวนอบรม “พลิกมุมมอง เปลี่ยนวิธีคิด เรื่องคุณภาพ”",
@@ -1882,15 +1882,6 @@
       "topic": "other"
     },
     {
-      "title": "วิศวะ-วิทย์ มข. เปิด “ตรีควบโท” เรียน 5 ปี ได้ 2 ปริญญา ปั้นบัณฑิตสายเทคนวัตกรรมรับอุตสาหกรรมอนาคต",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5pYXdkR1hjLWRQdE5ONThKRzB6OTRWbUNGWGJwN29aamM2eUpBWHdrLVR6LVI2eEJmcVpwa0VVYUYtd2dlTmEw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
-      "publishedAt": "2026-04-07T07:00:00.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
-      "topic": "research"
-    },
-    {
       "title": "วิทยาลัยการปกครองท้องถิ่น มข. ฉลอง 19 ปี แห่งความภาคภูมิใจ มุ่งส่งมอบคุณค่าสู่สังคมอย่างยั่งยืน",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Jc3lrc2pqTG55VlJ4ZXNJZ2ZlVHA0TWgxeXZ6enh0VGI0TFdTZ2s4SGNIZFM4eTZJWHl4OEUwS0tjTnFyM0R1NGx3NTdRZ0gwR1o3SHJIcEY?oc=5",
       "outlet": "banmuang.co.th",
@@ -1898,6 +1889,15 @@
       "sourceId": "cola",
       "category": "วิทยาลัยการปกครองท้องถิ่น",
       "topic": "other"
+    },
+    {
+      "title": "วิศวะ-วิทย์ มข. เปิด “ตรีควบโท” เรียน 5 ปี ได้ 2 ปริญญา ปั้นบัณฑิตสายเทคนวัตกรรมรับอุตสาหกรรมอนาคต",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5pYXdkR1hjLWRQdE5ONThKRzB6OTRWbUNGWGJwN29aamM2eUpBWHdrLVR6LVI2eEJmcVpwa0VVYUYtd2dlTmEw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-04-07T07:00:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "topic": "research"
     },
     {
       "title": "ศูนย์หัวใจสิริกิติ์ฯ ปลุกพลัง “เมล็ดพันธุ์ CPR” ที่คณะสาธารณสุขศาสตร์ มข.",
@@ -2118,7 +2118,7 @@
     {
       "title": "เวียดนามชูไทย 'คู่ค้ารายใหญ่สุดในอาเซียน' เร่งดึงนักลงทุนเป้า 2.5 หมื่นล้านดอลลาร์",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93TUhoV1E5dThnT19sVnV3d2NuYTdmWnBaOV9aTFVPZHFpRDdWSjl2TVFKX2MtNi1nNHI3b3RFWDV5MG0yem1vN3Noa1kyTTRuLS1qVXhfNmV0dkVDUVV3?oc=5",
-      "outlet": "springnews.co.th",
+      "outlet": "springnews",
       "publishedAt": "2026-03-18T10:34:37.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -2221,6 +2221,15 @@
       "publishedAt": "2026-03-13T06:25:13.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
+      "topic": "activity"
+    },
+    {
+      "title": "ขอเชิญผู้สนใจลงทะเบียนเข้าร่วมสัมมนา ฟรี! Thailand–Vietnam Trade Dialogue เวทีแลกเปลี่ยนการค้าไทย–เวียดนาม สู่ความร่วมมือที่ยั่งยืน - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBtanluWmZnamlNeVJ2WmRmTzBzeDhETjRjX0R2dG5NSlVmY3lTUFZhX3psUC1rTGNYdTZUektWVmRQR0h6bEVJ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-03-12T12:08:27.000Z",
+      "sourceId": "cbs",
+      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
       "topic": "activity"
     },
     {
@@ -2347,6 +2356,15 @@
       "publishedAt": "2026-03-06T08:00:00.000Z",
       "sourceId": "nurse",
       "category": "คณะพยาบาลศาสตร์",
+      "topic": "activity"
+    },
+    {
+      "title": "คณะเกษตรศาสตร์ มข. ต้อนรับคณะผู้บริหารจาก สปป.ลาว ศึกษาดูงานเกษตรชีวภาพหมุนเวียน",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9URWVPS05ZVzBzMWJQZGpSV1FZVUl6XzdORlphUEtDQ0RVbmxPQ28teUJHUHNqT193WTlqYjJfT293UWUyMEZ3?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-03-05T08:54:05.000Z",
+      "sourceId": "agri",
+      "category": "คณะเกษตรศาสตร์",
       "topic": "activity"
     },
     {
