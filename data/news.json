@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T08:07:03.807Z",
+  "updatedAt": "2026-08-08T09:24:33.349Z",
   "sources": [
     {
       "id": "med",
@@ -384,7 +384,7 @@
       "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
       "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
-      "publishedAt": "2026-07-29T08:37:40.000Z",
+      "publishedAt": "2026-07-31T03:00:00.000Z",
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
       "image": null,
@@ -783,7 +783,7 @@
     {
       "title": "'แทน ไท' ตื่นเต้นเปิดเทอมวันแรก สู่รั้วสถาปัตย์มหาวิทยาลัยขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yQTFGdmpRY29qREUtb2VfTnBJWUdZMjRlTHpSeFFRV3czQi10aV9fS29sbHVTWVpnYzRPUk1FWTduVndHU21FUGRQbnZwYVZKS2JpZFJtNWF6aC1mYjJhRlZR?oc=5",
-      "outlet": "thaipost.net",
+      "outlet": "ไทยโพสต์",
       "publishedAt": "2026-06-30T07:00:00.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
@@ -1217,8 +1217,8 @@
       "publishedAt": "2026-04-27T06:40:09.000Z",
       "sourceId": "cola",
       "category": "วิทยาลัยการปกครองท้องถิ่น",
-      "topic": "research",
-      "image": null
+      "image": null,
+      "topic": "research"
     },
     {
       "title": "นศ. KKUIC จัดแข่งบาส 3x3 การกุศล \"KKUIC 3X3 Street Summer Slam 2026\" รางวัลรวม 1 แสนบาท มุ่งส่งต่อโอกาสสู่เยาวชนผู้พิการระดมทุนจัดซื้ออุปกรณ์กีฬา-การศึกษาโรงเรียนศรีสังวาลย์ขอนแก่น - Khon Kaen University",
@@ -1691,6 +1691,26 @@
       "image": null
     },
     {
+      "title": "บัณฑิตวิทยาลัย มหาวิทยาลัยขอนแก่น ก้าวสู่ความสำเร็จในการผ่านการประเมินคุณภาพ EdPEx 300 แห่งแรกของประเทศ ตอกย้ำความเป็นเลิศและพลังความร่วมมือของประชาคมบัณฑิตศึกษาทั้งมหาวิทยาลัย - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5JZHdzZ01kUDdJLS1yZmplWUNBRHpBa3dFVnQ2b1FBSUg0Wm43b0xMYW1QZ3ZUTElaLUQ2VGJrTEZSQXhOeTBv?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2025-10-01T03:02:13.000Z",
+      "sourceId": "gs",
+      "category": "บัณฑิตวิทยาลัย",
+      "image": null,
+      "topic": "activity"
+    },
+    {
+      "title": "มข. จับมือ AIEI ยกระดับ “MBA AI” พัฒนาผู้บริหารยุคดิจิทัล เสริมความแข่งขันภาคธุรกิจอีสาน-อนุภูมิภาคลุ่มน้ำโขง",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE51Q3RDSDV6R1BvVmN5ZDBrMmUxeWJVV1VELV9PNXdvTXpLMFRlQmlqLThKNTBwdDNJajJUMjFySjZVa2pkUUZr?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2025-09-11T07:00:00.000Z",
+      "sourceId": "cbs",
+      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "คณะสาธารณสุขศาสตร์ มข. จัดโครงการแลกเปลี่ยนนักศึกษา ณ YMUN ประเทศจีน",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBHRGJTMmNBak1XVDU4VVRsZWpsd05MZGJDNnVfVFpxaElxbHYtSjBNdDQ4WnF3am81eTlJUm5sSVhaaUE3Zkw4?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -1791,6 +1811,16 @@
       "image": null
     },
     {
+      "title": "วิทยาลัยการปกครองท้องถิ่น จัด COLA Town Hall Meeting 2025 รับฟังเสียงของนักศึกษาอย่างต่อเนื่อง",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WMWZWMjRSOVBTaTA2UmtONlJPRG4wNUZwaS1IRmVrMV9yWkdTT1YwWmZLNk0yVUFhalZ0LUE5Y1J0NlBPLUxZ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2025-05-07T03:00:37.000Z",
+      "sourceId": "cola",
+      "category": "วิทยาลัยการปกครองท้องถิ่น",
+      "image": null,
+      "topic": "other"
+    },
+    {
       "title": "การสอบสัมภาษณ์ รอบที่ 2 แบบออนไลน์",
       "link": "https://apds.kku.ac.th/post/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%aa%e0%b8%ad%e0%b8%9a%e0%b8%aa%e0%b8%b1%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%a9%e0%b8%93%e0%b9%8c-%e0%b8%a3%e0%b8%ad%e0%b8%9a%e0%b8%97%e0%b8%b5%e0%b9%88-2-%e0%b9%81/",
       "outlet": "เว็บไซต์คณะ",
@@ -1809,6 +1839,16 @@
       "category": "คณะสาธารณสุขศาสตร์",
       "topic": "other",
       "image": null
+    },
+    {
+      "title": "สมาคมศิษย์เก่า ร่วมรำลึก วันสถาปนาวิทยาลัยบัณฑิตศึกษาการจัดการ ครบรอบ 30 ปี",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HLUtBaGxJUWowY3Q2MjRUTWx1QmNodEJIMmwxTl9RSFRVazVRRk9uMFNsVGZBa1c2enRFX2YxY2E0ZjB2VlJkZExTSDJORVE0Q1J2NEp5RDFtb09VcXVhSHc5WnRGZkpJanpZTGlhRVFhX1pQd2RyNw?oc=5",
+      "outlet": "ประชาชาติธุรกิจ",
+      "publishedAt": "2023-09-11T07:00:00.000Z",
+      "sourceId": "cbs",
+      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
+      "image": null,
+      "topic": "study"
     }
   ]
 }
