@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T13:36:04.321Z",
+  "updatedAt": "2026-08-08T14:20:44.880Z",
   "sources": [
     {
       "id": "med",
@@ -371,6 +371,16 @@
       "topic": "study"
     },
     {
+      "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-07-31T07:00:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "other"
+    },
+    {
       "title": "คณะศึกษาศาสตร์ มข. ร่วมกับ สพป.ขอนแก่น เขต 1 และ สพป.สกลนคร เขต 2 จัดประกวดผลงาน “Best Practice: ครูต้นแบบนวัตกรรม” มุ่งขับเคลื่อนสมรรถนะการอ่าน เขียน และคิดขั้นสูง",
       "link": "https://ednet.kku.ac.th/news/20478/",
       "outlet": "เว็บไซต์คณะ",
@@ -379,16 +389,6 @@
       "category": "คณะศึกษาศาสตร์",
       "image": "https://ednet.kku.ac.th/wp-content/uploads/2026/07/DSC_4785-1024x683.jpg",
       "topic": "research"
-    },
-    {
-      "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
-      "publishedAt": "2026-07-29T08:37:40.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
-      "image": null,
-      "topic": "other"
     },
     {
       "title": "หลักสูตรออกแบบนิเทศศิลป์ นิเทศงานนักศึกษา เครือข่ายความร่วมมือฝึกสหกิจศึกษา ณ สถานประกอบการ ปีการศึกษา 2569",
