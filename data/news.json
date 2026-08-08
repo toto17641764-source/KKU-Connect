@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T05:32:27.907Z",
+  "updatedAt": "2026-08-08T06:28:03.882Z",
   "sources": [
     {
       "id": "med",
@@ -216,7 +216,7 @@
     {
       "title": "วิทยาลัยการคอมพิวเตอร์ มข. เปิดยุทธศาสตร์ Quantum Computing ในกิจกรรม Siam-Quantum Nexus 2026",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9vZDIzU0NnTnZDMmdnakhnd0VyOHkyX3FzM3EtMDQ3QTBBVm9qOWpfRm9McDlWd0FUeTJTeHNmYUJlcm4ySnRz?oc=5",
-      "outlet": "kku.ac.th",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
       "publishedAt": "2026-08-07T10:10:35.000Z",
       "sourceId": "cp",
       "category": "วิทยาลัยการคอมพิวเตอร์",
@@ -520,6 +520,15 @@
       "topic": "service"
     },
     {
+      "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-07-31T03:00:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "topic": "other"
+    },
+    {
       "title": "มข. ผนึกเครือข่ายดัน \"การแพทย์แม่นยำ\" ใช้จีโนมิกส์ยกระดับรักษามะเร็ง",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yb0lZTnZiemdRWU1kOFh0bkZVS3pkcHA5b1AwOXpVXzlIY1RfUnRhYXV6VHVoeDBsN1ZBMnZGVC1FNGNldG8wSWRnSG0tSDhNdmhwQ2hXVlBsd28?oc=5",
       "outlet": "THE BETTER",
@@ -563,15 +572,6 @@
       "sourceId": "fa",
       "category": "คณะศิลปกรรมศาสตร์",
       "topic": "research"
-    },
-    {
-      "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
-      "publishedAt": "2026-07-29T08:37:40.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
-      "topic": "other"
     },
     {
       "title": "“วิศวะ มข. โชว์ศักยภาพด้านหุ่นยนต์ กวาด 3 ทอง 2 เงิน เวทีแข่งขันฝีมือแรงงานแห่งชาติ ครั้งที่ 31 ระดับภาค",
@@ -774,7 +774,7 @@
     {
       "title": "บัณฑิตวิทยาลัย มข. จัดสัมมนาเชิงปฏิบัติการขับเคลื่อนงานวิจัยสาขาวิชาร่วม ประจำปี 2569",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB0VHZLZkZIX000X2h1OHlnNFlURGtNYVdGVzhaR0NsZjRyNVl0eUNJZjU4TFdUampFWm9mc3MwbDZacVBYSzNV?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "kku.ac.th",
       "publishedAt": "2026-07-19T07:00:00.000Z",
       "sourceId": "gs",
       "category": "บัณฑิตวิทยาลัย",
@@ -846,7 +846,7 @@
     {
       "title": "วิศวะ ม.ขอนแก่น แถลงการณ์สั่งสอบข้อเท็จจริง น.ศ.สาวถูกคนทั้งสาขาบูลลี่ จนชีวิตพัง-ป่วยซึมเศร้า",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WVkpZLXVUbUIxSFRNZWxnM2VYQVRJNkJBSHBhZV8zVXVkR19xYVYzb09SX0lGWXBoQU5HdUp1UFhINGx2c1dwYktUbXNBVjYyVGpHSnNOZGtpUVBkZk81Q1ptOHN0QQ?oc=5",
-      "outlet": "Matichon Online",
+      "outlet": "matichon.co.th",
       "publishedAt": "2026-07-14T07:00:00.000Z",
       "sourceId": "eng",
       "category": "คณะวิศวกรรมศาสตร์",
@@ -1081,7 +1081,7 @@
       "topic": "announce"
     },
     {
-      "title": "ISKKU x HEX Agri-Innovation Challenge 2026 เปิดสนาม “Unlocking Sustainovation” ปั้นไอเดียสารสกัดสับปะรด GI สู่นวัตกรรมและธุรกิจระดับสากล",
+      "title": "ISKKU x HEX Agri-Innovation Challenge 2026 เปิดสนาม “Unlocking Sustainovation” ปั้นไอเดียสารสกัดสับปะรด GI สู่นวัตกรรมและธุรกิจระดับสากล - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Yc0swMWMzemJuV01FR1Vqdk9VZzJDaFpkTjJ1ZE04V2VxZ1ZaT1JpMDROYl84WkEtTTM1YllUQTBQbXVLeHRn?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
       "publishedAt": "2026-07-05T07:00:00.000Z",
@@ -1443,7 +1443,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "Matichon Online",
+      "outlet": "matichon.co.th",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -1533,7 +1533,7 @@
     {
       "title": "คณะสาธารณสุขศาสตร์ มข. สร้างชื่อเวทีโลก คว้า 3 รางวัล ด้านอาชีวอนามัยและความปลอดภัย จากการประชุมวิชาการนานาชาติ Joint Conference of 34th OHSWA and 53rd MEDICHEM Congress 2026 - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5WSi1TN3NUZWxSdFhUUXBYZWNnbEdoYURReGxMLXJkRHV6SjJ2VjFpSFNNMFI0bGZ1cmNSaWZON3J0SE1uUUhJ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "kku.ac.th",
       "publishedAt": "2026-05-27T09:52:29.000Z",
       "sourceId": "ph",
       "category": "คณะสาธารณสุขศาสตร์",
@@ -1556,6 +1556,15 @@
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
       "topic": "research"
+    },
+    {
+      "title": "ศูนย์ สอวน. คณะวิทยาศาสตร์ มข. สร้างชื่อระดับประเทศ! คว้า 5 ทอง 6 เงิน 7 ทองแดง 4 เกียรติคุณฯ รวม 22 รางวัลใหญ่ โอลิมปิกวิชาการระดับชาติ ประจำปี 2569 - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5KWnR3WEJmVUptWF9YVUxHak5xQml4VUUyeWtvU1pLZndoMklabXJJU0lzVi15UGsxUkV2TjFucmxzOGh5VHNB?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-05-27T06:16:52.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "topic": "activity"
     },
     {
       "title": "SCI Centre คณะวิทยาศาสตร์ ม.ขอนแก่น จัดเวิร์กชอป “จุลินทรีย์กับอาหารหมัก” เสริมทักษะเยาวชน มุ่งสู่ศูนย์กลางบริการวิชาการและถ่ายทอดเทคโนโลยีแห่งอนาคต - Khon Kaen University",
@@ -1659,7 +1668,7 @@
     {
       "title": "บัณฑิตวิทยาลัยจัดอบรม “Smart Officer with Vibe Coding” ยกระดับบุคลากรสู่ยุคดิจิทัล",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43ZU1ZaFZvYS0tbHlWMXBBeFdZUjd3UTVBMGdjYWdIeTRJZjMtcHJ4VmsxVmI1TzlkSDQ4X1dWaFZCbndfeVdR?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "kku.ac.th",
       "publishedAt": "2026-05-19T02:55:36.000Z",
       "sourceId": "gs",
       "category": "บัณฑิตวิทยาลัย",
@@ -2028,7 +2037,7 @@
     {
       "title": "ศูนย์หัวใจสิริกิติ์ฯ ปลุกพลัง “เมล็ดพันธุ์ CPR” ที่คณะสาธารณสุขศาสตร์ มข.",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1QYk5kVmdnTVViMXU3cHh1czFvbjIxMS0xSEd2UzNSaG9YV0dUeFVtaFhZWEVjOE9HM2RHRllvak1CVXNqLURj?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "kku.ac.th",
       "publishedAt": "2026-04-05T21:28:41.000Z",
       "sourceId": "ph",
       "category": "คณะสาธารณสุขศาสตร์",
@@ -2082,7 +2091,7 @@
     {
       "title": "คณบดีคณะสาธารณสุขศาสตร์ เข้ารับพระราชทานรางวัลบุคคลดีเด่นด้านการส่งเสริมสุขภาพและอนามัยสิ่งแวดล้อม ประจำปี 2568 จากสมเด็จพระกนิษฐาธิราชเจ้า กรมสมเด็จพระเทพรัตนราชสุดาฯ สยามบรมราชกุมารี",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5kVXlHY01JOWFnN0ZvZGh4a3dFR20yVFI2NFhaY0dsUVBFeEt5SkVMLWRxbHRVNW1kNGlVQnkxVEJYWU9rWHVv?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "kku.ac.th",
       "publishedAt": "2026-03-30T07:33:54.000Z",
       "sourceId": "ph",
       "category": "คณะสาธารณสุขศาสตร์",
@@ -2368,15 +2377,6 @@
       "topic": "activity"
     },
     {
-      "title": "ขอเชิญผู้สนใจลงทะเบียนเข้าร่วมสัมมนา ฟรี! Thailand–Vietnam Trade Dialogue เวทีแลกเปลี่ยนการค้าไทย–เวียดนาม สู่ความร่วมมือที่ยั่งยืน - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBtanluWmZnamlNeVJ2WmRmTzBzeDhETjRjX0R2dG5NSlVmY3lTUFZhX3psUC1rTGNYdTZUektWVmRQR0h6bEVJ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
-      "publishedAt": "2026-03-12T12:08:27.000Z",
-      "sourceId": "cbs",
-      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
-      "topic": "activity"
-    },
-    {
       "title": "ประกาศมหาวิทยาลัยขอนแก่น เรื่อง แนวทางการปฏิบัติงานตามมาตรการลดการใช้พลังงานในพื้นที่มหาวิทยาลัย เพื่อรองรับสถานการณ์ความไม่สงบในตะวันออกกลาง - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBnb1YyekM0cnowS3FpMmlHd1R1ZkJmN2tMa0ZHWHZpVmRSVHBJMzQ3NTJIWmJHMGI4NnNDdmhLeHEtQ0owcjUw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -2384,6 +2384,15 @@
       "sourceId": "kku",
       "category": "มข.",
       "topic": "announce"
+    },
+    {
+      "title": "ขอเชิญผู้สนใจลงทะเบียนเข้าร่วมสัมมนา ฟรี! Thailand–Vietnam Trade Dialogue เวทีแลกเปลี่ยนการค้าไทย–เวียดนาม สู่ความร่วมมือที่ยั่งยืน - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBtanluWmZnamlNeVJ2WmRmTzBzeDhETjRjX0R2dG5NSlVmY3lTUFZhX3psUC1rTGNYdTZUektWVmRQR0h6bEVJ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-03-12T12:08:27.000Z",
+      "sourceId": "cbs",
+      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
+      "topic": "activity"
     },
     {
       "title": "นักศึกษา KKBS ทำถึง! คว้ารางวัลประกวดแผนธุรกิจ “มิตรมาร์ท NEW GEN CHALLENGE 2026” ชูไอเดียพลิกโฉมโชห่วยสู่ค้าปลีกยุคใหม่",
@@ -2721,7 +2730,7 @@
     {
       "title": "บัณฑิตวิทยาลัย มข. เปิดบ้านต้อนรับคณะศึกษาดูงานจากจุฬาฯ แลกเปลี่ยนแนวคิดบริหารบัณฑิตศึกษาสู่ความเป็นเลิศ",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE43RHpMMFhZaDUxUnlnLVo3QVFtSEJ5SVdlbFpOMldrZkxzQmNFa1hlRjQ2WnJ6ZFVNZDkwR2UtMWdOQQ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "kku.ac.th",
       "publishedAt": "2026-02-06T08:00:00.000Z",
       "sourceId": "gs",
       "category": "บัณฑิตวิทยาลัย",
@@ -2784,7 +2793,7 @@
     {
       "title": "บัณฑิตวิทยาลัย จัดโครงการพี่ให้น้อง ครั้งที่ 24 ณ โรงเรียนบ้านทุ่มห้วย อำเภอชนบท จังหวัดขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5qNDA5VWE3VGNvbWxsRkp2TTQwZGh6YVRFNkg1b0FjeFcxUjRLTnZLV3liOVlzVWRJNzFWbzBlZmk0Q3hxU0RV?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "kku.ac.th",
       "publishedAt": "2026-01-26T09:56:02.000Z",
       "sourceId": "gs",
       "category": "บัณฑิตวิทยาลัย",
@@ -2964,7 +2973,7 @@
     {
       "title": "บัณฑิตวิทยาลัย เปิดตัว “GS Admission” ระบบรับเข้าแบบ Full Digital Service รูปแบบใหม่",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5KemM2aVhhN1ZYM093WmYzMllhQklsVHk4TFAtdTdqTjNYdU50VWgzTnFEaEhFU0U0QmJ6TTg2TF96VDB4a1JB?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "kku.ac.th",
       "publishedAt": "2025-12-01T08:00:00.000Z",
       "sourceId": "gs",
       "category": "บัณฑิตวิทยาลัย",
@@ -3108,7 +3117,7 @@
     {
       "title": "ขอเชิญผู้สนใจเข้าร่วมอบรม หลักสูตร Practical & Technical Skills for EdPEx 300 and Beyond",
       "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOcmtaeUJpNVVCRGJiUTJuSGdPWWlpZTRRbzZfV1FlNGtINFBUY0hiRk1BWjZybUJ1Uk92UVpJZHZ1b2VYQS13dVFrTEMzY1J2a1hLOUhPQnJVTC0tVlNtdENuazhiMTBqRldiWW1LOGtXal9tcEJDTTc5ZFc2T1AySjBESm4wdS1rR21ZUHVlRHhhdUsza2NIUWR0ZDFpeHRNQ2FGclFHR0pScHpJalBBQk1ka0d3ekpYblMwWlVWMnZSQWRNbXpxdllrOVJxM25uVHIzcnFRdEhBTWRQdW1fUFR3N0pLdG1SR2d0R0VBeFdnczVPZlF1bmFqLTZ5VDBsd3paalVwY09VTmNaUVlwU3NQMV81RTdpWC1PUzdjSEIyakpWdGFSQU5fQTdQeENyZ24wSVV0R2FSLUF2U01RZEVxSklNNG51akp2a1JwZnprdw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "kku.ac.th",
       "publishedAt": "2025-10-06T05:40:42.000Z",
       "sourceId": "gs",
       "category": "บัณฑิตวิทยาลัย",
@@ -3189,7 +3198,7 @@
     {
       "title": "คณะสาธารณสุขศาสตร์ มข. จัดโครงการแลกเปลี่ยนนักศึกษา ณ YMUN ประเทศจีน",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBHRGJTMmNBak1XVDU4VVRsZWpsd05MZGJDNnVfVFpxaElxbHYtSjBNdDQ4WnF3am81eTlJUm5sSVhaaUE3Zkw4?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "kku.ac.th",
       "publishedAt": "2025-07-17T06:39:27.000Z",
       "sourceId": "ph",
       "category": "คณะสาธารณสุขศาสตร์",
@@ -3207,7 +3216,7 @@
     {
       "title": "เปิดปีการศึกษาใหม่! บัณฑิตวิทยาลัย มข. จัดปฐมนิเทศเสิร์ฟทักษะวิจัย–การใช้ AI เพื่อการศึกษายุคใหม่",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1zNV9pQmRKX2FuMzNaMzE5Q3RvLXRyNjJrR09KT1U1M3FRZTRUTThLYkE1OWFlVjlPM0NSTWFGZndmcmxReE9v?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "kku.ac.th",
       "publishedAt": "2025-06-13T07:00:00.000Z",
       "sourceId": "gs",
       "category": "บัณฑิตวิทยาลัย",
@@ -3216,7 +3225,7 @@
     {
       "title": "กรมอนามัย ร่วมกับ คณะสาธารณสุขศาสตร์ มข.ลงนาม MOU ความร่วมมือทางวิชาการด้านความรอบรู้ด้านสุขภาพ เพื่อพัฒนาความรอบรู้ด้านสุขภาพสู่การดูแลสุขภาพประชาชน - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5TQzFmeFNSWExXYllOQlJkSDhlMjJlTXhEbjdhV2t4VUZoOUVVSWVQUl9FcnJ5dWpHMkEtSGZXQUdUMW8xUWc?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "kku.ac.th",
       "publishedAt": "2025-05-27T19:13:48.000Z",
       "sourceId": "ph",
       "category": "คณะสาธารณสุขศาสตร์",
@@ -3225,7 +3234,7 @@
     {
       "title": "ข่าวข้นคนเข้ม : ต้อนรับ",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1oNnF3T2o2OXdhYUhScE90MnpMMTA3S2tVTTc4UHdINS1hUjFUbzRESW1uLUZER3pOZmpQWDFfdlRZX0VHZTBn?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "kku.ac.th",
       "publishedAt": "2025-05-25T13:23:06.000Z",
       "sourceId": "ph",
       "category": "คณะสาธารณสุขศาสตร์",
@@ -3261,7 +3270,7 @@
     {
       "title": "บัณฑิตวิทยาลัย มหาวิทยาลัยขอนแก่น จัดการประชุมวิชาการเสนอผลงานวิจัยระดับบัณฑิตศึกษาระดับชาติ ครั้งที่ 23",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9jN1hoQ1dkV18yZk5aVlRuOHpfUG9sckdfVDl2TTRGNmhQTXhOcXk5UTNicGVqQXlieXY2MTZUQUFWUkJ3cUE?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "kku.ac.th",
       "publishedAt": "2025-05-22T12:31:54.000Z",
       "sourceId": "gs",
       "category": "บัณฑิตวิทยาลัย",
@@ -3270,7 +3279,7 @@
     {
       "title": "เรียนต่อ มข. KKU Insight EP.21 บัณฑิตวิทยาลัย มหาวิทยาลัยขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9xRGZlb2JzdXA2WWRncXBLTVMyeG51Z3FSRVJFNU5zVkxadGRqZkdIN1VqNW53Rkw1MUNReE9VYWNEZ0NLWmRF?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "kku.ac.th",
       "publishedAt": "2025-05-22T09:42:05.000Z",
       "sourceId": "gs",
       "category": "บัณฑิตวิทยาลัย",
@@ -3306,7 +3315,7 @@
     {
       "title": "กรมอนามัย : สมาคมส่งเสริมความรอบรู้ด้านสุขภาพไทย และคณะสาธารณสุขศาสตร์ มหาวิทยาลัยขอนแก่น ขอเชิญชวนผู้ที่สนใจ ส่งผลงานวิชาการ \"ความรอบรู้ด้านสุขภาพ\" ในการประชุมวิชาการระหว่างประเทศสมาคมความรอบรู้ด้านสุขภาพแห่งเอเชีย ครั้งที่ 9 (The 9th Asia Health Literacy... -",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1qR1ljUGZXN0phN2h2ZGJRVzI2RFUzcXREVEdKYjZBdDdMVks2V0gxR3J1aldVTGF2SmFPUGlPVS1pbWxuRDgw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "kku.ac.th",
       "publishedAt": "2025-05-07T04:57:16.000Z",
       "sourceId": "ph",
       "category": "คณะสาธารณสุขศาสตร์",
@@ -3333,7 +3342,7 @@
     {
       "title": "มหาวิทยาลัยขอนแก่นขอแสดงความยินดีกับผู้ได้รับโปรดเกล้าฯสู่ตำแหน่งศาสตราจารย์",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8ydzJXcmdPVTZNVEVaUzVmRnpNWlNRTzEwSzBvX3JPamFUU2FVdmpVbndGczFwUjVOM3N4VlZ1SEpmcDFPdGc?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "kku.ac.th",
       "publishedAt": "2025-05-06T06:23:57.000Z",
       "sourceId": "ph",
       "category": "คณะสาธารณสุขศาสตร์",
@@ -3342,7 +3351,7 @@
     {
       "title": "เรียนต่อ มข. KKU Insight Ep.18 คณะสาธารณสุขศาสตร์ มหาวิทยาลัยขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBqaTlwNTBXVnpWYk4xSnN2OGY3WVpPOWg1Y2dJUEo4M1d3cmFmNWpIRWlhSHBraThtaEpwbExlRERLcmJKMm5B?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "kku.ac.th",
       "publishedAt": "2025-05-05T23:03:15.000Z",
       "sourceId": "ph",
       "category": "คณะสาธารณสุขศาสตร์",
@@ -3351,7 +3360,7 @@
     {
       "title": "ยินดีต้อนรับนักศึกษาใหม่ระดับบัณฑิตศึกษา รุ่นที่ 45",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43dkxWcEJQeTJJbEw4VnRvZEdRd0x6TF9VWjVUbFpzdUN5dTV5TUxqZTJTcDhZUFk0S05NeWhnV1VEWm4wRnNF?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "kku.ac.th",
       "publishedAt": "2025-05-05T18:27:10.000Z",
       "sourceId": "gs",
       "category": "บัณฑิตวิทยาลัย",
