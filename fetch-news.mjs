@@ -87,6 +87,21 @@ function classifyTopic(title) {
   return "other";
 }
 
+// ---------- ตัวกรองข่าวที่ไม่เกี่ยวกับนักศึกษา ----------
+// ตัดทิ้ง 4 กลุ่ม: คดี/อุบัติเหตุ · การเมือง/โพล · ข่าวภายในองค์กร/บุคลากร · กีฬาอาชีพ
+// ใช้กับทั้งข่าวใหม่และข่าวเก่าที่เก็บไว้ (กรองซ้ำทุกรอบ ปรับกติกาแล้วมีผลย้อนหลัง)
+const EXCLUDE_RULES = [
+  ["คดี/อุบัติเหตุ", /ศาลฎีกา|ศาลอุทธรณ์|ศาลสั่ง|จำคุก|ติดคุก|คดี|ฆาตกรรม|ฆ่า(?!เชื้อ)|เสียชีวิต|บูลลี่|กลั่นแกล้ง|คุกคามทางเพศ|ล่วงละเมิด|ข่มขืน|ยาเสพติด|จับกุม|ถูกจับ|อุบัติเหตุ|รถชน|เฉี่ยวชน|ชนแล้วหนี|ไฟไหม้|เพลิงไหม้|ปล้น|ลักทรัพย์|ฉ้อโกง|หลอกลวง|คอลเซ็นเตอร์|มิจฉาชีพ/],
+  ["การเมือง/โพล", /โพล(?!ิเมอร์)|นายกรัฐมนตรี|นายกฯ|การเมือง|พรรคเพื่อไทย|พรรคประชาชน|พรรคภูมิใจไทย|เลือกตั้ง|รัฐสภา|ยุบสภา|กอ\.?\s?รมน|รัฐประหาร|ม็อบ|ประท้วง|ครม\.|คณะรัฐมนตรี/],
+  ["ภายในองค์กร", /ดำรงตำแหน่ง|ผู้ช่วยศาสตราจารย์|รองศาสตราจารย์|แต่งตั้ง|โปรดเกล้า|ตรวจประเมิน|peer\s?evaluation|ซ้อมแผน|ซ้อมอพยพ|อัคคีภัย|บันทึกเทป|ร่วมรายการสด|(ร่วม|ออก)รายการ\s?["“']|อบรมบุคลากร|(สมรรถนะ|ศักยภาพ)บุคลากร|บุคลากรสายสนับสนุน|รับมอบ(อาคาร|อุปกรณ์|ครุภัณฑ์)|ส่งมอบ.{0,20}อาคาร|สนับสนุนอุปกรณ์|มอบครุภัณฑ์|สรรหา(คณบดี|อธิการบดี|ผู้อำนวยการ)|ประชุมสภามหาวิทยาลัย|ประเมินคุณธรรม|\bITA\b/i],
+  ["กีฬาอาชีพ", /มอดินแดง\s?(เอฟ\.?\s?ซี|f\.?c)|(เอฟ\.?\s?ซี|f\.?c)\.?\s?มอดินแดง|ขอนแก่น\s?(เอฟ\.?\s?ซี|f\.?c|ยูไนเต็ด)|ไทยลีก|ฟุตบอลอาชีพ|นักเตะ/i],
+];
+
+function excludeReason(title) {
+  for (const [reason, re] of EXCLUDE_RULES) if (re.test(title)) return reason;
+  return null;
+}
+
 // ลำดับแหล่ง: feed ทางการของคณะมาก่อน (ข่าวเร็ว มีรูป และตอน dedup ตัวแรกชนะ)
 // ตามด้วย Google News รายคณะ แล้วปิดท้ายด้วยข่าวรวมของมหาวิทยาลัย
 const SOURCES = [
@@ -234,6 +249,17 @@ async function main() {
   } catch {}
 
   const categoryById = Object.fromEntries(SOURCES.map((s) => [s.id, s.category]));
+  // ข่าวจาก Google News บางครั้งหลุดมาทั้งที่ไม่พูดถึง มข. เลย (เช่น ข่าวมหาวิทยาลัยอื่น)
+  // หัวข่าวต้องเอ่ยถึง มข./ขอนแก่น/KKU หรือชื่อคณะของแหล่งนั้นเอง จึงจะนับว่าเกี่ยวข้อง
+  // ยกเว้นข่าวที่ดึงตรงจากเว็บคณะ — เกี่ยวข้องแน่นอนแม้หัวข่าวไม่ใส่ชื่อมหาลัย (เช่น "KKBS จัดค่าย...")
+  const esc = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const relevantById = Object.fromEntries(
+    SOURCES.map((s) => {
+      const core = s.category.replace(/^คณะ\s*/, "").replace(/\s*\(.*\)\s*$/, "");
+      return [s.id, new RegExp(`ขอนแก่น|มข|kku|${esc(core)}`, "i")];
+    })
+  );
+  const excludeCount = {};
   const seenLink = new Set();
   const seenTitle = new Set(); // ข่าวเดียวกันอาจมาทั้งจากเว็บคณะและ Google News — ตัดซ้ำด้วยหัวข่าว
   const merged = [...results.flat(), ...previous]
@@ -248,12 +274,22 @@ async function main() {
       image: it.image ?? null,
     }))
     .filter((it) => {
+      const fromFacultySite = it.outlet === "เว็บไซต์คณะ";
+      const reason = excludeReason(it.title) ??
+        (!fromFacultySite && !relevantById[it.sourceId].test(it.title) ? "ไม่เอ่ยถึง มข." : null);
+      if (reason) {
+        excludeCount[reason] = (excludeCount[reason] ?? 0) + 1;
+        return false;
+      }
       const titleKey = it.title.toLowerCase().replace(/\s+/g, "");
       if (seenLink.has(it.link) || seenTitle.has(titleKey)) return false;
       seenLink.add(it.link);
       seenTitle.add(titleKey);
       return true;
     });
+
+  if (Object.keys(excludeCount).length)
+    console.log("\nคัดข่าวไม่เกี่ยวกับนักศึกษาออก:", Object.entries(excludeCount).map(([k, v]) => `${k} ${v}`).join(" · "));
 
   merged.sort((a, b) => (b.publishedAt ?? "").localeCompare(a.publishedAt ?? ""));
   const items = merged.slice(0, MAX_TOTAL);
