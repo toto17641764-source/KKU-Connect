@@ -3,23 +3,26 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>KKU Connect — รวมข่าวทุกเรื่องใน มข. ไว้ที่เดียว</title>
+<title>KKU Connect — เชื่อมต่อทุกข่าวสาร กิจกรรม และโอกาสของคุณ</title>
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@400;500;600;700&family=Anuphan:wght@400;500;600;700&display=swap" rel="stylesheet" />
 <style>
   :root {
-    --paper: #fbf5ee;
+    --paper: #f8f5f1;
     --card: #ffffff;
-    --ink: #34302a;
+    --ink: #33302b;
     --ink-soft: #8d8377;
-    --line: #f0e5d9;
-    --brand: #bf4d1e;
-    --brand-dark: #9d3a12;
-    --brand-soft: #fcece1;
+    --line: #efe6da;
+    --brand: #d4541c;
+    --brand-dark: #a83c0e;
+    --brand-soft: #fceade;
     --brand-softer: #fdf4ec;
     --gold: #f2b544;
     --gold-soft: #fdf3dd;
+    --ai: #f4effc;
+    --ai-line: #e0d3f5;
+    --ai-ink: #5b3fa8;
     --shadow: 0 1px 2px rgba(90, 50, 20, 0.05), 0 8px 24px rgba(90, 50, 20, 0.06);
   }
 
@@ -34,6 +37,7 @@
   }
   a { color: inherit; text-decoration: none; }
   button { font: inherit; cursor: pointer; }
+  img { max-width: 100%; }
 
   /* ---------- Header ---------- */
   header {
@@ -50,13 +54,12 @@
   .logo-name {
     font-family: "IBM Plex Sans Thai", sans-serif;
     font-weight: 700; font-size: 1.28rem; letter-spacing: -0.01em; line-height: 1.15;
+    display: block;
   }
   .logo-name .kku { color: var(--brand); }
-  .logo-tag { font-size: 0.72rem; color: var(--ink-soft); line-height: 1.2; }
+  .logo-tag { font-size: 0.7rem; color: var(--ink-soft); line-height: 1.2; display: block; }
 
-  .search {
-    flex: 1; max-width: 560px; position: relative; margin: 0 auto;
-  }
+  .search { flex: 1; max-width: 560px; position: relative; margin: 0 auto; }
   .search input {
     width: 100%; padding: 10px 16px 10px 42px;
     border: 1.5px solid var(--line); border-radius: 999px;
@@ -114,28 +117,18 @@
     display: flex; justify-content: space-between; align-items: baseline;
   }
   .dropdown h4 small { color: var(--ink-soft); font-weight: 400; font-size: 0.7rem; }
-  .noti-item {
-    display: flex; gap: 10px; padding: 9px 10px; border-radius: 10px; align-items: flex-start;
-  }
+  .noti-item { display: flex; gap: 10px; padding: 9px 10px; border-radius: 10px; align-items: flex-start; cursor: pointer; }
   .noti-item:hover { background: var(--brand-softer); }
-  .noti-item .dot {
-    width: 8px; height: 8px; border-radius: 50%; background: var(--brand);
-    margin-top: 7px; flex-shrink: 0;
-  }
+  .noti-item .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--brand); margin-top: 7px; flex-shrink: 0; }
   .noti-item p { font-size: 0.8rem; line-height: 1.45; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
   .noti-item small { color: var(--ink-soft); font-size: 0.7rem; }
-  .dropdown .foot {
-    font-size: 0.75rem; text-align: center;
-    padding: 8px 10px 4px; border-top: 1px solid var(--line); margin-top: 4px;
-  }
-  .dropdown .foot button {
-    border: 0; background: none; color: var(--brand-dark); font-weight: 700; font-size: 0.75rem;
-  }
+  .dropdown .foot { font-size: 0.75rem; text-align: center; padding: 8px 10px 4px; border-top: 1px solid var(--line); margin-top: 4px; }
+  .dropdown .foot button { border: 0; background: none; color: var(--brand-dark); font-weight: 700; font-size: 0.75rem; }
 
   /* ---------- Layout ---------- */
   .shell {
     max-width: 1280px; margin: 0 auto; padding: 22px 20px 60px;
-    display: grid; grid-template-columns: 252px minmax(0, 1fr) 296px; gap: 22px;
+    display: grid; grid-template-columns: 240px minmax(0, 1fr) 300px; gap: 22px;
     align-items: start;
   }
 
@@ -169,10 +162,23 @@
   .side-item.on .num { background: #fff; color: var(--brand-dark); }
   .side-item .caret { flex-shrink: 0; color: var(--ink-soft); transition: transform 0.18s; }
   .side-item.expanded .caret { transform: rotate(180deg); }
-  .fac-list { overflow: hidden; }
   .fac-list[hidden] { display: none; }
   .fac-list .side-item { padding-left: 22px; font-size: 0.83rem; }
   .side hr { border: 0; border-top: 1px solid var(--line); margin: 10px 4px; }
+
+  /* กล่องชวนเปิดการแจ้งเตือน (มุมล่างซ้ายตาม wireframe) */
+  .noti-cta {
+    margin: 12px 4px 4px; padding: 14px; border-radius: 14px;
+    background: var(--brand-softer); border: 1px solid var(--brand-soft);
+  }
+  .noti-cta .t { font-size: 0.82rem; font-weight: 700; display: flex; gap: 6px; align-items: center; }
+  .noti-cta p { font-size: 0.72rem; color: var(--ink-soft); margin: 4px 0 10px; line-height: 1.45; }
+  .noti-cta button {
+    width: 100%; border: 0; background: var(--brand); color: #fff;
+    font-weight: 700; font-size: 0.8rem; padding: 8px; border-radius: 10px;
+    transition: background 0.15s;
+  }
+  .noti-cta button:hover { background: var(--brand-dark); }
 
   /* ---------- Mobile chips ---------- */
   .chips {
@@ -187,23 +193,27 @@
   }
   .chip.on { background: var(--brand); border-color: var(--brand); color: #fff; font-weight: 600; }
 
-  /* ---------- Hero ---------- */
+  /* ---------- Hero carousel ---------- */
   .hero {
     position: relative; overflow: hidden; border-radius: 20px;
+    color: #fff; margin-bottom: 24px; box-shadow: var(--shadow);
+    min-height: 250px; display: flex; flex-direction: column; justify-content: flex-end;
     background: linear-gradient(118deg, #93340e 0%, #bf4d1e 55%, #de7b33 100%);
-    color: #fff; padding: 34px 32px 30px; margin-bottom: 22px;
-    box-shadow: var(--shadow); display: block;
+    cursor: pointer;
   }
-  .hero::after {
-    content: ""; position: absolute; right: -70px; top: -80px;
-    width: 300px; height: 300px; border-radius: 50%;
-    background: rgba(255, 255, 255, 0.07);
+  .hero .bg {
+    position: absolute; inset: 0; background-size: cover; background-position: center;
+    transition: opacity 0.4s;
   }
-  .hero::before {
-    content: ""; position: absolute; right: 40px; bottom: -120px;
-    width: 240px; height: 240px; border-radius: 50%;
-    background: rgba(255, 255, 255, 0.06);
+  .hero .bg::after {
+    content: ""; position: absolute; inset: 0;
+    background: linear-gradient(to top, rgba(40, 16, 2, 0.82) 8%, rgba(60, 24, 4, 0.45) 55%, rgba(60, 24, 4, 0.15) 100%);
   }
+  .hero .deco {
+    position: absolute; right: -70px; top: -80px; width: 300px; height: 300px;
+    border-radius: 50%; background: rgba(255, 255, 255, 0.07);
+  }
+  .hero-body { position: relative; z-index: 1; padding: 34px 32px 26px; }
   .hero .tagchip {
     display: inline-block; background: var(--gold); color: #5c3c00;
     font-size: 0.74rem; font-weight: 700; padding: 3px 12px; border-radius: 999px;
@@ -212,42 +222,117 @@
   .hero h2 {
     font-family: "IBM Plex Sans Thai", sans-serif;
     font-size: clamp(1.15rem, 2.4vw, 1.55rem); font-weight: 700; line-height: 1.4;
-    max-width: 640px; position: relative; z-index: 1;
+    max-width: 680px;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
   }
-  .hero .meta { margin-top: 10px; font-size: 0.82rem; opacity: 0.9; position: relative; z-index: 1; }
+  .hero .meta { margin-top: 8px; font-size: 0.82rem; opacity: 0.92; }
+  .hero-foot { display: flex; align-items: center; justify-content: space-between; margin-top: 16px; gap: 12px; }
   .hero .cta {
-    display: inline-flex; align-items: center; gap: 6px; margin-top: 18px;
+    display: inline-flex; align-items: center; gap: 6px;
     background: #fff; color: var(--brand-dark); font-weight: 700; font-size: 0.86rem;
-    padding: 9px 20px; border-radius: 999px; position: relative; z-index: 1;
+    padding: 9px 20px; border-radius: 999px; border: 0;
     transition: transform 0.12s;
   }
   .hero .cta:hover { transform: translateY(-1px); }
+  .hero-dots { display: flex; gap: 7px; }
+  .hero-dots button {
+    width: 8px; height: 8px; border-radius: 50%; border: 0; padding: 0;
+    background: rgba(255, 255, 255, 0.45); transition: background 0.15s, transform 0.15s;
+  }
+  .hero-dots button.on { background: #fff; transform: scale(1.25); }
 
   /* ---------- Section head ---------- */
   .sec-head {
     display: flex; align-items: baseline; justify-content: space-between;
     gap: 12px; margin: 4px 2px 14px; flex-wrap: wrap;
   }
-  .sec-head h3 {
-    font-family: "IBM Plex Sans Thai", sans-serif;
-    font-size: 1.08rem; font-weight: 700;
-  }
+  .sec-head h3 { font-family: "IBM Plex Sans Thai", sans-serif; font-size: 1.08rem; font-weight: 700; }
   .sec-head .sub { font-size: 0.78rem; color: var(--ink-soft); font-variant-numeric: tabular-nums; }
+  .sec-head .see-all {
+    border: 0; background: none; color: var(--brand-dark); font-weight: 700; font-size: 0.8rem;
+  }
+  .sec-head .see-all:hover { text-decoration: underline; }
 
-  /* ---------- Cards ---------- */
+  /* ปุ่มช่องทางของคณะ (เว็บ + Facebook) */
+  .src-links { display: flex; gap: 8px; margin: -4px 2px 14px; flex-wrap: wrap; }
+  .src-links a {
+    display: inline-flex; align-items: center; gap: 6px;
+    border: 1.5px solid var(--line); background: var(--card); border-radius: 999px;
+    font-size: 0.78rem; font-weight: 600; padding: 6px 14px;
+    transition: border-color 0.15s, color 0.15s;
+  }
+  .src-links a:hover { border-color: var(--brand); color: var(--brand-dark); }
+  .src-links a.fb:hover { border-color: #1877f2; color: #1877f2; }
+
+  /* ---------- แนะนำสำหรับคุณ (การ์ดมีรูป) ---------- */
+  .rec-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; margin-bottom: 26px; }
+  .rec-card {
+    background: var(--card); border: 1px solid var(--line); border-radius: 16px;
+    overflow: hidden; display: flex; flex-direction: column;
+    transition: box-shadow 0.15s, transform 0.15s; position: relative;
+  }
+  .rec-card:hover { box-shadow: var(--shadow); transform: translateY(-2px); }
+  .rec-img { position: relative; aspect-ratio: 16/9; overflow: hidden; cursor: pointer; }
+  .rec-img img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .rec-img .ph { width: 100%; height: 100%; display: grid; place-items: center; font-size: 2.2rem; }
+  .rec-img .cat {
+    position: absolute; top: 10px; left: 10px;
+    font-size: 0.68rem; font-weight: 700; color: #fff; background: rgba(40, 20, 5, 0.62);
+    backdrop-filter: blur(3px); padding: 3px 10px; border-radius: 999px;
+  }
+  .rec-body { padding: 12px 14px 14px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
+  .rec-body h4 {
+    font-size: 0.88rem; font-weight: 600; line-height: 1.5; cursor: pointer;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  }
+  .rec-body h4:hover { color: var(--brand-dark); }
+  .rec-meta { font-size: 0.72rem; color: var(--ink-soft); display: flex; gap: 6px; align-items: center; }
+  .rec-meta span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .rec-actions { display: flex; gap: 8px; margin-top: auto; padding-top: 4px; }
+  .rec-actions button {
+    flex: 1; display: inline-flex; align-items: center; justify-content: center; gap: 6px;
+    border: 1px solid var(--line); background: var(--card); border-radius: 10px;
+    font-size: 0.76rem; font-weight: 600; padding: 7px 4px; color: var(--ink);
+    transition: border-color 0.12s, color 0.12s, background 0.12s;
+  }
+  .rec-actions button:hover { border-color: var(--brand); color: var(--brand-dark); }
+  .rec-actions button.active { background: var(--brand); border-color: var(--brand); color: #fff; }
+
+  /* ---------- ข่าวสารล่าสุด (แถวย่อ) ---------- */
+  .latest-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+  .latest-row {
+    display: flex; gap: 11px; align-items: center;
+    background: var(--card); border: 1px solid var(--line); border-radius: 14px;
+    padding: 10px 12px; cursor: pointer;
+    transition: box-shadow 0.15s, transform 0.15s;
+  }
+  .latest-row:hover { box-shadow: var(--shadow); transform: translateY(-1px); }
+  .latest-row .thumb {
+    width: 44px; height: 44px; border-radius: 10px; flex-shrink: 0;
+    display: grid; place-items: center; font-size: 1.2rem; overflow: hidden;
+  }
+  .latest-row .thumb img { width: 100%; height: 100%; object-fit: cover; }
+  .latest-row p {
+    font-size: 0.82rem; font-weight: 600; line-height: 1.45;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  }
+  .latest-row small { color: var(--ink-soft); font-size: 0.7rem; font-weight: 400; display: block; }
+  .latest-row .chev { margin-left: auto; color: var(--ink-soft); flex-shrink: 0; }
+
+  /* ---------- Cards (list view) ---------- */
   .grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
   .card {
     background: var(--card); border: 1px solid var(--line); border-radius: 16px;
     padding: 16px; display: flex; flex-direction: column; gap: 10px;
-    transition: box-shadow 0.15s, transform 0.15s;
-    position: relative;
+    transition: box-shadow 0.15s, transform 0.15s; position: relative;
   }
   .card:hover { box-shadow: var(--shadow); transform: translateY(-2px); }
   .card-top { display: flex; gap: 12px; align-items: flex-start; }
   .tile {
     width: 46px; height: 46px; border-radius: 12px; flex-shrink: 0;
-    display: grid; place-items: center; font-size: 1.35rem;
+    display: grid; place-items: center; font-size: 1.35rem; overflow: hidden;
   }
+  .tile img { width: 100%; height: 100%; object-fit: cover; }
   .card .cat {
     display: inline-block; font-size: 0.68rem; font-weight: 700;
     color: var(--brand-dark); background: var(--brand-soft);
@@ -255,19 +340,11 @@
     max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
   }
   .card .cat.topic { color: #6b5218; background: var(--gold-soft); }
-  .card h4 {
-    font-size: 0.9rem; font-weight: 600; line-height: 1.5;
-    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
-  }
+  .card h4 { font-size: 0.9rem; font-weight: 600; line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .card h4 a { cursor: pointer; }
   .card h4 a::after { content: ""; position: absolute; inset: 0; border-radius: 16px; }
-  .card-foot {
-    display: flex; align-items: center; justify-content: space-between;
-    gap: 10px; margin-top: auto; padding-top: 4px;
-  }
-  .card-foot .src {
-    font-size: 0.72rem; color: var(--ink-soft);
-    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
-  }
+  .card-foot { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-top: auto; padding-top: 4px; }
+  .card-foot .src { font-size: 0.72rem; color: var(--ink-soft); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   .save-btn {
     border: 1px solid var(--line); background: var(--card); color: var(--ink-soft);
     width: 34px; height: 34px; border-radius: 10px; display: grid; place-items: center;
@@ -291,11 +368,72 @@
   }
   .empty .big { font-size: 2rem; margin-bottom: 8px; }
 
+  /* ---------- หน้ารายละเอียดข่าว ---------- */
+  .back-link {
+    display: inline-flex; align-items: center; gap: 6px;
+    border: 0; background: none; color: var(--ink-soft); font-size: 0.82rem; font-weight: 600;
+    margin-bottom: 12px; padding: 4px 0;
+  }
+  .back-link:hover { color: var(--brand-dark); }
+  .detail {
+    background: var(--card); border: 1px solid var(--line); border-radius: 18px;
+    padding: 24px; display: flex; flex-direction: column; gap: 16px;
+  }
+  .detail .chips-row { display: flex; gap: 6px; flex-wrap: wrap; }
+  .detail .cat {
+    display: inline-block; font-size: 0.7rem; font-weight: 700;
+    color: var(--brand-dark); background: var(--brand-soft);
+    padding: 3px 12px; border-radius: 999px;
+  }
+  .detail .cat.topic { color: #6b5218; background: var(--gold-soft); }
+  .detail h1 {
+    font-family: "IBM Plex Sans Thai", sans-serif;
+    font-size: clamp(1.15rem, 2.2vw, 1.5rem); font-weight: 700; line-height: 1.45;
+  }
+  .detail-img { border-radius: 14px; overflow: hidden; max-height: 380px; }
+  .detail-img img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .detail-meta {
+    display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px 16px;
+    background: var(--paper); border-radius: 14px; padding: 14px 16px;
+  }
+  .detail-meta div { display: flex; gap: 9px; align-items: flex-start; font-size: 0.82rem; }
+  .detail-meta .ico { flex-shrink: 0; }
+  .detail-meta small { display: block; color: var(--ink-soft); font-size: 0.7rem; }
+
+  .ai-box { background: var(--ai); border: 1px solid var(--ai-line); border-radius: 14px; padding: 16px 18px; }
+  .ai-box .ai-head {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 0.85rem; font-weight: 700; color: var(--ai-ink); margin-bottom: 8px;
+  }
+  .ai-box .ai-head .bot {
+    width: 26px; height: 26px; border-radius: 8px; background: var(--ai-ink); color: #fff;
+    display: grid; place-items: center; font-size: 0.85rem;
+  }
+  .ai-box p { font-size: 0.84rem; line-height: 1.7; }
+  .ai-box .ai-note { font-size: 0.7rem; color: var(--ink-soft); margin-top: 8px; }
+
+  .detail-actions { display: flex; gap: 10px; flex-wrap: wrap; }
+  .detail-actions .act {
+    display: inline-flex; align-items: center; justify-content: center; gap: 7px;
+    border: 1.5px solid var(--line); background: var(--card); border-radius: 12px;
+    font-size: 0.84rem; font-weight: 700; padding: 10px 18px; color: var(--ink);
+    transition: border-color 0.12s, color 0.12s, background 0.12s;
+  }
+  .detail-actions .act:hover { border-color: var(--brand); color: var(--brand-dark); }
+  .detail-actions .act.active { background: var(--brand-softer); border-color: var(--brand); color: var(--brand-dark); }
+  .detail-actions .act.primary { background: var(--brand); border-color: var(--brand); color: #fff; flex: 1; }
+  .detail-actions .act.primary:hover { background: var(--brand-dark); }
+  .share-row { display: flex; align-items: center; gap: 9px; font-size: 0.78rem; color: var(--ink-soft); flex-wrap: wrap; }
+  .share-row a, .share-row button {
+    width: 34px; height: 34px; border-radius: 50%; border: 1px solid var(--line);
+    background: var(--card); display: grid; place-items: center; color: var(--ink);
+    transition: border-color 0.12s, color 0.12s;
+  }
+  .share-row a:hover, .share-row button:hover { border-color: var(--brand); color: var(--brand-dark); }
+
   /* ---------- หน้าการแจ้งเตือน ---------- */
   .noti-page { background: var(--card); border: 1px solid var(--line); border-radius: 18px; padding: 10px; }
-  .noti-row {
-    display: flex; gap: 12px; padding: 13px 12px; border-radius: 12px; align-items: flex-start;
-  }
+  .noti-row { display: flex; gap: 12px; padding: 13px 12px; border-radius: 12px; align-items: flex-start; cursor: pointer; }
   .noti-row:hover { background: var(--brand-softer); }
   .noti-row + .noti-row { border-top: 1px solid var(--line); border-radius: 0 0 12px 12px; }
   .noti-row .tile { width: 40px; height: 40px; font-size: 1.15rem; border-radius: 10px; }
@@ -322,9 +460,7 @@
   }
   .switch { position: relative; width: 44px; height: 24px; flex-shrink: 0; }
   .switch input { opacity: 0; width: 100%; height: 100%; position: absolute; margin: 0; cursor: pointer; z-index: 2; }
-  .switch .track {
-    position: absolute; inset: 0; border-radius: 999px; background: var(--line); transition: background 0.15s;
-  }
+  .switch .track { position: absolute; inset: 0; border-radius: 999px; background: var(--line); transition: background 0.15s; }
   .switch .track::after {
     content: ""; position: absolute; left: 3px; top: 3px; width: 18px; height: 18px;
     border-radius: 50%; background: #fff; box-shadow: 0 1px 3px rgba(0,0,0,0.2); transition: left 0.15s;
@@ -340,32 +476,66 @@
 
   /* ---------- Right rail ---------- */
   .rail { display: flex; flex-direction: column; gap: 16px; position: sticky; top: 76px; }
-  .panel {
-    background: var(--card); border: 1px solid var(--line); border-radius: 18px; padding: 16px;
-  }
+  .panel { background: var(--card); border: 1px solid var(--line); border-radius: 18px; padding: 16px; }
   .panel h3 {
     font-family: "IBM Plex Sans Thai", sans-serif;
     font-size: 0.95rem; font-weight: 700; margin-bottom: 10px;
-    display: flex; align-items: center; gap: 7px;
+    display: flex; align-items: center; gap: 7px; justify-content: space-between;
   }
-  .hot-item { display: flex; gap: 11px; padding: 8px 6px; border-radius: 12px; align-items: flex-start; }
+  .panel h3 .see-all { border: 0; background: none; color: var(--brand-dark); font-weight: 700; font-size: 0.72rem; }
+  .hot-item { display: flex; gap: 11px; padding: 8px 6px; border-radius: 12px; align-items: flex-start; cursor: pointer; }
   .hot-item:hover { background: var(--brand-softer); }
-  .hot-item .tile { width: 40px; height: 40px; font-size: 1.15rem; border-radius: 10px; }
+  .hot-item .tile { width: 42px; height: 42px; font-size: 1.15rem; border-radius: 10px; }
   .hot-item p {
     font-size: 0.79rem; font-weight: 600; line-height: 1.45;
     display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
   }
   .hot-item small { color: var(--ink-soft); font-size: 0.69rem; font-weight: 400; }
+  .panel-btn {
+    width: 100%; margin-top: 8px; border: 1.5px solid var(--brand); background: var(--card);
+    color: var(--brand-dark); font-weight: 700; font-size: 0.78rem; padding: 8px; border-radius: 10px;
+    display: inline-flex; align-items: center; justify-content: center; gap: 6px;
+    transition: background 0.15s, color 0.15s;
+  }
+  .panel-btn:hover { background: var(--brand); color: #fff; }
+
+  .cat-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
+  .cat-cell {
+    display: flex; align-items: center; gap: 7px;
+    border: 1px solid var(--line); background: var(--card); border-radius: 10px;
+    font-size: 0.76rem; font-weight: 600; padding: 8px 10px; color: var(--ink);
+    transition: border-color 0.12s, background 0.12s;
+    overflow: hidden; white-space: nowrap;
+  }
+  .cat-cell .txt { overflow: hidden; text-overflow: ellipsis; }
+  .cat-cell:hover { border-color: var(--brand); background: var(--brand-softer); }
+
   .quick a {
     display: flex; align-items: center; justify-content: space-between; gap: 8px;
     font-size: 0.82rem; padding: 9px 10px; border-radius: 10px; color: var(--ink);
   }
   .quick a:hover { background: var(--brand-softer); color: var(--brand-dark); }
   .quick svg { color: var(--ink-soft); flex-shrink: 0; }
-  .panel.notice {
-    background: var(--gold-soft); border-color: #f3dfb2;
+
+  .follow-links { display: flex; flex-direction: column; gap: 8px; }
+  .follow-links a {
+    display: flex; align-items: center; gap: 9px;
+    border: 1px solid var(--line); border-radius: 10px; padding: 9px 12px;
+    font-size: 0.8rem; font-weight: 600;
+    transition: border-color 0.12s, color 0.12s;
   }
-  .panel.notice p { font-size: 0.76rem; color: #6b5218; line-height: 1.55; }
+  .follow-links a:hover { border-color: var(--brand); color: var(--brand-dark); }
+  .follow-links a.fb:hover { border-color: #1877f2; color: #1877f2; }
+
+  /* ---------- Toast ---------- */
+  #toast {
+    position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%) translateY(80px);
+    background: var(--ink); color: #fff; font-size: 0.82rem; font-weight: 600;
+    padding: 10px 22px; border-radius: 999px; z-index: 90; opacity: 0;
+    transition: transform 0.25s, opacity 0.25s; pointer-events: none;
+    max-width: min(90vw, 480px); text-align: center;
+  }
+  #toast.show { transform: translateX(-50%) translateY(0); opacity: 1; }
 
   /* ---------- Footer ---------- */
   footer {
@@ -383,7 +553,8 @@
     .shell { grid-template-columns: minmax(0, 1fr); padding-top: 14px; }
     .side { display: none; }
     .chips { display: flex; }
-    .grid { grid-template-columns: minmax(0, 1fr); }
+    .grid, .latest-grid, .rec-grid { grid-template-columns: minmax(0, 1fr); }
+    .detail-meta { grid-template-columns: minmax(0, 1fr); }
     .profile-name { display: none; }
     .profile { padding: 5px; border-radius: 50%; }
     .head-row { flex-wrap: wrap; }
@@ -397,15 +568,15 @@
   <div class="head-row">
     <a class="logo" href="#" onclick="goHome(event)">
       <svg viewBox="0 0 48 48" fill="none" aria-hidden="true">
-        <path d="M24 4 L27 12 H21 Z" fill="#bf4d1e"/>
-        <path d="M22 12 h4 v5 h-4 z" fill="#bf4d1e"/>
-        <path d="M18 17 h12 l-2 8 h-8 z" fill="#d0662a"/>
-        <path d="M16 25 h16 l-1.6 9 h-12.8 z" fill="#bf4d1e"/>
-        <path d="M13 34 h22 l-1.4 8 h-19.2 z" fill="#93340e"/>
+        <path d="M24 4 L27 12 H21 Z" fill="#d4541c"/>
+        <path d="M22 12 h4 v5 h-4 z" fill="#d4541c"/>
+        <path d="M18 17 h12 l-2 8 h-8 z" fill="#dd6a2b"/>
+        <path d="M16 25 h16 l-1.6 9 h-12.8 z" fill="#d4541c"/>
+        <path d="M13 34 h22 l-1.4 8 h-19.2 z" fill="#a83c0e"/>
       </svg>
       <span>
         <span class="logo-name"><span class="kku">KKU</span> Connect</span>
-        <span class="logo-tag">รวมข่าวทุกเรื่องใน มข. ไว้ที่เดียว</span>
+        <span class="logo-tag">เชื่อมต่อทุกข่าวสาร กิจกรรม และโอกาสของคุณ</span>
       </span>
     </a>
 
@@ -454,13 +625,48 @@
   <!-- ========== Main ========== -->
   <main>
     <div class="chips" id="chips"></div>
-    <a class="hero" id="hero" target="_blank" rel="noopener" hidden></a>
-    <div class="sec-head" id="secHead">
-      <h3 id="secTitle">ข่าวสารล่าสุด</h3>
-      <span class="sub" id="secSub"></span>
+
+    <!-- หน้าแรกตาม wireframe -->
+    <div id="homeView" hidden>
+      <div class="hero" id="hero"></div>
+      <div class="sec-head">
+        <h3>แนะนำสำหรับคุณ</h3>
+        <button class="see-all" data-goto="t:activity">ดูทั้งหมด ›</button>
+      </div>
+      <div class="rec-grid" id="recGrid"></div>
+      <div class="sec-head">
+        <h3>ข่าวสารล่าสุด</h3>
+        <button class="see-all" id="seeAllLatest">ดูทั้งหมด ›</button>
+      </div>
+      <div class="latest-grid" id="latestGrid"></div>
     </div>
-    <div class="grid" id="grid"></div>
-    <div class="noti-page" id="notiPage" hidden></div>
+
+    <!-- มุมมองรายการ (หมวด / คณะ / ค้นหา / บันทึก) -->
+    <div id="listView" hidden>
+      <div class="sec-head" id="secHead">
+        <h3 id="secTitle">ข่าวสารล่าสุด</h3>
+        <span class="sub" id="secSub"></span>
+      </div>
+      <div class="src-links" id="srcLinks" hidden></div>
+      <div class="grid" id="grid"></div>
+      <div class="empty" id="empty" hidden>
+        <div class="big">🔍</div>
+        ไม่พบข่าวที่ตรงกับเงื่อนไข ลองเปลี่ยนคำค้นหรือเลือกหมวด/คณะอื่นดูครับ
+      </div>
+      <div class="more-wrap"><button class="more-btn" id="moreBtn" hidden>โหลดข่าวเพิ่มเติม</button></div>
+    </div>
+
+    <!-- หน้ารายละเอียดข่าว -->
+    <div id="detailView" hidden></div>
+
+    <!-- หน้าการแจ้งเตือน -->
+    <div id="notiWrap" hidden>
+      <div class="sec-head">
+        <h3 id="notiTitle">การแจ้งเตือน</h3>
+        <span class="sub" id="notiSub"></span>
+      </div>
+      <div class="noti-page" id="notiPage"></div>
+    </div>
 
     <!-- หน้าตั้งค่า -->
     <div class="settings" id="settingsPage" hidden>
@@ -468,7 +674,7 @@
         <h4>การแสดงผล</h4>
         <div class="desc">ตั้งค่าถูกเก็บไว้ในเครื่องของคุณ (localStorage) ใช้ได้ทันทีไม่ต้องเข้าสู่ระบบ</div>
         <div class="set-row">
-          <label>แสดงแบนเนอร์ข่าวล่าสุดด้านบน<small>ป้ายสีแดงอิฐขนาดใหญ่ในหน้าหลัก</small></label>
+          <label>แสดงแบนเนอร์ข่าวเด่นด้านบน<small>สไลด์ข่าวสำคัญในหน้าหลัก</small></label>
           <span class="switch"><input type="checkbox" id="setHero" /><span class="track"></span></span>
         </div>
         <div class="set-row">
@@ -496,41 +702,50 @@
         <div class="desc" style="margin: 0; color: #6b5218;">การแจ้งเตือนแบบพุชถึงมือถือและการเข้าสู่ระบบด้วยบัญชี KKU Mail เป็นแผนพัฒนาในเวอร์ชันถัดไป</div>
       </div>
     </div>
-
-    <div class="empty" id="empty" hidden>
-      <div class="big">🔍</div>
-      ไม่พบข่าวที่ตรงกับเงื่อนไข ลองเปลี่ยนคำค้นหรือเลือกหมวด/คณะอื่นดูครับ
-    </div>
-    <div class="more-wrap"><button class="more-btn" id="moreBtn" hidden>โหลดข่าวเพิ่มเติม</button></div>
   </main>
 
   <!-- ========== Right rail ========== -->
   <aside class="rail">
-    <div class="panel">
-      <h3>🔥 ข่าวเด่นตอนนี้</h3>
-      <div id="hotList"></div>
+    <div id="railHome">
+      <div style="display:flex;flex-direction:column;gap:16px">
+        <div class="panel">
+          <h3>📅 กิจกรรมที่กำลังจะมาถึง <button class="see-all" data-goto="t:activity">ดูทั้งหมด ›</button></h3>
+          <div id="upcomingList"></div>
+          <button class="panel-btn" data-goto="t:activity">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
+            ดูข่าวกิจกรรมทั้งหมด
+          </button>
+        </div>
+        <div class="panel">
+          <h3>🗂️ หมวดหมู่</h3>
+          <div class="cat-grid" id="catGrid"></div>
+        </div>
+        <div class="panel quick">
+          <h3>🔗 ลิงก์ด่วน</h3>
+          <div id="quickLinks"></div>
+        </div>
+      </div>
     </div>
-    <div class="panel quick">
-      <h3>🔗 ลิงก์ด่วน</h3>
-      <a href="https://www.kku.ac.th" target="_blank" rel="noopener">เว็บไซต์มหาวิทยาลัยขอนแก่น
-        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><path d="M15 3h6v6"/><path d="M10 14 21 3"/></svg></a>
-      <a href="https://reg.kku.ac.th" target="_blank" rel="noopener">ระบบทะเบียน KKU REG
-        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><path d="M15 3h6v6"/><path d="M10 14 21 3"/></svg></a>
-      <a href="https://mail.kku.ac.th" target="_blank" rel="noopener">KKU Mail
-        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><path d="M15 3h6v6"/><path d="M10 14 21 3"/></svg></a>
-      <a href="https://elearn.kku.ac.th" target="_blank" rel="noopener">KKU e-Learning
-        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><path d="M15 3h6v6"/><path d="M10 14 21 3"/></svg></a>
-    </div>
-    <div class="panel notice">
-      <h3>💡 เกี่ยวกับเว็บนี้</h3>
-      <p>KKU Connect รวบรวมข่าวของมหาวิทยาลัยขอนแก่นแยกตามหมวดและคณะโดยอัตโนมัติทุกชั่วโมง แสดงเฉพาะหัวข้อข่าวและลิงก์กลับไปอ่านฉบับเต็มที่ต้นทาง</p>
+    <div id="railDetail" hidden>
+      <div style="display:flex;flex-direction:column;gap:16px">
+        <div class="panel">
+          <h3>✨ AI แนะนำสำหรับคุณ</h3>
+          <div id="relatedList"></div>
+        </div>
+        <div class="panel">
+          <h3>📌 ช่องทางติดตาม</h3>
+          <div class="follow-links" id="followLinks"></div>
+        </div>
+      </div>
     </div>
   </aside>
 </div>
 
+<div id="toast"></div>
+
 <footer>
   © 2569 KKU Connect — โปรเจกต์นักศึกษา ไม่ใช่เว็บไซต์ทางการของมหาวิทยาลัยขอนแก่น<br/>
-  ข้อมูลข่าวรวบรวมผ่าน Google News และลิงก์กลับไปยังแหล่งข่าวต้นทางทุกรายการ · <span id="footUpdated"></span>
+  ข้อมูลข่าวรวบรวมจากเว็บไซต์คณะและ Google News โดยลิงก์กลับไปยังแหล่งข่าวต้นทางทุกรายการ · <span id="footUpdated"></span>
 </footer>
 
 <script>
@@ -540,9 +755,12 @@ let settings = { ...DEFAULT_SETTINGS, ...JSON.parse(localStorage.getItem("kkucon
 function saveSettings() { localStorage.setItem("kkuconnect-settings", JSON.stringify(settings)); }
 
 // state.cat: 'all' | 'saved' | 'noti' | 'settings' | 't:<topicId>' | 'f:<sourceId>'
-const state = { cat: settings.defaultCat, q: "", shown: settings.pageSize };
+// state.detail: link ของข่าวที่เปิดหน้ารายละเอียดอยู่ (null = ไม่ได้เปิด)
+// state.listAll: กด "ดูทั้งหมด" จากหน้าแรก — แสดงข่าวทั้งหมดแบบรายการแทนหน้าแรก
+const state = { cat: settings.defaultCat, q: "", shown: settings.pageSize, detail: null, listAll: false };
 let DATA = { sources: [], topics: [], items: [] };
 let saved = new Set(JSON.parse(localStorage.getItem("kkuconnect-saved") || "[]"));
+let reminders = new Set(JSON.parse(localStorage.getItem("kkuconnect-reminders") || "[]"));
 let facOpen = localStorage.getItem("kkuconnect-fac-open") === "1";
 
 const $ = (id) => document.getElementById(id);
@@ -555,6 +773,7 @@ const TILES = [
 const tileColor = (i) => TILES[i % TILES.length];
 
 const THAI_MONTHS = ["ม.ค.","ก.พ.","มี.ค.","เม.ย.","พ.ค.","มิ.ย.","ก.ค.","ส.ค.","ก.ย.","ต.ค.","พ.ย.","ธ.ค."];
+const THAI_MONTHS_FULL = ["มกราคม","กุมภาพันธ์","มีนาคม","เมษายน","พฤษภาคม","มิถุนายน","กรกฎาคม","สิงหาคม","กันยายน","ตุลาคม","พฤศจิกายน","ธันวาคม"];
 function timeAgo(iso) {
   if (!iso) return "";
   const d = new Date(iso), mins = Math.floor((Date.now() - d) / 60000);
@@ -563,10 +782,21 @@ function timeAgo(iso) {
   if (mins < 10080) return `${Math.floor(mins / 1440)} วันที่แล้ว`;
   return `${d.getDate()} ${THAI_MONTHS[d.getMonth()]} ${d.getFullYear() + 543}`;
 }
+function thaiDate(iso) {
+  if (!iso) return "ไม่ระบุวันที่";
+  const d = new Date(iso);
+  return `${d.getDate()} ${THAI_MONTHS_FULL[d.getMonth()]} ${d.getFullYear() + 543}`;
+}
+function thaiTime(iso) {
+  if (!iso) return "-";
+  const d = new Date(iso);
+  return `${String(d.getHours()).padStart(2, "0")}:${String(d.getMinutes()).padStart(2, "0")} น.`;
+}
 
-const srcIndex = new Map(); // sourceId -> ตำแหน่งในรายการ (ใช้เลือกสีไอคอน)
-const srcIcon = new Map();  // sourceId -> อีโมจิ
+const srcIndex = new Map();  // sourceId -> ตำแหน่งในรายการ (ใช้เลือกสีไอคอน)
+const srcById = new Map();   // sourceId -> ข้อมูลแหล่ง (ชื่อ ไอคอน เว็บ เพจ)
 const topicById = new Map(); // topicId -> {name, icon}
+const itemByLink = new Map();// link -> item (ใช้เปิดหน้ารายละเอียด)
 
 function filtered() {
   let items = DATA.items;
@@ -589,34 +819,52 @@ function notiItems() {
   return fresh.length ? fresh : DATA.items.slice(0, 20);
 }
 
+function toast(msg) {
+  const t = $("toast");
+  t.textContent = msg;
+  t.classList.add("show");
+  clearTimeout(t._timer);
+  t._timer = setTimeout(() => t.classList.remove("show"), 2600);
+}
+
+/* ---------- ตัวช่วยเรนเดอร์รูป/ไอคอนข่าว ---------- */
+function thumbHtml(it, cls = "tile") {
+  const idx = srcIndex.get(it.sourceId) ?? 0;
+  if (it.image) return `<div class="${cls}"><img src="${esc(it.image)}" alt="" loading="lazy" onerror="this.parentNode.textContent='${srcById.get(it.sourceId)?.icon ?? "📰"}'"/></div>`;
+  return `<div class="${cls}" style="background:${tileColor(idx)}">${srcById.get(it.sourceId)?.icon ?? "📰"}</div>`;
+}
+
 /* ---------- Sidebar + chips ---------- */
 function renderNav() {
   const faculties = DATA.sources.filter((s) => s.id !== "kku");
 
   const item = (id, icon, label, count) => `
-    <button class="side-item ${state.cat === id ? "on" : ""}" data-cat="${id}">
+    <button class="side-item ${state.cat === id && !state.detail ? "on" : ""}" data-cat="${id}">
       <span class="emoji">${icon}</span><span class="txt">${esc(label)}</span>
       ${count != null ? `<span class="num">${count}</span>` : ""}
     </button>`;
-
-  const showFacList = facOpen;
 
   $("side").innerHTML =
     item("all", "🏠", "หน้าหลัก", DATA.items.length) +
     `<div class="side-label">หมวดหมู่</div>` +
     DATA.topics.map((t) => item("t:" + t.id, t.icon, t.name, topicCount(t.id))).join("") +
     `<div class="side-label">คณะ / วิทยาลัย</div>
-    <button class="side-item ${showFacList ? "expanded" : ""}" id="facToggle">
+    <button class="side-item ${facOpen ? "expanded" : ""}" id="facToggle">
       <span class="emoji">🏛️</span><span class="txt">ดูรายคณะ (${faculties.length})</span>
       <svg class="caret" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="m6 9 6 6 6-6"/></svg>
     </button>
-    <div class="fac-list" ${showFacList ? "" : "hidden"}>` +
+    <div class="fac-list" ${facOpen ? "" : "hidden"}>` +
     faculties.map((s) => item("f:" + s.id, s.icon, s.name, facCount(s.id))).join("") +
     `</div><hr/>` +
     item("saved", "🔖", "บันทึกของฉัน", saved.size) +
     item("noti", "🔔", "การแจ้งเตือน", notiItems().length) +
     item("settings", "⚙️", "ตั้งค่า") +
-    `<hr/><div style="padding:4px 12px 8px;font-size:0.7rem;color:var(--ink-soft)">อัปเดตล่าสุด ${timeAgo(DATA.updatedAt)}</div>`;
+    `<div class="noti-cta">
+      <div class="t">🔔 เปิดการแจ้งเตือน</div>
+      <p>ไม่พลาดทุกข่าวสารสำคัญของ มข. และคณะของคุณ</p>
+      <button data-cat="noti">เปิดการแจ้งเตือน</button>
+    </div>
+    <div style="padding:10px 12px 4px;font-size:0.7rem;color:var(--ink-soft)">อัปเดตล่าสุด ${timeAgo(DATA.updatedAt)}</div>`;
 
   $("facToggle").addEventListener("click", () => {
     facOpen = !facOpen;
@@ -624,107 +872,343 @@ function renderNav() {
     renderNav();
   });
 
-  const chip = (id, label) => `<button class="chip ${state.cat === id ? "on" : ""}" data-cat="${id}">${esc(label)}</button>`;
+  const chip = (id, label) => `<button class="chip ${state.cat === id && !state.detail ? "on" : ""}" data-cat="${id}">${esc(label)}</button>`;
   $("chips").innerHTML =
-    chip("all", "🏠 ทั้งหมด") +
+    chip("all", "🏠 หน้าหลัก") +
     DATA.topics.map((t) => chip("t:" + t.id, t.icon + " " + t.name)).join("") +
     chip("saved", `🔖 บันทึก (${saved.size})`) + chip("noti", "🔔 แจ้งเตือน") + chip("settings", "⚙️ ตั้งค่า") +
-    faculties.map((s) => chip("f:" + s.id, s.icon + " " + s.name.replace(/^คณะ/, ""))).join("");
+    DATA.sources.filter((s) => s.id !== "kku").map((s) => chip("f:" + s.id, s.icon + " " + s.name.replace(/^คณะ/, ""))).join("");
 
-  document.querySelectorAll("[data-cat]").forEach((b) =>
-    b.addEventListener("click", () => {
-      state.cat = b.dataset.cat;
-      state.shown = settings.pageSize;
-      // เลือกคณะแล้วเปิดรายการคณะค้างไว้ จะได้เห็นว่าเลือกอะไรอยู่
-      if (state.cat.startsWith("f:") && !facOpen) {
-        facOpen = true;
-        localStorage.setItem("kkuconnect-fac-open", "1");
-      }
-      render();
-      window.scrollTo({ top: 0, behavior: "smooth" });
-    })
-  );
+  bindCatButtons();
 }
 
-/* ---------- Hero ---------- */
-function renderHero(items) {
+function bindCatButtons() {
+  document.querySelectorAll("[data-cat]").forEach((b) => {
+    if (b._bound) return;
+    b._bound = true;
+    b.addEventListener("click", () => switchCat(b.dataset.cat));
+  });
+  document.querySelectorAll("[data-goto]").forEach((b) => {
+    if (b._bound) return;
+    b._bound = true;
+    b.addEventListener("click", () => switchCat(b.dataset.goto));
+  });
+}
+
+function switchCat(cat) {
+  state.cat = cat;
+  state.detail = null;
+  state.listAll = false;
+  state.shown = settings.pageSize;
+  // เลือกคณะแล้วเปิดรายการคณะค้างไว้ จะได้เห็นว่าเลือกอะไรอยู่
+  if (cat.startsWith("f:") && !facOpen) {
+    facOpen = true;
+    localStorage.setItem("kkuconnect-fac-open", "1");
+  }
+  render();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+/* ---------- เปิดหน้ารายละเอียดข่าว ---------- */
+function openDetail(link) {
+  if (!itemByLink.has(link)) return;
+  document.querySelectorAll(".dropdown.open").forEach((x) => x.classList.remove("open"));
+  state.detail = link;
+  render();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+// ให้ onclick ในสตริง HTML เรียกได้
+window._open = (el) => openDetail(el.dataset.link);
+
+function toggleSave(link) {
+  saved.has(link) ? (saved.delete(link), toast("เอาออกจากบันทึกแล้ว")) : (saved.add(link), toast("บันทึกข่าวนี้ไว้แล้ว 🔖"));
+  localStorage.setItem("kkuconnect-saved", JSON.stringify([...saved]));
+  render();
+}
+function toggleReminder(link) {
+  reminders.has(link)
+    ? (reminders.delete(link), toast("ยกเลิกการตั้งเตือนแล้ว"))
+    : (reminders.add(link), toast("ตั้งเตือนแล้ว 🔔 ดูได้ที่หน้าการแจ้งเตือน"));
+  localStorage.setItem("kkuconnect-reminders", JSON.stringify([...reminders]));
+  render();
+}
+
+/* ---------- Hero carousel ---------- */
+let heroIdx = 0, heroTimer = null, heroItems = [];
+function renderHero() {
   const hero = $("hero");
-  const top = items[0];
-  const showHero = settings.showHero && top && !state.q && state.cat === "all";
-  hero.hidden = !showHero;
-  if (!showHero) return;
-  hero.href = top.link;
+  // เลือกข่าว 5 อันล่าสุด โดยดันข่าวที่มีรูปขึ้นก่อนเพื่อให้สไลด์สวย
+  const latest = DATA.items.slice(0, 12);
+  heroItems = [...latest.filter((it) => it.image), ...latest.filter((it) => !it.image)].slice(0, 5);
+  hero.hidden = !settings.showHero || !heroItems.length;
+  if (hero.hidden) { clearInterval(heroTimer); return; }
+  if (heroIdx >= heroItems.length) heroIdx = 0;
+  const it = heroItems[heroIdx];
   hero.innerHTML = `
-    <span class="tagchip">📌 ข่าวล่าสุด · ${esc(top.category)}</span>
-    <h2>${esc(top.title)}</h2>
-    <div class="meta">${esc(top.outlet)} · ${timeAgo(top.publishedAt)}</div>
-    <span class="cta">อ่านเพิ่มเติม
-      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="m9 6 6 6-6 6"/></svg>
-    </span>`;
+    ${it.image ? `<div class="bg" style="background-image:url('${esc(it.image)}')"></div>` : `<div class="deco"></div>`}
+    <div class="hero-body">
+      <span class="tagchip">📌 ข่าวสำคัญ · ${esc(it.category)}</span>
+      <h2>${esc(it.title)}</h2>
+      <div class="meta">🗓️ ${thaiDate(it.publishedAt)} · ${esc(it.outlet)}</div>
+      <div class="hero-foot">
+        <button class="cta">อ่านเพิ่มเติม
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="m9 6 6 6-6 6"/></svg>
+        </button>
+        <div class="hero-dots">${heroItems.map((_, i) => `<button data-dot="${i}" class="${i === heroIdx ? "on" : ""}" aria-label="สไลด์ ${i + 1}"></button>`).join("")}</div>
+      </div>
+    </div>`;
+  hero.onclick = (e) => {
+    const dot = e.target.closest("[data-dot]");
+    if (dot) { e.stopPropagation(); heroIdx = Number(dot.dataset.dot); renderHero(); restartHeroTimer(); return; }
+    openDetail(it.link);
+  };
+}
+function restartHeroTimer() {
+  clearInterval(heroTimer);
+  heroTimer = setInterval(() => { heroIdx = (heroIdx + 1) % Math.max(heroItems.length, 1); renderHero(); }, 6000);
 }
 
-/* ---------- Cards ---------- */
+/* ---------- หน้าแรก: แนะนำสำหรับคุณ ---------- */
+function renderRecs() {
+  // เลือกจากหมวดเด่น 3 หมวดตาม wireframe: กิจกรรม ทุนการศึกษา ประกาศ (ถ้าไม่มีใช้ข่าวล่าสุดเติม)
+  const used = new Set(heroItems.slice(0, 1).map((it) => it.link));
+  const pick = (topicId) =>
+    DATA.items.find((it) => it.topic === topicId && !used.has(it.link) && it.image) ??
+    DATA.items.find((it) => it.topic === topicId && !used.has(it.link));
+  const recs = [];
+  for (const t of ["activity", "scholarship", "announce"]) {
+    const it = pick(t);
+    if (it) { recs.push(it); used.add(it.link); }
+  }
+  for (const it of DATA.items) {
+    if (recs.length >= 3) break;
+    if (!used.has(it.link)) { recs.push(it); used.add(it.link); }
+  }
+  $("recGrid").innerHTML = recs.map((it) => {
+    const idx = srcIndex.get(it.sourceId) ?? 0;
+    const topic = topicById.get(it.topic);
+    const img = it.image
+      ? `<img src="${esc(it.image)}" alt="" loading="lazy"/>`
+      : `<div class="ph" style="background:linear-gradient(135deg,${tileColor(idx)},${tileColor(idx + 3)})">${srcById.get(it.sourceId)?.icon ?? "📰"}</div>`;
+    return `
+    <article class="rec-card">
+      <div class="rec-img" data-link="${esc(it.link)}" onclick="_open(this)">
+        ${img}
+        <span class="cat">${topic ? `${topic.icon} ${esc(topic.name)}` : esc(it.category)}</span>
+      </div>
+      <div class="rec-body">
+        <h4 data-link="${esc(it.link)}" onclick="_open(this)">${esc(it.title)}</h4>
+        <div class="rec-meta"><span>🏛️ ${esc(it.category)}</span></div>
+        <div class="rec-meta"><span>🗓️ ${thaiDate(it.publishedAt)}</span></div>
+        <div class="rec-actions">
+          <button class="${saved.has(it.link) ? "active" : ""}" data-save="${esc(it.link)}">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="${saved.has(it.link) ? "currentColor" : "none"}" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
+            บันทึก
+          </button>
+          <button class="${reminders.has(it.link) ? "active" : ""}" data-remind="${esc(it.link)}">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 8a6 6 0 0 0-12 0c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.7 21a2 2 0 0 1-3.4 0"/></svg>
+            แจ้งเตือน
+          </button>
+        </div>
+      </div>
+    </article>`;
+  }).join("");
+}
+
+/* ---------- หน้าแรก: ข่าวสารล่าสุด ---------- */
+function renderLatest() {
+  const items = DATA.items.slice(0, 8);
+  $("latestGrid").innerHTML = items.map((it) => `
+    <div class="latest-row" data-link="${esc(it.link)}" onclick="_open(this)">
+      ${thumbHtml(it, "thumb")}
+      <div style="min-width:0">
+        <p>${esc(it.title)}</p>
+        <small>${esc(it.category)} · ${timeAgo(it.publishedAt)}</small>
+      </div>
+      <svg class="chev" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="m9 6 6 6-6 6"/></svg>
+    </div>`).join("");
+}
+
+/* ---------- มุมมองรายการ ---------- */
 function cardHtml(it) {
-  const idx = srcIndex.get(it.sourceId) ?? 0;
   const isSaved = saved.has(it.link);
   const topic = topicById.get(it.topic);
   return `
   <article class="card">
     <div class="card-top">
-      <div class="tile" style="background:${tileColor(idx)}">${srcIcon.get(it.sourceId) || "📰"}</div>
+      ${thumbHtml(it)}
       <div style="min-width:0">
         <span class="cat">${esc(it.category)}</span>${topic ? `<span class="cat topic">${topic.icon} ${esc(topic.name)}</span>` : ""}
-        <h4><a href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.title)}</a></h4>
+        <h4><a data-link="${esc(it.link)}" onclick="_open(this)">${esc(it.title)}</a></h4>
       </div>
     </div>
     <div class="card-foot">
       <span class="src">${esc(it.outlet)} · ${timeAgo(it.publishedAt)}</span>
-      <button class="save-btn ${isSaved ? "saved" : ""}" data-link="${esc(it.link)}" title="${isSaved ? "เอาออกจากบันทึก" : "บันทึกข่าวนี้"}" aria-label="บันทึกข่าว">
+      <button class="save-btn ${isSaved ? "saved" : ""}" data-save="${esc(it.link)}" title="${isSaved ? "เอาออกจากบันทึก" : "บันทึกข่าวนี้"}" aria-label="บันทึกข่าว">
         <svg width="15" height="15" viewBox="0 0 24 24" fill="${isSaved ? "currentColor" : "none"}" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
       </button>
     </div>
   </article>`;
 }
 
-function renderGrid(items) {
-  const hero = !$("hero").hidden;
-  const list = hero ? items.slice(1) : items;
-  const shown = list.slice(0, state.shown);
+function renderList() {
+  const items = filtered();
+  const shown = items.slice(0, state.shown);
   $("grid").innerHTML = shown.map(cardHtml).join("");
   $("empty").hidden = items.length > 0;
-  $("moreBtn").hidden = list.length <= state.shown;
+  $("moreBtn").hidden = items.length <= state.shown;
 
   let title = "ข่าวสารล่าสุด";
   if (state.cat === "saved") title = "บันทึกของฉัน";
   else if (state.cat.startsWith("t:")) title = topicById.get(state.cat.slice(2))?.name ?? title;
-  else if (state.cat.startsWith("f:")) title = DATA.sources.find((s) => s.id === state.cat.slice(2))?.name ?? title;
+  else if (state.cat.startsWith("f:")) title = srcById.get(state.cat.slice(2))?.name ?? title;
   $("secTitle").textContent = state.q ? `ผลการค้นหา “${state.q}”` : title;
   $("secSub").textContent = `${items.length} รายการ`;
 
-  document.querySelectorAll(".save-btn").forEach((b) =>
-    b.addEventListener("click", (e) => {
-      e.preventDefault();
-      const link = b.dataset.link;
-      saved.has(link) ? saved.delete(link) : saved.add(link);
-      localStorage.setItem("kkuconnect-saved", JSON.stringify([...saved]));
-      render();
-    })
-  );
+  // ปุ่มเว็บไซต์ + เพจ Facebook ของคณะ (เมื่อดูรายคณะ)
+  const srcLinks = $("srcLinks");
+  const src = state.cat.startsWith("f:") ? srcById.get(state.cat.slice(2)) : null;
+  srcLinks.hidden = !src || (!src.web && !src.fb);
+  if (!srcLinks.hidden) {
+    srcLinks.innerHTML =
+      (src.web ? `<a href="${esc(src.web)}" target="_blank" rel="noopener">🌐 เว็บไซต์คณะ</a>` : "") +
+      (src.fb ? `<a class="fb" href="${esc(src.fb)}" target="_blank" rel="noopener">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.07C24 5.4 18.63 0 12 0S0 5.4 0 12.07C0 18.1 4.39 23.09 10.13 24v-8.44H7.08v-3.49h3.05V9.41c0-3.02 1.79-4.7 4.53-4.7 1.31 0 2.68.24 2.68.24v2.97h-1.51c-1.49 0-1.96.93-1.96 1.89v2.26h3.33l-.53 3.49h-2.8V24C19.61 23.09 24 18.1 24 12.07z"/></svg>
+        เพจ Facebook คณะ</a>` : "");
+  }
+}
+
+/* ---------- หน้ารายละเอียดข่าว ---------- */
+// สรุปจำลองจากข้อมูลที่มี (หัวข่าว หมวด คณะ วันที่) — ไม่ได้เรียก AI จริง
+function aiSummary(it) {
+  const topic = topicById.get(it.topic);
+  const src = srcById.get(it.sourceId);
+  const catName = it.sourceId === "kku" ? "มหาวิทยาลัยขอนแก่น" : it.category;
+  const opening = {
+    scholarship: "เป็นข่าวเกี่ยวกับทุนการศึกษา ผู้สนใจควรตรวจสอบคุณสมบัติ เอกสาร และกำหนดเวลารับสมัครจากประกาศฉบับเต็ม",
+    activity: "เป็นข่าวกิจกรรม ควรจดวันเวลาและสถานที่จัดงาน แล้วกดบันทึกหรือตั้งเตือนไว้เพื่อไม่ให้พลาด",
+    job: "เป็นข่าวรับสมัครงาน/ฝึกงาน ควรอ่านคุณสมบัติผู้สมัครและวันปิดรับจากต้นทางก่อนยื่นใบสมัคร",
+    study: "เป็นข่าวด้านการรับเข้าศึกษา/หลักสูตร ผู้สนใจควรตรวจสอบเกณฑ์และกำหนดการรับสมัครอย่างละเอียด",
+    announce: "เป็นประกาศจากทางมหาวิทยาลัย ควรอ่านรายละเอียดฉบับเต็มเพื่อดูผลที่เกี่ยวข้องกับตัวคุณ",
+    research: "เป็นข่าวด้านงานวิจัยและนวัตกรรม อ่านฉบับเต็มได้จากลิงก์ต้นทาง",
+    other: "อ่านรายละเอียดฉบับเต็มได้จากลิงก์ต้นทาง",
+  }[it.topic] ?? "อ่านรายละเอียดฉบับเต็มได้จากลิงก์ต้นทาง";
+  return `ข่าวจาก${catName} เผยแพร่เมื่อ ${thaiDate(it.publishedAt)} ในหมวด“${topic?.name ?? "อื่นๆ"}” — ${opening} ` +
+    `ข่าวนี้รายงานโดย ${it.outlet}${src?.fb ? ` และติดตามข่าวสารเพิ่มเติมได้ที่เพจ Facebook ของ${catName}` : ""}`;
+}
+
+function relatedItems(it, n = 4) {
+  const rel = DATA.items.filter((x) => x.link !== it.link && (x.sourceId === it.sourceId || x.topic === it.topic));
+  // เอาคณะเดียวกันขึ้นก่อน แล้วตามด้วยหมวดเดียวกัน
+  rel.sort((a, b) => (b.sourceId === it.sourceId) - (a.sourceId === it.sourceId));
+  return rel.slice(0, n);
+}
+
+function renderDetail() {
+  const it = itemByLink.get(state.detail);
+  if (!it) { state.detail = null; return render(); }
+  const topic = topicById.get(it.topic);
+  const src = srcById.get(it.sourceId);
+  const isSaved = saved.has(it.link);
+  const hasRemind = reminders.has(it.link);
+  const shareUrl = encodeURIComponent(it.link);
+  const shareText = encodeURIComponent(it.title);
+
+  $("detailView").innerHTML = `
+    <button class="back-link" id="backBtn">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="m15 18-6-6 6-6"/></svg>
+      กลับไปหน้ารายการ
+    </button>
+    <div class="detail">
+      <div class="chips-row">
+        <span class="cat">${esc(it.category)}</span>
+        ${topic ? `<span class="cat topic">${topic.icon} ${esc(topic.name)}</span>` : ""}
+      </div>
+      <h1>${esc(it.title)}</h1>
+      ${it.image ? `<div class="detail-img"><img src="${esc(it.image)}" alt="" onerror="this.parentNode.remove()"/></div>` : ""}
+      <div class="detail-meta">
+        <div><span class="ico">📅</span><div>${thaiDate(it.publishedAt)}<small>วันที่เผยแพร่</small></div></div>
+        <div><span class="ico">🕐</span><div>${thaiTime(it.publishedAt)}<small>เวลาเผยแพร่</small></div></div>
+        <div><span class="ico">${src?.icon ?? "🏛️"}</span><div>${esc(it.category)}<small>คณะ / หน่วยงาน</small></div></div>
+        <div><span class="ico">📰</span><div>${esc(it.outlet)}<small>แหล่งข่าว</small></div></div>
+      </div>
+      <div class="ai-box">
+        <div class="ai-head"><span class="bot">🤖</span> สรุปข่าวโดย AI</div>
+        <p>${esc(aiSummary(it))}</p>
+        <div class="ai-note">✳️ สรุปอัตโนมัติจากหัวข้อข่าวและหมวดหมู่ — โปรดตรวจสอบรายละเอียดจากข่าวต้นทาง</div>
+      </div>
+      <div class="detail-actions">
+        <button class="act ${isSaved ? "active" : ""}" data-save="${esc(it.link)}">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="${isSaved ? "currentColor" : "none"}" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
+          ${isSaved ? "บันทึกแล้ว" : "บันทึกไว้"}
+        </button>
+        <button class="act ${hasRemind ? "active" : ""}" data-remind="${esc(it.link)}">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 8a6 6 0 0 0-12 0c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.7 21a2 2 0 0 1-3.4 0"/></svg>
+          ${hasRemind ? "ตั้งเตือนแล้ว" : "ตั้งแจ้งเตือน"}
+        </button>
+        <a class="act primary" href="${esc(it.link)}" target="_blank" rel="noopener">
+          อ่านข่าวฉบับเต็มที่ต้นทาง
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><path d="M15 3h6v6"/><path d="M10 14 21 3"/></svg>
+        </a>
+      </div>
+      <div class="share-row">
+        แชร์ข่าวนี้
+        <a href="https://social-plugins.line.me/lineit/share?url=${shareUrl}" target="_blank" rel="noopener" title="แชร์ทาง LINE" style="color:#06c755;border-color:#b5e6c8">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 5.64 2 10.12c0 4.01 3.56 7.37 8.37 8.01.33.07.77.22.89.5.1.26.07.66.03.92l-.14.86c-.04.26-.2 1.01.89.55 1.09-.46 5.87-3.46 8.01-5.92C21.53 13.36 22 11.81 22 10.12 22 5.64 17.52 2 12 2zM8.39 12.9H6.16a.53.53 0 0 1-.53-.52V8.29a.53.53 0 0 1 1.06 0v3.56h1.7a.53.53 0 0 1 0 1.05zm1.85-.52a.53.53 0 0 1-1.06 0V8.29a.53.53 0 0 1 1.06 0v4.09zm4.92 0a.53.53 0 0 1-.95.32l-2.1-2.85v2.53a.53.53 0 0 1-1.05 0V8.29a.53.53 0 0 1 .95-.31l2.1 2.85V8.29a.53.53 0 0 1 1.05 0v4.09zm3.3-2.57a.53.53 0 0 1 0 1.05h-1.7v1h1.7a.53.53 0 0 1 0 1.04h-2.23a.53.53 0 0 1-.52-.52V8.29c0-.29.23-.52.52-.52h2.23a.53.53 0 0 1 0 1.05h-1.7v.99h1.7z"/></svg>
+        </a>
+        <a href="https://www.facebook.com/sharer/sharer.php?u=${shareUrl}" target="_blank" rel="noopener" title="แชร์ทาง Facebook" style="color:#1877f2;border-color:#c3d8f7">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.07C24 5.4 18.63 0 12 0S0 5.4 0 12.07C0 18.1 4.39 23.09 10.13 24v-8.44H7.08v-3.49h3.05V9.41c0-3.02 1.79-4.7 4.53-4.7 1.31 0 2.68.24 2.68.24v2.97h-1.51c-1.49 0-1.96.93-1.96 1.89v2.26h3.33l-.53 3.49h-2.8V24C19.61 23.09 24 18.1 24 12.07z"/></svg>
+        </a>
+        <a href="https://twitter.com/intent/tweet?url=${shareUrl}&text=${shareText}" target="_blank" rel="noopener" title="แชร์ทาง X">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.9 1.15h3.68l-8.04 9.19L24 22.85h-7.41l-5.8-7.58-6.64 7.58H.47l8.6-9.83L0 1.15h7.59l5.24 6.93zm-1.29 19.5h2.04L6.49 3.24H4.3z"/></svg>
+        </a>
+        <button id="copyLink" title="คัดลอกลิงก์">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
+        </button>
+      </div>
+    </div>`;
+
+  $("backBtn").addEventListener("click", () => { state.detail = null; render(); });
+  $("copyLink").addEventListener("click", async () => {
+    try { await navigator.clipboard.writeText(it.link); toast("คัดลอกลิงก์แล้ว 🔗"); }
+    catch { toast("คัดลอกไม่สำเร็จ"); }
+  });
+
+  // rail: AI แนะนำ + ช่องทางติดตาม
+  $("relatedList").innerHTML = relatedItems(it).map((x) => `
+    <div class="hot-item" data-link="${esc(x.link)}" onclick="_open(this)">
+      ${thumbHtml(x)}
+      <div style="min-width:0"><p>${esc(x.title)}</p><small>${esc(x.category)} · ${timeAgo(x.publishedAt)}</small></div>
+    </div>`).join("") || `<div style="font-size:0.78rem;color:var(--ink-soft);padding:4px 6px">ยังไม่มีข่าวที่เกี่ยวข้อง</div>`;
+
+  const follow = src?.id === "kku" ? srcById.get("kku") : src;
+  $("followLinks").innerHTML =
+    (follow?.web ? `<a href="${esc(follow.web)}" target="_blank" rel="noopener">🌐 เว็บไซต์${follow.id === "kku" ? "มหาวิทยาลัย" : "คณะ"}</a>` : "") +
+    (follow?.fb ? `<a class="fb" href="${esc(follow.fb)}" target="_blank" rel="noopener">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.07C24 5.4 18.63 0 12 0S0 5.4 0 12.07C0 18.1 4.39 23.09 10.13 24v-8.44H7.08v-3.49h3.05V9.41c0-3.02 1.79-4.7 4.53-4.7 1.31 0 2.68.24 2.68.24v2.97h-1.51c-1.49 0-1.96.93-1.96 1.89v2.26h3.33l-.53 3.49h-2.8V24C19.61 23.09 24 18.1 24 12.07z"/></svg>
+      เพจ Facebook</a>` : "") +
+    (follow?.id !== "kku" ? `<a href="https://www.facebook.com/kkuthailand" target="_blank" rel="noopener">🏫 เพจ Facebook มข.</a>` : "");
 }
 
 /* ---------- หน้าการแจ้งเตือน ---------- */
 function renderNotiPage() {
+  const remindList = DATA.items.filter((it) => reminders.has(it.link));
   const items = notiItems();
-  $("secTitle").textContent = "การแจ้งเตือน — ข่าวใหม่ใน 48 ชั่วโมง";
-  $("secSub").textContent = `${items.length} รายการ`;
-  $("notiPage").innerHTML = items.map((it) => {
-    const idx = srcIndex.get(it.sourceId) ?? 0;
-    return `<a class="noti-row" href="${esc(it.link)}" target="_blank" rel="noopener">
-      <div class="tile" style="background:${tileColor(idx)}">${srcIcon.get(it.sourceId) || "📰"}</div>
-      <div style="min-width:0"><p>${esc(it.title)}</p><small>${esc(it.category)} · ${esc(it.outlet)}</small></div>
+  $("notiTitle").textContent = "การแจ้งเตือน";
+  $("notiSub").textContent = `ข่าวใหม่ ${items.length} รายการ`;
+  const row = (it, badge) => `
+    <div class="noti-row" data-link="${esc(it.link)}" onclick="_open(this)">
+      ${thumbHtml(it)}
+      <div style="min-width:0"><p>${badge ? "🔔 " : ""}${esc(it.title)}</p><small>${esc(it.category)} · ${esc(it.outlet)}</small></div>
       <span class="when">${timeAgo(it.publishedAt)}</span>
-    </a>`;
-  }).join("");
+    </div>`;
+  $("notiPage").innerHTML =
+    (remindList.length
+      ? `<div style="padding:10px 12px 4px;font-size:0.75rem;font-weight:700;color:var(--brand-dark)">รายการที่คุณตั้งเตือนไว้</div>` +
+        remindList.map((it) => row(it, true)).join("") +
+        `<div style="padding:14px 12px 4px;font-size:0.75rem;font-weight:700;color:var(--ink-soft)">ข่าวใหม่ใน 48 ชั่วโมง</div>`
+      : "") +
+    items.map((it) => row(it, false)).join("");
 }
 
 /* ---------- หน้าตั้งค่า ---------- */
@@ -756,27 +1240,33 @@ function initSettingsPage() {
   });
 }
 function renderSettingsPage() {
-  $("secTitle").textContent = "ตั้งค่า";
-  $("secSub").textContent = "";
   $("setSavedCount").textContent = `ตอนนี้บันทึกไว้ ${saved.size} รายการ`;
 }
 
-/* ---------- Right rail: ข่าวเด่น (ข่าวใหม่สุดจากคนละคณะ) ---------- */
-function renderHot() {
-  const seen = new Set(), hot = [];
-  for (const it of DATA.items) {
-    if (seen.has(it.sourceId)) continue;
-    seen.add(it.sourceId);
-    hot.push(it);
-    if (hot.length >= 4) break;
-  }
-  $("hotList").innerHTML = hot.map((it) => {
-    const idx = srcIndex.get(it.sourceId) ?? 0;
-    return `<a class="hot-item" href="${esc(it.link)}" target="_blank" rel="noopener">
-      <div class="tile" style="background:${tileColor(idx)}">${srcIcon.get(it.sourceId) || "📰"}</div>
-      <div style="min-width:0"><p>${esc(it.title)}</p><small>${esc(it.category)} · ${timeAgo(it.publishedAt)}</small></div>
-    </a>`;
-  }).join("");
+/* ---------- Right rail (หน้าแรก) ---------- */
+function renderRailHome() {
+  // กิจกรรมที่กำลังจะมาถึง = ข่าวหมวดกิจกรรมล่าสุด
+  const upcoming = DATA.items.filter((it) => it.topic === "activity").slice(0, 3);
+  $("upcomingList").innerHTML = upcoming.map((it) => `
+    <div class="hot-item" data-link="${esc(it.link)}" onclick="_open(this)">
+      ${thumbHtml(it)}
+      <div style="min-width:0"><p>${esc(it.title)}</p><small>🗓️ ${thaiDate(it.publishedAt)} · ${esc(it.category)}</small></div>
+    </div>`).join("");
+
+  $("catGrid").innerHTML = DATA.topics.map((t) => `
+    <button class="cat-cell" data-cat="t:${t.id}">
+      <span>${t.icon}</span><span class="txt">${esc(t.name)}</span>
+    </button>`).join("");
+
+  const ext = `<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><path d="M15 3h6v6"/><path d="M10 14 21 3"/></svg>`;
+  $("quickLinks").innerHTML = `
+    <a href="https://www.kku.ac.th" target="_blank" rel="noopener">เว็บไซต์มหาวิทยาลัยขอนแก่น ${ext}</a>
+    <a href="https://reg.kku.ac.th" target="_blank" rel="noopener">ระบบทะเบียน KKU REG ${ext}</a>
+    <a href="https://mail.kku.ac.th" target="_blank" rel="noopener">KKU Mail ${ext}</a>
+    <a href="https://elearn.kku.ac.th" target="_blank" rel="noopener">KKU e-Learning ${ext}</a>
+    <a href="https://www.facebook.com/kkuthailand" target="_blank" rel="noopener">เพจ Facebook มข. ${ext}</a>`;
+
+  bindCatButtons();
 }
 
 /* ---------- Bell dropdown ---------- */
@@ -788,34 +1278,54 @@ function renderBell() {
   badge.hidden = fresh === 0;
   badge.textContent = fresh > 9 ? "9+" : fresh;
   $("notiList").innerHTML = recent.map((it) => `
-    <a class="noti-item" href="${esc(it.link)}" target="_blank" rel="noopener">
+    <div class="noti-item" data-link="${esc(it.link)}" onclick="_open(this)">
       <span class="dot"></span>
       <div><p>${esc(it.title)}</p><small>${esc(it.category)} · ${timeAgo(it.publishedAt)}</small></div>
-    </a>`).join("");
+    </div>`).join("");
 }
 
+/* ---------- Render หลัก ---------- */
 function render() {
   renderNav();
-  const isNoti = state.cat === "noti";
-  const isSettings = state.cat === "settings";
-  $("notiPage").hidden = !isNoti;
+
+  const isDetail = !!state.detail;
+  const isNoti = !isDetail && state.cat === "noti";
+  const isSettings = !isDetail && state.cat === "settings";
+  const isHome = !isDetail && !isNoti && !isSettings && state.cat === "all" && !state.q && !state.listAll;
+  const isList = !isDetail && !isNoti && !isSettings && !isHome;
+
+  $("homeView").hidden = !isHome;
+  $("listView").hidden = !isList;
+  $("detailView").hidden = !isDetail;
+  $("notiWrap").hidden = !isNoti;
   $("settingsPage").hidden = !isSettings;
-  $("grid").hidden = isNoti || isSettings;
-  $("moreBtn").hidden = true;
-  $("empty").hidden = true;
-  $("hero").hidden = true;
+  $("railHome").hidden = isDetail;
+  $("railDetail").hidden = !isDetail;
 
-  if (isNoti) return renderNotiPage();
-  if (isSettings) return renderSettingsPage();
+  if (isHome) { renderHero(); restartHeroTimer(); renderRecs(); renderLatest(); renderRailHome(); }
+  else clearInterval(heroTimer);
+  if (isList) renderList();
+  if (isDetail) renderDetail();
+  if (isNoti) renderNotiPage();
+  if (isSettings) renderSettingsPage();
+  renderBell();
 
-  const items = filtered();
-  renderHero(items);
-  renderGrid(items);
+  // ปุ่มบันทึก/ตั้งเตือนทุกจุด ใช้ data-save / data-remind ร่วมกัน
+  document.querySelectorAll("[data-save]").forEach((b) => {
+    if (b._bound) return;
+    b._bound = true;
+    b.addEventListener("click", (e) => { e.stopPropagation(); e.preventDefault(); toggleSave(b.dataset.save); });
+  });
+  document.querySelectorAll("[data-remind]").forEach((b) => {
+    if (b._bound) return;
+    b._bound = true;
+    b.addEventListener("click", (e) => { e.stopPropagation(); e.preventDefault(); toggleReminder(b.dataset.remind); });
+  });
 }
 
 function goHome(e) {
   e.preventDefault();
-  state.cat = "all"; state.q = ""; state.shown = settings.pageSize;
+  state.cat = "all"; state.q = ""; state.shown = settings.pageSize; state.detail = null; state.listAll = false;
   $("q").value = "";
   render();
   window.scrollTo({ top: 0, behavior: "smooth" });
@@ -825,15 +1335,21 @@ function goHome(e) {
 $("q").addEventListener("input", (e) => {
   state.q = e.target.value.trim();
   state.shown = settings.pageSize;
+  state.detail = null;
   if (state.cat === "noti" || state.cat === "settings") state.cat = "all";
   render();
 });
 $("moreBtn").addEventListener("click", () => { state.shown += settings.pageSize; render(); });
-$("openNotiPage").addEventListener("click", () => {
-  document.querySelectorAll(".dropdown.open").forEach((x) => x.classList.remove("open"));
-  state.cat = "noti";
+$("seeAllLatest").addEventListener("click", () => {
+  // "ดูทั้งหมด" ของข่าวสารล่าสุด = มุมมองรายการแบบไม่กรอง
+  state.cat = "all"; state.detail = null; state.listAll = true;
+  state.shown = settings.pageSize;
   render();
   window.scrollTo({ top: 0, behavior: "smooth" });
+});
+$("openNotiPage").addEventListener("click", () => {
+  document.querySelectorAll(".dropdown.open").forEach((x) => x.classList.remove("open"));
+  switchCat("noti");
 });
 
 function toggleDrop(btnId, dropId) {
@@ -847,7 +1363,8 @@ function toggleDrop(btnId, dropId) {
 toggleDrop("bellBtn", "bellDrop");
 toggleDrop("profBtn", "profDrop");
 document.addEventListener("click", (e) => {
-  if (!e.target.closest(".dropdown")) document.querySelectorAll(".dropdown.open").forEach((x) => x.classList.remove("open"));
+  if (!e.target.closest(".dropdown") && !e.target.closest(".bell") && !e.target.closest(".profile"))
+    document.querySelectorAll(".dropdown.open").forEach((x) => x.classList.remove("open"));
 });
 
 /* ---------- Load ---------- */
@@ -856,8 +1373,9 @@ fetch("data/news.json")
   .then((data) => {
     DATA = data;
     DATA.topics = data.topics ?? [];
-    DATA.sources.forEach((s, i) => { srcIndex.set(s.id, i); srcIcon.set(s.id, s.icon); });
+    DATA.sources.forEach((s, i) => { srcIndex.set(s.id, i); srcById.set(s.id, s); });
     DATA.topics.forEach((t) => topicById.set(t.id, t));
+    DATA.items.forEach((it) => itemByLink.set(it.link, it));
     // กันกรณีหน้าเริ่มต้นที่ตั้งไว้ชี้ไปหมวด/คณะที่ไม่มีแล้ว
     const validCats = new Set(["all", "saved", "noti", "settings",
       ...DATA.topics.map((t) => "t:" + t.id), ...DATA.sources.map((s) => "f:" + s.id)]);
@@ -865,10 +1383,9 @@ fetch("data/news.json")
     $("footUpdated").textContent = "อัปเดตล่าสุด " + timeAgo(data.updatedAt);
     initSettingsPage();
     render();
-    renderHot();
-    renderBell();
   })
   .catch(() => {
+    $("listView").hidden = false;
     $("empty").hidden = false;
     $("empty").innerHTML = `<div class="big">⚠️</div>โหลดข้อมูลข่าวไม่สำเร็จ — ถ้าเปิดไฟล์ตรง ๆ ให้รัน local server ก่อน เช่น <code>npx serve .</code>`;
   });
