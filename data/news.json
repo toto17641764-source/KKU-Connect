@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T23:21:30.027Z",
+  "updatedAt": "2026-08-08T00:38:21.969Z",
   "sources": [
     {
       "id": "med",
@@ -261,7 +261,7 @@
     {
       "title": "ศาลฎีกายืนคุก 2 ปี คนขับรถบัส มข. คดีชน 'น้องอาย' เสียชีวิต",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqOWhxWnBkNF9sNlFDWDdfLXJNdXQ4OGc3V2xfWnFoVU5ObGRJSGhpMlFvdTlXbDJYVXgyRC1oTmItdVNFdVlKMElScE5EMi1TNWFZRFNfOGg2ZDg?oc=5",
-      "outlet": "ไทยโพสต์",
+      "outlet": "thaipost.net",
       "publishedAt": "2026-08-06T07:25:08.000Z",
       "sourceId": "nurse",
       "category": "คณะพยาบาลศาสตร์",
@@ -477,7 +477,7 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2026-07-31T08:15:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -1146,7 +1146,7 @@
     {
       "title": "'แทน ไท' ตื่นเต้นเปิดเทอมวันแรก สู่รั้วสถาปัตย์มหาวิทยาลัยขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yQTFGdmpRY29qREUtb2VfTnBJWUdZMjRlTHpSeFFRV3czQi10aV9fS29sbHVTWVpnYzRPUk1FWTduVndHU21FUGRQbnZwYVZKS2JpZFJtNWF6aC1mYjJhRlZR?oc=5",
-      "outlet": "ไทยโพสต์",
+      "outlet": "thaipost.net",
       "publishedAt": "2026-06-30T07:00:00.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
@@ -1601,6 +1601,15 @@
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
       "topic": "other"
+    },
+    {
+      "title": "ทุนไปอังกฤษฟรี!! คณะมนุษยศาสตร์ มข. ส่งตัวแทนนักศึกษาจาก 13 วิชาเอก บินลัดฟ้าพัฒนาทักษะภาษาอังกฤษ ณ University of Leeds ประเทศอังกฤษ ผ่านโครงการทุนเต็มจำนวน “UKind ทุนเรียนดี มีน้ำใจ ไปอังกฤษ” - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5HbUFEaGRCY0hIeDV0cFpXSkVhZUsyZzA5ajg0R3Z5cTFRdjVqa24yTHFNbGZHX3FJNWlUT1NvdFppQTVqVHBF?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-05-25T03:48:44.000Z",
+      "sourceId": "hs",
+      "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+      "topic": "scholarship"
     },
     {
       "title": "“ทีมหวานใจ” นักศึกษาคณะพยาบาลศาสตร์ มข. คว้ารางวัล Platinum ( ชนะเลิศอันดับ 1) ในการแข่งขันจำลองสถานการณ์ทางการพยาบาลระดับประเทศ (The 1st INACSL Thailand RIG) - Khon Kaen University",
@@ -2415,7 +2424,7 @@
     {
       "title": "เปิดรั้ว 7 สาขา คณะบริหารธุรกิจและการบัญชี ม.ขอนแก่น ครอบคลุมทั้งด้านธุรกิจ-บัญชี-ดิจิทัล",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tVHc4cVlQMl9kaDlGSGMxeUdxRHNUbVd2TEpZb1FwOENLS1ZBZDh4OTFRRlVrRXpManEwdHdyM1JaUllHalkxVQ?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2026-03-09T07:00:00.000Z",
       "sourceId": "kkbs",
       "category": "คณะบริหารธุรกิจและการบัญชี",
@@ -2874,7 +2883,7 @@
     {
       "title": "2nd Pharmacy Academic by PSAT โครงการแข่งขันตอบปัญหาวิชาการวิทยาศาสตร์เภสัชกรรมระดับชั้นมัธยมศึกษาตอนปลาย ครั้งที่2",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VR3B6b1JKVk1NWmFObTJ0cG8zZHF0cS1XMFp2d0dUWFZBTEdkTVR5Y2sxbWpYdmdPc2g0UHpOaXpoNzd6ci1YUWV5V0dsZ2ZwcVVv?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2025-12-16T03:58:24.000Z",
       "sourceId": "pharm",
       "category": "คณะเภสัชศาสตร์",
@@ -3099,7 +3108,7 @@
     {
       "title": "เปิดตัว 3 สาขาใหม่ที่วิทยาลัยนานาชาติ มหาวิทยาลัยขอนแก่น!",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04UVNKLXgyQ1FQTDMxWEZpWkxJWjF4NHlGd3VIZUVMMWs4WUxNTDg2cjlaUV9XTUdCTy1tTHlVRm9GcDJLQXROcw?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2025-09-17T07:00:00.000Z",
       "sourceId": "ic",
       "category": "วิทยาลัยนานาชาติ",
@@ -3173,6 +3182,15 @@
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5TQzFmeFNSWExXYllOQlJkSDhlMjJlTXhEbjdhV2t4VUZoOUVVSWVQUl9FcnJ5dWpHMkEtSGZXQUdUMW8xUWc?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
       "publishedAt": "2025-05-27T19:13:48.000Z",
+      "sourceId": "ph",
+      "category": "คณะสาธารณสุขศาสตร์",
+      "topic": "activity"
+    },
+    {
+      "title": "ข่าวข้นคนเข้ม : ต้อนรับ",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1oNnF3T2o2OXdhYUhScE90MnpMMTA3S2tVTTc4UHdINS1hUjFUbzRESW1uLUZER3pOZmpQWDFfdlRZX0VHZTBn?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2025-05-25T13:23:06.000Z",
       "sourceId": "ph",
       "category": "คณะสาธารณสุขศาสตร์",
       "topic": "activity"
