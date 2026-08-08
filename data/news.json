@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T18:18:06.050Z",
+  "updatedAt": "2026-08-08T19:19:26.227Z",
   "sources": [
     {
       "id": "med",
@@ -743,7 +743,7 @@
     {
       "title": "\"แทน ไท\" ตื่นเต้นเปิดเทอมวันแรก สู่รั้วสถาปัตย์ ม.ขอนแก่น ไม่ลืมดูแล \"ถ้วยฟู\" แมวสุดรัก",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50a0ZnZE91dEg0ZkRZRWFmWURlUVl1YWxJcnd3R0FjanJkbHZMaHg4NDFuUlplMm5ydVM0VldSSW9za25rN1FydklqVnAwSVZwQ0gtbUZiX2NNbzRkRE95a19B?oc=5",
-      "outlet": "TrueID",
+      "outlet": "entertainment.trueid.net",
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "sourceId": "arch",
       "category": "คณะสถาปัตยกรรมศาสตร์",
@@ -1231,6 +1231,16 @@
       "topic": "research"
     },
     {
+      "title": "นักศึกษาวิทยาลัยการคอมพิวเตอร์ มข. คว้ารางวัลจากเวที Durian Hackathon 2025 ด้าน AI เกษตรกรรมระดับประเทศ",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5aRHVJVHBsQkNINmowNHVrNC10RTBvR2txSUxxN0hzclIzY1NyVG5KT2VPcXRqbmtyeUl2ekxESFZhN2lMd2pV?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-04-21T23:21:52.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "นศ. KKUIC จัดแข่งบาส 3x3 การกุศล \"KKUIC 3X3 Street Summer Slam 2026\" รางวัลรวม 1 แสนบาท มุ่งส่งต่อโอกาสสู่เยาวชนผู้พิการระดมทุนจัดซื้ออุปกรณ์กีฬา-การศึกษาโรงเรียนศรีสังวาลย์ขอนแก่น - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE52TmVXSkFFMHRwSlNTaVBTQVhLdndWSVdmWU9rSUdiYkp5MkczTEFEOEJReW5weGczMjdpNEM2bXdGMFFzc0U0?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -1281,7 +1291,7 @@
       "topic": "activity"
     },
     {
-      "title": "คณะศึกษาศาสตร์ มข. ต้อนรับคณะศึกษาดูงาน มช. แลกเปลี่ยนนวัตกรรมการบริหารการศึกษา มุ่งสร้างเครือข่ายวิจัยระดับดุษฎีบัณฑิตสู่สากล - Khon Kaen University",
+      "title": "คณะศึกษาศาสตร์ มข. ต้อนรับคณะศึกษาดูงาน มช. แลกเปลี่ยนนวัตกรรมการบริหารการศึกษา มุ่งสร้างเครือข่ายวิจัยระดับดุษฎีบัณฑิตสู่สากล",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yajFpajRFNDN4Q1NNZ0RQMkVsNG9qN083TnprNkpMTFBDWHhkTFloUnZ5b0NndkhpTWotUG1kQVZhUERlOFlz?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
       "publishedAt": "2026-04-01T07:00:00.000Z",
@@ -1697,8 +1707,8 @@
       "publishedAt": "2025-11-15T08:00:00.000Z",
       "sourceId": "pharm",
       "category": "คณะเภสัชศาสตร์",
-      "topic": "activity",
-      "image": null
+      "image": null,
+      "topic": "activity"
     },
     {
       "title": "บัณฑิตวิทยาลัย มหาวิทยาลัยขอนแก่น ก้าวสู่ความสำเร็จในการผ่านการประเมินคุณภาพ EdPEx 300 แห่งแรกของประเทศ ตอกย้ำความเป็นเลิศและพลังความร่วมมือของประชาคมบัณฑิตศึกษาทั้งมหาวิทยาลัย - Khon Kaen University",
