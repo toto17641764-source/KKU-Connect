@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T20:14:14.118Z",
+  "updatedAt": "2026-08-08T21:17:06.726Z",
   "sources": [
     {
       "id": "med",
@@ -743,7 +743,7 @@
     {
       "title": "\"แทน ไท\" ตื่นเต้นเปิดเทอมวันแรก สู่รั้วสถาปัตย์ ม.ขอนแก่น ไม่ลืมดูแล \"ถ้วยฟู\" แมวสุดรัก",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50a0ZnZE91dEg0ZkRZRWFmWURlUVl1YWxJcnd3R0FjanJkbHZMaHg4NDFuUlplMm5ydVM0VldSSW9za25rN1FydklqVnAwSVZwQ0gtbUZiX2NNbzRkRE95a19B?oc=5",
-      "outlet": "entertainment.trueid.net",
+      "outlet": "TrueID",
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "sourceId": "arch",
       "category": "คณะสถาปัตยกรรมศาสตร์",
@@ -1147,8 +1147,8 @@
       "publishedAt": "2026-05-08T02:49:11.000Z",
       "sourceId": "edu",
       "category": "คณะศึกษาศาสตร์",
-      "topic": "activity",
-      "image": null
+      "image": null,
+      "topic": "activity"
     },
     {
       "title": "คณะเศรษฐศาสตร์ มข. ขอเชิญร่วมงานประชุมวิชาการระดับชาติของนักเศรษฐศาสตร์ และระดับบัณฑิตศึกษาด้านเศรษฐศาสตร์ ครั้งที่ 19 - Khon Kaen University",
@@ -1291,7 +1291,7 @@
       "topic": "activity"
     },
     {
-      "title": "คณะศึกษาศาสตร์ มข. ต้อนรับคณะศึกษาดูงาน มช. แลกเปลี่ยนนวัตกรรมการบริหารการศึกษา มุ่งสร้างเครือข่ายวิจัยระดับดุษฎีบัณฑิตสู่สากล",
+      "title": "คณะศึกษาศาสตร์ มข. ต้อนรับคณะศึกษาดูงาน มช. แลกเปลี่ยนนวัตกรรมการบริหารการศึกษา มุ่งสร้างเครือข่ายวิจัยระดับดุษฎีบัณฑิตสู่สากล - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yajFpajRFNDN4Q1NNZ0RQMkVsNG9qN083TnprNkpMTFBDWHhkTFloUnZ5b0NndkhpTWotUG1kQVZhUERlOFlz?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
       "publishedAt": "2026-04-01T07:00:00.000Z",
