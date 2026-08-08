@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T21:17:06.726Z",
+  "updatedAt": "2026-08-08T22:14:29.842Z",
   "sources": [
     {
       "id": "med",
@@ -681,6 +681,16 @@
       "topic": "scholarship"
     },
     {
+      "title": "สมาคมสหประชาชาติแห่งประเทศไทย เยือนวิทยาลัยนานาชาติ มข. ให้ความรู้เรื่องสหประชาชาติแก่นักศึกษา ฉลองโอกาสครบ 80 ปี การเป็นสมาชิกสหประชาชาติของประเทศไทย - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0zMmNuUmdsRDJUeUx5RjdhblB6RzlzS2M0c0lUSmNGR3Zpd0Q1M3BrTjFyNTJnQnBhbWktWFZaRWYzTXJmRzkw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-07-06T08:56:51.000Z",
+      "sourceId": "ic",
+      "category": "วิทยาลัยนานาชาติ",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "มหาวิทยาลัยขอนแก่น จัดแข่งขัน \"อีสปอร์ตมหาวิทยาลัยแห่งประเทศไทย\" ครั้งแรก ยกระดับศักยภาพนักศึกษาสู่เวทีอาชีพและระดับนานาชาติ - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1DWmU2U2RybjlHUGZEZVlHb2hROGh6ZVVmNGNXbkRaT0NUdUQxTXpDZ21WenlnbENfaTI4ME82UUgtaS1RSE5J?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -699,16 +709,6 @@
       "category": "มข.",
       "image": null,
       "topic": "other"
-    },
-    {
-      "title": "สมาคมสหประชาชาติแห่งประเทศไทย เยือนวิทยาลัยนานาชาติ มข. ให้ความรู้เรื่องสหประชาชาติแก่นักศึกษา ฉลองโอกาสครบ 80 ปี การเป็นสมาชิกสหประชาชาติของประเทศไทย - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0zMmNuUmdsRDJUeUx5RjdhblB6RzlzS2M0c0lUSmNGR3Zpd0Q1M3BrTjFyNTJnQnBhbWktWFZaRWYzTXJmRzkw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
-      "publishedAt": "2026-07-03T07:00:00.000Z",
-      "sourceId": "ic",
-      "category": "วิทยาลัยนานาชาติ",
-      "image": null,
-      "topic": "activity"
     },
     {
       "title": "การประชุมวิชาการระดับชาติของนักเศรษฐศาสตร์และระดับบัณฑิตศึกษาด้านเศรษฐศาสตร์ ครั้งที่ 19",
@@ -809,6 +809,16 @@
       "category": "วิทยาลัยการปกครองท้องถิ่น",
       "image": null,
       "topic": "scholarship"
+    },
+    {
+      "title": "นักศึกษาคณะเศรษฐศาสตร์ มข. ร่วมแข่งขัน Research to Market ครั้งที่ 14 ระดับภูมิภาค ณ จังหวัดอุบลราชธานี",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1uQzVJMDE1ZzVwUXNPOVNjQ2I3R040RHp2MEV6MzlNLWx2cVpYWjBwSlJwckRwZ0ZRUERpT05vLWtCaDJQMFFv?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-06-27T07:09:23.000Z",
+      "sourceId": "econ",
+      "category": "คณะเศรษฐศาสตร์",
+      "image": null,
+      "topic": "activity"
     },
     {
       "title": "คณะเศรษฐศาสตร์ มข. เปิดบ้านต้อนรับคณาจารย์และนิสิต ม.บูรพา ร่วมแลกเปลี่ยนเรียนรู้และสร้างสัมพันธ์สองสถาบัน",
