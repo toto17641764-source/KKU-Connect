@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T00:38:21.969Z",
+  "updatedAt": "2026-08-08T02:46:49.066Z",
   "sources": [
     {
       "id": "med",
@@ -243,7 +243,7 @@
     {
       "title": "ศาลสั่งจำคุก 4 ปี พนักงานขับรถบัส เฉี่ยวชน \"นศ.แพทย์\" ปี 2 เสียชีวิต",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NaVhleC1xZHctWHAtUGxPVVdfOVFhR1V5S0ZYY1pId1dnTEFXRXFTcHBEUzRndER4bFNIb09wWDF2WUVJTll6N0VhUHNvSGg0QUQ5OG1KZ2ZwakpqWFlqRFBR?oc=5",
-      "outlet": "komchadluek",
+      "outlet": "komchadluek.net",
       "publishedAt": "2026-08-06T09:24:00.000Z",
       "sourceId": "nurse",
       "category": "คณะพยาบาลศาสตร์",
@@ -477,7 +477,7 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "outlet": "dek-d.com",
+      "outlet": "Dek-D.com",
       "publishedAt": "2026-07-31T08:15:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -522,7 +522,7 @@
     {
       "title": "‘มหาวิทยาลัยขอนแก่น’ ผนึกเครือข่ายยกระดับ ‘การแพทย์แม่นยำ’ พลิกโฉมรักษา ‘มะเร็งไทย’",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02d2VrejU1UnRnRFRRREo1RG5uSlVMTmpFR2NyQlpIRmhrSF9rQkI0VGF5ZHFHa3paUGk4WFpoS0JwcE11dXJxV2QxZTFkZU9LWGVxMGFnczRyS0NaTmlydkw1VDNkc1dx?oc=5",
-      "outlet": "The Bangkok Insight",
+      "outlet": "thebangkokinsight.com",
       "publishedAt": "2026-07-30T09:55:46.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -801,7 +801,7 @@
     {
       "title": "ม.ขอนแก่นเจ๋ง!ต่อยอดจากงานวิจัยแปรรูปกล้วยดิบเป็นแป้งไร้กลูเตน ประโยชน์เพียบ",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwX01CdjNOM290clNNNFJkcWhPeFhzbkFDOHFxLWNBYlpfWUhFTTJiYlRydHQ4aDZTeGFNc3dCNVZBYnVrYkZucnU3azlxMnVWTWVTWWpEemdNU1kw?oc=5",
-      "outlet": "ผู้จัดการออนไลน์",
+      "outlet": "mgronline.com",
       "publishedAt": "2026-07-17T04:31:00.000Z",
       "sourceId": "is",
       "category": "คณะสหวิทยาการ (หนองคาย)",
@@ -939,7 +939,7 @@
     {
       "title": "4 เหตุผลทำไมต้องยุบ กอ.รมน. พร้อมโต้ \"อนุทิน\" บอกอยู่คู่ชาติเป็นข้อมูลผิดๆ",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DQ2pZaFFHblFIVXVwRUhLWWxkaGhnRHBtYW96Q042NnBqa3B3SjdvZW9PTjhHZDBOM3A2ZHk4SGlyR1RFb3NndUNFWEpBUC1IVmJJaktiNmV1aWcy?oc=5",
-      "outlet": "komchadluek",
+      "outlet": "komchadluek.net",
       "publishedAt": "2026-07-10T09:58:00.000Z",
       "sourceId": "hs",
       "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
@@ -1128,7 +1128,7 @@
     {
       "title": "\"แทน ไท\" ตื่นเต้นเปิดเทอมวันแรก สู่รั้วสถาปัตย์ ม.ขอนแก่น ไม่ลืมดูแล \"ถ้วยฟู\" แมวสุดรัก",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50a0ZnZE91dEg0ZkRZRWFmWURlUVl1YWxJcnd3R0FjanJkbHZMaHg4NDFuUlplMm5ydVM0VldSSW9za25rN1FydklqVnAwSVZwQ0gtbUZiX2NNbzRkRE95a19B?oc=5",
-      "outlet": "TrueID",
+      "outlet": "entertainment.trueid.net",
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "sourceId": "arch",
       "category": "คณะสถาปัตยกรรมศาสตร์",
@@ -1711,6 +1711,15 @@
       "topic": "other"
     },
     {
+      "title": "ขอเชิญส่งบทความเข้าร่วมนำเสนอในการประชุมวิชาการระดับชาติและนานาชาติ “ศิลปกรรมวิจัย” (FAR 12) ประจำปี 2569",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9YUUJrYVp6WG9xSTJzRGVRMHdUWUY4dzhwS2ZydFdOUWp6aUp1OXN5YkZBbm0wUXBUUC1iNmVxZk5FRTAwYndr?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-05-11T03:14:09.000Z",
+      "sourceId": "fa",
+      "category": "คณะศิลปกรรมศาสตร์",
+      "topic": "research"
+    },
+    {
       "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
       "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
@@ -2145,7 +2154,7 @@
     {
       "title": "มข. จับมือ เซนต์ บิวตี้ ลงนามถ่ายทอดเทคโนโลยี “สารสกัดสับปะรดปัตตาเวีย” ปั้นเวชสำอางเชิงพาณิชย์",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNlhydENzQ0VLdHBUUFMzRWRzNnZ0LTRoZUZFaHQyM21tbXdLc3FreGJpRmpESHM5ZHZHbXBiYzFxMjZQSDRoLWNiOXpDMm54MC1tUTdnRGZPVWh2VFp5OWJ2YVBmQ3BVQVdXcmtTaDFRbXhEUnpVRkhiWW8tNU5JbmxZVGM3M2czY2lFRk1UM3BkWkV0ckhUN3B3?oc=5",
-      "outlet": "ThaiPublica",
+      "outlet": "thaipublica.org",
       "publishedAt": "2026-03-24T07:00:00.000Z",
       "sourceId": "is",
       "category": "คณะสหวิทยาการ (หนองคาย)",
@@ -2359,6 +2368,15 @@
       "topic": "announce"
     },
     {
+      "title": "นักศึกษา KKBS ทำถึง! คว้ารางวัลประกวดแผนธุรกิจ “มิตรมาร์ท NEW GEN CHALLENGE 2026” ชูไอเดียพลิกโฉมโชห่วยสู่ค้าปลีกยุคใหม่",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB2dDAtWmh4ME9FVWREUjBUTXA2N0xnQkJVc0VVLVNpYTdmYkdwa0NuYmY4OE55TjNpUDJOWng3emtrWFhRazVj?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-03-12T08:47:05.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "topic": "activity"
+    },
+    {
       "title": "โปรดเกล้าฯ แต่งตั้งศาสตราจารย์ 8 ราย จาก 5 มหาวิทยาลัยชื่อดัง",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOQUJ3ZTFmWm1NNmpUenJPNmNOSUNPQ2UtSE44THpCcWdxTkI2dW0wRVFQT29xejR5Zy14cFBObFFJYmhrdko1YzZvci1jQTN6c3BMZ2dXeWlaMnZiMUJzcWxMeTBsdw?oc=5",
       "outlet": "ข่าวสด",
@@ -2424,7 +2442,7 @@
     {
       "title": "เปิดรั้ว 7 สาขา คณะบริหารธุรกิจและการบัญชี ม.ขอนแก่น ครอบคลุมทั้งด้านธุรกิจ-บัญชี-ดิจิทัล",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tVHc4cVlQMl9kaDlGSGMxeUdxRHNUbVd2TEpZb1FwOENLS1ZBZDh4OTFRRlVrRXpManEwdHdyM1JaUllHalkxVQ?oc=5",
-      "outlet": "dek-d.com",
+      "outlet": "Dek-D.com",
       "publishedAt": "2026-03-09T07:00:00.000Z",
       "sourceId": "kkbs",
       "category": "คณะบริหารธุรกิจและการบัญชี",
@@ -2883,7 +2901,7 @@
     {
       "title": "2nd Pharmacy Academic by PSAT โครงการแข่งขันตอบปัญหาวิชาการวิทยาศาสตร์เภสัชกรรมระดับชั้นมัธยมศึกษาตอนปลาย ครั้งที่2",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VR3B6b1JKVk1NWmFObTJ0cG8zZHF0cS1XMFp2d0dUWFZBTEdkTVR5Y2sxbWpYdmdPc2g0UHpOaXpoNzd6ci1YUWV5V0dsZ2ZwcVVv?oc=5",
-      "outlet": "dek-d.com",
+      "outlet": "Dek-D.com",
       "publishedAt": "2025-12-16T03:58:24.000Z",
       "sourceId": "pharm",
       "category": "คณะเภสัชศาสตร์",
@@ -3108,7 +3126,7 @@
     {
       "title": "เปิดตัว 3 สาขาใหม่ที่วิทยาลัยนานาชาติ มหาวิทยาลัยขอนแก่น!",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04UVNKLXgyQ1FQTDMxWEZpWkxJWjF4NHlGd3VIZUVMMWs4WUxNTDg2cjlaUV9XTUdCTy1tTHlVRm9GcDJLQXROcw?oc=5",
-      "outlet": "dek-d.com",
+      "outlet": "Dek-D.com",
       "publishedAt": "2025-09-17T07:00:00.000Z",
       "sourceId": "ic",
       "category": "วิทยาลัยนานาชาติ",
