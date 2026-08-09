@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T05:38:17.179Z",
+  "updatedAt": "2026-08-09T06:33:14.841Z",
   "sources": [
     {
       "id": "med",
@@ -240,6 +240,16 @@
     }
   ],
   "items": [
+    {
+      "title": "คณะวิทยาศาสตร์ มข. จัดอบรม LAB โรงเรียน เสริมทักษะวิทยาศาสตร์ให้นักเรียน 512 คน จาก 6 โรงเรียน",
+      "link": "https://sc.kku.ac.th/trainingnews/stdlab/120314/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-08-09T06:09:07.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
     {
       "title": "ต่อเนื่องครั้งที่ 2 มข. จัด สานสายใยพี่เทคน้องใหม่ ดึงพี่ทุน ก. สร้างพื้นที่ปลอดภัยให้น้องสหวิทยาการ หนองคาย",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1HaDdlR0hQZEFOc0JfT1lvVkRqTnEwMmxRaXRJTmNsNC1lMThZTmx3NlFPYXBOSGo2LXNRV2FGdTd0cDVZaU9Z?oc=5",
@@ -1267,8 +1277,8 @@
       "publishedAt": "2026-04-16T07:02:00.000Z",
       "sourceId": "ic",
       "category": "วิทยาลัยนานาชาติ",
-      "topic": "activity",
-      "image": null
+      "image": null,
+      "topic": "activity"
     },
     {
       "title": "สโมสรนักศึกษาคณะเทคนิคการแพทย์ ลงพื้นที่จัดค่าย MT & PT เพื่อชุมชน ดูแลผู้สูงอายุที่ศรีบุญเรือง",
@@ -1361,16 +1371,6 @@
       "topic": "activity"
     },
     {
-      "title": "คณะเทคโนโลยี มข. เปิดเวที TE SEF 2026 โชว์ศักยภาพนักศึกษา ก้าวสู่โลกอาชีพอย่างมั่นใจ",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA5X0xzNnE4c0FhRE9qWDFzbC1aNEppT05YZ01vMVM4c1FhOTQ3NC1rdC1JazZjYS1YVGZWT3FCc25qQQ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
-      "publishedAt": "2026-03-24T09:01:10.000Z",
-      "sourceId": "tech",
-      "category": "คณะเทคโนโลยี",
-      "image": null,
-      "topic": "other"
-    },
-    {
       "title": "คณะเทคโนโลยี มข. จัดค่ายอาสา “เทคโนโลยีอาสาสู่ชุมชน” สนับสนุนการเรียนรู้และพัฒนาชุมชน",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtZ3JUV0w5TzFMMDBjMzdRY3Vnb0xYRVlwOFBRZUd1ZnVmNDJrX056Rkd5VEQ1SGNja3hQV3BHY2FDTHhNQ2tN?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -1379,6 +1379,16 @@
       "category": "คณะเทคโนโลยี",
       "image": null,
       "topic": "activity"
+    },
+    {
+      "title": "คณะเทคโนโลยี มข. เปิดเวที TE SEF 2026 โชว์ศักยภาพนักศึกษา ก้าวสู่โลกอาชีพอย่างมั่นใจ",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9wRXVBLUoyTzktM0QzVzVNT19nZHRIalZYMDVVVzVQSlN6UGdDMmRGVTBxaGliU3I4SXBudE9qbmQyNzFPQ2NJ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-03-24T03:35:50.000Z",
+      "sourceId": "tech",
+      "category": "คณะเทคโนโลยี",
+      "image": null,
+      "topic": "other"
     },
     {
       "title": "คณะเทคนิคการแพทย์ มข. เปิดค่าย “ยุวไซแอนทิสต์” จุดประกายเยาวชนสู่เส้นทางนักวิทยาศาสตร์รุ่นใหม่",
@@ -1595,8 +1605,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9GZ2RuWWtvaHoydVc5amtZWFpmbFFsU2xmWWVjZGV0MUdSSXNTRnBOU0JNWU9VMnlzLUxlaWpreTJ5WUt6YWdN?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
       "publishedAt": "2026-02-02T08:00:00.000Z",
-      "sourceId": "arch",
-      "category": "คณะสถาปัตยกรรมศาสตร์",
+      "sourceId": "fa",
+      "category": "คณะศิลปกรรมศาสตร์",
       "image": null,
       "topic": "activity"
     },
@@ -1619,6 +1629,16 @@
       "category": "คณะทันตแพทยศาสตร์",
       "image": null,
       "topic": "announce"
+    },
+    {
+      "title": "ม.ขอนแก่น ร่วมมือ ธนาคารกรุงไทย ลงนาม MOU พัฒนาศักยภาพนักศึกษาสู่การทำงานจริง",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5SdGdmdW85cTlHSFFad1lXQWZ2OWtZblhkR044S3c1NVdFT1lNcERlaFRMZnpkWFFyU0V5d1VoaEpZb24zMWcw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-01-14T08:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "activity"
     },
     {
       "title": "คณะศิลปกรรมศาสตร์ มข. เปิดเวทีแลกเปลี่ยนดนตรีและการแสดง ไทย–เกาหลี ภายใต้กิจกรรม “SOUND SCENE SYNC”: เชื่อมศาสตร์แห่งดนตรีและการแสดง” - Khon Kaen University",
@@ -1893,7 +1913,7 @@
     {
       "title": "สมาคมศิษย์เก่า ร่วมรำลึก วันสถาปนาวิทยาลัยบัณฑิตศึกษาการจัดการ ครบรอบ 30 ปี",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HLUtBaGxJUWowY3Q2MjRUTWx1QmNodEJIMmwxTl9RSFRVazVRRk9uMFNsVGZBa1c2enRFX2YxY2E0ZjB2VlJkZExTSDJORVE0Q1J2NEp5RDFtb09VcXVhSHc5WnRGZkpJanpZTGlhRVFhX1pQd2RyNw?oc=5",
-      "outlet": "prachachat.net",
+      "outlet": "ประชาชาติธุรกิจ",
       "publishedAt": "2023-09-11T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
