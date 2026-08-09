@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T19:08:30.404Z",
+  "updatedAt": "2026-08-09T20:16:17.066Z",
   "sources": [
     {
       "id": "med",
@@ -418,7 +418,7 @@
     {
       "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
-      "outlet": "khonkaenlink.info",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
@@ -1188,7 +1188,7 @@
     {
       "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "khonkaenlink.info",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -1628,7 +1628,7 @@
     {
       "title": "การแข่งขันกีฬาภายในมหาวิทยาลัยขอนแก่น ระหว่างคณะ KKU GAMES 2025",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40dUEtdTdzVXphTlZiLTVSSzhoZ0NISXJHSkdKUVVERHBncXhMVWZacVJsSmR4YWRtcElrQTFRMUc2NkFnSF9pQmp0VVpFakwyTnRDZHFSZnBfYm15X3BnZA?oc=5",
-      "outlet": "khonkaenlink.info",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-02-15T08:00:00.000Z",
       "sourceId": "arch",
       "category": "คณะสถาปัตยกรรมศาสตร์",
@@ -1784,6 +1784,16 @@
       "category": "คณะเทคโนโลยี",
       "image": null,
       "topic": "activity"
+    },
+    {
+      "title": "มหาวิทยาลัยขอนแก่นส่งมอบเครื่องมือ Program Benchmark System ให้ สปอว. เพื่อยกระดับมาตรฐานหลักสูตรบัณฑิตศึกษา",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xU3pNRXBoM2p6a0RZdVp1NC1sU1FGX1J0RDhGeEYxMFllUG1VTVl0WHA0eTdoSVBCQ1k2V1VERW83S3pHR2Zv?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-11-29T08:00:00.000Z",
+      "sourceId": "gs",
+      "category": "บัณฑิตวิทยาลัย",
+      "image": null,
+      "topic": "study"
     },
     {
       "title": "เรียนต่อ มข. KKU Insight Ep.24 วิทยาลัยบัณฑิตศึกษาการจัดการ(MBA) มหาวิทยาลัยขอนแก่น",
