@@ -333,6 +333,13 @@
     display: grid; place-items: center; font-size: 1.35rem; overflow: hidden;
   }
   .tile img { width: 100%; height: 100%; object-fit: cover; }
+  /* ตราคณะ: พื้นขาว + contain เพื่อไม่ให้ตราโดนครอบตัด (ต่างจากรูปข่าวที่ใช้ cover) */
+  .tile.logo, .thumb.logo { background: #fff; border: 1px solid var(--line); }
+  .tile.logo img, .thumb.logo img { object-fit: contain; padding: 3px; }
+  .side-item .emoji img { width: 20px; height: 20px; object-fit: contain; display: block; margin: 0 auto; border-radius: 4px; }
+  .chip img { width: 16px; height: 16px; object-fit: contain; vertical-align: -3px; margin-right: 5px; border-radius: 3px; }
+  .rec-img .ph img { width: 70px; height: 70px; object-fit: contain; background: #fff; border-radius: 14px; padding: 7px; box-shadow: var(--shadow); }
+  .detail-meta .ico img { width: 22px; height: 22px; object-fit: contain; vertical-align: middle; border-radius: 4px; }
   .card .cat {
     display: inline-block; font-size: 0.68rem; font-weight: 700;
     color: var(--brand-dark); background: var(--brand-soft);
@@ -828,10 +835,21 @@ function toast(msg) {
 }
 
 /* ---------- ตัวช่วยเรนเดอร์รูป/ไอคอนข่าว ---------- */
+// ไอคอนประจำคณะ: ใช้รูปตราคณะ (sources[].logo) ถ้ามี — โหลดไม่ได้ค่อยถอยไปอีโมจิเดิม
+function srcIcon(sourceId) {
+  const s = srcById.get(sourceId);
+  const emoji = s?.icon ?? "📰";
+  if (!s?.logo) return emoji;
+  return `<img src="${esc(s.logo)}" alt="" loading="lazy" onerror="this.replaceWith('${emoji}')"/>`;
+}
+
 function thumbHtml(it, cls = "tile") {
   const idx = srcIndex.get(it.sourceId) ?? 0;
-  if (it.image) return `<div class="${cls}"><img src="${esc(it.image)}" alt="" loading="lazy" onerror="this.parentNode.textContent='${srcById.get(it.sourceId)?.icon ?? "📰"}'"/></div>`;
-  return `<div class="${cls}" style="background:${tileColor(idx)}">${srcById.get(it.sourceId)?.icon ?? "📰"}</div>`;
+  const s = srcById.get(it.sourceId);
+  const emoji = s?.icon ?? "📰";
+  if (it.image) return `<div class="${cls}"><img src="${esc(it.image)}" alt="" loading="lazy" onerror="this.parentNode.textContent='${emoji}'"/></div>`;
+  if (s?.logo) return `<div class="${cls} logo"><img src="${esc(s.logo)}" alt="" loading="lazy" onerror="this.parentNode.textContent='${emoji}'"/></div>`;
+  return `<div class="${cls}" style="background:${tileColor(idx)}">${emoji}</div>`;
 }
 
 /* ---------- Sidebar + chips ---------- */
@@ -854,7 +872,7 @@ function renderNav() {
       <svg class="caret" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="m6 9 6 6 6-6"/></svg>
     </button>
     <div class="fac-list" ${facOpen ? "" : "hidden"}>` +
-    faculties.map((s) => item("f:" + s.id, s.icon, s.name, facCount(s.id))).join("") +
+    faculties.map((s) => item("f:" + s.id, srcIcon(s.id), s.name, facCount(s.id))).join("") +
     `</div><hr/>` +
     item("saved", "🔖", "บันทึกของฉัน", saved.size) +
     item("noti", "🔔", "การแจ้งเตือน", notiItems().length) +
@@ -872,12 +890,12 @@ function renderNav() {
     renderNav();
   });
 
-  const chip = (id, label) => `<button class="chip ${state.cat === id && !state.detail ? "on" : ""}" data-cat="${id}">${esc(label)}</button>`;
+  const chip = (id, label, iconHtml = "") => `<button class="chip ${state.cat === id && !state.detail ? "on" : ""}" data-cat="${id}">${iconHtml}${esc(label)}</button>`;
   $("chips").innerHTML =
     chip("all", "🏠 หน้าหลัก") +
     DATA.topics.map((t) => chip("t:" + t.id, t.icon + " " + t.name)).join("") +
     chip("saved", `🔖 บันทึก (${saved.size})`) + chip("noti", "🔔 แจ้งเตือน") + chip("settings", "⚙️ ตั้งค่า") +
-    DATA.sources.filter((s) => s.id !== "kku").map((s) => chip("f:" + s.id, s.icon + " " + s.name.replace(/^คณะ/, ""))).join("");
+    DATA.sources.filter((s) => s.id !== "kku").map((s) => chip("f:" + s.id, s.name.replace(/^คณะ/, ""), srcIcon(s.id) + " ")).join("");
 
   bindCatButtons();
 }
@@ -989,7 +1007,7 @@ function renderRecs() {
     const topic = topicById.get(it.topic);
     const img = it.image
       ? `<img src="${esc(it.image)}" alt="" loading="lazy"/>`
-      : `<div class="ph" style="background:linear-gradient(135deg,${tileColor(idx)},${tileColor(idx + 3)})">${srcById.get(it.sourceId)?.icon ?? "📰"}</div>`;
+      : `<div class="ph" style="background:linear-gradient(135deg,${tileColor(idx)},${tileColor(idx + 3)})">${srcIcon(it.sourceId)}</div>`;
     return `
     <article class="rec-card">
       <div class="rec-img" data-link="${esc(it.link)}" onclick="_open(this)">
@@ -1129,7 +1147,7 @@ function renderDetail() {
       <div class="detail-meta">
         <div><span class="ico">📅</span><div>${thaiDate(it.publishedAt)}<small>วันที่เผยแพร่</small></div></div>
         <div><span class="ico">🕐</span><div>${thaiTime(it.publishedAt)}<small>เวลาเผยแพร่</small></div></div>
-        <div><span class="ico">${src?.icon ?? "🏛️"}</span><div>${esc(it.category)}<small>คณะ / หน่วยงาน</small></div></div>
+        <div><span class="ico">${srcIcon(it.sourceId)}</span><div>${esc(it.category)}<small>คณะ / หน่วยงาน</small></div></div>
         <div><span class="ico">📰</span><div>${esc(it.outlet)}<small>แหล่งข่าว</small></div></div>
       </div>
       <div class="ai-box">

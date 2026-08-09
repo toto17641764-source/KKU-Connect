@@ -61,6 +61,16 @@ const KKU_MAIN = {
   web: "https://www.kku.ac.th", fb: "https://www.facebook.com/kkuthailand",
 };
 
+// รูปตราคณะใน assets/logos/ (โหลดจากเว็บ/เพจทางการของแต่ละคณะ ส.ค. 2569)
+// หน้าเว็บใช้แสดงแทนอีโมจิ — คณะไหนไม่มีไฟล์จะถอยไปใช้อีโมจิเดิม
+const LOGO_FILES = {
+  med: "med.svg", eng: "eng.jpg", sci: "sci.png", agri: "agri.webp", edu: "edu.png",
+  nurse: "nurse.png", hs: "hs.jpg", dent: "dent.png", pharm: "pharm.png", ams: "ams.png",
+  ph: "ph.png", vet: "vet.jpg", tech: "tech.png", arch: "arch.png", kkbs: "kkbs.png",
+  fa: "fa.webp", law: "law.webp", econ: "econ.png", is: "is.jpg", cp: "cp.png",
+  cola: "cola.png", ic: "ic.jpg", gs: "gs.png", cbs: "cbs.png", kku: "kku.jpg",
+};
+
 // หมวดหมู่ข่าว — จัดอัตโนมัติจากคำสำคัญในหัวข่าว (ลำดับนี้ใช้เรียงเมนูในหน้าเว็บ)
 const TOPICS = [
   { id: "announce",    name: "ประกาศ",         icon: "📢" },
@@ -327,6 +337,7 @@ async function main() {
         updatedAt: new Date().toISOString(),
         sources: [...FACULTIES, KKU_MAIN].map(({ id, name, icon, web, fb }) => ({
           id, name, category: id === "kku" ? "มข." : name, icon, web, fb,
+          logo: LOGO_FILES[id] ? `assets/logos/${LOGO_FILES[id]}` : null,
         })),
         topics: TOPICS,
         items,

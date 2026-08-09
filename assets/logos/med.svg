@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="MD KKU favicon">
+  <rect width="512" height="512" rx="86" fill="#ffffff"/>
+  <rect x="43" y="378" width="426" height="42" rx="5" fill="#ff5a1f"/>
+  <path fill="#006b3a" d="M65 112h58l62 146 62-146h58v220h-55V213l-46 119h-38l-46-119v119H65V112Z"/>
+  <path fill="#006b3a" d="M326 112h66c78 0 128 43 128 110s-50 110-128 110h-66V112Zm56 52v116h13c40 0 67-22 67-58s-27-58-67-58h-13Z"/>
+  <path fill="#9b3b20" d="M309 112h18v220h-18z"/>
+</svg>
