@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T18:19:58.278Z",
+  "updatedAt": "2026-08-09T19:08:30.404Z",
   "sources": [
     {
       "id": "med",
@@ -7,7 +7,8 @@
       "category": "คณะแพทยศาสตร์",
       "icon": "🩺",
       "web": "https://md.kku.ac.th",
-      "fb": "https://www.facebook.com/medkku"
+      "fb": "https://www.facebook.com/medkku",
+      "logo": "assets/logos/med.svg"
     },
     {
       "id": "eng",
@@ -15,7 +16,8 @@
       "category": "คณะวิศวกรรมศาสตร์",
       "icon": "⚙️",
       "web": "https://en.kku.ac.th",
-      "fb": "https://www.facebook.com/EngineeringKKU"
+      "fb": "https://www.facebook.com/EngineeringKKU",
+      "logo": "assets/logos/eng.jpg"
     },
     {
       "id": "sci",
@@ -23,7 +25,8 @@
       "category": "คณะวิทยาศาสตร์",
       "icon": "🔬",
       "web": "https://sc.kku.ac.th",
-      "fb": "https://www.facebook.com/SCiKKU"
+      "fb": "https://www.facebook.com/SCiKKU",
+      "logo": "assets/logos/sci.png"
     },
     {
       "id": "agri",
@@ -31,7 +34,8 @@
       "category": "คณะเกษตรศาสตร์",
       "icon": "🌾",
       "web": "https://ag.kku.ac.th",
-      "fb": "https://www.facebook.com/ag.kku.ac.th"
+      "fb": "https://www.facebook.com/ag.kku.ac.th",
+      "logo": "assets/logos/agri.webp"
     },
     {
       "id": "edu",
@@ -39,7 +43,8 @@
       "category": "คณะศึกษาศาสตร์",
       "icon": "📚",
       "web": "https://ednet.kku.ac.th",
-      "fb": "https://www.facebook.com/EDKKU"
+      "fb": "https://www.facebook.com/EDKKU",
+      "logo": "assets/logos/edu.png"
     },
     {
       "id": "nurse",
@@ -47,7 +52,8 @@
       "category": "คณะพยาบาลศาสตร์",
       "icon": "🩹",
       "web": "https://nu.kku.ac.th",
-      "fb": "https://www.facebook.com/fonkku"
+      "fb": "https://www.facebook.com/fonkku",
+      "logo": "assets/logos/nurse.png"
     },
     {
       "id": "hs",
@@ -55,7 +61,8 @@
       "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
       "icon": "🌏",
       "web": "https://hs.kku.ac.th",
-      "fb": "https://www.facebook.com/husokkuwhite"
+      "fb": "https://www.facebook.com/husokkuwhite",
+      "logo": "assets/logos/hs.jpg"
     },
     {
       "id": "dent",
@@ -63,7 +70,8 @@
       "category": "คณะทันตแพทยศาสตร์",
       "icon": "🦷",
       "web": "https://dentistry.kku.ac.th",
-      "fb": "https://www.facebook.com/dentistrykku"
+      "fb": "https://www.facebook.com/dentistrykku",
+      "logo": "assets/logos/dent.png"
     },
     {
       "id": "pharm",
@@ -71,7 +79,8 @@
       "category": "คณะเภสัชศาสตร์",
       "icon": "💊",
       "web": "https://pharm.kku.ac.th",
-      "fb": "https://www.facebook.com/pharmkkuth"
+      "fb": "https://www.facebook.com/pharmkkuth",
+      "logo": "assets/logos/pharm.png"
     },
     {
       "id": "ams",
@@ -79,7 +88,8 @@
       "category": "คณะเทคนิคการแพทย์",
       "icon": "🧪",
       "web": "https://ams.kku.ac.th",
-      "fb": "https://www.facebook.com/AMSatKKU"
+      "fb": "https://www.facebook.com/AMSatKKU",
+      "logo": "assets/logos/ams.png"
     },
     {
       "id": "ph",
@@ -87,7 +97,8 @@
       "category": "คณะสาธารณสุขศาสตร์",
       "icon": "🏥",
       "web": "https://ph.kku.ac.th",
-      "fb": "https://www.facebook.com/ph.kku.ac.th"
+      "fb": "https://www.facebook.com/ph.kku.ac.th",
+      "logo": "assets/logos/ph.png"
     },
     {
       "id": "vet",
@@ -95,7 +106,8 @@
       "category": "คณะสัตวแพทยศาสตร์",
       "icon": "🐾",
       "web": "https://vet.kku.ac.th",
-      "fb": "https://www.facebook.com/vetmedkku"
+      "fb": "https://www.facebook.com/vetmedkku",
+      "logo": "assets/logos/vet.jpg"
     },
     {
       "id": "tech",
@@ -103,7 +115,8 @@
       "category": "คณะเทคโนโลยี",
       "icon": "🧫",
       "web": "https://te.kku.ac.th",
-      "fb": "https://www.facebook.com/TechnologyKKU"
+      "fb": "https://www.facebook.com/TechnologyKKU",
+      "logo": "assets/logos/tech.png"
     },
     {
       "id": "arch",
@@ -111,7 +124,8 @@
       "category": "คณะสถาปัตยกรรมศาสตร์",
       "icon": "📐",
       "web": "https://arch.kku.ac.th",
-      "fb": "https://www.facebook.com/apdsxkku"
+      "fb": "https://www.facebook.com/apdsxkku",
+      "logo": "assets/logos/arch.png"
     },
     {
       "id": "kkbs",
@@ -119,7 +133,8 @@
       "category": "คณะบริหารธุรกิจและการบัญชี",
       "icon": "📊",
       "web": "https://kkbs.kku.ac.th",
-      "fb": "https://www.facebook.com/kkbskku"
+      "fb": "https://www.facebook.com/kkbskku",
+      "logo": "assets/logos/kkbs.png"
     },
     {
       "id": "fa",
@@ -127,7 +142,8 @@
       "category": "คณะศิลปกรรมศาสตร์",
       "icon": "🎨",
       "web": "https://fa.kku.ac.th",
-      "fb": "https://www.facebook.com/FAKKUofficial"
+      "fb": "https://www.facebook.com/FAKKUofficial",
+      "logo": "assets/logos/fa.webp"
     },
     {
       "id": "law",
@@ -135,7 +151,8 @@
       "category": "คณะนิติศาสตร์",
       "icon": "⚖️",
       "web": "https://law.kku.ac.th",
-      "fb": "https://www.facebook.com/facultyoflawkku"
+      "fb": "https://www.facebook.com/facultyoflawkku",
+      "logo": "assets/logos/law.webp"
     },
     {
       "id": "econ",
@@ -143,7 +160,8 @@
       "category": "คณะเศรษฐศาสตร์",
       "icon": "📈",
       "web": "https://econ.kku.ac.th",
-      "fb": "https://www.facebook.com/EconKKUofficial"
+      "fb": "https://www.facebook.com/EconKKUofficial",
+      "logo": "assets/logos/econ.png"
     },
     {
       "id": "is",
@@ -151,7 +169,8 @@
       "category": "คณะสหวิทยาการ (หนองคาย)",
       "icon": "🧩",
       "web": "https://nkc.kku.ac.th",
-      "fb": "https://www.facebook.com/PRNKC"
+      "fb": "https://www.facebook.com/PRNKC",
+      "logo": "assets/logos/is.jpg"
     },
     {
       "id": "cp",
@@ -159,7 +178,8 @@
       "category": "วิทยาลัยการคอมพิวเตอร์",
       "icon": "💻",
       "web": "https://computing.kku.ac.th",
-      "fb": "https://www.facebook.com/computing.kku"
+      "fb": "https://www.facebook.com/computing.kku",
+      "logo": "assets/logos/cp.png"
     },
     {
       "id": "cola",
@@ -167,7 +187,8 @@
       "category": "วิทยาลัยการปกครองท้องถิ่น",
       "icon": "🏛️",
       "web": "https://cola.kku.ac.th",
-      "fb": "https://www.facebook.com/cola.kku"
+      "fb": "https://www.facebook.com/cola.kku",
+      "logo": "assets/logos/cola.png"
     },
     {
       "id": "ic",
@@ -175,7 +196,8 @@
       "category": "วิทยาลัยนานาชาติ",
       "icon": "🌐",
       "web": "https://ic.kku.ac.th",
-      "fb": "https://www.facebook.com/KKUIC"
+      "fb": "https://www.facebook.com/KKUIC",
+      "logo": "assets/logos/ic.jpg"
     },
     {
       "id": "gs",
@@ -183,7 +205,8 @@
       "category": "บัณฑิตวิทยาลัย",
       "icon": "🎓",
       "web": "https://gs.kku.ac.th",
-      "fb": "https://www.facebook.com/graduateschoolkku"
+      "fb": "https://www.facebook.com/graduateschoolkku",
+      "logo": "assets/logos/gs.png"
     },
     {
       "id": "cbs",
@@ -191,7 +214,8 @@
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
       "icon": "💼",
       "web": "https://mba.kku.ac.th",
-      "fb": "https://www.facebook.com/mbakkupage"
+      "fb": "https://www.facebook.com/mbakkupage",
+      "logo": "assets/logos/cbs.png"
     },
     {
       "id": "kku",
@@ -199,7 +223,8 @@
       "category": "มข.",
       "icon": "🏫",
       "web": "https://www.kku.ac.th",
-      "fb": "https://www.facebook.com/kkuthailand"
+      "fb": "https://www.facebook.com/kkuthailand",
+      "logo": "assets/logos/kku.jpg"
     }
   ],
   "topics": [
@@ -393,7 +418,7 @@
     {
       "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
@@ -993,7 +1018,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "matichon.co.th",
+      "outlet": "มติชนออนไลน์",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -1163,7 +1188,7 @@
     {
       "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -1303,7 +1328,7 @@
     {
       "title": "นศ. KKUIC จัดแข่งบาส 3x3 การกุศล \"KKUIC 3X3 Street Summer Slam 2026\" รางวัลรวม 1 แสนบาท มุ่งส่งต่อโอกาสสู่เยาวชนผู้พิการระดมทุนจัดซื้ออุปกรณ์กีฬา-การศึกษาโรงเรียนศรีสังวาลย์ขอนแก่น - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE52TmVXSkFFMHRwSlNTaVBTQVhLdndWSVdmWU9rSUdiYkp5MkczTEFEOEJReW5weGczMjdpNEM2bXdGMFFzc0U0?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-04-16T07:02:00.000Z",
       "sourceId": "ic",
       "category": "วิทยาลัยนานาชาติ",
@@ -1603,7 +1628,7 @@
     {
       "title": "การแข่งขันกีฬาภายในมหาวิทยาลัยขอนแก่น ระหว่างคณะ KKU GAMES 2025",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40dUEtdTdzVXphTlZiLTVSSzhoZ0NISXJHSkdKUVVERHBncXhMVWZacVJsSmR4YWRtcElrQTFRMUc2NkFnSF9pQmp0VVpFakwyTnRDZHFSZnBfYm15X3BnZA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-02-15T08:00:00.000Z",
       "sourceId": "arch",
       "category": "คณะสถาปัตยกรรมศาสตร์",
@@ -1635,8 +1660,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9GZ2RuWWtvaHoydVc5amtZWFpmbFFsU2xmWWVjZGV0MUdSSXNTRnBOU0JNWU9VMnlzLUxlaWpreTJ5WUt6YWdN?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-02-02T08:00:00.000Z",
-      "sourceId": "fa",
-      "category": "คณะศิลปกรรมศาสตร์",
+      "sourceId": "arch",
+      "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "activity"
     },
