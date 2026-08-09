@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T17:19:19.396Z",
+  "updatedAt": "2026-08-09T18:19:58.278Z",
   "sources": [
     {
       "id": "med",
@@ -551,6 +551,16 @@
       "topic": "other"
     },
     {
+      "title": "คณะเศรษฐศาสตร์ มข. เข้าร่วมศึกษาดูงานมหกรรมพืชสวนโลก จังหวัดอุดรธานี และประชุมสัญจร 8 องค์กรเศรษฐกิจจังหวัดขอนแก่น - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9iODI0VERHcTh1V2dHRDJqYW0zN1FTNDJJeEUwejFIWnhDOS04OVpUSnFMZjJISzlSUGUwZHRpOGN1d0swTzc0?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-07-21T09:48:07.000Z",
+      "sourceId": "econ",
+      "category": "คณะเศรษฐศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "คณะวิศวกรรมศาสตร์ มหาวิทยาลัยขอนแก่น อบรมเชิงปฏิบัติการ “การบูรณาการ Generative AI สำหรับงานนักข่าวและสื่อสารมวลชนยุคดิจิทัล - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1VYzMwa1gtYWdKT2REV3NqYkQxZENPS3NMaEs5bWZFS0RzX2FGdWt5SXpDQldhaHhVWUVFZ2tpQXBjLWJrRS13?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -913,7 +923,7 @@
     {
       "title": "วิริยะประกันภัย สนับสนุน “ค่ายผู้นำ 4 จอบอาสาพัฒนา” ครั้งที่ 21 สานพลังเครือข่ายผู้นำนักศึกษาเกษตรศาสตร์ ยกระดับเกษตรท้องถิ่นไทย | สวพ.FM91",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sSGI2QVdmMUQyNzE2c1N5Vmg2ME9HSlpuT010aG9vdXlrWmhTdmZDUmphODYyRDlJeFpPNmYxc29NbHhSTWZzVm1FLWp2MmZGaXFBZnh3?oc=5",
-      "outlet": "today.line.me",
+      "outlet": "LINE TODAY",
       "publishedAt": "2026-06-16T07:00:00.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
@@ -983,7 +993,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "มติชนออนไลน์",
+      "outlet": "matichon.co.th",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
