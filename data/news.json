@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T22:16:06.580Z",
+  "updatedAt": "2026-08-10T00:41:43.015Z",
   "sources": [
     {
       "id": "med",
@@ -408,7 +408,7 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2026-07-31T08:15:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -1166,16 +1166,6 @@
       "image": null
     },
     {
-      "title": "ขอเชิญอาจารย์และบุคลากร มหาวิทยาลัยขอนแก่น เข้าทดสอบความรู้ “ความปลอดภัยทางไซเบอร์” ประจำปี 2569",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPOHRJajI2bU5LWVNUbVNLb0xrQW1PZnR6NTRCN1VRVWFiS2ZRX0xMb3V5ekZDeElENnUzQXhGV2RYVEVDazNRNk9EZ05hZ0VMdmtPRDVwYmhMdUQ2elpoVlRSMHRpVEVWVUZxb2V2ZnFqYW5LNkhhMXZqYTJIUTVwbW85UVZQdzlVTDJ0UkR5TzRPUW80WEZJRWMyYTBJQ2Q1M1hMcGlIQTZwYXg0dzcydXdOckJMLWlGbFBKQ19rNnk4blJiRF9FbWI1R3R1aGMxUDVDVEJubVlCRFg1cTZQS25FWk9RakNjTXZEOUZTZUtIUkRVVkZ3VkxVN0hzaUlHWFFTbnFzd0cybDdWZTBscHZfT3ZzcVVsTUVOVTFCUmVJQ3REd2s2ZmVGYlNIVjZnVGpEYllzU3JBbVBLVHE4SEdkbUxnNmlBeVJHRWpfYw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-05-11T07:00:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "image": null,
-      "topic": "study"
-    },
-    {
       "title": "ศึกษาศาสตร์ มข. ร่วมสถานศึกษาเครือข่าย เตรียมความพร้อมครูพี่เลี้ยง และอาจารย์นิเทศก์ ก่อนส่งนักศึกษาฝึกปฏิบัติการสอนฯ ประจำปี 2569 - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zVk5UZnNLTmdsd1hwc0Ryc0xWbzdRTWZDTTRPN1pFdFBTMWFlUWdfSWxseEJzdjhlQkF4YzV2VWtILXdwWGNV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1184,6 +1174,16 @@
       "category": "คณะศึกษาศาสตร์",
       "image": null,
       "topic": "other"
+    },
+    {
+      "title": "ขอเชิญอาจารย์และบุคลากร มหาวิทยาลัยขอนแก่น เข้าทดสอบความรู้ “ความปลอดภัยทางไซเบอร์” ประจำปี 2569",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPOHRJajI2bU5LWVNUbVNLb0xrQW1PZnR6NTRCN1VRVWFiS2ZRX0xMb3V5ekZDeElENnUzQXhGV2RYVEVDazNRNk9EZ05hZ0VMdmtPRDVwYmhMdUQ2elpoVlRSMHRpVEVWVUZxb2V2ZnFqYW5LNkhhMXZqYTJIUTVwbW85UVZQdzlVTDJ0UkR5TzRPUW80WEZJRWMyYTBJQ2Q1M1hMcGlIQTZwYXg0dzcydXdOckJMLWlGbFBKQ19rNnk4blJiRF9FbWI1R3R1aGMxUDVDVEJubVlCRFg1cTZQS25FWk9RakNjTXZEOUZTZUtIUkRVVkZ3VkxVN0hzaUlHWFFTbnFzd0cybDdWZTBscHZfT3ZzcVVsTUVOVTFCUmVJQ3REd2s2ZmVGYlNIVjZnVGpEYllzU3JBbVBLVHE4SEdkbUxnNmlBeVJHRWpfYw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-05-11T07:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "study"
     },
     {
       "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
@@ -1456,6 +1456,16 @@
       "topic": "activity"
     },
     {
+      "title": "คณะเกษตรศาสตร์ มข. จัดงาน “นุ่งไทย ห่มสไบ เลาะไฮ่ชมกาลพฤกษ์” เปิดพื้นที่โชว์ศักยภาพนักศึกษา ผ่านผลงานนวัตกรรมสร้างมูลค่าเพิ่มสินค้าเกษตร - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1BTE92c0tENUwtQ2JJZ2Jabk1lSTJ4NFdPbUVOTXF6QXpvX0RBQXotWExXZGJlaGpsYWxucjBxczRvVVkxQ3g4?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-03-19T07:00:00.000Z",
+      "sourceId": "agri",
+      "category": "คณะเกษตรศาสตร์",
+      "image": null,
+      "topic": "research"
+    },
+    {
       "title": "สร้างเครือข่ายผู้นำนักศึกษาพยาบาล! มข. – ราชภัฏบุรีรัมย์ แลกเปลี่ยนแนวคิดพัฒนากิจกรรม",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1DOVZSanQtbXRsX0p5NmN3bTY3VGtxWVFpYUkxRXBPRjVEYjBvUG9NeXUtYVRHRU1rR2xaUGJ5OXprNXN0d3FR?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -1554,6 +1564,16 @@
       "category": "คณะพยาบาลศาสตร์",
       "topic": "activity",
       "image": null
+    },
+    {
+      "title": "คณะเกษตรศาสตร์ มข. จัดอบรม “การยกระดับความปลอดภัยในห้องปฏิบัติการตามระบบ ESPReL และการใช้งาน ESPReL Checklist”",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE85NGhjWUcyYXFSLUZmcU9PVjFjQjhfcFVUakE5NVk4SENIUEpRN1FzcnFobFpvS2ZlX1ZJcUJmclhvTmcxdzFN?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-03-05T08:00:00.000Z",
+      "sourceId": "agri",
+      "category": "คณะเกษตรศาสตร์",
+      "image": null,
+      "topic": "activity"
     },
     {
       "title": "นักศึกษา มข. คว้ารางวัลระดับประเทศ! โชว์พลังความคิดสร้างสรรค์ รณรงค์สังคมปลอดบุหรี่",
@@ -1828,7 +1848,7 @@
     {
       "title": "มข. จับมือ AIEI ยกระดับ “MBA AI” พัฒนาผู้บริหารยุคดิจิทัล เสริมความแข่งขันภาคธุรกิจอีสาน-อนุภูมิภาคลุ่มน้ำโขง",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE51Q3RDSDV6R1BvVmN5ZDBrMmUxeWJVV1VELV9PNXdvTXpLMFRlQmlqLThKNTBwdDNJajJUMjFySjZVa2pkUUZr?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2025-09-11T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
