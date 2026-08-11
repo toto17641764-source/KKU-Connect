@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T00:41:30.449Z",
+  "updatedAt": "2026-08-11T03:24:07.210Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,46 @@
   ],
   "items": [
     {
+      "title": "คณะทันตแพทยศาสตร์ มข. ต้อนรับนักเรียนและครูจากโรงเรียนลำปลายมาศ เยี่ยมชมคณะ เปิดโลกการศึกษาสู่เส้นทางวิชาชีพทันตแพทย์",
+      "link": "https://dentistry.kku.ac.th/30091?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%2584%25e0%25b8%2593%25e0%25b8%25b0%25e0%25b8%2597%25e0%25b8%25b1%25e0%25b8%2599%25e0%25b8%2595%25e0%25b9%2581%25e0%25b8%259e%25e0%25b8%2597%25e0%25b8%25a2%25e0%25b8%25a8%25e0%25b8%25b2%25e0%25b8%25aa%25e0%25b8%2595%25e0%25b8%25a3%25e0%25b9%258c-%25e0%25b8%25a1%25e0%25b8%2582-%25e0%25b8%2595%25e0%25b9%2589-4",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-08-11T03:22:32.000Z",
+      "sourceId": "dent",
+      "category": "คณะทันตแพทยศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
+      "title": "KKBS–ECON ยกระดับศักยภาพนักวิจัย เปิดเวทีอบรมเชิงปฏิบัติการ “Research Training Programme” พร้อมเชื่อมเครือข่ายความร่วมมือ ต่อยอดสู่ทุนวิจัยระดับนานาชาติ",
+      "link": "https://kkbs.kku.ac.th/insight-kkbs/33249/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-08-11T03:19:54.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "image": "https://kkbs.kku.ac.th/wp/wp-content/uploads/2026/08/03082026-research-training-programme-251-1024x682.jpg",
+      "topic": "scholarship"
+    },
+    {
+      "title": "คณะศิลปกรรมศาสตร์ ปฏิบัติการอบรมหลักสูตรระยะสั้น ทักษะงานฝีมือ DIY ตุ๊กตาทำมือ [เย็บเล่นเป็นตัวเอง]",
+      "link": "https://fa.kku.ac.th/%e0%b8%84%e0%b8%93%e0%b8%b0%e0%b8%a8%e0%b8%b4%e0%b8%a5%e0%b8%9b%e0%b8%81%e0%b8%a3%e0%b8%a3%e0%b8%a1%e0%b8%a8%e0%b8%b2%e0%b8%aa%e0%b8%95%e0%b8%a3%e0%b9%8c-%e0%b8%9b%e0%b8%8f%e0%b8%b4%e0%b8%9a-2/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-08-11T01:49:59.000Z",
+      "sourceId": "fa",
+      "category": "คณะศิลปกรรมศาสตร์",
+      "image": "https://fa.kku.ac.th/wp-content/uploads/2026/08/S__234348559_0-1024x553.jpg",
+      "topic": "study"
+    },
+    {
+      "title": "เปิดรับสมัครร้านค้า ร่วมจำหน่ายอาหาร เครื่องดื่ม และสินค้า ภายในงาน KKU SCIENCE WEEK 2026 (ครั้งที่ 2) จำนวน 7 ร้าน",
+      "link": "https://storage.sc.kku.ac.th/s/Y7CCyySKNYyXitd#new_tab",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-08-11T01:33:29.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "study"
+    },
+    {
       "title": "นักศึกษา SIDS–STAT คณะวิทยาศาสตร์ มข. โชว์ศักยภาพ AI สุขภาพ ผ่านเข้ารอบชิง NSC’28 พร้อม 2 โครงงานรับทุนพัฒนา",
       "link": "https://sc.kku.ac.th/studentnews/120995/",
       "outlet": "เว็บไซต์คณะ",
@@ -394,16 +434,6 @@
       "category": "มข.",
       "topic": "other",
       "image": null
-    },
-    {
-      "title": "เปิดรับสมัครร้านค้า ร่วมจำหน่ายอาหาร เครื่องดื่ม และสินค้า ภายในงาน KKU SCIENCE WEEK 2026 สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569",
-      "link": "https://kku.world/y0icgv#new_tab",
-      "outlet": "เว็บไซต์คณะ",
-      "publishedAt": "2026-08-04T02:40:11.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
-      "image": null,
-      "topic": "study"
     },
     {
       "title": "นักศึกษาวิทยาศาสตร์สิ่งแวดล้อม คณะวิทยาศาสตร์ มข. คว้ารางวัลนำเสนอผลงานวิจัยยอดเยี่ยมอันดับ 1 ในเวทีวิชาการมดแห่งประเทศไทย",
@@ -808,7 +838,7 @@
     {
       "title": "\"แทน ไท\" ตื่นเต้นเปิดเทอมวันแรก สู่รั้วสถาปัตย์ ม.ขอนแก่น ไม่ลืมดูแล \"ถ้วยฟู\" แมวสุดรัก",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50a0ZnZE91dEg0ZkRZRWFmWURlUVl1YWxJcnd3R0FjanJkbHZMaHg4NDFuUlplMm5ydVM0VldSSW9za25rN1FydklqVnAwSVZwQ0gtbUZiX2NNbzRkRE95a19B?oc=5",
-      "outlet": "TrueID",
+      "outlet": "entertainment.trueid.net",
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "sourceId": "arch",
       "category": "คณะสถาปัตยกรรมศาสตร์",
@@ -1147,9 +1177,9 @@
     },
     {
       "title": "คณะมนุษยศาสตร์ฯ มข. ยกระดับงานวิจัยไทยสู่เวทีนานาชาติ ผนึกความร่วมมือนักวิจัยมหาวิทยาลัยชั้นนำ จัดนิทรรศการ ‘Science as Diplomacy: a Thai Historical Context’ ถ่ายทอดบทบาท ‘วิทยาศาสตร์การทูต’ ในบริบทประวัติศาสตร์ไทย ณ เมืองลีดส์ สหราชอาณาจักร - Khon Kaen Univ",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5WNzBRVDVJVndvNDlBQmRRTU5oRkd4N3FlbU5SQ0p4aVJRRFJxZkZmOEtURE1VblpQX2hlREQyNXRvZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtWld5MDZfSVVtOEhEY2VZTGJKaTI5a2lPenZhbnVLZzQ1ak9KSjFUWTJlWlowcjlKSkR2TjhjSEdVOWtHWU13?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-05-21T04:14:57.000Z",
+      "publishedAt": "2026-05-21T04:18:36.000Z",
       "sourceId": "hs",
       "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
       "image": null,
