@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T03:24:07.210Z",
+  "updatedAt": "2026-08-11T04:56:10.242Z",
   "sources": [
     {
       "id": "med",
@@ -546,6 +546,16 @@
       "topic": "study"
     },
     {
+      "title": "เชิดชูเกียรติแห่งความดีงาม นักศึกษาเทคนิคการแพทย์ มข. คว้ารางวัลคุณธรรมจริยธรรมดีเด่น ประจำปีการศึกษา 2568",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMc3FnNkVUOE4wWGEtQ1FEbUhPVjg4NmJFSnFnRURNZjA0WEtMeGZOSHhDRWwta2hCOGxIVVNOV0FJY0tmMEJR?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-07-26T13:44:53.000Z",
+      "sourceId": "ams",
+      "category": "คณะเทคนิคการแพทย์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "คณะศึกษาศาสตร์ มข. หารือ Mary Lou Fulton College มหาวิทยาลัยแอริโซนาสเตต (ASU) วางแนวทางเตรียมความพร้อมหลักสูตรผลิตครูนานาชาติ มุ่งสร้างครูสมรรถนะสากลป้อนโรงเรียนระดับนานาชาติ",
       "link": "https://ednet.kku.ac.th/news/20433/",
       "outlet": "เว็บไซต์คณะ",
@@ -838,7 +848,7 @@
     {
       "title": "\"แทน ไท\" ตื่นเต้นเปิดเทอมวันแรก สู่รั้วสถาปัตย์ ม.ขอนแก่น ไม่ลืมดูแล \"ถ้วยฟู\" แมวสุดรัก",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50a0ZnZE91dEg0ZkRZRWFmWURlUVl1YWxJcnd3R0FjanJkbHZMaHg4NDFuUlplMm5ydVM0VldSSW9za25rN1FydklqVnAwSVZwQ0gtbUZiX2NNbzRkRE95a19B?oc=5",
-      "outlet": "entertainment.trueid.net",
+      "outlet": "TrueID",
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "sourceId": "arch",
       "category": "คณะสถาปัตยกรรมศาสตร์",
@@ -1168,7 +1178,7 @@
     {
       "title": "ทุนไปอังกฤษฟรี!! คณะมนุษยศาสตร์ มข. ส่งตัวแทนนักศึกษาจาก 13 วิชาเอก บินลัดฟ้าพัฒนาทักษะภาษาอังกฤษ ณ University of Leeds ประเทศอังกฤษ ผ่านโครงการทุนเต็มจำนวน “UKind ทุนเรียนดี มีน้ำใจ ไปอังกฤษ” - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5HbUFEaGRCY0hIeDV0cFpXSkVhZUsyZzA5ajg0R3Z5cTFRdjVqa24yTHFNbGZHX3FJNWlUT1NvdFppQTVqVHBF?oc=5",
-      "outlet": "kku.ac.th",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-05-25T03:48:44.000Z",
       "sourceId": "hs",
       "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
@@ -1610,6 +1620,16 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5fRXQ4LU43MUJpZDJsUlBQVFVDWmNNSVJLMkFVUDNQb0ZhZU1mSWRHNVpaWTV2QVhUYzZjYnFOc09GdkZXNnJj?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-03-08T09:22:02.000Z",
+      "sourceId": "arch",
+      "category": "คณะสถาปัตยกรรมศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
+      "title": "🎶 มข.เปิดประกวดแบบ “Mor Lam Opera Hall” ดันหมอลำสู่อุตสาหกรรมสร้างสรรค์",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPN3FPZFVWX1pVSHpER28tenVLcVR2R05XaThFNDc1Vk5VR0thUmZ3WjJVM1B6QWRfRWtrSzA5ZHhlSFk4SDhBNzBJbmxCb21BNjR4ZQ?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-03-06T08:00:00.000Z",
       "sourceId": "arch",
       "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
