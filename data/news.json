@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T04:56:10.242Z",
+  "updatedAt": "2026-08-11T06:41:00.229Z",
   "sources": [
     {
       "id": "med",
@@ -1078,7 +1078,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "Matichon Online",
+      "outlet": "มติชนออนไลน์",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -1412,6 +1412,16 @@
       "publishedAt": "2026-04-13T15:13:46.000Z",
       "sourceId": "ams",
       "category": "คณะเทคนิคการแพทย์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
+      "title": "คณะศิลปกรรมศาสตร์ มข. ดำเนินโครงการ \"ดนตรีสัญจร\" เสริมศักยภาพนักศึกษาสู่เวทีนานาชาติ กระชับความร่วมมือทางดนตรีไทย–ลาว ประจำปีงบประมาณ 2569 - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1LZE9ZUmw2OUJfcFgzVHMzUFExTC12VFVpMkpXNzA4NUd2WEVhX3puVkNVT0hsR2lTTzNjUzRfSDMwQVNEWlg0?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-04-08T03:20:14.000Z",
+      "sourceId": "fa",
+      "category": "คณะศิลปกรรมศาสตร์",
       "image": null,
       "topic": "activity"
     },
