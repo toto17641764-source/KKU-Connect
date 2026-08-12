@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T14:49:12.809Z",
+  "updatedAt": "2026-08-12T16:42:30.694Z",
   "sources": [
     {
       "id": "med",
@@ -1098,7 +1098,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "มติชนออนไลน์",
+      "outlet": "Matichon Online",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -1800,8 +1800,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9GZ2RuWWtvaHoydVc5amtZWFpmbFFsU2xmWWVjZGV0MUdSSXNTRnBOU0JNWU9VMnlzLUxlaWpreTJ5WUt6YWdN?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-02-02T08:00:00.000Z",
-      "sourceId": "arch",
-      "category": "คณะสถาปัตยกรรมศาสตร์",
+      "sourceId": "fa",
+      "category": "คณะศิลปกรรมศาสตร์",
       "image": null,
       "topic": "activity"
     },
@@ -1974,6 +1974,16 @@
       "category": "คณะเภสัชศาสตร์",
       "image": null,
       "topic": "activity"
+    },
+    {
+      "title": "มข. – ศูนย์ GFGL ลงนาม MOU เปิดหลักสูตรผู้บริหารธุรกิจเวลเนส รุ่น 2 ขับเคลื่อนเศรษฐกิจสุขภาพ ยกระดับไทยสู่ศูนย์กลางสุขภาพเอเชีย - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9RX3o1V2E0VUJRbkh1WFZ6dFNkTXYtQ1l1bk93alFsWGQxejNRZmp1ME9ESDZKMzQ1WGJ6RXp0MEVBcnRmWGlz?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-11-05T08:00:00.000Z",
+      "sourceId": "cbs",
+      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
+      "image": null,
+      "topic": "study"
     },
     {
       "title": "บัณฑิตวิทยาลัย มหาวิทยาลัยขอนแก่น ก้าวสู่ความสำเร็จในการผ่านการประเมินคุณภาพ EdPEx 300 แห่งแรกของประเทศ ตอกย้ำความเป็นเลิศและพลังความร่วมมือของประชาคมบัณฑิตศึกษาทั้งมหาวิทยาลัย - Khon Kaen University",
