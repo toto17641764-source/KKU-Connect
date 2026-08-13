@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T16:41:25.631Z",
+  "updatedAt": "2026-08-13T18:43:27.374Z",
   "sources": [
     {
       "id": "med",
@@ -282,6 +282,16 @@
       "publishedAt": "2026-08-13T02:30:24.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
+      "image": null,
+      "topic": "other"
+    },
+    {
+      "title": "มนุษย์-สังคม มข. ปั้น “Young Leadership” ปูทางนักศึกษาสู่ผู้นำรุ่นใหม่ในศตวรรษที่ 21 ดึงศิษย์เก่าคนดังร่วมแชร์ประสบการณ์!!",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1iM2pmaGw5SEY0OFQ4N1NvN0ttSmJSczNlb20xR3RiYjVRT200d1AwYndCNkRsSHpRbDJ5b0diRTYxd0JhQ1M4?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-12T20:57:54.000Z",
+      "sourceId": "hs",
+      "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
       "image": null,
       "topic": "other"
     },
@@ -1118,7 +1128,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "มติชนออนไลน์",
+      "outlet": "Matichon Online",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -1807,7 +1817,7 @@
     },
     {
       "title": "บัณฑิตวิทยาลัย มข. เปิดบ้านต้อนรับคณะศึกษาดูงานจากจุฬาฯ แลกเปลี่ยนแนวคิดบริหารบัณฑิตศึกษาสู่ความเป็นเลิศ",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE43RHpMMFhZaDUxUnlnLVo3QVFtSEJ5SVdlbFpOMldrZkxzQmNFa1hlRjQ2WnJ6ZFVNZDkwR2UtMWdOQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBQN3UyZ0VKeDRsU0I3V2t2eFNxY3lVc1hibGpON0tkSWR6QVNVdVFpVDZxNnNDNENDeHFkeS0yWnlHOGhqTWx3?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-02-06T08:00:00.000Z",
       "sourceId": "gs",
@@ -2188,7 +2198,7 @@
     {
       "title": "สมาคมศิษย์เก่า ร่วมรำลึก วันสถาปนาวิทยาลัยบัณฑิตศึกษาการจัดการ ครบรอบ 30 ปี",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HLUtBaGxJUWowY3Q2MjRUTWx1QmNodEJIMmwxTl9RSFRVazVRRk9uMFNsVGZBa1c2enRFX2YxY2E0ZjB2VlJkZExTSDJORVE0Q1J2NEp5RDFtb09VcXVhSHc5WnRGZkpJanpZTGlhRVFhX1pQd2RyNw?oc=5",
-      "outlet": "prachachat.net",
+      "outlet": "ประชาชาติธุรกิจ",
       "publishedAt": "2023-09-11T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
