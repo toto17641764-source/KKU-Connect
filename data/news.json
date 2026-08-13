@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T00:50:00.534Z",
+  "updatedAt": "2026-08-13T03:55:56.960Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,16 @@
     }
   ],
   "items": [
+    {
+      "title": "เครือข่ายนักศึกษา มข. - สิงห์อาสา สร้าง \"แหล่งน้ำชุมชนแห่งที่ 10\" กักเก็บน้ำได้ตลอดปี",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qWnZZb0dvejNrUGFDVHJDR3pVQTE2ZWN0VWxueENuWk54SlhPSXpnT084SFgyNkFuMTdWUEs0dThRNkNnUkJtcVZyOTQ5Rk5mNi1TZ3g4WEJBbjNf?oc=5",
+      "outlet": "springnews",
+      "publishedAt": "2026-08-13T02:30:24.000Z",
+      "sourceId": "agri",
+      "category": "คณะเกษตรศาสตร์",
+      "image": null,
+      "topic": "other"
+    },
     {
       "title": "มข. จัดใหญ่ \"สัปดาห์วิทยาศาสตร์แห่งชาติ 69\" ชูแนวคิด \"Intelligence Science for a Sustainable Future\" ปลุกพลังขับเคลื่อนอนาคตที่ยั่งยืน เยาวชนตบเท้าร่วมแข่งตอบปัญหากว่า 1,400 ทีม - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9FdS16RXViZVlEbmlpOXdvaUFhdUVOTloxQ1V2VDVSeGVrNnZYeHJiVG4zUk9MalJwams4ZEEyZXdMMnRWS3JN?oc=5",
@@ -1800,8 +1810,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9GZ2RuWWtvaHoydVc5amtZWFpmbFFsU2xmWWVjZGV0MUdSSXNTRnBOU0JNWU9VMnlzLUxlaWpreTJ5WUt6YWdN?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-02-02T08:00:00.000Z",
-      "sourceId": "fa",
-      "category": "คณะศิลปกรรมศาสตร์",
+      "sourceId": "arch",
+      "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "activity"
     },
@@ -2058,7 +2068,7 @@
     {
       "title": "#TCAS64 คณะสัตวแพทยศาสตร์ ม.ขอนแก่น เปิดรับสมัครนศ.ป.ตรี รอบที่ 4 (รับตรงอิสระ) ตั้งแต่วันที่ 3-7 มิ.ย. 64 #dek64 #TCASรอบ4 คณะสัตวแพทยศาสตร์ มหาวิทยาลัยขอนแก่น เปิดรับสมัครบุคคลเพื่อคัดเลือกเข้าเป็นนิสิตระดับปริญญาตรี - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5VMVBVbWZtQVZ2SEZ6ZHJRLU44eTd2U2ZJRUU2SENUNGYxVHV6WkpCQ0lWdElSckdKU3dDWmZXU295eW0yb2c?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2025-05-24T05:31:51.000Z",
       "sourceId": "vet",
       "category": "คณะสัตวแพทยศาสตร์",
