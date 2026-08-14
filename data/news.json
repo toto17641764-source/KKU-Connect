@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T16:37:31.618Z",
+  "updatedAt": "2026-08-14T18:36:45.965Z",
   "sources": [
     {
       "id": "med",
@@ -448,7 +448,7 @@
     {
       "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-08-05T17:00:00.000Z",
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
@@ -1318,7 +1318,7 @@
     {
       "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -1808,7 +1808,7 @@
     {
       "title": "การแข่งขันกีฬาภายในมหาวิทยาลัยขอนแก่น ระหว่างคณะ KKU GAMES 2025",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40dUEtdTdzVXphTlZiLTVSSzhoZ0NISXJHSkdKUVVERHBncXhMVWZacVJsSmR4YWRtcElrQTFRMUc2NkFnSF9pQmp0VVpFakwyTnRDZHFSZnBfYm15X3BnZA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-02-15T08:00:00.000Z",
       "sourceId": "arch",
       "category": "คณะสถาปัตยกรรมศาสตร์",
@@ -1887,7 +1887,7 @@
     },
     {
       "title": "คณะเทคนิคการแพทย์ มข. ร่วม (NUS) ประเทศสิงคโปร์ จัดโครงการแลกเปลี่ยนนักศึกษา พัฒนานวัตกรรมกายภาพบำบัดเพื่อผู้สูงอายุ - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5LRWNZT1g4UDZaaElSQzdDempLTElqT1VEVkQxXzkybXBtTmptVU1LSWFnUDdjZ3k1eTVWRUdHU3hZZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5jb0tXQnlWWUlBMlA2NFZlZ0FnOW1KcXMwd00wU0E4YUMwdng4LW5TZVBNMjVydE42TzNGUDEyNVBjZ1BCZ1Rv?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-01-11T08:00:00.000Z",
       "sourceId": "ams",
@@ -1912,6 +1912,16 @@
       "publishedAt": "2025-12-25T09:38:22.000Z",
       "sourceId": "ams",
       "category": "คณะเทคนิคการแพทย์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
+      "title": "ศูนย์ความเป็นเลิศด้านการพัฒนาเด็กปฐมวัย คณะพยาบาลศาสตร์ มหาวิทยาลัยขอนแก่น จัดกิจกรรมกีฬาสี ประจำปีการศึกษา 2568 เสริมสร้างพัฒนาการเด็กและสานสัมพันธ์ผู้ปกครอง - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1VTkhYUWZsSTJZbi11dHJ3Y2RWR0tPanl4SUFUWEMyUjRPRWZHT292NlZfdWUzZGZTMDRaUUtVcGNzTFNJZzJR?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-12-25T06:09:50.000Z",
+      "sourceId": "nurse",
+      "category": "คณะพยาบาลศาสตร์",
       "image": null,
       "topic": "activity"
     },
