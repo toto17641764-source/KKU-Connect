@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T12:33:34.378Z",
+  "updatedAt": "2026-08-14T14:43:35.781Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,16 @@
     }
   ],
   "items": [
+    {
+      "title": "ศึกษาศาสตร์ มข. มุ่งพัฒนาศักยภาพผู้เรียนและสืบสานคุณค่ามรดกทางภาษาไทย ผ่านการจัด “กิจกรรมวันภาษาไทยแห่งชาติ ประจำปีพุทธศักราช 2569”",
+      "link": "https://ednet.kku.ac.th/news/20541/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-08-14T12:41:14.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": "https://ednet.kku.ac.th/wp-content/uploads/2026/08/EDKKU2026-08-08-วันภาษาไทย-28-of-31-1024x681.jpg",
+      "topic": "activity"
+    },
     {
       "title": "คณะวิทยาศาสตร์ มข. คว้า 4 รางวัลเชิดชูเกียรติ ประจำปีงบประมาณ 2568 ด้านการวิจัย บริการวิชาการ วิจัยสถาบัน และพัฒนานักศึกษา",
       "link": "https://sc.kku.ac.th/news/121187/",
@@ -898,7 +908,7 @@
     {
       "title": "\"แทน ไท\" ตื่นเต้นเปิดเทอมวันแรก สู่รั้วสถาปัตย์ ม.ขอนแก่น ไม่ลืมดูแล \"ถ้วยฟู\" แมวสุดรัก",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50a0ZnZE91dEg0ZkRZRWFmWURlUVl1YWxJcnd3R0FjanJkbHZMaHg4NDFuUlplMm5ydVM0VldSSW9za25rN1FydklqVnAwSVZwQ0gtbUZiX2NNbzRkRE95a19B?oc=5",
-      "outlet": "TrueID",
+      "outlet": "entertainment.trueid.net",
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "sourceId": "arch",
       "category": "คณะสถาปัตยกรรมศาสตร์",
@@ -1128,7 +1138,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "มติชนออนไลน์",
+      "outlet": "Matichon Online",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -1877,7 +1887,7 @@
     },
     {
       "title": "คณะเทคนิคการแพทย์ มข. ร่วม (NUS) ประเทศสิงคโปร์ จัดโครงการแลกเปลี่ยนนักศึกษา พัฒนานวัตกรรมกายภาพบำบัดเพื่อผู้สูงอายุ - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5jb0tXQnlWWUlBMlA2NFZlZ0FnOW1KcXMwd00wU0E4YUMwdng4LW5TZVBNMjVydE42TzNGUDEyNVBjZ1BCZ1Rv?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5LRWNZT1g4UDZaaElSQzdDempLTElqT1VEVkQxXzkybXBtTmptVU1LSWFnUDdjZ3k1eTVWRUdHU3hZZw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-01-11T08:00:00.000Z",
       "sourceId": "ams",
