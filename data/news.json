@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T08:12:28.443Z",
+  "updatedAt": "2026-08-15T10:09:18.181Z",
   "sources": [
     {
       "id": "med",
@@ -518,7 +518,7 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -1528,7 +1528,7 @@
     {
       "title": "คณะศึกษาศาสตร์ มข. ต้อนรับคณะศึกษาดูงาน มช. แลกเปลี่ยนนวัตกรรมการบริหารการศึกษา มุ่งสร้างเครือข่ายวิจัยระดับดุษฎีบัณฑิตสู่สากล",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yajFpajRFNDN4Q1NNZ0RQMkVsNG9qN083TnprNkpMTFBDWHhkTFloUnZ5b0NndkhpTWotUG1kQVZhUERlOFlz?oc=5",
-      "outlet": "kku.ac.th",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
       "publishedAt": "2026-04-01T07:00:00.000Z",
       "sourceId": "edu",
       "category": "คณะศึกษาศาสตร์",
@@ -2064,6 +2064,16 @@
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
       "image": null,
       "topic": "study"
+    },
+    {
+      "title": "คณะกรรมการสภามหาวิทยาลัยขอนแก่น พร้อมผู้บริหารคณะเทคโนโลยี มข. เยี่ยมชมและหารือความร่วมมือทางวิชาการ ณ International Center for Biotechnolog, the University of Osaka ประเทศญี่ปุ่น - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBLRlUxX1Qtb3l6TElfTTFKR1pSR0JuTnYtODNUd19CaFF3R0NKdURsSjF2WTNTTjRUcU9id0ppcTZaZVZLMTcw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2025-10-02T07:00:00.000Z",
+      "sourceId": "tech",
+      "category": "คณะเทคโนโลยี",
+      "image": null,
+      "topic": "activity"
     },
     {
       "title": "บัณฑิตวิทยาลัย มหาวิทยาลัยขอนแก่น ก้าวสู่ความสำเร็จในการผ่านการประเมินคุณภาพ EdPEx 300 แห่งแรกของประเทศ ตอกย้ำความเป็นเลิศและพลังความร่วมมือของประชาคมบัณฑิตศึกษาทั้งมหาวิทยาลัย - Khon Kaen University",
