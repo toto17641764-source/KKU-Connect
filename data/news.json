@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T22:09:39.407Z",
+  "updatedAt": "2026-08-15T00:26:50.578Z",
   "sources": [
     {
       "id": "med",
@@ -1547,7 +1547,7 @@
     },
     {
       "title": "สถาปัตย์ มข. เปิดรับสมัคร อบรมระยะสั้น หัวข้อ Deline&Watercolors for Interior และ (ขึ้นเส้นเล่นสีตีฟภายใน) และ Perspective (ลายเส้นและสีน้ำกับทัศนียภาพ) - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQY2txWmJ1aS16RHo4NjI4c1R0RUc5WFhXaTlWUjA3NG54Umh1ckd5YlkxLThzREJ4Y09MMjVrek5WV0hNeHd1QUVxbks5UVRVNS1tSzNCRlJwdzRkanQtdnhJYkdoSmxQSWplUTFQMzdWQkdNZnhWUnh0YUUzWC1VVzJ0aU1LZy1QcWVXb3JxU1RWQUs4MGhyUmVQVFVLemZYeUV3SWNzWkI1X240MXNQTUdGU3B0Y2dIQ1FmaXR4SGd5YmVfR2FHZzZZOVlGMFB6UFZZTG1XSDlKZElRb1lBOWFVaWtONU5HLXR0aGpxZTlvd1NMazFVa2plSlpNQzI3UzJNRTNEXy1jclZlOUNkNnFXVk5PZy05YTYzczJDWE5JTC1tQk9kOTdJVWdlR1pvcGVWcDU1OWZFYjdnVHU2bQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQNVpLOXI5SGhBSmttSkZEUFcwM2VhT0JZWk9XNUlDSDRmbHdTWDlCeTdoWDM1MVZPTXdxUVJYdVdtUThBSHloeTJuVnpuZWV3bFRSelBEcFFSdUdDLVk0U2tJUVByWHJsYTc3dDRMal9rUW1ZS0Z4TTJrX1psMG4yTVpkdGRvTkxrZkZ4UFVNVUFjMVZIaDNmWVVRRWswTXI5MnY3b3ExMXFUVXpfcmhKUjZHeElIbWk5NTJhZzM4RVdsTnpMa0hIQy1XMHFNczE3S1JTRXF5eGxfZjQwTHlkQlFkeGZSU1k1bUxuaDBWbURXRi1URW90Tjl0aWQ5ekZVTnN1ZWNRcHFOQmZFUmNDdVBXTjlFSm90V2tVaE5vOURMRnNvd0R1cGk5QlNYc0Z4bHZUNDUxRGJjZXRTQnhoTkJQbEdiZw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
       "publishedAt": "2026-03-29T07:00:00.000Z",
       "sourceId": "arch",
@@ -1622,6 +1622,16 @@
       "publishedAt": "2026-03-18T07:00:00.000Z",
       "sourceId": "nurse",
       "category": "คณะพยาบาลศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
+      "title": "คณะเทคโนโลยี มข. จัดค่าย “เทคโนรวมพลังสร้างสรรค์สังคม” ขับเคลื่อน EGGS KKU เชื่อมโยง Khon Kaen Geopark สู่ UNESCO Global Geopark",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBacFRNZ2JSZ3J0c3lodjFEYUFBZHZxdlhuSF94RmF1VWxIaG5xNGRFaFdrQWtMc1NaSy1KRVpvU3dtM1VhREZj?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-03-17T08:30:57.000Z",
+      "sourceId": "tech",
+      "category": "คณะเทคโนโลยี",
       "image": null,
       "topic": "activity"
     },
@@ -2128,7 +2138,7 @@
     {
       "title": "#TCAS64 คณะสัตวแพทยศาสตร์ ม.ขอนแก่น เปิดรับสมัครนศ.ป.ตรี รอบที่ 4 (รับตรงอิสระ) ตั้งแต่วันที่ 3-7 มิ.ย. 64 #dek64 #TCASรอบ4 คณะสัตวแพทยศาสตร์ มหาวิทยาลัยขอนแก่น เปิดรับสมัครบุคคลเพื่อคัดเลือกเข้าเป็นนิสิตระดับปริญญาตรี - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5VMVBVbWZtQVZ2SEZ6ZHJRLU44eTd2U2ZJRUU2SENUNGYxVHV6WkpCQ0lWdElSckdKU3dDWmZXU295eW0yb2c?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
       "publishedAt": "2025-05-24T05:31:51.000Z",
       "sourceId": "vet",
       "category": "คณะสัตวแพทยศาสตร์",
