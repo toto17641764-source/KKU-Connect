@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T16:08:26.320Z",
+  "updatedAt": "2026-08-15T18:09:29.203Z",
   "sources": [
     {
       "id": "med",
@@ -288,7 +288,7 @@
     {
       "title": "เครือข่ายนักศึกษา มข. - สิงห์อาสา สร้าง \"แหล่งน้ำชุมชนแห่งที่ 10\" กักเก็บน้ำได้ตลอดปี",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qWnZZb0dvejNrUGFDVHJDR3pVQTE2ZWN0VWxueENuWk54SlhPSXpnT084SFgyNkFuMTdWUEs0dThRNkNnUkJtcVZyOTQ5Rk5mNi1TZ3g4WEJBbjNf?oc=5",
-      "outlet": "springnews",
+      "outlet": "springnews.co.th",
       "publishedAt": "2026-08-13T02:30:24.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
@@ -446,6 +446,16 @@
       "topic": "other"
     },
     {
+      "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-08-05T17:00:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "other"
+    },
+    {
       "title": "นักศึกษา AI วิทยาลัยการคอมพิวเตอร์ มข. สุดเจ๋ง! คว้า 2 รางวัลหุ่นยนต์ระดับอาเซียน จากเวที CPU’4th ASEAN GRAND PRIX YOUTH ROBOTICS AND ESPORTS COMPETITION 2026",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1aalUzOGtvTjdZVl9ocG9xbkFEQWMxT05IYjBFdUtfbEtmWEZhUHdsN0VPUHRMZGtCb0ZyNUxBS01weUoxN2Rv?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -524,16 +534,6 @@
       "category": "คณะศึกษาศาสตร์",
       "image": "https://ednet.kku.ac.th/wp-content/uploads/2026/07/DSC_4785-1024x683.jpg",
       "topic": "research"
-    },
-    {
-      "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
-      "outlet": "khonkaenlink.info",
-      "publishedAt": "2026-07-29T08:37:40.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
-      "image": null,
-      "topic": "other"
     },
     {
       "title": "หลักสูตรออกแบบนิเทศศิลป์ นิเทศงานนักศึกษา เครือข่ายความร่วมมือฝึกสหกิจศึกษา ณ สถานประกอบการ ปีการศึกษา 2569",
@@ -1138,7 +1138,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "matichon.co.th",
+      "outlet": "มติชนออนไลน์",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -1318,7 +1318,7 @@
     {
       "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "khonkaenlink.info",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -1888,7 +1888,7 @@
     {
       "title": "คณะศิลปกรรมศาสตร์ มข. เปิดเวทีแลกเปลี่ยนดนตรีและการแสดง ไทย–เกาหลี ภายใต้กิจกรรม “SOUND SCENE SYNC”: เชื่อมศาสตร์แห่งดนตรีและการแสดง” - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA1NTNQd1F5c0FleE4tSlJpNDdDNy1PVVpHa2JOZnBYdTcwOWx5RXpmUlhzMmRCSjdrV0p5QnhQaHExY3BuYVpj?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
       "publishedAt": "2026-01-12T07:19:27.000Z",
       "sourceId": "fa",
       "category": "คณะศิลปกรรมศาสตร์",
@@ -2226,6 +2226,16 @@
       "topic": "research"
     },
     {
+      "title": "QSHC ร่วมกับคณะสาธารณสุขศาสตร์ มข. ฝึกอบรมการกู้ชีพ “สร้างเมล็ดพันธุ์ CPR”",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5VLXZ0czJ5OG93UlIyd3pLRnY2Y1Y1WnNLWlBOTFNtQ3FuSnZEajJaZXpSVU5yZDRHSmo2cXQwTXRfc1VidW04?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2025-05-07T04:55:25.000Z",
+      "sourceId": "ph",
+      "category": "คณะสาธารณสุขศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "วิทยาลัยการปกครองท้องถิ่น จัด COLA Town Hall Meeting 2025 รับฟังเสียงของนักศึกษาอย่างต่อเนื่อง",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WMWZWMjRSOVBTaTA2UmtONlJPRG4wNUZwaS1IRmVrMV9yWkdTT1YwWmZLNk0yVUFhalZ0LUE5Y1J0NlBPLUxZ?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -2254,16 +2264,6 @@
       "category": "คณะสาธารณสุขศาสตร์",
       "topic": "other",
       "image": null
-    },
-    {
-      "title": "QSHC ร่วมกับคณะสาธารณสุขศาสตร์ มข. ฝึกอบรมการกู้ชีพ “สร้างเมล็ดพันธุ์ CPR”",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5VLXZ0czJ5OG93UlIyd3pLRnY2Y1Y1WnNLWlBOTFNtQ3FuSnZEajJaZXpSVU5yZDRHSmo2cXQwTXRfc1VidW04?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
-      "publishedAt": "2024-02-29T08:00:00.000Z",
-      "sourceId": "ph",
-      "category": "คณะสาธารณสุขศาสตร์",
-      "image": null,
-      "topic": "activity"
     },
     {
       "title": "ดร.สุนทร – คุณอารยา ร่วมงาน วันสถาปนา วิทยาลัยบัณฑิตศึกษาการจัดการ MBA KKU ครบรอบ 30 ปี",
