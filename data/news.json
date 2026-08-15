@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T18:09:29.203Z",
+  "updatedAt": "2026-08-15T20:07:57.779Z",
   "sources": [
     {
       "id": "med",
@@ -288,7 +288,7 @@
     {
       "title": "เครือข่ายนักศึกษา มข. - สิงห์อาสา สร้าง \"แหล่งน้ำชุมชนแห่งที่ 10\" กักเก็บน้ำได้ตลอดปี",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qWnZZb0dvejNrUGFDVHJDR3pVQTE2ZWN0VWxueENuWk54SlhPSXpnT084SFgyNkFuMTdWUEs0dThRNkNnUkJtcVZyOTQ5Rk5mNi1TZ3g4WEJBbjNf?oc=5",
-      "outlet": "springnews.co.th",
+      "outlet": "springnews",
       "publishedAt": "2026-08-13T02:30:24.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
@@ -299,7 +299,7 @@
       "title": "มนุษย์-สังคม มข. ปั้น “Young Leadership” ปูทางนักศึกษาสู่ผู้นำรุ่นใหม่ในศตวรรษที่ 21 ดึงศิษย์เก่าคนดังร่วมแชร์ประสบการณ์!!",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1iM2pmaGw5SEY0OFQ4N1NvN0ttSmJSczNlb20xR3RiYjVRT200d1AwYndCNkRsSHpRbDJ5b0diRTYxd0JhQ1M4?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
-      "publishedAt": "2026-08-12T20:57:55.000Z",
+      "publishedAt": "2026-08-12T20:57:54.000Z",
       "sourceId": "hs",
       "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
       "image": null,
@@ -446,16 +446,6 @@
       "topic": "other"
     },
     {
-      "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
-      "publishedAt": "2026-08-05T17:00:00.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
-      "image": null,
-      "topic": "other"
-    },
-    {
       "title": "นักศึกษา AI วิทยาลัยการคอมพิวเตอร์ มข. สุดเจ๋ง! คว้า 2 รางวัลหุ่นยนต์ระดับอาเซียน จากเวที CPU’4th ASEAN GRAND PRIX YOUTH ROBOTICS AND ESPORTS COMPETITION 2026",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1aalUzOGtvTjdZVl9ocG9xbkFEQWMxT05IYjBFdUtfbEtmWEZhUHdsN0VPUHRMZGtCb0ZyNUxBS01weUoxN2Rv?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -518,7 +508,7 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -534,6 +524,16 @@
       "category": "คณะศึกษาศาสตร์",
       "image": "https://ednet.kku.ac.th/wp-content/uploads/2026/07/DSC_4785-1024x683.jpg",
       "topic": "research"
+    },
+    {
+      "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-07-29T08:37:40.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "other"
     },
     {
       "title": "หลักสูตรออกแบบนิเทศศิลป์ นิเทศงานนักศึกษา เครือข่ายความร่วมมือฝึกสหกิจศึกษา ณ สถานประกอบการ ปีการศึกษา 2569",
@@ -908,7 +908,7 @@
     {
       "title": "\"แทน ไท\" ตื่นเต้นเปิดเทอมวันแรก สู่รั้วสถาปัตย์ ม.ขอนแก่น ไม่ลืมดูแล \"ถ้วยฟู\" แมวสุดรัก",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50a0ZnZE91dEg0ZkRZRWFmWURlUVl1YWxJcnd3R0FjanJkbHZMaHg4NDFuUlplMm5ydVM0VldSSW9za25rN1FydklqVnAwSVZwQ0gtbUZiX2NNbzRkRE95a19B?oc=5",
-      "outlet": "TrueID",
+      "outlet": "entertainment.trueid.net",
       "publishedAt": "2026-07-01T07:00:00.000Z",
       "sourceId": "arch",
       "category": "คณะสถาปัตยกรรมศาสตร์",
