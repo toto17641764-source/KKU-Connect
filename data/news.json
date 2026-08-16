@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T10:10:01.125Z",
+  "updatedAt": "2026-08-16T12:11:47.298Z",
   "sources": [
     {
       "id": "med",
@@ -288,7 +288,7 @@
     {
       "title": "เครือข่ายนักศึกษา มข. - สิงห์อาสา สร้าง \"แหล่งน้ำชุมชนแห่งที่ 10\" กักเก็บน้ำได้ตลอดปี",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qWnZZb0dvejNrUGFDVHJDR3pVQTE2ZWN0VWxueENuWk54SlhPSXpnT084SFgyNkFuMTdWUEs0dThRNkNnUkJtcVZyOTQ5Rk5mNi1TZ3g4WEJBbjNf?oc=5",
-      "outlet": "springnews.co.th",
+      "outlet": "springnews",
       "publishedAt": "2026-08-13T02:30:24.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
@@ -508,7 +508,7 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "outlet": "dek-d.com",
+      "outlet": "Dek-D.com",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -1486,6 +1486,16 @@
       "topic": "activity"
     },
     {
+      "title": "คณะศึกษาศาสตร์ มข. ต้อนรับสภาการศึกษา ร่วมหารือและรับฟังแนวทางพัฒนาครูสมรรถนะทางภาษาอังกฤษและหลักสูตรผลิตครูการศึกษานานาชาติ",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ETGFCZTR4cFE1NWw1cFAyN0pJQ3h3Y2Fod2JKSVFrS3lyd3RsTUdYZllkdDkzODEyYzhWaWRBX0RwVWpBOXhJ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-04-09T10:48:26.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": null,
+      "topic": "study"
+    },
+    {
       "title": "คณะศิลปกรรมศาสตร์ มข. ดำเนินโครงการ \"ดนตรีสัญจร\" เสริมศักยภาพนักศึกษาสู่เวทีนานาชาติ กระชับความร่วมมือทางดนตรีไทย–ลาว ประจำปีงบประมาณ 2569 - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1LZE9ZUmw2OUJfcFgzVHMzUFExTC12VFVpMkpXNzA4NUd2WEVhX3puVkNVT0hsR2lTTzNjUzRfSDMwQVNEWlg0?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -2114,6 +2124,16 @@
       "category": "คณะสาธารณสุขศาสตร์",
       "image": null,
       "topic": "other"
+    },
+    {
+      "title": "บัณฑิตวิทยาลัย จัดโครงการแลกเปลี่ยนเรียนรู้ การบริหารจัดการหลักสูตร ระดับบัณฑิตศึกษา สำหรับอาจารย์บัณฑิตศึกษา \"เทคโนโลยีสารสนเทศ เพื่อการสนับสนุนการจัดการศึกษา มหาวิทยาลัยขอนแก่น\" - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9xTm1BeVdKdHBQZUd4UUVsWC1WY2lCNHk3azZFWE1hRFNQa1hrU050TjhsSm1qdlp3Y1JKNVRUT0NBTHVpVnc?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2025-07-16T01:13:31.000Z",
+      "sourceId": "gs",
+      "category": "บัณฑิตวิทยาลัย",
+      "image": null,
+      "topic": "study"
     },
     {
       "title": "วิทยาลัยการปกครองท้องถิ่น ม.ขอนแก่น จัด COLA Town Hall Meeting 2025 รับฟังเสียงของนักศึกษาอย่างต่อเนื่อง",
