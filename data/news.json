@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T00:26:33.466Z",
+  "updatedAt": "2026-08-17T02:49:28.589Z",
   "sources": [
     {
       "id": "med",
@@ -288,7 +288,7 @@
     {
       "title": "เครือข่ายนักศึกษา มข. - สิงห์อาสา สร้าง \"แหล่งน้ำชุมชนแห่งที่ 10\" กักเก็บน้ำได้ตลอดปี",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qWnZZb0dvejNrUGFDVHJDR3pVQTE2ZWN0VWxueENuWk54SlhPSXpnT084SFgyNkFuMTdWUEs0dThRNkNnUkJtcVZyOTQ5Rk5mNi1TZ3g4WEJBbjNf?oc=5",
-      "outlet": "springnews",
+      "outlet": "springnews.co.th",
       "publishedAt": "2026-08-13T02:30:24.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
@@ -1078,7 +1078,7 @@
     {
       "title": "วิริยะประกันภัย สนับสนุน “ค่ายผู้นำ 4 จอบอาสาพัฒนา” ครั้งที่ 21 สานพลังเครือข่ายผู้นำนักศึกษาเกษตรศาสตร์ ยกระดับเกษตรท้องถิ่นไทย | สวพ.FM91",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sSGI2QVdmMUQyNzE2c1N5Vmg2ME9HSlpuT010aG9vdXlrWmhTdmZDUmphODYyRDlJeFpPNmYxc29NbHhSTWZzVm1FLWp2MmZGaXFBZnh3?oc=5",
-      "outlet": "LINE TODAY",
+      "outlet": "today.line.me",
       "publishedAt": "2026-06-16T07:00:00.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
@@ -2286,6 +2286,16 @@
       "topic": "other"
     },
     {
+      "title": "วิทยาลัยการปกครองท้องถิ่น ร่วมกับ วิทยาลัยการคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น เปิดรับสมัครนักศึกษาใหม่ระดับบัณฑิตศึกษา ประจำปีการศึกษา 2565 หลักสูตรรัฐประศาสนศาสตรมหาบัณฑิต มุ่งเน้นด้าน Digital Governance - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Dem1lUmJrNzlIYTZhVGU2UXI3eEhxbWZSOURtV3lVaUpOLWxiOUE4WVJnTDJYUkVUYnllLUxXUDJJUTVWbWc?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2025-05-06T22:18:30.000Z",
+      "sourceId": "cola",
+      "category": "วิทยาลัยการปกครองท้องถิ่น",
+      "image": null,
+      "topic": "study"
+    },
+    {
       "title": "วิทยาลัยการปกครองท้องถิ่น ม.ขอนแก่น เปิดบ้านต้อนรับอัยการผู้ช่วย รุ่นที่ 66 เปิดมุมมองใหม่ต่อบทบาทองค์กรปกครองส่วนท้องถิ่น - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBoSksxbGNneXhIdTJERE5lS2hJVXBRcHhGRTRWZ3BrMXFlSnA2MTJRaGVJY29RYmZrZ2Ntc2k1eDVUTkZFT1pR?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -2328,7 +2338,7 @@
     {
       "title": "วันสถาปนาวิทยาลัยบัณฑิตศึกษาการจัดการ ครบรอบ 30 ปี",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uSW0ySVFWdUpXRF93VFBDNGNuTmsxY2tBLWlfLWQwNHFLYnpIVlFCUDUzN0NZUEp5dlJhMnFtck9HcVgxZ3lKcGFQOHVyTEZIMTNQMVNCbGphUQ?oc=5",
-      "outlet": "khaosod.co.th",
+      "outlet": "ข่าวสด",
       "publishedAt": "2023-09-11T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
