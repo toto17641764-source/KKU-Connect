@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T04:28:42.881Z",
+  "updatedAt": "2026-08-17T06:25:39.607Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,26 @@
   ],
   "items": [
     {
+      "title": "สาธิตฯ ฝ่ายนานาชาติ (KKUIDS) เปิดเวทีเสวนาพิเศษ ดึง “Nate Liang” สร้างแรงบันดาลใจถอดรหัสความสำเร็จสู่รั้วมหาวิทยาลัยระดับโลก (Ivy League)",
+      "link": "https://ednet.kku.ac.th/news/20583/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-08-17T04:59:40.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": "https://ednet.kku.ac.th/wp-content/uploads/2026/08/EDKKU2026-08-16-Nate-Liang-6-of-36-1024x682.jpg",
+      "topic": "activity"
+    },
+    {
+      "title": "ฝ่ายบริหาร คณะทันตแพทยศาสตร์ มข. จัดกิจกรรม “เคลียร์ช่องว่าง… สร้างช่องสุข” Dent-Big Cleaning Day",
+      "link": "https://dentistry.kku.ac.th/30115?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%259d%25e0%25b9%2588%25e0%25b8%25b2%25e0%25b8%25a2%25e0%25b8%259a%25e0%25b8%25a3%25e0%25b8%25b4%25e0%25b8%25ab%25e0%25b8%25b2%25e0%25b8%25a3-%25e0%25b8%2584%25e0%25b8%2593%25e0%25b8%25b0%25e0%25b8%2597%25e0%25b8%25b1%25e0%25b8%2599%25e0%25b8%2595%25e0%25b9%2581%25e0%25b8%259e%25e0%25b8%2597%25e0%25b8%25a2-4",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-08-17T04:40:24.000Z",
+      "sourceId": "dent",
+      "category": "คณะทันตแพทยศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "ศึกษาศาสตร์ มข. มุ่งพัฒนาศักยภาพผู้เรียนและสืบสานคุณค่ามรดกทางภาษาไทย ผ่านการจัด “กิจกรรมวันภาษาไทยแห่งชาติ ประจำปีพุทธศักราช 2569”",
       "link": "https://ednet.kku.ac.th/news/20541/",
       "outlet": "เว็บไซต์คณะ",
@@ -508,7 +528,7 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "outlet": "dek-d.com",
+      "outlet": "Dek-D.com",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
