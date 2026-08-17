@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T22:07:01.209Z",
+  "updatedAt": "2026-08-17T00:26:33.466Z",
   "sources": [
     {
       "id": "med",
@@ -804,6 +804,16 @@
       "category": "คณะทันตแพทยศาสตร์",
       "image": null,
       "topic": "research"
+    },
+    {
+      "title": "นศ.สถาปัตย์ มข.คว้า 5 รางวัล ประกวดวิทยานิพนธ์ทางสถาปัตยกรรมดีเด่น ประจำปี 2026 (TOY arch 2026)",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ZTmgteXY4SklQd2QxckFVRUQxWjBNWHRydW5PbGpWODhLMzJSVXgtcklXZmRJZFdTa2JpWl82WjRuQQ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2026-07-14T04:56:42.000Z",
+      "sourceId": "arch",
+      "category": "คณะสถาปัตยกรรมศาสตร์",
+      "image": null,
+      "topic": "activity"
     },
     {
       "title": "คณะศิลปกรรมศาสตร์ มข. ร่วมเปิดค่ายยกระดับเทคนิคการสร้างภาพยนตร์ฯ #NextFrame2026 เสริมศักยภาพเยาวชนอีสานสู่การสร้างสรรค์ภาพยนตร์คุณภาพ",
@@ -2276,6 +2286,16 @@
       "topic": "other"
     },
     {
+      "title": "วิทยาลัยการปกครองท้องถิ่น ม.ขอนแก่น เปิดบ้านต้อนรับอัยการผู้ช่วย รุ่นที่ 66 เปิดมุมมองใหม่ต่อบทบาทองค์กรปกครองส่วนท้องถิ่น - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBoSksxbGNneXhIdTJERE5lS2hJVXBRcHhGRTRWZ3BrMXFlSnA2MTJRaGVJY29RYmZrZ2Ntc2k1eDVUTkZFT1pR?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "publishedAt": "2025-05-05T18:34:56.000Z",
+      "sourceId": "cola",
+      "category": "วิทยาลัยการปกครองท้องถิ่น",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "การสอบสัมภาษณ์ รอบที่ 2 แบบออนไลน์",
       "link": "https://apds.kku.ac.th/post/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%aa%e0%b8%ad%e0%b8%9a%e0%b8%aa%e0%b8%b1%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%a9%e0%b8%93%e0%b9%8c-%e0%b8%a3%e0%b8%ad%e0%b8%9a%e0%b8%97%e0%b8%b5%e0%b9%88-2-%e0%b9%81/",
       "outlet": "เว็บไซต์คณะ",
@@ -2308,7 +2328,7 @@
     {
       "title": "วันสถาปนาวิทยาลัยบัณฑิตศึกษาการจัดการ ครบรอบ 30 ปี",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uSW0ySVFWdUpXRF93VFBDNGNuTmsxY2tBLWlfLWQwNHFLYnpIVlFCUDUzN0NZUEp5dlJhMnFtck9HcVgxZ3lKcGFQOHVyTEZIMTNQMVNCbGphUQ?oc=5",
-      "outlet": "ข่าวสด",
+      "outlet": "khaosod.co.th",
       "publishedAt": "2023-09-11T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
