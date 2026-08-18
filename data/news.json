@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T20:08:50.841Z",
+  "updatedAt": "2026-08-18T22:08:40.378Z",
   "sources": [
     {
       "id": "med",
@@ -358,7 +358,7 @@
     {
       "title": "เครือข่ายนักศึกษา มข. - สิงห์อาสา สร้าง \"แหล่งน้ำชุมชนแห่งที่ 10\" กักเก็บน้ำได้ตลอดปี",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qWnZZb0dvejNrUGFDVHJDR3pVQTE2ZWN0VWxueENuWk54SlhPSXpnT084SFgyNkFuMTdWUEs0dThRNkNnUkJtcVZyOTQ5Rk5mNi1TZ3g4WEJBbjNf?oc=5",
-      "outlet": "springnews.co.th",
+      "outlet": "springnews",
       "publishedAt": "2026-08-13T02:30:24.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
@@ -1228,7 +1228,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "matichon.co.th",
+      "outlet": "มติชนออนไลน์",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -1638,7 +1638,7 @@
     {
       "title": "คณะสหวิทยาการ มข. ร่วมกับสถาบันความร่วมมือเพื่อพัฒนาเศรษฐกิจลุ่มน้ำโขง จัดอบรมนวัตกรรม “ฉลากคาร์บอน” ยกระดับสับปะรด GI หนองคาย สู่เศรษฐกิจคาร์บอนต่ำ",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5FeF9XdWNBVV9UM1hDdkNjWXBZMnBZRGczZm5FR1hRM0NaRnplNDJVdllCMHFfYkVIQTlBdEdXN3BKaGR4RWZV?oc=5",
-      "outlet": "kku.ac.th",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-03-30T07:54:15.000Z",
       "sourceId": "is",
       "category": "คณะสหวิทยาการ (หนองคาย)",
@@ -1846,6 +1846,16 @@
       "topic": "activity"
     },
     {
+      "title": "คณะศึกษาศาสตร์ มข. ปั้นครูรุ่นใหม่คืนถิ่น! จัดค่าย “ครูรัก(ษ์)ถิ่น” รุ่นที่ 6 สร้างโอกาสทางการศึกษา ลดความเหลื่อมล้ำ มุ่งพัฒนาชุมชนบ้านเกิดอย่างยั่งยืน - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBUWFBnbEo4WDB2c3RGVUp1aFdiN2w4SkFQZTA4T0lpeVhqdEdMdXFqMFAzdHFyZi1hd25aWUctYTUxUjdrSDdB?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-02-27T10:07:54.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "นักศึกษา มข. คว้ารางวัลระดับประเทศ! โชว์พลังความคิดสร้างสรรค์ รณรงค์สังคมปลอดบุหรี่",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5YR25QMlcwMktRdGtqOWhQTjZTNXRDWVp3MjZldF84LWZtUGdMNXFZd0FuSGc1QndFOGY3dlVhU2NzX2I5b2xj?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -2036,6 +2046,16 @@
       "topic": "activity"
     },
     {
+      "title": "ศึกษาศาสตร์ มข. เปิดบ้านต้อนรับนักล่าฝันทั่วประเทศใน “ค่ายสานฝันฉันอยากเป็นครู ครั้งที่ 22” มุ่งบ่มจิตวิญญาณครู พัฒนาสังคมยั่งยืน - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9WNzFMT29NbDFyN1EyTjN2WEx3aW1xZ01FeExPNG5ZeUJ2M0M0RzA0cEl0Q3JFSHFVR21WQlZmQWVicmNTcmFn?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-12-24T08:00:00.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "วิทยาลัยการคอมพิวเตอร์ มข. จับมือ EIU เวียดนาม เปิดโอกาสฝึกงานนานาชาติ-วิจัยร่วมเชื่อมโยงอุตสาหกรรม",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1yS0VfVjlKaU1zb3hwNDUzUG9sYUhZcFlFVS03bUs3b1Z4cWIzbHktOGw2WG5xY185ejRyQkRGQ1BnYzJseHFR?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น",
@@ -2058,7 +2078,7 @@
     {
       "title": "นศ.นิติฯ มข. ถูกปฏิเสธพื้นที่จัดงานเสวนาวันรัฐธรรมนูญ 2 ครั้ง ก่อนย้ายไปที่อื่น- ย้ำมหาวิทยาลัยควรเป็นที่เสรีภาพทางวิชาการ",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLbmxPMWF3YTk3cG5OUTNRbU9NSlZoSlNxT1YwQVpJRVlMT0dWQzJhbWFOdWhEcHBJUjl1WmUwa19hM3I3ZFoySjN6Zw?oc=5",
-      "outlet": "ศูนย์ทนายความเพื่อสิทธิมนุษยชน",
+      "outlet": "tlhr2014.com",
       "publishedAt": "2025-12-10T08:00:00.000Z",
       "sourceId": "law",
       "category": "คณะนิติศาสตร์",
