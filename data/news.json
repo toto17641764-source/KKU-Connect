@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T20:14:18.678Z",
+  "updatedAt": "2026-08-20T22:13:07.201Z",
   "sources": [
     {
       "id": "med",
@@ -336,6 +336,26 @@
       "topic": "other"
     },
     {
+      "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "other"
+    },
+    {
+      "title": "คณะเศรษฐศาสตร์ มข. ลงนาม MOU กับสมาคมบริษัทจัดการลงทุน ยกระดับนักศึกษาสู่วิชาชีพการเงิน",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MV3U0ZHQ2enpjQUlDckg0a0FUUS1kM1Q3TDlUYzlMY0RjMm10QlhlbllpUk44Tkx6cmxpYlI5MmJLVmxkTWww?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "sourceId": "econ",
+      "category": "คณะเศรษฐศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "วิทยาลัยการคอมพิวเตอร์ มข. จัดงาน \"Computing Fair & CPKKU Open House ครั้งที่ 4\" เปิดเวทีเยาวชนประลองทักษะดิจิทัล พร้อมให้ความรู้หลักสูตรแห่งอนาคต - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpVlYwclJabHJzZnFOSTJFNFVuMUZWTm9qek5YbDVPb2xpU3lxeElJaU1FaFdub0JxV1JEYnF3WFhaSTBwRDRJ?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -644,16 +664,6 @@
       "category": "คณะศึกษาศาสตร์",
       "image": "https://ednet.kku.ac.th/wp-content/uploads/2026/07/DSC_4785-1024x683.jpg",
       "topic": "research"
-    },
-    {
-      "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
-      "publishedAt": "2026-07-29T08:37:40.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
-      "image": null,
-      "topic": "other"
     },
     {
       "title": "หลักสูตรออกแบบนิเทศศิลป์ นิเทศงานนักศึกษา เครือข่ายความร่วมมือฝึกสหกิจศึกษา ณ สถานประกอบการ ปีการศึกษา 2569",
@@ -1606,6 +1616,16 @@
       "topic": "activity"
     },
     {
+      "title": "ช่างคึด ครั้งที่ 17 เทศกาลงานตลาดอาร์ตของเราเหล่าเด็กถาปัตย์ มข. กลับมาอีกครั้ง",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOODVtMzBnRXljNXViRG9qYl9DSFNweVdEQzIzRk8wSE1qM21waGp6SENZRVE4a2VOZ0dGZDFfQThzQi1ZSVk4TTBrVW1oR1JsOFRpZVBtcE9lMVJEZ3Y4ZS0tbFRQR3pGTXROR2pTcFJFSzdZbFZDa0lzRWY1QjFRLUxWSjNDLXdfMjNrVUwzNmtYblJyWl9HR1liUjRNX2lpQzQzUmlzbXZUWHFxVHFpc2N6VVgyOUdGZXBaVXlNLXVGQmpNQ2h0TFpyTVFMTmd1YWRseHJZbDA4eEkxeW1QbUd2b0tZUGhnSWFEd3RlcDB5SE82SHdPRUE2Ykw3MzlGM1liaGd6SVhXOFVhdjNLSkJxZGNtYzJkdmdDaksyU3RMNmR4T091XzVYV3hQNFhMNFNiVndJSVRxUU9WSEV1UUUxdHFOZkk2Y0E?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-04-20T01:05:33.000Z",
+      "sourceId": "arch",
+      "category": "คณะสถาปัตยกรรมศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "นศ. KKUIC จัดแข่งบาส 3x3 การกุศล \"KKUIC 3X3 Street Summer Slam 2026\" รางวัลรวม 1 แสนบาท มุ่งส่งต่อโอกาสสู่เยาวชนผู้พิการระดมทุนจัดซื้ออุปกรณ์กีฬา-การศึกษาโรงเรียนศรีสังวาลย์ขอนแก่น - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE52TmVXSkFFMHRwSlNTaVBTQVhLdndWSVdmWU9rSUdiYkp5MkczTEFEOEJReW5weGczMjdpNEM2bXdGMFFzc0U0?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1676,7 +1696,7 @@
       "topic": "activity"
     },
     {
-      "title": "คณะศึกษาศาสตร์ มข. ต้อนรับคณะศึกษาดูงาน มช. แลกเปลี่ยนนวัตกรรมการบริหารการศึกษา มุ่งสร้างเครือข่ายวิจัยระดับดุษฎีบัณฑิตสู่สากล",
+      "title": "คณะศึกษาศาสตร์ มข. ต้อนรับคณะศึกษาดูงาน มช. แลกเปลี่ยนนวัตกรรมการบริหารการศึกษา มุ่งสร้างเครือข่ายวิจัยระดับดุษฎีบัณฑิตสู่สากล - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yajFpajRFNDN4Q1NNZ0RQMkVsNG9qN083TnprNkpMTFBDWHhkTFloUnZ5b0NndkhpTWotUG1kQVZhUERlOFlz?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-04-01T07:00:00.000Z",
@@ -2142,16 +2162,6 @@
       "publishedAt": "2025-12-10T08:00:00.000Z",
       "sourceId": "law",
       "category": "คณะนิติศาสตร์",
-      "image": null,
-      "topic": "activity"
-    },
-    {
-      "title": "ช่างคึด ครั้งที่ 17 เทศกาลงานตลาดอาร์ตของเราเหล่าเด็กถาปัตย์ มข. กลับมาอีกครั้ง",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOODVtMzBnRXljNXViRG9qYl9DSFNweVdEQzIzRk8wSE1qM21waGp6SENZRVE4a2VOZ0dGZDFfQThzQi1ZSVk4TTBrVW1oR1JsOFRpZVBtcE9lMVJEZ3Y4ZS0tbFRQR3pGTXROR2pTcFJFSzdZbFZDa0lzRWY1QjFRLUxWSjNDLXdfMjNrVUwzNmtYblJyWl9HR1liUjRNX2lpQzQzUmlzbXZUWHFxVHFpc2N6VVgyOUdGZXBaVXlNLXVGQmpNQ2h0TFpyTVFMTmd1YWRseHJZbDA4eEkxeW1QbUd2b0tZUGhnSWFEd3RlcDB5SE82SHdPRUE2Ykw3MzlGM1liaGd6SVhXOFVhdjNLSkJxZGNtYzJkdmdDaksyU3RMNmR4T091XzVYV3hQNFhMNFNiVndJSVRxUU9WSEV1UUUxdHFOZkk2Y0E?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-12-05T08:00:00.000Z",
-      "sourceId": "arch",
-      "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "activity"
     },
