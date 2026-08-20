@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T08:21:32.491Z",
+  "updatedAt": "2026-08-20T10:16:21.291Z",
   "sources": [
     {
       "id": "med",
@@ -336,6 +336,16 @@
       "topic": "other"
     },
     {
+      "title": "วิทยาลัยการคอมพิวเตอร์ มข. จัดงาน \"Computing Fair & CPKKU Open House ครั้งที่ 4\" เปิดเวทีเยาวชนประลองทักษะดิจิทัล พร้อมให้ความรู้หลักสูตรแห่งอนาคต - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpVlYwclJabHJzZnFOSTJFNFVuMUZWTm9qek5YbDVPb2xpU3lxeElJaU1FaFdub0JxV1JEYnF3WFhaSTBwRDRJ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
+      "image": null,
+      "topic": "study"
+    },
+    {
       "title": "มข. เปิดงานสัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 จุดประกายการเรียนรู้สู่อนาคตที่ยั่งยืน",
       "link": "https://sc.kku.ac.th/news/121235/",
       "outlet": "เว็บไซต์คณะ",
@@ -548,7 +558,7 @@
     {
       "title": "หอภาพยนตร์อีสาน มหาวิทยาลัยขอนแก่น ชวนคุณเปิดประสบการณ์กับ 4 ภาพยนตร์ 4 รสชาติ (เดือนสิงหาคม)",
       "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQRm1ibzJHcFRQelBGU05YZGJnM2tEYzZyUEQ3eU9RNHlmeHQzbXJEc3VraExrYVNoZ0NNREFJdDB1UWNBYUx0ZXpILU9VTlk5OGRuRERRUFE4VG1WMDBHaGF5MXZiSFNTRXV6SW1iTXpyNzhtSW9Ta2praThRWE1ZT1QycEM4NEU3RkVxcm5fXzlxT2RfVkNpQl85dnJiakJjb1RtZlhyR2hZU082QVRlZUdSSk5NeUhlcmQ4MVNkdkJ4S0xvcGExWE85SWtDajRlYl9iVlNRNjhUc1JGdEdKSkdlTHd0ZlM3Vzk5NXBqRDFWaGlRNmtlanhOLVhCMVVDb05MSTV4R3BkWW80dTJ2Qm1ZWjczZ2RyTjhDcXY0Z1VQRXZpdzRMYjlqTE1sc1MwZ05oT2RFajZfaDdMSHZXQUYyaW0wWTNXU2tKVXREVk0?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-08-06T02:20:13.000Z",
       "sourceId": "kku",
       "category": "มข.",
