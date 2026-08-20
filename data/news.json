@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T02:45:43.837Z",
+  "updatedAt": "2026-08-20T04:23:13.976Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,16 @@
   ],
   "items": [
     {
+      "title": "รายงานวิเคราะห์ ภาวะการมีงานทำภายในหนึ่งปีของบัณฑิตที่เข้าร่วมโครงการสหกิจศึกษาและการศึกษาเชิงบูรณาการกับการทำงาน คณะวิทยาศาสตร์ มหาวิทยาลัยขอนแก่น ปีการศึกษา 2567",
+      "link": "https://sc.kku.ac.th/wp-content/uploads/2026/08/งานเชิงวิเคราะห์_2567_final-เผยแพร่.pdf#new_tab",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-08-20T04:16:56.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "job"
+    },
+    {
       "title": "จากห้องเรียนสู่เมืองมรดกโลก มนุษย์-สังคม มข. เปิดโลกทัศน์ผู้นำนักศึกษาสู่ความเป็นสากล",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9saHVGNm9YNFFSLUs4U1RjV3pGUEYxTzJhM2kyREF4eUM0MXl2akNzZGJUSy1hZmZkbDBuOHhmdGpfWUkwVVMw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -378,7 +388,7 @@
     {
       "title": "เครือข่ายนักศึกษา มข. - สิงห์อาสา สร้าง \"แหล่งน้ำชุมชนแห่งที่ 10\" กักเก็บน้ำได้ตลอดปี",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qWnZZb0dvejNrUGFDVHJDR3pVQTE2ZWN0VWxueENuWk54SlhPSXpnT084SFgyNkFuMTdWUEs0dThRNkNnUkJtcVZyOTQ5Rk5mNi1TZ3g4WEJBbjNf?oc=5",
-      "outlet": "springnews",
+      "outlet": "springnews.co.th",
       "publishedAt": "2026-08-13T02:30:24.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
@@ -1188,7 +1198,7 @@
     {
       "title": "วิริยะประกันภัย สนับสนุน “ค่ายผู้นำ 4 จอบอาสาพัฒนา” ครั้งที่ 21 สานพลังเครือข่ายผู้นำนักศึกษาเกษตรศาสตร์ ยกระดับเกษตรท้องถิ่นไทย | สวพ.FM91",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sSGI2QVdmMUQyNzE2c1N5Vmg2ME9HSlpuT010aG9vdXlrWmhTdmZDUmphODYyRDlJeFpPNmYxc29NbHhSTWZzVm1FLWp2MmZGaXFBZnh3?oc=5",
-      "outlet": "today.line.me",
+      "outlet": "LINE TODAY",
       "publishedAt": "2026-06-16T07:00:00.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
@@ -1240,8 +1250,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JRHN4ck4zQkhFTVBUX0FhZU9GQ2x5clN1NmFmSEEtazNOWWtvZkNkTjFtUDZpYTBWVThHbW1kcnRGV3dPckdV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-06-10T07:00:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
+      "sourceId": "arch",
+      "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "research"
     },
@@ -2118,7 +2128,7 @@
     {
       "title": "นศ.นิติฯ มข. ถูกปฏิเสธพื้นที่จัดงานเสวนาวันรัฐธรรมนูญ 2 ครั้ง ก่อนย้ายไปที่อื่น- ย้ำมหาวิทยาลัยควรเป็นที่เสรีภาพทางวิชาการ",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLbmxPMWF3YTk3cG5OUTNRbU9NSlZoSlNxT1YwQVpJRVlMT0dWQzJhbWFOdWhEcHBJUjl1WmUwa19hM3I3ZFoySjN6Zw?oc=5",
-      "outlet": "ศูนย์ทนายความเพื่อสิทธิมนุษยชน",
+      "outlet": "tlhr2014.com",
       "publishedAt": "2025-12-10T08:00:00.000Z",
       "sourceId": "law",
       "category": "คณะนิติศาสตร์",
@@ -2496,9 +2506,9 @@
       "topic": "study"
     },
     {
-      "title": "วันสถาปนาวิทยาลัยบัณฑิตศึกษาการจัดการ ครบรอบ 30 ปี",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uSW0ySVFWdUpXRF93VFBDNGNuTmsxY2tBLWlfLWQwNHFLYnpIVlFCUDUzN0NZUEp5dlJhMnFtck9HcVgxZ3lKcGFQOHVyTEZIMTNQMVNCbGphUQ?oc=5",
-      "outlet": "khaosod.co.th",
+      "title": "สมาคมศิษย์เก่า ร่วมรำลึก วันสถาปนาวิทยาลัยบัณฑิตศึกษาการจัดการ ครบรอบ 30 ปี",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HLUtBaGxJUWowY3Q2MjRUTWx1QmNodEJIMmwxTl9RSFRVazVRRk9uMFNsVGZBa1c2enRFX2YxY2E0ZjB2VlJkZExTSDJORVE0Q1J2NEp5RDFtb09VcXVhSHc5WnRGZkpJanpZTGlhRVFhX1pQd2RyNw?oc=5",
+      "outlet": "ประชาชาติธุรกิจ",
       "publishedAt": "2023-09-11T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -2506,9 +2516,9 @@
       "topic": "study"
     },
     {
-      "title": "สมาคมศิษย์เก่า ร่วมรำลึก วันสถาปนาวิทยาลัยบัณฑิตศึกษาการจัดการ ครบรอบ 30 ปี",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HLUtBaGxJUWowY3Q2MjRUTWx1QmNodEJIMmwxTl9RSFRVazVRRk9uMFNsVGZBa1c2enRFX2YxY2E0ZjB2VlJkZExTSDJORVE0Q1J2NEp5RDFtb09VcXVhSHc5WnRGZkpJanpZTGlhRVFhX1pQd2RyNw?oc=5",
-      "outlet": "ประชาชาติธุรกิจ",
+      "title": "วันสถาปนาวิทยาลัยบัณฑิตศึกษาการจัดการ ครบรอบ 30 ปี",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uSW0ySVFWdUpXRF93VFBDNGNuTmsxY2tBLWlfLWQwNHFLYnpIVlFCUDUzN0NZUEp5dlJhMnFtck9HcVgxZ3lKcGFQOHVyTEZIMTNQMVNCbGphUQ?oc=5",
+      "outlet": "khaosod.co.th",
       "publishedAt": "2023-09-11T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
