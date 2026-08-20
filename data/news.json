@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T22:11:16.844Z",
+  "updatedAt": "2026-08-20T00:26:17.234Z",
   "sources": [
     {
       "id": "med",
@@ -472,6 +472,16 @@
       "publishedAt": "2026-08-09T06:09:07.000Z",
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
+      "title": "มหาวิทยาลัยขอนแก่น ต้อนรับ มหาวิทยาลัยเกษตรศาสตร์ แลกเปลี่ยนวิสัยทัศน์งานกิจการนักศึกษา มุ่งสานเครือข่ายสองสถาบัน - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9tSlJqdjJnTW1ELVpRbV9USnRtVWhOdi1LVXloNjZ5Y181aGNlTHdjVmg4anZkZ1FUTVZQd25xLTFBRnIxRXhn?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-08T02:37:38.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
       "image": null,
       "topic": "activity"
     },
@@ -958,7 +968,7 @@
     {
       "title": "คณะศึกษาศาสตร์ มข. ร่วมพัฒนาคุณภาพชีวิตผู้สูงอายุ ผ่านกิจกรรม “ศิลปะเพื่อชีวิตยืนยาว”",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9sa2hXSDJydTN2T2s1YnZhLTJFU2xsMnZvRFI2NlNncWstTE5IbnBRZmE1YURtSjF5VXM5c0ptY2QtOGRVSzNz?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-07-06T07:31:18.000Z",
       "sourceId": "edu",
       "category": "คณะศึกษาศาสตร์",
@@ -1230,8 +1240,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JRHN4ck4zQkhFTVBUX0FhZU9GQ2x5clN1NmFmSEEtazNOWWtvZkNkTjFtUDZpYTBWVThHbW1kcnRGV3dPckdV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-06-10T07:00:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
+      "sourceId": "arch",
+      "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "research"
     },
@@ -1268,7 +1278,7 @@
     {
       "title": "ศิลปวัฒนธรรมไทยสู่สากล : คณะมนุษยศาสตร์ฯ มข. ร่วมกิจกรรมสืบสานประเพณีไทยสร้างความประทับใจในเทศกาลสงกรานต์เมืองลีดส์ สหราชอาณาจักร - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4wYVdOLU9YbkExNzNZVHk3bFlEbDlLb2luV3ZaMkI4OTZ6RktOcnc0bmhmZ3NKdnJ4SHg2Zk1QbElCWERtVVNv?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-06-05T03:44:03.000Z",
       "sourceId": "hs",
       "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
@@ -2046,6 +2056,16 @@
       "topic": "other"
     },
     {
+      "title": "นักเรียนชุมนุมโครงงานวิทยาศาสตร์ฯ รร.สาธิต มข. มัธยม คว้ารางวัล “2 เหรียญทอง (Gold Medal) และ 4 เหรียญเงิน (Silver Medal)” โครงงานวิทยาศาสตร์นานาชาติ ISPC 2025 - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5LWTZ1OWU3czY5Y2hJNEVad1Z4OTZMSkRXbHp3QTFwZHBISU1ONW1mYW5oNUJqMUdjLXlsWFYyVFFOekFEZXZj?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-12-29T10:55:00.000Z",
+      "sourceId": "pharm",
+      "category": "คณะเภสัชศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "คณะเทคนิคการแพทย์ มข. ร่วมจัดกิจกรรมและให้บริการวิชาการในงานเทศกาลไหมนานาชาติ ประเพณีผูกเสี่ยว และงานกาชาดจังหวัดขอนแก่น ประจำปี 2568 - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9kdVVJbGNKSXQyMkF5VkpKX2R2eTd6SjdoZzItM1ZjdWppblF6RE1xcWtmQ084LV9Oc2lCMlU4YWxBaDBwMmFJ?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2058,7 +2078,7 @@
     {
       "title": "ศูนย์ความเป็นเลิศด้านการพัฒนาเด็กปฐมวัย คณะพยาบาลศาสตร์ มหาวิทยาลัยขอนแก่น จัดกิจกรรมกีฬาสี ประจำปีการศึกษา 2568 เสริมสร้างพัฒนาการเด็กและสานสัมพันธ์ผู้ปกครอง - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1VTkhYUWZsSTJZbi11dHJ3Y2RWR0tPanl4SUFUWEMyUjRPRWZHT292NlZfdWUzZGZTMDRaUUtVcGNzTFNJZzJR?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2025-12-25T06:09:50.000Z",
       "sourceId": "nurse",
       "category": "คณะพยาบาลศาสตร์",
@@ -2102,6 +2122,16 @@
       "publishedAt": "2025-12-10T08:00:00.000Z",
       "sourceId": "law",
       "category": "คณะนิติศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
+      "title": "ช่างคึด ครั้งที่ 17 เทศกาลงานตลาดอาร์ตของเราเหล่าเด็กถาปัตย์ มข. กลับมาอีกครั้ง",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOODVtMzBnRXljNXViRG9qYl9DSFNweVdEQzIzRk8wSE1qM21waGp6SENZRVE4a2VOZ0dGZDFfQThzQi1ZSVk4TTBrVW1oR1JsOFRpZVBtcE9lMVJEZ3Y4ZS0tbFRQR3pGTXROR2pTcFJFSzdZbFZDa0lzRWY1QjFRLUxWSjNDLXdfMjNrVUwzNmtYblJyWl9HR1liUjRNX2lpQzQzUmlzbXZUWHFxVHFpc2N6VVgyOUdGZXBaVXlNLXVGQmpNQ2h0TFpyTVFMTmd1YWRseHJZbDA4eEkxeW1QbUd2b0tZUGhnSWFEd3RlcDB5SE82SHdPRUE2Ykw3MzlGM1liaGd6SVhXOFVhdjNLSkJxZGNtYzJkdmdDaksyU3RMNmR4T091XzVYV3hQNFhMNFNiVndJSVRxUU9WSEV1UUUxdHFOZkk2Y0E?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-12-05T08:00:00.000Z",
+      "sourceId": "arch",
+      "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "activity"
     },
@@ -2388,7 +2418,7 @@
     {
       "title": "กรมอนามัย : สมาคมส่งเสริมความรอบรู้ด้านสุขภาพไทย และคณะสาธารณสุขศาสตร์ มหาวิทยาลัยขอนแก่น ขอเชิญชวนผู้ที่สนใจ ส่งผลงานวิชาการ \"ความรอบรู้ด้านสุขภาพ\" ในการประชุมวิชาการระหว่างประเทศสมาคมความรอบรู้ด้านสุขภาพแห่งเอเชีย ครั้งที่ 9 (The 9th Asia Health Literacy... -",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1qR1ljUGZXN0phN2h2ZGJRVzI2RFUzcXREVEdKYjZBdDdMVks2V0gxR3J1aldVTGF2SmFPUGlPVS1pbWxuRDgw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2025-05-07T04:57:16.000Z",
       "sourceId": "ph",
       "category": "คณะสาธารณสุขศาสตร์",
