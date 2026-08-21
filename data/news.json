@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T16:16:56.592Z",
+  "updatedAt": "2026-08-21T18:17:45.725Z",
   "sources": [
     {
       "id": "med",
@@ -284,6 +284,16 @@
       "category": "คณะวิทยาศาสตร์",
       "image": null,
       "topic": "job"
+    },
+    {
+      "title": "ขอเชิญอาจารย์ นักวิจัย และผู้เกี่ยวข้อง มหาวิทยาลัยขอนแก่น เข้าร่วมการประชุมเชิงปฏิบัติการ PDPA × Research Forum",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPYndONk00OWViMjNIWFBjTmc1Sm9UVWZtWm1xZ1o2TWFtYTdZbks3MHpiSnFISENKRzdQYWFVN2VkZWRXdXFLMmlaalBoVnFKS2NXQjktY2IzQ19XMmxLdEN6b01BYVhiSm5nbVhaM1lROGtTQXVhNFBoaS1LS09LdjhyXzBETXV5NGVNYmhTb19aR2NQWW5aWTdmUGJncFljVDNENFZRUEh0aVp0cXloT3VubHRiQkw2Vzl5SmdRT18zblpsRkowbldQZmZ1VUJWSlNzSmxfR0VodmJ1TjctZEJBNTduSTFaQUhUWVQwZFd0R2d0UU9HS1JUcXc2T25NVTkwRFAweUNXY1VvM19rTTdJTTRPX2xSaF95NU40TndFcFFKMlFJTFktZWlvemVDRjM1RERFNFNTb3FyY0pGU2ZTaHNFMVpvUWc?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-19T11:12:55.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "research"
     },
     {
       "title": "จากห้องเรียนสู่เมืองมรดกโลก มนุษย์-สังคม มข. เปิดโลกทัศน์ผู้นำนักศึกษาสู่ความเป็นสากล",
