@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T00:29:05.339Z",
+  "updatedAt": "2026-08-21T02:52:24.547Z",
   "sources": [
     {
       "id": "med",
@@ -1616,6 +1616,16 @@
       "topic": "activity"
     },
     {
+      "title": "ช่างคึด ครั้งที่ 17 เทศกาลงานตลาดอาร์ตของเราเหล่าเด็กถาปัตย์ มข. กลับมาอีกครั้ง",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOODVtMzBnRXljNXViRG9qYl9DSFNweVdEQzIzRk8wSE1qM21waGp6SENZRVE4a2VOZ0dGZDFfQThzQi1ZSVk4TTBrVW1oR1JsOFRpZVBtcE9lMVJEZ3Y4ZS0tbFRQR3pGTXROR2pTcFJFSzdZbFZDa0lzRWY1QjFRLUxWSjNDLXdfMjNrVUwzNmtYblJyWl9HR1liUjRNX2lpQzQzUmlzbXZUWHFxVHFpc2N6VVgyOUdGZXBaVXlNLXVGQmpNQ2h0TFpyTVFMTmd1YWRseHJZbDA4eEkxeW1QbUd2b0tZUGhnSWFEd3RlcDB5SE82SHdPRUE2Ykw3MzlGM1liaGd6SVhXOFVhdjNLSkJxZGNtYzJkdmdDaksyU3RMNmR4T091XzVYV3hQNFhMNFNiVndJSVRxUU9WSEV1UUUxdHFOZkk2Y0E?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-04-20T01:05:33.000Z",
+      "sourceId": "arch",
+      "category": "คณะสถาปัตยกรรมศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "นศ. KKUIC จัดแข่งบาส 3x3 การกุศล \"KKUIC 3X3 Street Summer Slam 2026\" รางวัลรวม 1 แสนบาท มุ่งส่งต่อโอกาสสู่เยาวชนผู้พิการระดมทุนจัดซื้ออุปกรณ์กีฬา-การศึกษาโรงเรียนศรีสังวาลย์ขอนแก่น - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE52TmVXSkFFMHRwSlNTaVBTQVhLdndWSVdmWU9rSUdiYkp5MkczTEFEOEJReW5weGczMjdpNEM2bXdGMFFzc0U0?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2152,16 +2162,6 @@
       "publishedAt": "2025-12-10T08:00:00.000Z",
       "sourceId": "law",
       "category": "คณะนิติศาสตร์",
-      "image": null,
-      "topic": "activity"
-    },
-    {
-      "title": "ช่างคึด ครั้งที่ 17 เทศกาลงานตลาดอาร์ตของเราเหล่าเด็กถาปัตย์ มข. กลับมาอีกครั้ง",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOODVtMzBnRXljNXViRG9qYl9DSFNweVdEQzIzRk8wSE1qM21waGp6SENZRVE4a2VOZ0dGZDFfQThzQi1ZSVk4TTBrVW1oR1JsOFRpZVBtcE9lMVJEZ3Y4ZS0tbFRQR3pGTXROR2pTcFJFSzdZbFZDa0lzRWY1QjFRLUxWSjNDLXdfMjNrVUwzNmtYblJyWl9HR1liUjRNX2lpQzQzUmlzbXZUWHFxVHFpc2N6VVgyOUdGZXBaVXlNLXVGQmpNQ2h0TFpyTVFMTmd1YWRseHJZbDA4eEkxeW1QbUd2b0tZUGhnSWFEd3RlcDB5SE82SHdPRUE2Ykw3MzlGM1liaGd6SVhXOFVhdjNLSkJxZGNtYzJkdmdDaksyU3RMNmR4T091XzVYV3hQNFhMNFNiVndJSVRxUU9WSEV1UUUxdHFOZkk2Y0E?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-12-05T08:00:00.000Z",
-      "sourceId": "arch",
-      "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "activity"
     },
