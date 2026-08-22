@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T00:26:20.311Z",
+  "updatedAt": "2026-08-22T02:44:11.775Z",
   "sources": [
     {
       "id": "med",
@@ -716,14 +716,14 @@
       "topic": "research"
     },
     {
-      "title": "lสถาปัตย์ มข.เปิดรับสมัคร Short Course อบรมระยะสั้น หัวข้อ ลายเส้นดินสอ 1-2-Tree",
+      "title": "สถาปัตย์ มข.เปิดรับสมัคร Short Course อบรมระยะสั้น หัวข้อ ลายเส้นดินสอ 1-2-Tree",
       "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQcmJLcGU1anZMX3dDakoxUThLNE5SMGR1QXRtajZsOFhXdjJ1TDJZT2tVcFJvY0dWTUIyektSYjVOcUtjelN5Qms5bUZ3STNSWVBacUxDcDVORnNKd09YN1FGN2t3UFZFcDNjNjFDRVVqWmpORHJBUE05MlFvb3l2LXpNT0Z4XzJQRDVvSmVPRHRxdXVqdDc2VUxhTFVoMzdJWWtvY0hDWmg1OXpoM2ktSS1mcHAtNzdHU01idmpQUFd4YXdjZnYtS3NmaUU1OWZzS0NETmJ5UllKUDdMSUVZT0hHYkJfOVRaUnZvVVVsaU1EY3pERmxad2hvUkxwWGFDdGx5cXZhV1R5ZEthU3hSRXVTXzZRemdia1ZYOENRTC1VdFFDZkF1MlBhbGZad0tzUEtad2EzTEd2eWkyTm42Y3NlNHhFcTA?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-07-27T16:56:44.000Z",
       "sourceId": "arch",
       "category": "คณะสถาปัตยกรรมศาสตร์",
-      "topic": "study",
-      "image": null
+      "image": null,
+      "topic": "study"
     },
     {
       "title": "คณะทันตแพทยศาสตร์ มข. จัดพิธีแสดงความกตัญญูกตเวที (พิธีไหว้ครู) ประจำปีการศึกษา 2569 พร้อมเชิดชูเกียรติอาจารย์และนักศึกษาผู้สร้างชื่อเสียง",
@@ -866,6 +866,16 @@
       "topic": "activity"
     },
     {
+      "title": "คณะเศรษฐศาสตร์ มข. จัดกิจกรรมต้อนรับคณาจารย์และนักศึกษาปริญญาโท สาขาการเงิน จากสถาบันธนาคาร สปป.ลาว",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9NNHV2VklhVVptRHIybWFCZEltQnBNRk9qVWVWaHNzbVJDMEpoME0wTG9BSmRvUGwwN3BFMTJUVUxmQkZnVmM4?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-07-21T08:00:23.000Z",
+      "sourceId": "econ",
+      "category": "คณะเศรษฐศาสตร์",
+      "image": null,
+      "topic": "study"
+    },
+    {
       "title": "ส่งผลงานเข้าประกวด “SMART KKU” ชิงเงินรางวัลรวมกว่า 85,000 บาท",
       "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNLTRMUWtuS0lNYW1Tb2dmNTJzaGtOOXhTRmo4dUpvdWMxUzU4eFFvbjZGa3VHR1dHUTRVNnphdkZqN3BKYXU3T1JJeWZPNVZzXzFYM1ctSm9vN0R4ZmQzQUF3c1ZNUm5uelVEbEhONWJDNXZwa0hMUWJlS3BUbVZjY1g0UElGbS14UGpPa3RkVGtpOTVKWkNraTJTTHJEWDF5WmV6aGR1ZW1nRzRTa1hRN01UZGpMaEFUUWJ3bXl1b3ZaWlJyaE5QdlZZbnhfQTJ6VnlrOEw0UlRzS1FaN1N6ak9wOFNrY2VFWGRtemdDc2V2ZW41dk9McF9lOUlkanVKQy03Ujd5MjQybkR1dlRiLVFYZEpDSlZSdzU5QXJqVU9xTWZIdk5EcmdSZEhhSzI5U0ZYcUhWYmdQdGFVVDlKWA?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -924,16 +934,6 @@
       "category": "คณะวิทยาศาสตร์",
       "topic": "activity",
       "image": null
-    },
-    {
-      "title": "คณะเศรษฐศาสตร์ มข. จัดกิจกรรมต้อนรับคณาจารย์และนักศึกษาปริญญาโท สาขาการเงิน จากสถาบันธนาคาร สปป.ลาว",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9NNHV2VklhVVptRHIybWFCZEltQnBNRk9qVWVWaHNzbVJDMEpoME0wTG9BSmRvUGwwN3BFMTJUVUxmQkZnVmM4?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-07-17T07:00:00.000Z",
-      "sourceId": "econ",
-      "category": "คณะเศรษฐศาสตร์",
-      "image": null,
-      "topic": "study"
     },
     {
       "title": "หลักสูตรออกแบบนิเทศศิลป์เสริมสร้างประสบการณ์ ทักษะการบูรณาการองค์ความรู้เชิงสร้างสรรค์",
@@ -1542,6 +1542,16 @@
       "publishedAt": "2026-05-07T09:33:06.000Z",
       "sourceId": "pharm",
       "category": "คณะเภสัชศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
+      "title": "กองพัฒนานักศึกษาฯ มข. ติวเข้มผู้นำนักศึกษาคณะสหวิทยาการ ผ่านเวิร์กช็อป “KKU EGGS” แนะดึงศักยภาพหนองคายสร้างกิจกรรม",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBOZnNIV0ZheFliLVVQQ1ZPOUFhR0YyRFpPV2pmU09lcUpUaW92dVp1R2hPSzNrWUxvbnZEQ2ZBU2dLeklaakVr?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-05-06T08:43:21.000Z",
+      "sourceId": "is",
+      "category": "คณะสหวิทยาการ (หนองคาย)",
       "image": null,
       "topic": "activity"
     },
@@ -2586,9 +2596,9 @@
       "topic": "study"
     },
     {
-      "title": "สมาคมศิษย์เก่า ร่วมรำลึก วันสถาปนาวิทยาลัยบัณฑิตศึกษาการจัดการ ครบรอบ 30 ปี",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HLUtBaGxJUWowY3Q2MjRUTWx1QmNodEJIMmwxTl9RSFRVazVRRk9uMFNsVGZBa1c2enRFX2YxY2E0ZjB2VlJkZExTSDJORVE0Q1J2NEp5RDFtb09VcXVhSHc5WnRGZkpJanpZTGlhRVFhX1pQd2RyNw?oc=5",
-      "outlet": "ประชาชาติธุรกิจ",
+      "title": "วันสถาปนาวิทยาลัยบัณฑิตศึกษาการจัดการ ครบรอบ 30 ปี",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uSW0ySVFWdUpXRF93VFBDNGNuTmsxY2tBLWlfLWQwNHFLYnpIVlFCUDUzN0NZUEp5dlJhMnFtck9HcVgxZ3lKcGFQOHVyTEZIMTNQMVNCbGphUQ?oc=5",
+      "outlet": "ข่าวสด",
       "publishedAt": "2023-09-11T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -2596,9 +2606,9 @@
       "topic": "study"
     },
     {
-      "title": "วันสถาปนาวิทยาลัยบัณฑิตศึกษาการจัดการ ครบรอบ 30 ปี",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uSW0ySVFWdUpXRF93VFBDNGNuTmsxY2tBLWlfLWQwNHFLYnpIVlFCUDUzN0NZUEp5dlJhMnFtck9HcVgxZ3lKcGFQOHVyTEZIMTNQMVNCbGphUQ?oc=5",
-      "outlet": "ข่าวสด",
+      "title": "สมาคมศิษย์เก่า ร่วมรำลึก วันสถาปนาวิทยาลัยบัณฑิตศึกษาการจัดการ ครบรอบ 30 ปี",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HLUtBaGxJUWowY3Q2MjRUTWx1QmNodEJIMmwxTl9RSFRVazVRRk9uMFNsVGZBa1c2enRFX2YxY2E0ZjB2VlJkZExTSDJORVE0Q1J2NEp5RDFtb09VcXVhSHc5WnRGZkpJanpZTGlhRVFhX1pQd2RyNw?oc=5",
+      "outlet": "ประชาชาติธุรกิจ",
       "publishedAt": "2023-09-11T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
