@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T06:16:33.036Z",
+  "updatedAt": "2026-08-22T08:14:04.277Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,16 @@
   ],
   "items": [
     {
+      "title": "หลักสูตรสถิติและวิทยาการข้อมูล คณะวิทยาศาสตร์ มข. คว้าผลประเมิน AUN-QA ระดับ 4",
+      "link": "https://sc.kku.ac.th/sdg/sdg-4-quality-education-%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%a8%e0%b8%b6%e0%b8%81%e0%b8%a9%e0%b8%b2%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%97%e0%b9%88%e0%b8%b2%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b8%a2/121757/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-08-22T06:20:24.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "study"
+    },
+    {
       "title": "ประกาศรายชื่อผู้มีสิทธิ์สอบสัมภาษณ์ ตําแหน่งอาจารย์ (เลขประจำตำแหน่ง 43966) สังกัดโรงเรียนสาธิตฯ (ศึกษาศาสตร์) มหาวิทยาลัยขอนแก่น",
       "link": "https://sc.kku.ac.th/wp-content/uploads/2026/08/125-2569-%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A1%E0%B8%B5%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%AD%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B9%8C-43966.pdf#new_tab",
       "outlet": "เว็บไซต์คณะ",
@@ -356,6 +366,16 @@
       "topic": "other"
     },
     {
+      "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "other"
+    },
+    {
       "title": "คณะเศรษฐศาสตร์ มข. ลงนาม MOU กับสมาคมบริษัทจัดการลงทุน ยกระดับนักศึกษาสู่วิชาชีพการเงิน",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MV3U0ZHQ2enpjQUlDckg0a0FUUS1kM1Q3TDlUYzlMY0RjMm10QlhlbllpUk44Tkx6cmxpYlI5MmJLVmxkTWww?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -374,16 +394,6 @@
       "category": "วิทยาลัยการคอมพิวเตอร์",
       "image": null,
       "topic": "study"
-    },
-    {
-      "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "image": null,
-      "topic": "other"
     },
     {
       "title": "มข. เปิดงานสัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 จุดประกายการเรียนรู้สู่อนาคตที่ยั่งยืน",
@@ -1306,6 +1316,16 @@
       "topic": "study"
     },
     {
+      "title": "MBA มข. จับมือ GFGL เปิดหลักสูตร WVP 2026 ปั้นผู้นำธุรกิจเวลเนส ขับเคลื่อนเศรษฐกิจสุขภาพด้วย AI และนวัตกรรม",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OODRIWWtCU3ZYSG05V3NoM0hRd21uOEh3a0d2QzhTUHdtbHMzQmstUW14SkJxWk56RkdUYjdEZjlDMzF6M1U1dWVuYlBtWTkzTHpQUQ?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-06-06T07:00:00.000Z",
+      "sourceId": "cbs",
+      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
+      "image": null,
+      "topic": "research"
+    },
+    {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
       "outlet": "มติชนออนไลน์",
@@ -1518,7 +1538,7 @@
     {
       "title": "คณะศึกษาศาสตร์ มข. ร่วมสร้างโอกาสทางการศึกษาเยาวชนสถานพินิจฯ จัดอบรมทักษะทางการสื่อสารติดอาวุธทางปัญญาเสริมความมั่นใจก่อนเข้าสู่สังคมอย่างมีประสิทธิภาพ",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Fd1JBRjIzcERYWUwwMFdQZ1UyMHpXUW9FaVRnR2xXOE5xQ2tFRmx0RGMta0liZE1FT1JrOE5DNTl3Q3hoR3Bn?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-05-08T02:49:11.000Z",
       "sourceId": "edu",
       "category": "คณะศึกษาศาสตร์",
@@ -2378,7 +2398,7 @@
     {
       "title": "มข. จับมือ AIEI ยกระดับ “MBA AI” พัฒนาผู้บริหารยุคดิจิทัล เสริมความแข่งขันภาคธุรกิจอีสาน-อนุภูมิภาคลุ่มน้ำโขง",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE51Q3RDSDV6R1BvVmN5ZDBrMmUxeWJVV1VELV9PNXdvTXpLMFRlQmlqLThKNTBwdDNJajJUMjFySjZVa2pkUUZr?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2025-09-11T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
