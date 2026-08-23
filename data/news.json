@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T08:14:22.381Z",
+  "updatedAt": "2026-08-23T10:10:10.513Z",
   "sources": [
     {
       "id": "med",
@@ -476,16 +476,6 @@
       "topic": "other"
     },
     {
-      "title": "มข. จัดใหญ่ \"สัปดาห์วิทยาศาสตร์แห่งชาติ 69\" ชูแนวคิด \"Intelligence Science for a Sustainable Future\" ปลุกพลังขับเคลื่อนอนาคตที่ยั่งยืน เยาวชนตบเท้าร่วมแข่งตอบปัญหากว่า 1,400 ทีม - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9FdS16RXViZVlEbmlpOXdvaUFhdUVOTloxQ1V2VDVSeGVrNnZYeHJiVG4zUk9MalJwams4ZEEyZXdMMnRWS3JN?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
-      "publishedAt": "2026-08-11T13:33:38.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
-      "image": null,
-      "topic": "other"
-    },
-    {
       "title": "มข. จัดกิจกรรม “ดำนาสร้างสรรค์ ปั้นฝันเกษตรกรรุ่นใหม่” ปลูกฝังเยาวชนรักษ์วิถีเกษตรไทย",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1fOFY3eWY3bGZLenQxTTVraHhUaTlITThwTkhjeWZ1R0RRb0Fhblc0bXlrVURJT1JjaGhsZV9sZnN3RHR1REFN?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -494,6 +484,16 @@
       "category": "คณะเกษตรศาสตร์",
       "image": null,
       "topic": "activity"
+    },
+    {
+      "title": "มข. จัดใหญ่ \"สัปดาห์วิทยาศาสตร์แห่งชาติ 69\" ชูแนวคิด \"Intelligence Science for a Sustainable Future\" ปลุกพลังขับเคลื่อนอนาคตที่ยั่งยืน เยาวชนตบเท้าร่วมแข่งตอบปัญหากว่า 1,400 ทีม - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9FdS16RXViZVlEbmlpOXdvaUFhdUVOTloxQ1V2VDVSeGVrNnZYeHJiVG4zUk9MalJwams4ZEEyZXdMMnRWS3JN?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-11T07:00:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "other"
     },
     {
       "title": "คณะทันตแพทยศาสตร์ มข. ต้อนรับนักเรียนและครูจากโรงเรียนลำปลายมาศ เยี่ยมชมคณะ เปิดโลกการศึกษาสู่เส้นทางวิชาชีพทันตแพทย์",
