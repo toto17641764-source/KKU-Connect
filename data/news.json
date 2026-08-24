@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T00:27:14.352Z",
+  "updatedAt": "2026-08-24T02:52:42.167Z",
   "sources": [
     {
       "id": "med",
@@ -1526,6 +1526,16 @@
       "topic": "other"
     },
     {
+      "title": "สอวน. ร่วมกับ คณะวิทยาศาสตร์ มข. เปิดฉากการแข่งขันดาราศาสตร์โอลิมปิกระดับชาติ ครั้งที่ 23 (TAO23) มุ่งสร้างนักดาราศาสตร์รุ่นใหม่สู่สากล - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE14dVpzUURQT3E2UlhoaFRoZXoyRGJ5azRGbl9qV0lqakpETnhHVW1KT2ZtV1FHZEhzcFpaRy1YTEgwQThDOWhZ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-05-10T07:00:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
       "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
@@ -1620,8 +1630,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IbDBmZWhDTzE1V1o4NEN4VGRiRkRJVFhpOUZyVDB6WElxV3UtMGJDcUVkUDMyakxuMlBSdkVzM2QyVjBxTUJR?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-05-06T03:24:56.000Z",
-      "sourceId": "med",
-      "category": "คณะแพทยศาสตร์",
+      "sourceId": "dent",
+      "category": "คณะทันตแพทยศาสตร์",
       "image": null,
       "topic": "activity"
     },
