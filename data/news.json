@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T10:24:40.178Z",
+  "updatedAt": "2026-08-24T12:19:23.421Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,16 @@
   ],
   "items": [
     {
+      "title": "เปิดมุมมองอนาคตสายวิทย์ SCi KKU ต้อนรับนักเรียนห้องเรียนวิทยาศาสตร์พลังสิบ โรงเรียนขุขันธ์ จ.ศรีสะเกษ",
+      "link": "https://sc.kku.ac.th/news/122354/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-08-24T11:51:49.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "คณะศึกษาศาสตร์ มข. จัดอบรมเชิงปฏิบัติการ “นวัตกรรมบอร์ดเกมเพื่อการเรียนรู้” มุ่งบ่มเพาะนักศึกษาครูสู่การเป็น “Teacher Innovator”",
       "link": "https://ednet.kku.ac.th/news/20680/",
       "outlet": "เว็บไซต์คณะ",
@@ -446,6 +456,16 @@
       "topic": "activity"
     },
     {
+      "title": "ศึกษาศาสตร์ มข. มุ่งพัฒนาศักยภาพผู้เรียนและสืบสานคุณค่ามรดกทางภาษาไทย ผ่านการจัด “กิจกรรมวันภาษาไทยแห่งชาติ ประจำปีพุทธศักราช 2569”",
+      "link": "https://ednet.kku.ac.th/news/20541/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-08-14T12:41:14.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": "https://ednet.kku.ac.th/wp-content/uploads/2026/08/EDKKU2026-08-08-วันภาษาไทย-28-of-31-1024x681.jpg",
+      "topic": "activity"
+    },
+    {
       "title": "คณะวิทยาศาสตร์ มข. คว้า 4 รางวัลเชิดชูเกียรติ ประจำปีงบประมาณ 2568 ด้านการวิจัย บริการวิชาการ วิจัยสถาบัน และพัฒนานักศึกษา",
       "link": "https://sc.kku.ac.th/news/121187/",
       "outlet": "เว็บไซต์คณะ",
@@ -486,16 +506,6 @@
       "topic": "activity"
     },
     {
-      "title": "คณะทันตแพทยศาสตร์ มข. ต้อนรับนักเรียนและครูจากโรงเรียนลำปลายมาศ เยี่ยมชมคณะ เปิดโลกการศึกษาสู่เส้นทางวิชาชีพทันตแพทย์ - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43X0I0akZoT3VnaFdNVC00NUpuYmV2dEdJQ3hpWTdJemtzcEpLaC05aVlYUEJ1VGhqTk1HTThTUGQ3VENiWGJJ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-08-11T07:56:18.000Z",
-      "sourceId": "dent",
-      "category": "คณะทันตแพทยศาสตร์",
-      "image": null,
-      "topic": "activity"
-    },
-    {
       "title": "มข. จัดใหญ่ \"สัปดาห์วิทยาศาสตร์แห่งชาติ 69\" ชูแนวคิด \"Intelligence Science for a Sustainable Future\" ปลุกพลังขับเคลื่อนอนาคตที่ยั่งยืน เยาวชนตบเท้าร่วมแข่งตอบปัญหากว่า 1,400 ทีม - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9FdS16RXViZVlEbmlpOXdvaUFhdUVOTloxQ1V2VDVSeGVrNnZYeHJiVG4zUk9MalJwams4ZEEyZXdMMnRWS3JN?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -504,6 +514,16 @@
       "category": "คณะวิทยาศาสตร์",
       "image": null,
       "topic": "other"
+    },
+    {
+      "title": "คณะทันตแพทยศาสตร์ มข. ต้อนรับนักเรียนและครูจากโรงเรียนลำปลายมาศ เยี่ยมชมคณะ เปิดโลกการศึกษาสู่เส้นทางวิชาชีพทันตแพทย์",
+      "link": "https://dentistry.kku.ac.th/30091?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%2584%25e0%25b8%2593%25e0%25b8%25b0%25e0%25b8%2597%25e0%25b8%25b1%25e0%25b8%2599%25e0%25b8%2595%25e0%25b9%2581%25e0%25b8%259e%25e0%25b8%2597%25e0%25b8%25a2%25e0%25b8%25a8%25e0%25b8%25b2%25e0%25b8%25aa%25e0%25b8%2595%25e0%25b8%25a3%25e0%25b9%258c-%25e0%25b8%25a1%25e0%25b8%2582-%25e0%25b8%2595%25e0%25b9%2589-4",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-08-11T03:22:32.000Z",
+      "sourceId": "dent",
+      "category": "คณะทันตแพทยศาสตร์",
+      "image": null,
+      "topic": "activity"
     },
     {
       "title": "KKBS–ECON ยกระดับศักยภาพนักวิจัย เปิดเวทีอบรมเชิงปฏิบัติการ “Research Training Programme” พร้อมเชื่อมเครือข่ายความร่วมมือ ต่อยอดสู่ทุนวิจัยระดับนานาชาติ",
@@ -552,16 +572,6 @@
       "publishedAt": "2026-08-09T06:09:07.000Z",
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
-      "image": null,
-      "topic": "activity"
-    },
-    {
-      "title": "ศึกษาศาสตร์ มข. มุ่งพัฒนาศักยภาพผู้เรียนและสืบสานคุณค่ามรดกทางภาษาไทย ผ่านการจัด “กิจกรรมวันภาษาไทยแห่งชาติ ประจำปีพุทธศักราช 2569” - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5YTDhpVWlLSEp6bzJvNVZXekg2MzhYbE1iUmtlWXIyOVFrckVRUEVHdWstQzZDdWdwRkh5Y3FvUGdBanNXcjgw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-08-08T07:00:00.000Z",
-      "sourceId": "edu",
-      "category": "คณะศึกษาศาสตร์",
       "image": null,
       "topic": "activity"
     },
@@ -2406,16 +2416,6 @@
       "topic": "study"
     },
     {
-      "title": "คณะนิติศาสตร์ มข. จัดสัมมนา “Restaulaw” สู่ “มื้ออาหารแห่งอิสรภาพ” เชื่อมธุรกิจ-กฎหมาย-สังคม",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBQUdBcnpOQkY0bWJYQWkwRzVQQ0NobUtpdzlXRHVHeFk4eDZ5Q2MwTDkzU2VaOWctN081N3lBWkpPRWt2QktZ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-11-28T08:00:00.000Z",
-      "sourceId": "law",
-      "category": "คณะนิติศาสตร์",
-      "image": null,
-      "topic": "activity"
-    },
-    {
       "title": "บัณฑิตวิทยาลัย มหาวิทยาลัยขอนแก่น ครบรอบ 47 ปี จัดพิธีทำบุญเพื่อความเป็นสิริมงคลและรำลึกถึงความเป็นมาของสถาบัน - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0ZGduS19lYUdxdXFTMTJCSTRwVHRMMm1ob29uMVdFVE5LeC1Ob2JQN3NMRnQwaTlCblBwM1RtTnVyN1FfNVRv?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2424,6 +2424,16 @@
       "category": "บัณฑิตวิทยาลัย",
       "image": null,
       "topic": "study"
+    },
+    {
+      "title": "คณะนิติศาสตร์ มข. จัดสัมมนา “Restaulaw” สู่ “มื้ออาหารแห่งอิสรภาพ” เชื่อมธุรกิจ-กฎหมาย-สังคม",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBQUdBcnpOQkY0bWJYQWkwRzVQQ0NobUtpdzlXRHVHeFk4eDZ5Q2MwTDkzU2VaOWctN081N3lBWkpPRWt2QktZ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-11-28T08:00:00.000Z",
+      "sourceId": "law",
+      "category": "คณะนิติศาสตร์",
+      "image": null,
+      "topic": "activity"
     },
     {
       "title": "คณะพยาบาลศาสตร์ มข. จัดอบรม “การใช้ AI เพื่อการจัดการเรียนการสอนและการพัฒนางานให้มีประสิทธิภาพสูงสุด”",
