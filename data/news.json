@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T04:32:38.788Z",
+  "updatedAt": "2026-08-24T06:29:51.196Z",
   "sources": [
     {
       "id": "med",
@@ -586,16 +586,6 @@
       "topic": "activity"
     },
     {
-      "title": "นักศึกษา AI วิทยาลัยการคอมพิวเตอร์ มข. สุดเจ๋ง! คว้า 2 รางวัลหุ่นยนต์ระดับอาเซียน จากเวที CPU’4th ASEAN GRAND PRIX YOUTH ROBOTICS AND ESPORTS COMPETITION 2026",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1aalUzOGtvTjdZVl9ocG9xbkFEQWMxT05IYjBFdUtfbEtmWEZhUHdsN0VPUHRMZGtCb0ZyNUxBS01weUoxN2Rv?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-08-07T07:00:00.000Z",
-      "sourceId": "cp",
-      "category": "วิทยาลัยการคอมพิวเตอร์",
-      "image": null,
-      "topic": "activity"
-    },
-    {
       "title": "SCiKKU จับมือ CPKKU จัด JOB FAIR 2026 เปิดพื้นที่แห่งโอกาส เชื่อมโยงนักศึกษากับสถานประกอบการชั้นนำ",
       "link": "https://sc.kku.ac.th/sdg/sdg-8-decent-work-and-economic-growth-%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a1%e0%b8%b5%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%84%e0%b9%88%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b8%b0/120209/",
       "outlet": "เว็บไซต์คณะ",
@@ -634,6 +624,16 @@
       "category": "มข.",
       "image": null,
       "topic": "other"
+    },
+    {
+      "title": "นักศึกษา AI วิทยาลัยการคอมพิวเตอร์ มข. สุดเจ๋ง! คว้า 2 รางวัลหุ่นยนต์ระดับอาเซียน จากเวที CPU’4th ASEAN GRAND PRIX YOUTH ROBOTICS AND ESPORTS COMPETITION 2026",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1aalUzOGtvTjdZVl9ocG9xbkFEQWMxT05IYjBFdUtfbEtmWEZhUHdsN0VPUHRMZGtCb0ZyNUxBS01weUoxN2Rv?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-05T09:13:02.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
+      "image": null,
+      "topic": "activity"
     },
     {
       "title": "KKBS ร่วมกับ KTB จัดค่าย Investment & Professional Development Camp เสริมทักษะการเงิน การลงทุน และการพัฒนาวิชาชีพ เตรียมพร้อมสู่โลกธุรกิจยุคใหม่",
