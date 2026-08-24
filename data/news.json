@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T22:07:46.600Z",
+  "updatedAt": "2026-08-24T00:27:14.352Z",
   "sources": [
     {
       "id": "med",
@@ -1620,8 +1620,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IbDBmZWhDTzE1V1o4NEN4VGRiRkRJVFhpOUZyVDB6WElxV3UtMGJDcUVkUDMyakxuMlBSdkVzM2QyVjBxTUJR?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-05-06T03:24:56.000Z",
-      "sourceId": "dent",
-      "category": "คณะทันตแพทยศาสตร์",
+      "sourceId": "med",
+      "category": "คณะแพทยศาสตร์",
       "image": null,
       "topic": "activity"
     },
@@ -2146,6 +2146,16 @@
       "topic": "other"
     },
     {
+      "title": "ศูนย์หัวใจสิริกิติ์ฯคณะแพทยศาสตร์มหาวิทยาลัยขอนแก่น ร่วมกับภาคเอกชน จัดอบรมเชิงปฏิบัติการระดับนานาชาติ ATAE 2026",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPQU1sTEt2VDg4UXhWcXpSVVhCRGFyWkVXYU1SOVYtXzQ1czVlakJhNjE4NDZtYVRDd2xVbFFUNzY3dW9QYkFucUw1OEZlaGZQRE9XZmhaa1Q4LTRzYXBlQ0V5REdMNzZhWHA0a2RqU0prdDJMNWhxS0hNOFI5Zi0ybjAwUTRtempYcHZGZzZ6YS1hZW5fYXdYSkVhTWVUd203WXFXVnJwUk9wM3N1LW0tV1lYaEdvaW1rSW5PamM3aHpLT0pmVm5LeW1SQWRlVXFjTUI1SUcybGpPM1pkdGNWWVFKQjFWVWh5YUIxYS0yOWtnbHlkbjZLMzR3bzJzcFBURDFuZWNVSElKdUFwcjBFVjhmbGYzN0FlcXFPb0RJNjV5RDRzM1Y5d1I5WlBGR3RnRk1jWEprendMXy05VmI4dDZhdXFGMUxTNGtfMWdOUQ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-01-21T08:00:00.000Z",
+      "sourceId": "med",
+      "category": "คณะแพทยศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "โรงเรียนสาธิต ม.ขอนแก่น วิทยาเขตหนองคาย สร้างชื่อ นำนักเรียนผู้ได้รับรางวัล \"เด็กและเยาวชนดีเด่นแห่งชาติ\" ประจำปี 2569 เข้าพบคณบดีคณะสหวิทยาการ รับฟังโอวาทแห่งความภาคภูมิใจ - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuQXdZN0RSSVB3YTFkX0tRSHRLR2hzeVlZVU01dW1ManFRQ1p1RmZMWEdna1k5NXdScUJmbjNvT2pTd2pDQzRF?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2292,6 +2302,16 @@
       "publishedAt": "2025-12-10T08:00:00.000Z",
       "sourceId": "law",
       "category": "คณะนิติศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
+      "title": "ศูนย์หัวใจสิริกิติ์ ภาคตะวันออกเฉียงเหนือ คณะแพทยศาสตร์ มหาวิทยาลัยขอนแก่น จัดอบรมเชิงปฏิบัติการ “Advance Arch Management with Frozen Elephant Trunk Surgery” - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQUHhZYjZPVVl3SjBrQ2lJbGxBM1JLbTJvVXB2ejFndGpPRnpLQjBDNzZGWUZPZF9hVE9sY0toMW1nbE1zODlSTzc3RE9vN040VkdGVHVvX1pmMkkxcERrLUpFd2ZSdGMxVl9JdVljckJYY3JFQml1amlBMW1JQVVCT3h5dVg5T2VDLWt2bUw2Tjg2MXFlY2hid1BmeGZvam1TQ05SSG00Z3g4NUpJZjFxeXYyYWgtNDNWRy1HT212ZG5GeXJBTnhzMkJTRFcydC1DUkRQS3cwNTA2RFAycl93Vm1Jdk85N0loYW9DZm50NjllMG1KQUxTbS1jR0lFLWZCdGFRSjgyMU1HOWxnNGFtMk5qX2JzS2tNS282R0w4RDMwMG5RSEJNVmQ0eW94dmtKVkV6WmVObHpaU3U3Mllyd2Vic29fWGREekp3Um9yM0w?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-12-04T08:00:00.000Z",
+      "sourceId": "med",
+      "category": "คณะแพทยศาสตร์",
       "image": null,
       "topic": "activity"
     },
