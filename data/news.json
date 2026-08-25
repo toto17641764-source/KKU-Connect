@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T08:25:44.692Z",
+  "updatedAt": "2026-08-25T10:18:27.076Z",
   "sources": [
     {
       "id": "med",
@@ -1008,12 +1008,12 @@
     {
       "title": "คณะวิทยาศาสตร์ มข. จัดอบรม “SC MC 2026” พัฒนาทักษะพิธีกรมืออาชีพ สร้างนักสื่อสารรุ่นใหม่ พร้อมเฟ้นหาสุดยอด MC ดาวรุ่ง",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMRlhYTVgyaVJCV2Q5NldFZzhNemNaS1VvMUctckF1bmY5czRmYkxKMzFUTmNWd1o3dGNhekxMQWZBanNMUVNR?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-07-18T07:00:00.000Z",
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
-      "topic": "activity",
-      "image": null
+      "image": null,
+      "topic": "activity"
     },
     {
       "title": "หลักสูตรออกแบบนิเทศศิลป์เสริมสร้างประสบการณ์ ทักษะการบูรณาการองค์ความรู้เชิงสร้างสรรค์",
