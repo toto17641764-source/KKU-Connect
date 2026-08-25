@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T16:21:33.776Z",
+  "updatedAt": "2026-08-25T18:19:32.480Z",
   "sources": [
     {
       "id": "med",
@@ -386,16 +386,6 @@
       "topic": "job"
     },
     {
-      "title": "มข. เปิดงานสัปดาห์วิทยาศาสตร์ฯ 2569 ยิ่งใหญ่ จัดเต็ม 3 วัน ชูแนวคิดนวัตกรรมอัจฉริยะเพื่ออนาคตที่ยั่งยืน พร้อมดึงเยาวชนทั่วอีสานร่วมประลองทักษะคับคั่ง - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hWWxOMHQzbjVoeEl5b01neUM0M3FZajE2MU5mZHhqd2VPeE5iaGt5VWJxNkY5ZUtGLXJGYnFFdFc3WlY1Z2lr?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-08-17T08:37:42.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
-      "image": null,
-      "topic": "research"
-    },
-    {
       "title": "KKBS เปิดโอกาสให้นักเรียนค้นหาตัวตน ผ่าน “KKBS CAMP 2026” จุดประกายความฝันเตรียมพร้อมสู่เส้นทางนักธุรกิจรุ่นใหม่ที่ไร้ขีดจำกัด",
       "link": "https://kkbs.kku.ac.th/insight-kkbs/33269/",
       "outlet": "เว็บไซต์คณะ",
@@ -404,6 +394,16 @@
       "category": "คณะบริหารธุรกิจและการบัญชี",
       "image": "https://kkbs.kku.ac.th/wp/wp-content/uploads/2026/08/8-9082026-kkbs-camp-de-10-1024x682.jpg",
       "topic": "other"
+    },
+    {
+      "title": "มข. เปิดงานสัปดาห์วิทยาศาสตร์ฯ 2569 ยิ่งใหญ่ จัดเต็ม 3 วัน ชูแนวคิดนวัตกรรมอัจฉริยะเพื่ออนาคตที่ยั่งยืน พร้อมดึงเยาวชนทั่วอีสานร่วมประลองทักษะคับคั่ง - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hWWxOMHQzbjVoeEl5b01neUM0M3FZajE2MU5mZHhqd2VPeE5iaGt5VWJxNkY5ZUtGLXJGYnFFdFc3WlY1Z2lr?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "research"
     },
     {
       "title": "คณะเศรษฐศาสตร์ มข. ลงนาม MOU กับสมาคมบริษัทจัดการลงทุน ยกระดับนักศึกษาสู่วิชาชีพการเงิน",
