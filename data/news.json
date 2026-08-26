@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T16:39:37.446Z",
+  "updatedAt": "2026-08-26T19:27:40.906Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,16 @@
     }
   ],
   "items": [
+    {
+      "title": "คณะสหวิทยาการ มข. จัดโครงการ ONE JOURNEY เติมเต็มประสบการณ์ชีวิตมหาวิทยาลัย สานสัมพันธ์ สร้างมิตรภาพ และพัฒนาทักษะนักศึกษา - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1yT3RxZkJOS0MxMzRXdXUyVTlsWFZWMURGWXJuc0ptaTFVRHpWSkVGei02WTFacHdFTk1JNXVveFU0X2ZlUWpJ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-26T11:31:19.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "image": null,
+      "topic": "other"
+    },
     {
       "title": "COPA KKU เปิดรับสมัครอาจารย์ 2 อัตรา",
       "link": "https://copa.kku.ac.th/3637/",
@@ -956,6 +966,16 @@
       "topic": "study"
     },
     {
+      "title": "บัณฑิตวิทยาลัย มข. จัดสัมมนาเชิงปฏิบัติการขับเคลื่อนงานวิจัยสาขาวิชาร่วม ประจำปี 2569",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB0VHZLZkZIX000X2h1OHlnNFlURGtNYVdGVzhaR0NsZjRyNVl0eUNJZjU4TFdUampFWm9mc3MwbDZacVBYSzNV?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-07-21T08:00:21.000Z",
+      "sourceId": "gs",
+      "category": "บัณฑิตวิทยาลัย",
+      "image": null,
+      "topic": "research"
+    },
+    {
       "title": "ส่งผลงานเข้าประกวด “SMART KKU” ชิงเงินรางวัลรวมกว่า 85,000 บาท",
       "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNLTRMUWtuS0lNYW1Tb2dmNTJzaGtOOXhTRmo4dUpvdWMxUzU4eFFvbjZGa3VHR1dHUTRVNnphdkZqN3BKYXU3T1JJeWZPNVZzXzFYM1ctSm9vN0R4ZmQzQUF3c1ZNUm5uelVEbEhONWJDNXZwa0hMUWJlS3BUbVZjY1g0UElGbS14UGpPa3RkVGtpOTVKWkNraTJTTHJEWDF5WmV6aGR1ZW1nRzRTa1hRN01UZGpMaEFUUWJ3bXl1b3ZaWlJyaE5QdlZZbnhfQTJ6VnlrOEw0UlRzS1FaN1N6ak9wOFNrY2VFWGRtemdDc2V2ZW41dk9McF9lOUlkanVKQy03Ujd5MjQybkR1dlRiLVFYZEpDSlZSdzU5QXJqVU9xTWZIdk5EcmdSZEhhSzI5U0ZYcUhWYmdQdGFVVDlKWA?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1004,16 +1024,6 @@
       "category": "คณะเกษตรศาสตร์",
       "image": null,
       "topic": "activity"
-    },
-    {
-      "title": "บัณฑิตวิทยาลัย มข. จัดสัมมนาเชิงปฏิบัติการขับเคลื่อนงานวิจัยสาขาวิชาร่วม ประจำปี 2569",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB0VHZLZkZIX000X2h1OHlnNFlURGtNYVdGVzhaR0NsZjRyNVl0eUNJZjU4TFdUampFWm9mc3MwbDZacVBYSzNV?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-07-19T07:00:00.000Z",
-      "sourceId": "gs",
-      "category": "บัณฑิตวิทยาลัย",
-      "image": null,
-      "topic": "research"
     },
     {
       "title": "คณะวิทยาศาสตร์ มข. จัดอบรม “SC MC 2026” พัฒนาทักษะพิธีกรมืออาชีพ สร้างนักสื่อสารรุ่นใหม่ พร้อมเฟ้นหาสุดยอด MC ดาวรุ่ง",
@@ -2436,16 +2446,6 @@
       "topic": "study"
     },
     {
-      "title": "บัณฑิตวิทยาลัย มหาวิทยาลัยขอนแก่น ครบรอบ 47 ปี จัดพิธีทำบุญเพื่อความเป็นสิริมงคลและรำลึกถึงความเป็นมาของสถาบัน - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0ZGduS19lYUdxdXFTMTJCSTRwVHRMMm1ob29uMVdFVE5LeC1Ob2JQN3NMRnQwaTlCblBwM1RtTnVyN1FfNVRv?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-11-28T08:00:00.000Z",
-      "sourceId": "gs",
-      "category": "บัณฑิตวิทยาลัย",
-      "image": null,
-      "topic": "study"
-    },
-    {
       "title": "คณะนิติศาสตร์ มข. จัดสัมมนา “Restaulaw” สู่ “มื้ออาหารแห่งอิสรภาพ” เชื่อมธุรกิจ-กฎหมาย-สังคม",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBQUdBcnpOQkY0bWJYQWkwRzVQQ0NobUtpdzlXRHVHeFk4eDZ5Q2MwTDkzU2VaOWctN081N3lBWkpPRWt2QktZ?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2454,6 +2454,16 @@
       "category": "คณะนิติศาสตร์",
       "image": null,
       "topic": "activity"
+    },
+    {
+      "title": "บัณฑิตวิทยาลัย มหาวิทยาลัยขอนแก่น ครบรอบ 47 ปี จัดพิธีทำบุญเพื่อความเป็นสิริมงคลและรำลึกถึงความเป็นมาของสถาบัน - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0ZGduS19lYUdxdXFTMTJCSTRwVHRMMm1ob29uMVdFVE5LeC1Ob2JQN3NMRnQwaTlCblBwM1RtTnVyN1FfNVRv?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-11-28T08:00:00.000Z",
+      "sourceId": "gs",
+      "category": "บัณฑิตวิทยาลัย",
+      "image": null,
+      "topic": "study"
     },
     {
       "title": "คณะพยาบาลศาสตร์ มข. จัดอบรม “การใช้ AI เพื่อการจัดการเรียนการสอนและการพัฒนางานให้มีประสิทธิภาพสูงสุด”",
