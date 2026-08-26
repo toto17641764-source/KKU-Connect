@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T02:54:32.197Z",
+  "updatedAt": "2026-08-26T04:27:11.755Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,16 @@
   ],
   "items": [
     {
+      "title": "COPA KKU เปิดรับสมัครอาจารย์ 2 อัตรา",
+      "link": "https://copa.kku.ac.th/3637/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-08-26T04:15:31.000Z",
+      "sourceId": "cola",
+      "category": "วิทยาลัยการปกครองท้องถิ่น",
+      "image": "https://copa.kku.ac.th/wp-content/uploads/2026/08/768310373_1575946817402072_4853793957093905769_n-819x1024.jpg",
+      "topic": "job"
+    },
+    {
       "title": "รับสมัคร พนักงานจ้างเหมาบริการทำความสะอาด (จำนวน 10 อัตรา) สังกัดคณะวิทยาศาสตร์ มหาวิทยาลัยขอนแก่น",
       "link": "https://sc.kku.ac.th/wp-content/uploads/2026/08/126-2569-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%84%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%AF-%E0%B8%9E%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94.pdf#new_tab",
       "outlet": "เว็บไซต์คณะ",
@@ -307,7 +317,7 @@
     },
     {
       "title": "หลักสูตรสถิติและวิทยาการข้อมูล คณะวิทยาศาสตร์ มข. คว้าผลประเมิน AUN-QA ระดับ 4",
-      "link": "https://sc.kku.ac.th/sdg/sdg-4-quality-education-%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%a8%e0%b8%b6%e0%b8%81%e0%b8%a9%e0%b8%b2%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%97%e0%b9%88%e0%b8%b2%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b8%a2/121757/",
+      "link": "https://sc.kku.ac.th/program/121757/",
       "outlet": "เว็บไซต์คณะ",
       "publishedAt": "2026-08-22T06:20:24.000Z",
       "sourceId": "sci",
