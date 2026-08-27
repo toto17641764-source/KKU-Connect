@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T22:32:04.932Z",
+  "updatedAt": "2026-08-27T05:11:58.906Z",
   "sources": [
     {
       "id": "med",
@@ -966,16 +966,6 @@
       "topic": "study"
     },
     {
-      "title": "บัณฑิตวิทยาลัย มข. จัดสัมมนาเชิงปฏิบัติการขับเคลื่อนงานวิจัยสาขาวิชาร่วม ประจำปี 2569",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB0VHZLZkZIX000X2h1OHlnNFlURGtNYVdGVzhaR0NsZjRyNVl0eUNJZjU4TFdUampFWm9mc3MwbDZacVBYSzNV?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-07-21T08:00:21.000Z",
-      "sourceId": "gs",
-      "category": "บัณฑิตวิทยาลัย",
-      "image": null,
-      "topic": "research"
-    },
-    {
       "title": "ส่งผลงานเข้าประกวด “SMART KKU” ชิงเงินรางวัลรวมกว่า 85,000 บาท",
       "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNLTRMUWtuS0lNYW1Tb2dmNTJzaGtOOXhTRmo4dUpvdWMxUzU4eFFvbjZGa3VHR1dHUTRVNnphdkZqN3BKYXU3T1JJeWZPNVZzXzFYM1ctSm9vN0R4ZmQzQUF3c1ZNUm5uelVEbEhONWJDNXZwa0hMUWJlS3BUbVZjY1g0UElGbS14UGpPa3RkVGtpOTVKWkNraTJTTHJEWDF5WmV6aGR1ZW1nRzRTa1hRN01UZGpMaEFUUWJ3bXl1b3ZaWlJyaE5QdlZZbnhfQTJ6VnlrOEw0UlRzS1FaN1N6ak9wOFNrY2VFWGRtemdDc2V2ZW41dk9McF9lOUlkanVKQy03Ujd5MjQybkR1dlRiLVFYZEpDSlZSdzU5QXJqVU9xTWZIdk5EcmdSZEhhSzI5U0ZYcUhWYmdQdGFVVDlKWA?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1026,10 +1016,30 @@
       "topic": "activity"
     },
     {
+      "title": "บัณฑิตวิทยาลัย มข. จัดสัมมนาเชิงปฏิบัติการขับเคลื่อนงานวิจัยสาขาวิชาร่วม ประจำปี 2569",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB0VHZLZkZIX000X2h1OHlnNFlURGtNYVdGVzhaR0NsZjRyNVl0eUNJZjU4TFdUampFWm9mc3MwbDZacVBYSzNV?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-07-19T07:00:00.000Z",
+      "sourceId": "gs",
+      "category": "บัณฑิตวิทยาลัย",
+      "image": null,
+      "topic": "research"
+    },
+    {
       "title": "คณะวิทยาศาสตร์ มข. จัดอบรม “SC MC 2026” พัฒนาทักษะพิธีกรมืออาชีพ สร้างนักสื่อสารรุ่นใหม่ พร้อมเฟ้นหาสุดยอด MC ดาวรุ่ง",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMRlhYTVgyaVJCV2Q5NldFZzhNemNaS1VvMUctckF1bmY5czRmYkxKMzFUTmNWd1o3dGNhekxMQWZBanNMUVNR?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-07-18T07:00:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
+      "title": "สโมสรน.ศ.คณะวิทย์ ม.ขอนแก่น แจงดราม่า ปมใช้เครื่องมือ AI สร้างงานส่งประกวดภาพวาด ขออภัยสื่อสารไม่ชัด",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xSFljR0NnWU54eDJZZXNfN2tqaVNvYlVDb2g3dWdHWXRtbnRkTi03QnRGR0FOTEpEY2RkRmFJZ243Q0ZxWnJCdXJ6bnFLVmFBUno0YkVNZ2dBNjNRRVQ5WFBPUGt6Zw?oc=5",
+      "outlet": "มติชนออนไลน์",
+      "publishedAt": "2026-07-16T07:00:00.000Z",
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
       "image": null,
