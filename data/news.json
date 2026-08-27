@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T05:11:58.906Z",
+  "updatedAt": "2026-08-27T16:53:04.725Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,26 @@
     }
   ],
   "items": [
+    {
+      "title": "KKBS ร่วมกับ JOBTOPGUN เสริมทักษะนักศึกษา จัดบรรยายหัวข้อ “เขียนเรซูเม่ให้โดนใจ HR เตรียมพร้อม Gen Z สมัครงานยุค AI”",
+      "link": "https://kkbs.kku.ac.th/insight-kkbs/33461/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-08-27T09:58:57.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "image": "https://kkbs.kku.ac.th/wp/wp-content/uploads/2026/08/13082026-kkbs-job-fair-2026-73-1-1024x682.jpg",
+      "topic": "job"
+    },
+    {
+      "title": "รับสมัครคัดเลือกผู้ประกอบการประเภทร้านค้า ภายใน Science Square คณะวิทยาศาสตร์ มหาวิทยาลัยขอนแก่น (ครั้งที่ 1/2569)",
+      "link": "https://sc.kku.ac.th/wp-content/uploads/2026/08/1.%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8-%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3-Science-Sqaure-%E0%B8%87%E0%B8%9A-2570-%E0%B8%89%E0%B8%9A%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%A5%E0%B8%87%E0%B8%99.pdf#new_tab",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-08-27T06:04:37.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "other"
+    },
     {
       "title": "คณะสหวิทยาการ มข. จัดโครงการ ONE JOURNEY เติมเต็มประสบการณ์ชีวิตมหาวิทยาลัย สานสัมพันธ์ สร้างมิตรภาพ และพัฒนาทักษะนักศึกษา - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1yT3RxZkJOS0MxMzRXdXUyVTlsWFZWMURGWXJuc0ptaTFVRHpWSkVGei02WTFacHdFTk1JNXVveFU0X2ZlUWpJ?oc=5",
@@ -966,6 +986,16 @@
       "topic": "study"
     },
     {
+      "title": "บัณฑิตวิทยาลัย มข. จัดสัมมนาเชิงปฏิบัติการขับเคลื่อนงานวิจัยสาขาวิชาร่วม ประจำปี 2569",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB0VHZLZkZIX000X2h1OHlnNFlURGtNYVdGVzhaR0NsZjRyNVl0eUNJZjU4TFdUampFWm9mc3MwbDZacVBYSzNV?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-07-21T08:00:21.000Z",
+      "sourceId": "gs",
+      "category": "บัณฑิตวิทยาลัย",
+      "image": null,
+      "topic": "research"
+    },
+    {
       "title": "ส่งผลงานเข้าประกวด “SMART KKU” ชิงเงินรางวัลรวมกว่า 85,000 บาท",
       "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNLTRMUWtuS0lNYW1Tb2dmNTJzaGtOOXhTRmo4dUpvdWMxUzU4eFFvbjZGa3VHR1dHUTRVNnphdkZqN3BKYXU3T1JJeWZPNVZzXzFYM1ctSm9vN0R4ZmQzQUF3c1ZNUm5uelVEbEhONWJDNXZwa0hMUWJlS3BUbVZjY1g0UElGbS14UGpPa3RkVGtpOTVKWkNraTJTTHJEWDF5WmV6aGR1ZW1nRzRTa1hRN01UZGpMaEFUUWJ3bXl1b3ZaWlJyaE5QdlZZbnhfQTJ6VnlrOEw0UlRzS1FaN1N6ak9wOFNrY2VFWGRtemdDc2V2ZW41dk9McF9lOUlkanVKQy03Ujd5MjQybkR1dlRiLVFYZEpDSlZSdzU5QXJqVU9xTWZIdk5EcmdSZEhhSzI5U0ZYcUhWYmdQdGFVVDlKWA?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1014,16 +1044,6 @@
       "category": "คณะเกษตรศาสตร์",
       "image": null,
       "topic": "activity"
-    },
-    {
-      "title": "บัณฑิตวิทยาลัย มข. จัดสัมมนาเชิงปฏิบัติการขับเคลื่อนงานวิจัยสาขาวิชาร่วม ประจำปี 2569",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB0VHZLZkZIX000X2h1OHlnNFlURGtNYVdGVzhaR0NsZjRyNVl0eUNJZjU4TFdUampFWm9mc3MwbDZacVBYSzNV?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-07-19T07:00:00.000Z",
-      "sourceId": "gs",
-      "category": "บัณฑิตวิทยาลัย",
-      "image": null,
-      "topic": "research"
     },
     {
       "title": "คณะวิทยาศาสตร์ มข. จัดอบรม “SC MC 2026” พัฒนาทักษะพิธีกรมืออาชีพ สร้างนักสื่อสารรุ่นใหม่ พร้อมเฟ้นหาสุดยอด MC ดาวรุ่ง",
@@ -1396,6 +1416,16 @@
       "topic": "activity"
     },
     {
+      "title": "คณะศึกษาศาสตร์ มข. จัดกิจกรรมทำสัญญาทุน “ครูรัก(ษ์)ถิ่น” รุ่นที่ 6 สร้างโอกาสทางการศึกษาสู่การพัฒนาชุมชน",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA5T0xtQlJGUmJVZnZqTWRnQzFGNnVJRlRXaUxTdGFya2FEYkUxdU1RUTFSdmpSZ3VkaEpQUUI4WlEwU2E5OTVF?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-06-14T07:00:00.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "มหาวิทยาลัยขอนแก่น จัดอบรมเชิงปฏิบัติการพัฒนาและต่อยอดผลิตภัณฑ์ชุมชน สร้างสรรค์นวัตกรรมต่อยอดผลิตภัณฑ์ชุมชนสู่เศรษฐกิจสร้างสรรค์ - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JRHN4ck4zQkhFTVBUX0FhZU9GQ2x5clN1NmFmSEEtazNOWWtvZkNkTjFtUDZpYTBWVThHbW1kcnRGV3dPckdV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1418,7 +1448,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "มติชนออนไลน์",
+      "outlet": "Matichon Online",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -1586,16 +1616,6 @@
       "image": null
     },
     {
-      "title": "ขอเชิญอาจารย์และบุคลากร มหาวิทยาลัยขอนแก่น เข้าทดสอบความรู้ “ความปลอดภัยทางไซเบอร์” ประจำปี 2569",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPOHRJajI2bU5LWVNUbVNLb0xrQW1PZnR6NTRCN1VRVWFiS2ZRX0xMb3V5ekZDeElENnUzQXhGV2RYVEVDazNRNk9EZ05hZ0VMdmtPRDVwYmhMdUQ2elpoVlRSMHRpVEVWVUZxb2V2ZnFqYW5LNkhhMXZqYTJIUTVwbW85UVZQdzlVTDJ0UkR5TzRPUW80WEZJRWMyYTBJQ2Q1M1hMcGlIQTZwYXg0dzcydXdOckJMLWlGbFBKQ19rNnk4blJiRF9FbWI1R3R1aGMxUDVDVEJubVlCRFg1cTZQS25FWk9RakNjTXZEOUZTZUtIUkRVVkZ3VkxVN0hzaUlHWFFTbnFzd0cybDdWZTBscHZfT3ZzcVVsTUVOVTFCUmVJQ3REd2s2ZmVGYlNIVjZnVGpEYllzU3JBbVBLVHE4SEdkbUxnNmlBeVJHRWpfYw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-05-11T07:00:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "image": null,
-      "topic": "study"
-    },
-    {
       "title": "ศึกษาศาสตร์ มข. ร่วมสถานศึกษาเครือข่าย เตรียมความพร้อมครูพี่เลี้ยง และอาจารย์นิเทศก์ ก่อนส่งนักศึกษาฝึกปฏิบัติการสอนฯ ประจำปี 2569 - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zVk5UZnNLTmdsd1hwc0Ryc0xWbzdRTWZDTTRPN1pFdFBTMWFlUWdfSWxseEJzdjhlQkF4YzV2VWtILXdwWGNV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1604,6 +1624,16 @@
       "category": "คณะศึกษาศาสตร์",
       "image": null,
       "topic": "other"
+    },
+    {
+      "title": "ขอเชิญอาจารย์และบุคลากร มหาวิทยาลัยขอนแก่น เข้าทดสอบความรู้ “ความปลอดภัยทางไซเบอร์” ประจำปี 2569",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPOHRJajI2bU5LWVNUbVNLb0xrQW1PZnR6NTRCN1VRVWFiS2ZRX0xMb3V5ekZDeElENnUzQXhGV2RYVEVDazNRNk9EZ05hZ0VMdmtPRDVwYmhMdUQ2elpoVlRSMHRpVEVWVUZxb2V2ZnFqYW5LNkhhMXZqYTJIUTVwbW85UVZQdzlVTDJ0UkR5TzRPUW80WEZJRWMyYTBJQ2Q1M1hMcGlIQTZwYXg0dzcydXdOckJMLWlGbFBKQ19rNnk4blJiRF9FbWI1R3R1aGMxUDVDVEJubVlCRFg1cTZQS25FWk9RakNjTXZEOUZTZUtIUkRVVkZ3VkxVN0hzaUlHWFFTbnFzd0cybDdWZTBscHZfT3ZzcVVsTUVOVTFCUmVJQ3REd2s2ZmVGYlNIVjZnVGpEYllzU3JBbVBLVHE4SEdkbUxnNmlBeVJHRWpfYw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-05-11T07:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "study"
     },
     {
       "title": "สอวน. ร่วมกับ คณะวิทยาศาสตร์ มข. เปิดฉากการแข่งขันดาราศาสตร์โอลิมปิกระดับชาติ ครั้งที่ 23 (TAO23) มุ่งสร้างนักดาราศาสตร์รุ่นใหม่สู่สากล - Khon Kaen University",
@@ -2780,6 +2810,16 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBReFNIVmV0OWtSYk5pV2Vpa0VORlpKS0MxVzJiT0FMLTJ5Z3lpZ0RHWXgyQXo2M2JUdDlrUHhlQWRpa1V0YkhfOWZLckdaNjdJYmMzVkt3?oc=5",
       "outlet": "LINE TODAY",
       "publishedAt": "2023-09-13T07:00:00.000Z",
+      "sourceId": "cbs",
+      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
+      "image": null,
+      "topic": "study"
+    },
+    {
+      "title": "รำลึก วันสถาปนาวิทยาลัยบัณฑิตศึกษาการจัดการ ครบรอบ 30 ปี",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tTE5IWnM3SDJSSS1aS2hSVXhOZ1Iyc2Z2RHJybElRRWtUSW9PQjFyZnVHeklYR1VaQy0zeU80dVJjeTZ1ekpTR2dvUUxYVlJyVDBlVWNKZVgtRXZUX1RfN1ctYUFPa0g2eGx2RV9ZYmNiNVhPaGxUYw?oc=5",
+      "outlet": "ประชาชาติธุรกิจ",
+      "publishedAt": "2023-09-12T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
       "image": null,
