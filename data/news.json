@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T13:25:09.121Z",
+  "updatedAt": "2026-08-28T23:14:15.969Z",
   "sources": [
     {
       "id": "med",
@@ -576,16 +576,6 @@
       "topic": "other"
     },
     {
-      "title": "มหาวิทยาลัยขอนแก่น ต้อนรับ มหาวิทยาลัยเกษตรศาสตร์ แลกเปลี่ยนวิสัยทัศน์งานกิจการนักศึกษา มุ่งสานเครือข่ายสองสถาบัน - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9tSlJqdjJnTW1ELVpRbV9USnRtVWhOdi1LVXloNjZ5Y181aGNlTHdjVmg4anZkZ1FUTVZQd25xLTFBRnIxRXhn?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-08-11T07:00:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "image": null,
-      "topic": "activity"
-    },
-    {
       "title": "คณะทันตแพทยศาสตร์ มข. ต้อนรับนักเรียนและครูจากโรงเรียนลำปลายมาศ เยี่ยมชมคณะ เปิดโลกการศึกษาสู่เส้นทางวิชาชีพทันตแพทย์",
       "link": "https://dentistry.kku.ac.th/30091?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%2584%25e0%25b8%2593%25e0%25b8%25b0%25e0%25b8%2597%25e0%25b8%25b1%25e0%25b8%2599%25e0%25b8%2595%25e0%25b9%2581%25e0%25b8%259e%25e0%25b8%2597%25e0%25b8%25a2%25e0%25b8%25a8%25e0%25b8%25b2%25e0%25b8%25aa%25e0%25b8%2595%25e0%25b8%25a3%25e0%25b9%258c-%25e0%25b8%25a1%25e0%25b8%2582-%25e0%25b8%2595%25e0%25b9%2589-4",
       "outlet": "เว็บไซต์คณะ",
@@ -642,6 +632,16 @@
       "publishedAt": "2026-08-09T06:09:07.000Z",
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
+      "title": "มหาวิทยาลัยขอนแก่น ต้อนรับ มหาวิทยาลัยเกษตรศาสตร์ แลกเปลี่ยนวิสัยทัศน์งานกิจการนักศึกษา มุ่งสานเครือข่ายสองสถาบัน - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9tSlJqdjJnTW1ELVpRbV9USnRtVWhOdi1LVXloNjZ5Y181aGNlTHdjVmg4anZkZ1FUTVZQd25xLTFBRnIxRXhn?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-08T02:37:38.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
       "image": null,
       "topic": "activity"
     },
@@ -1440,8 +1440,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JRHN4ck4zQkhFTVBUX0FhZU9GQ2x5clN1NmFmSEEtazNOWWtvZkNkTjFtUDZpYTBWVThHbW1kcnRGV3dPckdV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-06-10T07:00:00.000Z",
-      "sourceId": "arch",
-      "category": "คณะสถาปัตยกรรมศาสตร์",
+      "sourceId": "kku",
+      "category": "มข.",
       "image": null,
       "topic": "research"
     },
@@ -1458,7 +1458,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "Matichon Online",
+      "outlet": "มติชนออนไลน์",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
