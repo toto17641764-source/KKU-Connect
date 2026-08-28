@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T01:48:15.538Z",
+  "updatedAt": "2026-08-28T13:25:09.121Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,16 @@
     }
   ],
   "items": [
+    {
+      "title": "คณะศึกษาศาสตร์ มข. จัดอบรมเชิงปฏิบัติการ “AI กับการออกแบบการเรียนรู้: สร้างโครงงาน STEM และบูรณาการการเรียนรู้สำหรับครูแห่งอนาคต” มุ่งเสริมทักษะนวัตกรรมสู่ศตวรรษที่ 21",
+      "link": "https://ednet.kku.ac.th/news/20725/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-08-28T09:25:06.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": "https://ednet.kku.ac.th/wp-content/uploads/2026/08/1161743-1024x683.jpg",
+      "topic": "research"
+    },
     {
       "title": "KKBS ร่วมกับ JOBTOPGUN เสริมทักษะนักศึกษา จัดบรรยายหัวข้อ “เขียนเรซูเม่ให้โดนใจ HR เตรียมพร้อม Gen Z สมัครงานยุค AI”",
       "link": "https://kkbs.kku.ac.th/insight-kkbs/33461/",
@@ -2826,9 +2836,9 @@
       "topic": "study"
     },
     {
-      "title": "สมาคมศิษย์เก่า ร่วมรำลึก วันสถาปนาวิทยาลัยบัณฑิตศึกษาการจัดการ ครบรอบ 30 ปี",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HLUtBaGxJUWowY3Q2MjRUTWx1QmNodEJIMmwxTl9RSFRVazVRRk9uMFNsVGZBa1c2enRFX2YxY2E0ZjB2VlJkZExTSDJORVE0Q1J2NEp5RDFtb09VcXVhSHc5WnRGZkpJanpZTGlhRVFhX1pQd2RyNw?oc=5",
-      "outlet": "ประชาชาติธุรกิจ",
+      "title": "วันสถาปนาวิทยาลัยบัณฑิตศึกษาการจัดการ ครบรอบ 30 ปี",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uSW0ySVFWdUpXRF93VFBDNGNuTmsxY2tBLWlfLWQwNHFLYnpIVlFCUDUzN0NZUEp5dlJhMnFtck9HcVgxZ3lKcGFQOHVyTEZIMTNQMVNCbGphUQ?oc=5",
+      "outlet": "ข่าวสด",
       "publishedAt": "2023-09-11T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -2836,9 +2846,9 @@
       "topic": "study"
     },
     {
-      "title": "วันสถาปนาวิทยาลัยบัณฑิตศึกษาการจัดการ ครบรอบ 30 ปี",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uSW0ySVFWdUpXRF93VFBDNGNuTmsxY2tBLWlfLWQwNHFLYnpIVlFCUDUzN0NZUEp5dlJhMnFtck9HcVgxZ3lKcGFQOHVyTEZIMTNQMVNCbGphUQ?oc=5",
-      "outlet": "ข่าวสด",
+      "title": "สมาคมศิษย์เก่า ร่วมรำลึก วันสถาปนาวิทยาลัยบัณฑิตศึกษาการจัดการ ครบรอบ 30 ปี",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HLUtBaGxJUWowY3Q2MjRUTWx1QmNodEJIMmwxTl9RSFRVazVRRk9uMFNsVGZBa1c2enRFX2YxY2E0ZjB2VlJkZExTSDJORVE0Q1J2NEp5RDFtb09VcXVhSHc5WnRGZkpJanpZTGlhRVFhX1pQd2RyNw?oc=5",
+      "outlet": "ประชาชาติธุรกิจ",
       "publishedAt": "2023-09-11T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
