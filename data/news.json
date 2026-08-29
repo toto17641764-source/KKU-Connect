@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T18:56:11.562Z",
+  "updatedAt": "2026-08-29T22:02:52.377Z",
   "sources": [
     {
       "id": "med",
@@ -1456,16 +1456,6 @@
       "topic": "study"
     },
     {
-      "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "มติชนออนไลน์",
-      "publishedAt": "2026-06-06T07:00:00.000Z",
-      "sourceId": "cbs",
-      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
-      "image": null,
-      "topic": "study"
-    },
-    {
       "title": "MBA มข. จับมือ GFGL เปิดหลักสูตร WVP 2026 ปั้นผู้นำธุรกิจเวลเนส ขับเคลื่อนเศรษฐกิจสุขภาพด้วย AI และนวัตกรรม",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OODRIWWtCU3ZYSG05V3NoM0hRd21uOEh3a0d2QzhTUHdtbHMzQmstUW14SkJxWk56RkdUYjdEZjlDMzF6M1U1dWVuYlBtWTkzTHpQUQ?oc=5",
       "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
@@ -1474,6 +1464,16 @@
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
       "image": null,
       "topic": "research"
+    },
+    {
+      "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
+      "outlet": "มติชนออนไลน์",
+      "publishedAt": "2026-06-06T07:00:00.000Z",
+      "sourceId": "cbs",
+      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
+      "image": null,
+      "topic": "study"
     },
     {
       "title": "นักศึกษา ป.โท ผังเมือง มข. คว้าทุน สสส. พัฒนาพื้นที่สุขภาวะ สีชมพูโมเดล",
@@ -1486,10 +1486,30 @@
       "topic": "study"
     },
     {
+      "title": "คณะศึกษาศาสตร์ มข. ผนึกกำลังมหาวิทยาลัยครูซ่านซี ลงนามความร่วมมือยกระดับหลักสูตรต้นแบบ “AI, Robotics in STEAM Education for K–12” มุ่งเสริมสมรรถนะผู้เรียนรองรับอนาคต - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBWMEluaFpsbG13d1FWdzNYNWxhOWFtX2U2cVhlc3RuYl9NTThjcWx6eExuRjJyQUs1c0ZUYjBnS1UwanRYNnM0?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-06-05T03:47:55.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": null,
+      "topic": "study"
+    },
+    {
       "title": "ศิลปวัฒนธรรมไทยสู่สากล : คณะมนุษยศาสตร์ฯ มข. ร่วมกิจกรรมสืบสานประเพณีไทยสร้างความประทับใจในเทศกาลสงกรานต์เมืองลีดส์ สหราชอาณาจักร - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4wYVdOLU9YbkExNzNZVHk3bFlEbDlLb2luV3ZaMkI4OTZ6RktOcnc0bmhmZ3NKdnJ4SHg2Zk1QbElCWERtVVNv?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-06-05T03:44:03.000Z",
+      "sourceId": "hs",
+      "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
+      "title": "คณะมนุษยศาสตร์ฯ มข. ร่วมจัดนิทรรศการการศึกษาไทยในงาน Thai Festival 2026 ณ กรุงปักกิ่ง สาธารณรัฐประชาชนจีน",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MMHg4cVJ2UUw0aHB1aDA2Vmc3T2ZTX0xWcE1jN0F2a2FfQTAyUDB3YUNKczMwcDRzVmpSQ0tpemkwa0s3WmlF?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-06-05T03:43:54.000Z",
       "sourceId": "hs",
       "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
       "image": null,
@@ -2686,6 +2706,16 @@
       "topic": "activity"
     },
     {
+      "title": "คณะสาธารณสุขศาสตร์ มข. ลงนามความร่วมมือและปฐมนิเทศโครงการฝึกอบรมหลักสูตรประกาศนียบัตรผู้บริหารระดับสูงระดับอำเภอ กับ กรมอนามัย กระทรวงสาธารณสุข - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5PY0hfeTlQSG43a0JMTGdVd01iZm00MXBrNXBqenNELVAyRUNWRVkzY0s2YklrTGVFa0VmRUJvSS0yRXowWFE?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-05-24T16:53:38.000Z",
+      "sourceId": "ph",
+      "category": "คณะสาธารณสุขศาสตร์",
+      "image": null,
+      "topic": "study"
+    },
+    {
       "title": "#TCAS64 คณะสัตวแพทยศาสตร์ ม.ขอนแก่น เปิดรับสมัครนศ.ป.ตรี รอบที่ 4 (รับตรงอิสระ) ตั้งแต่วันที่ 3-7 มิ.ย. 64 #dek64 #TCASรอบ4 คณะสัตวแพทยศาสตร์ มหาวิทยาลัยขอนแก่น เปิดรับสมัครบุคคลเพื่อคัดเลือกเข้าเป็นนิสิตระดับปริญญาตรี - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5VMVBVbWZtQVZ2SEZ6ZHJRLU44eTd2U2ZJRUU2SENUNGYxVHV6WkpCQ0lWdElSckdKU3dDWmZXU295eW0yb2c?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2786,12 +2816,32 @@
       "topic": "other"
     },
     {
+      "title": "คณบดีวิทยาลัยบัณฑิตศึกษาการจัดการ รับมอบเงิน 8 ล้านบาท จากดร.สุนทร อรุณานนท์ชัย ใช้ในการจัดการศึกษาหลักสูตรบริหารธุรกิจมหาบัณฑิต (MBA) - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5jSXBELUpuWXp5NHNyTm1ydUNsa2VhWmg2bzVjcnZmZ2xmQmc3MWllbGllT0ZUaHRRZE1kRmNjbkVLQUQ2SHc?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-05-07T01:49:08.000Z",
+      "sourceId": "cbs",
+      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
+      "image": null,
+      "topic": "study"
+    },
+    {
       "title": "วิทยาลัยการปกครองท้องถิ่น ร่วมกับ วิทยาลัยการคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น เปิดรับสมัครนักศึกษาใหม่ระดับบัณฑิตศึกษา ประจำปีการศึกษา 2565 หลักสูตรรัฐประศาสนศาสตรมหาบัณฑิต มุ่งเน้นด้าน Digital Governance - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Dem1lUmJrNzlIYTZhVGU2UXI3eEhxbWZSOURtV3lVaUpOLWxiOUE4WVJnTDJYUkVUYnllLUxXUDJJUTVWbWc?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2025-05-06T22:18:30.000Z",
       "sourceId": "cola",
       "category": "วิทยาลัยการปกครองท้องถิ่น",
+      "image": null,
+      "topic": "study"
+    },
+    {
+      "title": "banmuang-“วิทยาลัยบัณฑิตศึกษาการจัดการ มข.”เปิดตัว โปรแกรม MBA Chinese Business Study 3.5+1.5 หลักสูตรปริญญาตรีควบปริญญาโท",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBPMDFieHM1MEV3eDIwYkhQWlZVbTdETFFyVUxEQWZSNE5KRWQtb3ktMi1GNk1WNEdfdWRSdzhlWDY1aTN3TDdB?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-05-06T15:42:40.000Z",
+      "sourceId": "cbs",
+      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
       "image": null,
       "topic": "study"
     },
