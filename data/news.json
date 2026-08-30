@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T20:08:23.567Z",
+  "updatedAt": "2026-08-30T23:57:13.234Z",
   "sources": [
     {
       "id": "med",
@@ -1708,7 +1708,7 @@
     {
       "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
-      "outlet": "mgronline",
+      "outlet": "ผู้จัดการออนไลน์",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -2334,6 +2334,16 @@
       "category": "คณะสหวิทยาการ (หนองคาย)",
       "image": null,
       "topic": "activity"
+    },
+    {
+      "title": "คณะเกษตรศาสตร์ มข. ติวเข้มทักษะเสียงตามสาย กองสื่อสารองค์กร ส่งบุคลากรให้ความรู้ ปั้นนักศึกษาประชาสัมพันธ์ พร้อมลุยงานวันเกษตรภาคอีสาน 2569 - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA5QTA3TEszeXQwdHducDZGMzdyTDk3Q3djQzlvR0tvMzg2YzlDU2RjQlkxVHdyMTNCRnluWEs4cjNfdVRrcHc0?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-01-15T08:00:00.000Z",
+      "sourceId": "agri",
+      "category": "คณะเกษตรศาสตร์",
+      "image": null,
+      "topic": "other"
     },
     {
       "title": "ประกาศรับสมัคร “นักเรียนผู้ช่วยทันตแพทย์” คณะทันตแพทยศาสตร์ มหาวิทยาลัยขอนแก่น",
