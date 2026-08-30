@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T22:02:52.377Z",
+  "updatedAt": "2026-08-30T01:50:45.593Z",
   "sources": [
     {
       "id": "med",
@@ -1456,16 +1456,6 @@
       "topic": "study"
     },
     {
-      "title": "MBA มข. จับมือ GFGL เปิดหลักสูตร WVP 2026 ปั้นผู้นำธุรกิจเวลเนส ขับเคลื่อนเศรษฐกิจสุขภาพด้วย AI และนวัตกรรม",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OODRIWWtCU3ZYSG05V3NoM0hRd21uOEh3a0d2QzhTUHdtbHMzQmstUW14SkJxWk56RkdUYjdEZjlDMzF6M1U1dWVuYlBtWTkzTHpQUQ?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
-      "publishedAt": "2026-06-06T07:00:00.000Z",
-      "sourceId": "cbs",
-      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
-      "image": null,
-      "topic": "research"
-    },
-    {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
       "outlet": "มติชนออนไลน์",
@@ -1474,6 +1464,16 @@
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
       "image": null,
       "topic": "study"
+    },
+    {
+      "title": "MBA มข. จับมือ GFGL เปิดหลักสูตร WVP 2026 ปั้นผู้นำธุรกิจเวลเนส ขับเคลื่อนเศรษฐกิจสุขภาพด้วย AI และนวัตกรรม",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OODRIWWtCU3ZYSG05V3NoM0hRd21uOEh3a0d2QzhTUHdtbHMzQmstUW14SkJxWk56RkdUYjdEZjlDMzF6M1U1dWVuYlBtWTkzTHpQUQ?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-06-06T07:00:00.000Z",
+      "sourceId": "cbs",
+      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
+      "image": null,
+      "topic": "research"
     },
     {
       "title": "นักศึกษา ป.โท ผังเมือง มข. คว้าทุน สสส. พัฒนาพื้นที่สุขภาวะ สีชมพูโมเดล",
@@ -2208,12 +2208,12 @@
     {
       "title": "นักศึกษาคณะมนุษยศาสตร์และสังคมศาสตร์ มข. จัดค่ายมนุษย์-สังคม ครั้งที่ 10 เปิดพื้นที่เรียนรู้บ้านดุง สัมผัสวิถีแม่น้ำสงคราม - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBQWnZsaGNmZG1EeWRsVlRCbkZtYXM5WDc0eF9PamN3cFZMb3o4U1Npb1RTdlBlYzNZRm9uTzdQMWRXX1FiVnNV?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-02-20T06:32:00.000Z",
       "sourceId": "hs",
       "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
-      "topic": "activity",
-      "image": null
+      "image": null,
+      "topic": "activity"
     },
     {
       "title": "“หลักสูตรอบรมขั้นพื้นฐาน การบริหารความเสี่ยงด้านกฎหมายสำหรับผู้ประกอบการวิชาชีพแพทย์ (Legal Risk Management for Healthcare Professionals)”",
