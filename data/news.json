@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T17:48:14.314Z",
+  "updatedAt": "2026-08-30T20:08:23.567Z",
   "sources": [
     {
       "id": "med",
@@ -1066,6 +1066,16 @@
       "topic": "activity"
     },
     {
+      "title": "โรงพยาบาลขอนแก่น ต้อนรับคณะศึกษาดูงาน จากคณะเภสัชศาสตร์ มหาวิทยาลัยขอนแก่น และนักศึกษาชาวต่างชาติ จากประเทศญี่ปุ่น และประเทศกัมพูชา",
+      "link": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxQOWNvZTJtVFByMHd6ek00bFVrTnMxdmFoMnNGaVJNSHBWODVDWTRRbEQxclBhLWV3U052TEZTcThXLUZma0trZmdMcW11eFNKQzJsc3drSjgyMmV4YU1pUFEwdVdVd1ZjSTV1Zk5VWnhTcGo2MGVIV1kyMTlOeXBLTGxNMXhBbkRIaXU1M1ZOaFFaek5SWlZrSDJuZ1dUNUV1N0tZUkJQZWFUR3p3SjNHSnB5VjZQaUh6REp6U1B2ZFdZU3I4UDNVVGlIRFNYaEd2blBmR2VMQ0laWGR0elFzLTdKYXYzalMxbExtTGVETEN2eVN2QmhLd21yTy1WUGVhcGxndnAtOTFZSE1jY2ljZVpGOEI5NVVsc2hqM25RcUtwUEQxYXMzUXR4RXhWaHd6aGh6YThZdHM2d1NaNnl3Z1hzSWNzRXNCTnlUaE1NaFhlZFRheHhuTFVwSjZqWGVERUtmWnZPSlJZNUg0aVBfRXJGUzhfRTM4bkdSeWc0UXl6clVLbF9DcW1xUUM5dkdHWmgtRkhUdDNCcU9GcUdQR3NVUE9QU2ZsWUdoeTd1ZzJOSWk4MzRMaHlDZjZQNDdDWG1aRTU3bFZfRVpjM3FXaE9qZUp1M2tlN25Mc0FB?oc=5",
+      "outlet": "สำนักสารนิเทศ สำนักงานปลัดกระทรวงสาธารณสุข",
+      "publishedAt": "2026-07-20T00:10:21.000Z",
+      "sourceId": "pharm",
+      "category": "คณะเภสัชศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "คณะวิทยาศาสตร์ มข. จัดอบรม “SC MC 2026” พัฒนาทักษะพิธีกรมืออาชีพ สร้างนักสื่อสารรุ่นใหม่ พร้อมเฟ้นหาสุดยอด MC ดาวรุ่ง",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMRlhYTVgyaVJCV2Q5NldFZzhNemNaS1VvMUctckF1bmY5czRmYkxKMzFUTmNWd1o3dGNhekxMQWZBanNMUVNR?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1376,6 +1386,16 @@
       "topic": "study"
     },
     {
+      "title": "วิริยะประกันภัย สนับสนุน “ค่ายผู้นำ 4 จอบอาสาพัฒนา” ครั้งที่ 21 สานพลังเครือข่ายผู้นำนักศึกษาเกษตรศาสตร์ ยกระดับเกษตรท้องถิ่นไทย | สวพ.FM91",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sSGI2QVdmMUQyNzE2c1N5Vmg2ME9HSlpuT010aG9vdXlrWmhTdmZDUmphODYyRDlJeFpPNmYxc29NbHhSTWZzVm1FLWp2MmZGaXFBZnh3?oc=5",
+      "outlet": "LINE TODAY",
+      "publishedAt": "2026-06-17T07:00:00.000Z",
+      "sourceId": "agri",
+      "category": "คณะเกษตรศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "คณะเศรษฐศาสตร์ มข. เดินหน้าความร่วมมือ SWUFE เมืองเฉิงตู เปิดเส้นทางนักศึกษาเรียนต่อปริญญาโท AI in Business พร้อมโอกาส Global Academy Summer Camp และสหกิจศึกษาด้าน AI in Finance and Economics - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9yaC1rWXFyUFRTeHVqUDAwUnZYaFRtcExORmRhZHQxT3phTmUxMmNkb3laVS1XVm1DSGdyYWJIZE9Oa0g0OEtF?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1384,16 +1404,6 @@
       "category": "คณะเศรษฐศาสตร์",
       "image": null,
       "topic": "job"
-    },
-    {
-      "title": "วิริยะประกันภัย สนับสนุน “ค่ายผู้นำ 4 จอบอาสาพัฒนา” ครั้งที่ 21 สานพลังเครือข่ายผู้นำนักศึกษาเกษตรศาสตร์ ยกระดับเกษตรท้องถิ่นไทย | สวพ.FM91",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sSGI2QVdmMUQyNzE2c1N5Vmg2ME9HSlpuT010aG9vdXlrWmhTdmZDUmphODYyRDlJeFpPNmYxc29NbHhSTWZzVm1FLWp2MmZGaXFBZnh3?oc=5",
-      "outlet": "LINE TODAY",
-      "publishedAt": "2026-06-16T07:00:00.000Z",
-      "sourceId": "agri",
-      "category": "คณะเกษตรศาสตร์",
-      "image": null,
-      "topic": "activity"
     },
     {
       "title": "คณะสหวิทยาการ มข.จัดพิธีทำบุญสำนักงานคณะ เตรียมความพร้อมรองรับการจัดการเรียนการสอนรูปแบบ 1+3 ในปีการศึกษา 2569",
@@ -1450,8 +1460,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JRHN4ck4zQkhFTVBUX0FhZU9GQ2x5clN1NmFmSEEtazNOWWtvZkNkTjFtUDZpYTBWVThHbW1kcnRGV3dPckdV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-06-10T07:00:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
+      "sourceId": "arch",
+      "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "research"
     },
@@ -2526,16 +2536,6 @@
       "topic": "study"
     },
     {
-      "title": "คณะนิติศาสตร์ มข. จัดสัมมนา “Restaulaw” สู่ “มื้ออาหารแห่งอิสรภาพ” เชื่อมธุรกิจ-กฎหมาย-สังคม",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBQUdBcnpOQkY0bWJYQWkwRzVQQ0NobUtpdzlXRHVHeFk4eDZ5Q2MwTDkzU2VaOWctN081N3lBWkpPRWt2QktZ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-11-28T08:00:00.000Z",
-      "sourceId": "law",
-      "category": "คณะนิติศาสตร์",
-      "image": null,
-      "topic": "activity"
-    },
-    {
       "title": "บัณฑิตวิทยาลัย มหาวิทยาลัยขอนแก่น ครบรอบ 47 ปี จัดพิธีทำบุญเพื่อความเป็นสิริมงคลและรำลึกถึงความเป็นมาของสถาบัน - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0ZGduS19lYUdxdXFTMTJCSTRwVHRMMm1ob29uMVdFVE5LeC1Ob2JQN3NMRnQwaTlCblBwM1RtTnVyN1FfNVRv?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2544,6 +2544,16 @@
       "category": "บัณฑิตวิทยาลัย",
       "image": null,
       "topic": "study"
+    },
+    {
+      "title": "คณะนิติศาสตร์ มข. จัดสัมมนา “Restaulaw” สู่ “มื้ออาหารแห่งอิสรภาพ” เชื่อมธุรกิจ-กฎหมาย-สังคม",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBQUdBcnpOQkY0bWJYQWkwRzVQQ0NobUtpdzlXRHVHeFk4eDZ5Q2MwTDkzU2VaOWctN081N3lBWkpPRWt2QktZ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-11-28T08:00:00.000Z",
+      "sourceId": "law",
+      "category": "คณะนิติศาสตร์",
+      "image": null,
+      "topic": "activity"
     },
     {
       "title": "คณะพยาบาลศาสตร์ มข. จัดอบรม “การใช้ AI เพื่อการจัดการเรียนการสอนและการพัฒนางานให้มีประสิทธิภาพสูงสุด”",
