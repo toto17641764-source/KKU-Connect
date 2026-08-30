@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T07:33:32.384Z",
+  "updatedAt": "2026-08-30T13:21:25.142Z",
   "sources": [
     {
       "id": "med",
@@ -976,6 +976,16 @@
       "topic": "activity"
     },
     {
+      "title": "คณะศึกษาศาสตร์ มข. จัด Intensive Workshop ด้านการวิจัยและนวัตกรรมการบริหารการศึกษา เสริมศักยภาพนักศึกษาสู่มาตรฐานสากล",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8wRE8xdVQwWldsaHB5THNxd1ZxbEF3c3k2RlJTNEN4Mk5yU0dmVTVRdzZHd1h4Ylo3dy03Q1lncWVpQjgxS2RZ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-07-21T09:48:01.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": null,
+      "topic": "research"
+    },
+    {
       "title": "ศึกษาศาสตร์ มข. จัด Workshop นานาชาติ “Future-Ready Education” เสริมสร้างภาวะผู้นำการศึกษาแห่งอนาคต พร้อมกระชับความร่วมมือทางวิชาการ ไทย-มาเลเซีย - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA1T05yZmFWaDJGRmpLVWc4Qnl0bkIyQnJjVTY1SGgzRTdCZm9odGw1dFRaOExQWGxGMWZYa1NJTWlzWWtyeXRz?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1458,7 +1468,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "มติชนออนไลน์",
+      "outlet": "Matichon Online",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
