@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T02:37:08.546Z",
+  "updatedAt": "2026-08-31T10:08:24.056Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,16 @@
     }
   ],
   "items": [
+    {
+      "title": "KKBS เรียนรู้ธุรกิจจริง ผ่านกิจกรรม “Next Gen Upskills: Business Inspiration & Study Visit” จุดประกายแรงบันดาลใจรุ่นพี่สู่รุ่นน้อง",
+      "link": "https://kkbs.kku.ac.th/insight-kkbs/33472/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-08-31T04:17:44.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "image": "https://kkbs.kku.ac.th/wp/wp-content/uploads/2026/08/03082026-organt-nextgen-04-1024x682.jpg",
+      "topic": "activity"
+    },
     {
       "title": "คณะศึกษาศาสตร์ มข. จัดอบรมเชิงปฏิบัติการ “AI กับการออกแบบการเรียนรู้: สร้างโครงงาน STEM และบูรณาการการเรียนรู้สำหรับครูแห่งอนาคต” มุ่งเสริมทักษะนวัตกรรมสู่ศตวรรษที่ 21",
       "link": "https://ednet.kku.ac.th/news/20725/",
@@ -2282,6 +2292,16 @@
       "publishedAt": "2026-02-06T08:00:00.000Z",
       "sourceId": "gs",
       "category": "บัณฑิตวิทยาลัย",
+      "image": null,
+      "topic": "activity"
+    },
+    {
+      "title": "โรงพยาบาลทันตกรรม คณะทันตแพทยศาสตร์ มหาวิทยาลัยขอนแก่น จัดโครงการประกวดผลงานพัฒนาคุณภาพ (Best Practices) “ปั้นดาว ปีที่ 4” ประจำปี 2569 - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE56eWtCVC1oSVVjMkY2S195SGEwTThDWjY4Z09JQkVuNVZoUUlpajhYSHlZbEw0V0xlMHAtYnczdWlVR2tVM2ZV?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-02-04T06:22:21.000Z",
+      "sourceId": "dent",
+      "category": "คณะทันตแพทยศาสตร์",
       "image": null,
       "topic": "activity"
     },
