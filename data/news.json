@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T18:54:00.714Z",
+  "updatedAt": "2026-09-01T22:07:47.259Z",
   "sources": [
     {
       "id": "med",
@@ -666,6 +666,16 @@
       "topic": "activity"
     },
     {
+      "title": "ทีม Playground คณะเทคโนฯ มข. ร่วมแถลงข่าว เตรียมลุยรอบชิงฯ Gourmet & Cuisine Young Chef 2026",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBiTFpURkQwNThfV1plU3FTMVlIbHB6Sl9WRXBFM01ZUzl2VW04NWNIMTRWX09NaURMdm0yUjgwR3lsaFh0Q3NB?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-08T07:00:00.000Z",
+      "sourceId": "tech",
+      "category": "คณะเทคโนโลยี",
+      "image": null,
+      "topic": "other"
+    },
+    {
       "title": "มหาวิทยาลัยขอนแก่น ต้อนรับ มหาวิทยาลัยเกษตรศาสตร์ แลกเปลี่ยนวิสัยทัศน์งานกิจการนักศึกษา มุ่งสานเครือข่ายสองสถาบัน - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9tSlJqdjJnTW1ELVpRbV9USnRtVWhOdi1LVXloNjZ5Y181aGNlTHdjVmg4anZkZ1FUTVZQd25xLTFBRnIxRXhn?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -944,16 +954,6 @@
       "category": "คณะศึกษาศาสตร์",
       "image": "https://ednet.kku.ac.th/wp-content/uploads/2026/07/753694883_1604049268101582_2226050597028969404_n-1024x682.jpeg",
       "topic": "activity"
-    },
-    {
-      "title": "ทีม Playground คณะเทคโนฯ มข. ร่วมแถลงข่าว เตรียมลุยรอบชิงฯ Gourmet & Cuisine Young Chef 2026",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBiTFpURkQwNThfV1plU3FTMVlIbHB6Sl9WRXBFM01ZUzl2VW04NWNIMTRWX09NaURMdm0yUjgwR3lsaFh0Q3NB?oc=5",
-      "outlet": "kku.ac.th",
-      "publishedAt": "2026-07-23T07:00:00.000Z",
-      "sourceId": "tech",
-      "category": "คณะเทคโนโลยี",
-      "image": null,
-      "topic": "other"
     },
     {
       "title": "ศึกษาศาสตร์ มข. ต้อนรับคณะครูและนักเรียนโรงเรียนผดุงนารี ศึกษาดูงานและแนะแนวการศึกษาต่อ",
@@ -1508,7 +1508,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "มติชนออนไลน์",
+      "outlet": "Matichon Online",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
