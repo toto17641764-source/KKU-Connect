@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T08:56:13.736Z",
+  "updatedAt": "2026-09-01T14:20:39.501Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,16 @@
     }
   ],
   "items": [
+    {
+      "title": "เชื่อมงานวิจัยสู่เวทีอิเล็กทรอนิกส์เอเชีย! คณะวิทยาศาสตร์ มข. ร่วม THECA 2026 เปิดโอกาสนักศึกษาสร้างเครือข่ายระดับสากล",
+      "link": "https://sc.kku.ac.th/news/123176/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-01T10:26:43.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "research"
+    },
     {
       "title": "KKBS Next Gen Business Club เปิดพื้นที่การเรียนรู้ “Marketing & Branding Workshop 2026” ส่งต่อองค์ความรู้และประสบการณ์จริงจากศิษย์เก่า สู่การพัฒนานักการตลาดรุ่นใหม่",
       "link": "https://kkbs.kku.ac.th/insight-kkbs/33491/",
@@ -798,7 +808,7 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "outlet": "dek-d.com",
+      "outlet": "Dek-D.com",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -1728,7 +1738,7 @@
     {
       "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
-      "outlet": "mgronline.com",
+      "outlet": "ผู้จัดการออนไลน์",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
