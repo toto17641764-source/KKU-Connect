@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T02:08:58.931Z",
+  "updatedAt": "2026-09-01T08:56:13.736Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,16 @@
     }
   ],
   "items": [
+    {
+      "title": "KKBS Next Gen Business Club เปิดพื้นที่การเรียนรู้ “Marketing & Branding Workshop 2026” ส่งต่อองค์ความรู้และประสบการณ์จริงจากศิษย์เก่า สู่การพัฒนานักการตลาดรุ่นใหม่",
+      "link": "https://kkbs.kku.ac.th/insight-kkbs/33491/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-01T07:53:52.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "image": "https://kkbs.kku.ac.th/wp/wp-content/uploads/2026/09/15082026-next-gen-marketing-3-1024x768.jpg",
+      "topic": "activity"
+    },
     {
       "title": "KKBS เรียนรู้ธุรกิจจริง ผ่านกิจกรรม “Next Gen Upskills: Business Inspiration & Study Visit” จุดประกายแรงบันดาลใจรุ่นพี่สู่รุ่นน้อง",
       "link": "https://kkbs.kku.ac.th/insight-kkbs/33472/",
@@ -788,7 +798,7 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -1718,7 +1728,7 @@
     {
       "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
-      "outlet": "ผู้จัดการออนไลน์",
+      "outlet": "mgronline.com",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -1804,6 +1814,16 @@
       "category": "คณะทันตแพทยศาสตร์",
       "image": null,
       "topic": "activity"
+    },
+    {
+      "title": "มข. เปิดตัว “จำไม่จาง Film Festiเวอร์” ดัน Soft Power ผ่านพลังนักศึกษาสื่อสร้างสรรค์",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9YdEJnYUlRUElxOFpQMWUxNHdyY3Z1NkZwV3ByaEtwYXUwYWNWVW50cVVFR25SektuUFl0WU8xelNUSjBEOVIw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-05-05T07:00:00.000Z",
+      "sourceId": "ic",
+      "category": "วิทยาลัยนานาชาติ",
+      "image": null,
+      "topic": "other"
     },
     {
       "title": "คณะวิทยาศาสตร์ มข. ต้อนรับนักเรียนโครงการ “J SUMMER INTENSIVE CAMP 2026” เสริมทักษะและสร้างแรงบันดาลใจสู่สายวิทย์",
@@ -2566,16 +2586,6 @@
       "topic": "study"
     },
     {
-      "title": "บัณฑิตวิทยาลัย มหาวิทยาลัยขอนแก่น ครบรอบ 47 ปี จัดพิธีทำบุญเพื่อความเป็นสิริมงคลและรำลึกถึงความเป็นมาของสถาบัน - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0ZGduS19lYUdxdXFTMTJCSTRwVHRMMm1ob29uMVdFVE5LeC1Ob2JQN3NMRnQwaTlCblBwM1RtTnVyN1FfNVRv?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-11-28T08:00:00.000Z",
-      "sourceId": "gs",
-      "category": "บัณฑิตวิทยาลัย",
-      "image": null,
-      "topic": "study"
-    },
-    {
       "title": "คณะนิติศาสตร์ มข. จัดสัมมนา “Restaulaw” สู่ “มื้ออาหารแห่งอิสรภาพ” เชื่อมธุรกิจ-กฎหมาย-สังคม",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBQUdBcnpOQkY0bWJYQWkwRzVQQ0NobUtpdzlXRHVHeFk4eDZ5Q2MwTDkzU2VaOWctN081N3lBWkpPRWt2QktZ?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2584,6 +2594,16 @@
       "category": "คณะนิติศาสตร์",
       "image": null,
       "topic": "activity"
+    },
+    {
+      "title": "บัณฑิตวิทยาลัย มหาวิทยาลัยขอนแก่น ครบรอบ 47 ปี จัดพิธีทำบุญเพื่อความเป็นสิริมงคลและรำลึกถึงความเป็นมาของสถาบัน - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0ZGduS19lYUdxdXFTMTJCSTRwVHRMMm1ob29uMVdFVE5LeC1Ob2JQN3NMRnQwaTlCblBwM1RtTnVyN1FfNVRv?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-11-28T08:00:00.000Z",
+      "sourceId": "gs",
+      "category": "บัณฑิตวิทยาลัย",
+      "image": null,
+      "topic": "study"
     },
     {
       "title": "คณะพยาบาลศาสตร์ มข. จัดอบรม “การใช้ AI เพื่อการจัดการเรียนการสอนและการพัฒนางานให้มีประสิทธิภาพสูงสุด”",
