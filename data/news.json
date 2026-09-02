@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T01:31:56.734Z",
+  "updatedAt": "2026-09-02T06:29:07.160Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,16 @@
     }
   ],
   "items": [
+    {
+      "title": "KKBS เปลี่ยนธุรกิจรุ่นพี่เป็นห้องเรียนรุ่นน้อง ถอดกลยุทธ์ “อยู่รอด–เติบโต” ผ่านกิจกรรม Cafe Survival & Growth Strategies",
+      "link": "https://kkbs.kku.ac.th/insight-kkbs/33507/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-02T04:21:42.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "image": "https://kkbs.kku.ac.th/wp/wp-content/uploads/2026/09/chujai-9-1024x768.jpg",
+      "topic": "activity"
+    },
     {
       "title": "เชื่อมงานวิจัยสู่เวทีอิเล็กทรอนิกส์เอเชีย! คณะวิทยาศาสตร์ มข. ร่วม THECA 2026 เปิดโอกาสนักศึกษาสร้างเครือข่ายระดับสากล",
       "link": "https://sc.kku.ac.th/news/123176/",
@@ -818,7 +828,7 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "outlet": "dek-d.com",
+      "outlet": "Dek-D.com",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -1506,6 +1516,16 @@
       "topic": "study"
     },
     {
+      "title": "มหาวิทยาลัยขอนแก่นเปิดบ้านต้อนรับสื่อมวลชน เยี่ยมชมโครงการสำคัญ ขับเคลื่อนองค์ความรู้สู่สังคม",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE15Q3pWMXI3V0hvV1RXYjNuUE1DbV9zT3dVNGlsSHQ0dlFadVpiY0E2ekdiLS02aXM3emh6LVpsc01KVHhnVFZz?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-06-09T07:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
       "outlet": "Matichon Online",
@@ -1728,7 +1748,7 @@
     {
       "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -1954,6 +1974,16 @@
       "category": "คณะศิลปกรรมศาสตร์",
       "image": null,
       "topic": "activity"
+    },
+    {
+      "title": "วิศวะ-วิทย์ มข. เปิดหลักสูตร “ตรีควบโท” 5 ปี 2 ปริญญา ปั้น Digital Talent รับอุตสาหกรรมอนาคต",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lNHEwRTI0XzZQR1llVWpNVjJZakZ3b2tiMVZTLWlETE9wTkozVGJucjhWQTg5bFdPUUQyRlBDLTFMMlBINERjanNTVGFPUVljZDZFSg?oc=5",
+      "outlet": "khonkaenlink.info",
+      "publishedAt": "2026-04-07T07:00:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "study"
     },
     {
       "title": "วิศวะ-วิทย์ มข. เปิด “ตรีควบโท” เรียน 5 ปี ได้ 2 ปริญญา ปั้นบัณฑิตสายเทคนวัตกรรมรับอุตสาหกรรมอนาคต",
@@ -2386,16 +2416,6 @@
       "topic": "activity"
     },
     {
-      "title": "คณะเกษตรศาสตร์ มข. ติวเข้มทักษะเสียงตามสาย กองสื่อสารองค์กร ส่งบุคลากรให้ความรู้ ปั้นนักศึกษาประชาสัมพันธ์ พร้อมลุยงานวันเกษตรภาคอีสาน 2569 - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA5QTA3TEszeXQwdHducDZGMzdyTDk3Q3djQzlvR0tvMzg2YzlDU2RjQlkxVHdyMTNCRnluWEs4cjNfdVRrcHc0?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-01-15T08:00:00.000Z",
-      "sourceId": "agri",
-      "category": "คณะเกษตรศาสตร์",
-      "image": null,
-      "topic": "other"
-    },
-    {
       "title": "ประกาศรับสมัคร “นักเรียนผู้ช่วยทันตแพทย์” คณะทันตแพทยศาสตร์ มหาวิทยาลัยขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE80X0p5S0ZrNnVpcUI3b0FSQ0tnTWd2LXFndW5MTkJKRkpMaFdCbGJrYTZILVNxbENNYVhVRDZZc2ZzeUxVTk1N?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2404,6 +2424,16 @@
       "category": "คณะทันตแพทยศาสตร์",
       "image": null,
       "topic": "announce"
+    },
+    {
+      "title": "คณะเกษตรศาสตร์ มข. ติวเข้มทักษะเสียงตามสาย กองสื่อสารองค์กร ส่งบุคลากรให้ความรู้ ปั้นนักศึกษาประชาสัมพันธ์ พร้อมลุยงานวันเกษตรภาคอีสาน 2569 - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA5QTA3TEszeXQwdHducDZGMzdyTDk3Q3djQzlvR0tvMzg2YzlDU2RjQlkxVHdyMTNCRnluWEs4cjNfdVRrcHc0?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-01-15T08:00:00.000Z",
+      "sourceId": "agri",
+      "category": "คณะเกษตรศาสตร์",
+      "image": null,
+      "topic": "other"
     },
     {
       "title": "ม.ขอนแก่น ร่วมมือ ธนาคารกรุงไทย ลงนาม MOU พัฒนาศักยภาพนักศึกษาสู่การทำงานจริง",
@@ -2464,6 +2494,16 @@
       "category": "คณะเภสัชศาสตร์",
       "image": null,
       "topic": "activity"
+    },
+    {
+      "title": "นศ.คณะสหวิทยาการ มข. ตัวแทนชาติไทย ร่วมโครงการ “SEED Thailand X China Rising Leader Program 3” บ่มเพาะผู้นำเยาวชนรุ่นใหม่ตอบโจทย์ความท้าทายโลก - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4xNVBobGk1S3lpZmMzYjRmZ2VrUmxiWEFPMFRfalhQUUgyelY0MWZlMGhqeVU1em5WaFpNUTJ1LWJjVVB0MUtv?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-12-25T09:56:53.000Z",
+      "sourceId": "is",
+      "category": "คณะสหวิทยาการ (หนองคาย)",
+      "image": null,
+      "topic": "other"
     },
     {
       "title": "คณะเทคนิคการแพทย์ มข. ร่วมจัดกิจกรรมและให้บริการวิชาการในงานเทศกาลไหมนานาชาติ ประเพณีผูกเสี่ยว และงานกาชาดจังหวัดขอนแก่น ประจำปี 2568 - Khon Kaen University",
@@ -2946,6 +2986,16 @@
       "topic": "activity"
     },
     {
+      "title": "admissionpremium-สายสัตวแพทย์ต้องรู้! มาส่อง เกณฑ์ Portfolio คณะสัตวแพทยศาสตร์ 6 มหาวิทยาลัยดัง !",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBQVnd3bFFIZXNKVlk4TE9EczJUUG5SSlBaR0V2UVkyMjVCWkZvNEFHVlV2SDB5MXRaR21zcjZsZlBIQkF1cDZZ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-05-05T13:17:15.000Z",
+      "sourceId": "vet",
+      "category": "คณะสัตวแพทยศาสตร์",
+      "image": null,
+      "topic": "study"
+    },
+    {
       "title": "การสอบสัมภาษณ์ รอบที่ 2 แบบออนไลน์",
       "link": "https://apds.kku.ac.th/post/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%aa%e0%b8%ad%e0%b8%9a%e0%b8%aa%e0%b8%b1%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%a9%e0%b8%93%e0%b9%8c-%e0%b8%a3%e0%b8%ad%e0%b8%9a%e0%b8%97%e0%b8%b5%e0%b9%88-2-%e0%b9%81/",
       "outlet": "เว็บไซต์คณะ",
@@ -2954,6 +3004,16 @@
       "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "study"
+    },
+    {
+      "title": "บัณฑิตวิทยาลัย มข. จัดงาน GS KKU Fair 2025 เชิดชูความเป็นเลิศทางวิชาการ มอบรางวัลกว่า 94 รางวัลแก่นักวิจัยคุณภาพ",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hd0V4QkdBUU53VWV6ZHNBVGRvQlg4QWhYSWFjUEFlUkVUeUg2d3VkVjZwT0RQcUR5MlY0cXRiOUVuZmhfY2Jz?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-03-31T07:00:00.000Z",
+      "sourceId": "gs",
+      "category": "บัณฑิตวิทยาลัย",
+      "image": null,
+      "topic": "research"
     },
     {
       "title": "ส่องค่าเทอม มหาวิทยาลัยขอนแก่น ตลอดภาคการศึกษา แต่ละคณะ ต้องจ่ายเท่าไร",
