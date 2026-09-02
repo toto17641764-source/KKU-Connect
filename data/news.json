@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T06:29:07.160Z",
+  "updatedAt": "2026-09-02T12:18:40.773Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,16 @@
     }
   ],
   "items": [
+    {
+      "title": "แก้ไขคุณสมบัติ ของผู้มีสิทธิสมัครสอบเพื่อคัดเลือกบุคคลเพื่อจัดจ้างเป็นพนักงานจ้างเหมาบริการทำความสะอาด สังกัดคณะวิทยาศาสตร์ มหาวิทยาลัยขอนแก่น",
+      "link": "https://sc.kku.ac.th/wp-content/uploads/2026/09/128-2569-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B9%84%E0%B8%82%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%84%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%AF-%E0%B8%9E%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94.pdf#new_tab",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-02T08:46:45.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "study"
+    },
     {
       "title": "KKBS เปลี่ยนธุรกิจรุ่นพี่เป็นห้องเรียนรุ่นน้อง ถอดกลยุทธ์ “อยู่รอด–เติบโต” ผ่านกิจกรรม Cafe Survival & Growth Strategies",
       "link": "https://kkbs.kku.ac.th/insight-kkbs/33507/",
@@ -1376,6 +1386,16 @@
       "topic": "other"
     },
     {
+      "title": "มหาวิทยาลัยขอนแก่น โชว์ศักยภาพนวัตกรรม คว้ารางวัล Top 5 R2M#14 ระดับภูมิภาค พร้อมเตรียมเป็นเจ้าภาพรอบชิงระดับประเทศ",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9XQlowN1ktelAxTmRRTnQyeHFkR3gyWGllR3p6YVVXaTJVdnByOF9RaEEtc2hhdFVBWHpDcU9samZ1RUdDb2Vv?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-06-23T06:04:14.000Z",
+      "sourceId": "tech",
+      "category": "คณะเทคโนโลยี",
+      "image": null,
+      "topic": "research"
+    },
+    {
       "title": "คณะเทคโนโลยี มข. ร่วมงานสัมมนาวันความปลอดภัยอาหารโลก (World Food Safety Day) ของประเทศไทย ประจำปี 2569",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5IeDZjWFpGQWZFR2VlT3BSZmFzWXlfYkVjaW9zQnBYRU5aY1hvdXMxcE5sc09LTWdycjk3UkVyeXQ1elVyY1E0?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1528,7 +1548,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "Matichon Online",
+      "outlet": "มติชนออนไลน์",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -1676,6 +1696,16 @@
       "topic": "scholarship"
     },
     {
+      "title": "“ทีมหวานใจ” นักศึกษาคณะพยาบาลศาสตร์ มข. คว้ารางวัล Platinum ( ชนะเลิศอันดับ 1) ในการแข่งขันจำลองสถานการณ์ทางการพยาบาลระดับประเทศ (The 1st INACSL Thailand RIG) - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA3cC1oemhmOFBjdWNSR29vbkw2ZmgyYTVPemxUc2tPWC16bk1WaFlwMmwyaWNWRVc4eTB4N0hub3oxOUd6aF9J?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-05-25T03:34:42.000Z",
+      "sourceId": "nurse",
+      "category": "คณะพยาบาลศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "คณะมนุษยศาสตร์ฯ มข. ยกระดับงานวิจัยไทยสู่เวทีนานาชาติ ผนึกความร่วมมือนักวิจัยมหาวิทยาลัยชั้นนำ จัดนิทรรศการ ‘Science as Diplomacy: a Thai Historical Context’ ถ่ายทอดบทบาท ‘วิทยาศาสตร์การทูต’ ในบริบทประวัติศาสตร์ไทย ณ เมืองลีดส์ สหราชอาณาจักร - Khon Kaen Univ",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtWld5MDZfSVVtOEhEY2VZTGJKaTI5a2lPenZhbnVLZzQ1ak9KSjFUWTJlWlowcjlKSkR2TjhjSEdVOWtHWU13?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1716,16 +1746,6 @@
       "image": null
     },
     {
-      "title": "ขอเชิญอาจารย์และบุคลากร มหาวิทยาลัยขอนแก่น เข้าทดสอบความรู้ “ความปลอดภัยทางไซเบอร์” ประจำปี 2569",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPOHRJajI2bU5LWVNUbVNLb0xrQW1PZnR6NTRCN1VRVWFiS2ZRX0xMb3V5ekZDeElENnUzQXhGV2RYVEVDazNRNk9EZ05hZ0VMdmtPRDVwYmhMdUQ2elpoVlRSMHRpVEVWVUZxb2V2ZnFqYW5LNkhhMXZqYTJIUTVwbW85UVZQdzlVTDJ0UkR5TzRPUW80WEZJRWMyYTBJQ2Q1M1hMcGlIQTZwYXg0dzcydXdOckJMLWlGbFBKQ19rNnk4blJiRF9FbWI1R3R1aGMxUDVDVEJubVlCRFg1cTZQS25FWk9RakNjTXZEOUZTZUtIUkRVVkZ3VkxVN0hzaUlHWFFTbnFzd0cybDdWZTBscHZfT3ZzcVVsTUVOVTFCUmVJQ3REd2s2ZmVGYlNIVjZnVGpEYllzU3JBbVBLVHE4SEdkbUxnNmlBeVJHRWpfYw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-05-11T07:00:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "image": null,
-      "topic": "study"
-    },
-    {
       "title": "ศึกษาศาสตร์ มข. ร่วมสถานศึกษาเครือข่าย เตรียมความพร้อมครูพี่เลี้ยง และอาจารย์นิเทศก์ ก่อนส่งนักศึกษาฝึกปฏิบัติการสอนฯ ประจำปี 2569 - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zVk5UZnNLTmdsd1hwc0Ryc0xWbzdRTWZDTTRPN1pFdFBTMWFlUWdfSWxseEJzdjhlQkF4YzV2VWtILXdwWGNV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1734,6 +1754,16 @@
       "category": "คณะศึกษาศาสตร์",
       "image": null,
       "topic": "other"
+    },
+    {
+      "title": "ขอเชิญอาจารย์และบุคลากร มหาวิทยาลัยขอนแก่น เข้าทดสอบความรู้ “ความปลอดภัยทางไซเบอร์” ประจำปี 2569",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPOHRJajI2bU5LWVNUbVNLb0xrQW1PZnR6NTRCN1VRVWFiS2ZRX0xMb3V5ekZDeElENnUzQXhGV2RYVEVDazNRNk9EZ05hZ0VMdmtPRDVwYmhMdUQ2elpoVlRSMHRpVEVWVUZxb2V2ZnFqYW5LNkhhMXZqYTJIUTVwbW85UVZQdzlVTDJ0UkR5TzRPUW80WEZJRWMyYTBJQ2Q1M1hMcGlIQTZwYXg0dzcydXdOckJMLWlGbFBKQ19rNnk4blJiRF9FbWI1R3R1aGMxUDVDVEJubVlCRFg1cTZQS25FWk9RakNjTXZEOUZTZUtIUkRVVkZ3VkxVN0hzaUlHWFFTbnFzd0cybDdWZTBscHZfT3ZzcVVsTUVOVTFCUmVJQ3REd2s2ZmVGYlNIVjZnVGpEYllzU3JBbVBLVHE4SEdkbUxnNmlBeVJHRWpfYw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-05-11T07:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "study"
     },
     {
       "title": "สอวน. ร่วมกับ คณะวิทยาศาสตร์ มข. เปิดฉากการแข่งขันดาราศาสตร์โอลิมปิกระดับชาติ ครั้งที่ 23 (TAO23) มุ่งสร้างนักดาราศาสตร์รุ่นใหม่สู่สากล - Khon Kaen University",
@@ -1748,7 +1778,7 @@
     {
       "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "khonkaenlink.info",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -1976,16 +2006,6 @@
       "topic": "activity"
     },
     {
-      "title": "วิศวะ-วิทย์ มข. เปิดหลักสูตร “ตรีควบโท” 5 ปี 2 ปริญญา ปั้น Digital Talent รับอุตสาหกรรมอนาคต",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lNHEwRTI0XzZQR1llVWpNVjJZakZ3b2tiMVZTLWlETE9wTkozVGJucjhWQTg5bFdPUUQyRlBDLTFMMlBINERjanNTVGFPUVljZDZFSg?oc=5",
-      "outlet": "khonkaenlink.info",
-      "publishedAt": "2026-04-07T07:00:00.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
-      "image": null,
-      "topic": "study"
-    },
-    {
       "title": "วิศวะ-วิทย์ มข. เปิด “ตรีควบโท” เรียน 5 ปี ได้ 2 ปริญญา ปั้นบัณฑิตสายเทคนวัตกรรมรับอุตสาหกรรมอนาคต",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5pYXdkR1hjLWRQdE5ONThKRzB6OTRWbUNGWGJwN29aamM2eUpBWHdrLVR6LVI2eEJmcVpwa0VVYUYtd2dlTmEw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1994,6 +2014,16 @@
       "category": "คณะวิทยาศาสตร์",
       "image": null,
       "topic": "research"
+    },
+    {
+      "title": "วิศวะ-วิทย์ มข. เปิดหลักสูตร “ตรีควบโท” 5 ปี 2 ปริญญา ปั้น Digital Talent รับอุตสาหกรรมอนาคต",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lNHEwRTI0XzZQR1llVWpNVjJZakZ3b2tiMVZTLWlETE9wTkozVGJucjhWQTg5bFdPUUQyRlBDLTFMMlBINERjanNTVGFPUVljZDZFSg?oc=5",
+      "outlet": "khonkaenlink.info",
+      "publishedAt": "2026-04-07T07:00:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "study"
     },
     {
       "title": "นักศึกษาคณะเทคโนโลยี มข. นำทีมข้ามสาขาคว้าแชมป์ \"STAR OF CAMP\" เวที Startup Thailand League 2026 ภาคอีสาน ด้วยนวัตกรรม Xobify พรีไบโอติกจากซังข้าวโพด - Khon Kaen University",
@@ -2316,6 +2346,16 @@
       "topic": "study"
     },
     {
+      "title": "บัณฑิตวิทยาลัย จัดงาน “ครอบครัวจีน-ไทย เฉลิมฉลองปีแห่งจีน” “China-Thailand Family, Celebrating the Year of China Together”",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE05d1RxNUVNVjNDMHFhNVdTWTVtWV9KZkYzVURJRUlFSnlfYzk2dVpJMF9QQ0pBcXdFY3RxX1JqSFhOVFhRUWxz?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-02-17T08:27:03.000Z",
+      "sourceId": "gs",
+      "category": "บัณฑิตวิทยาลัย",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "พร้อมแล้ว 50 บูท ดูแลชาวขอนแก่น กับ มหกรรม มข. บริการชุมชน Societal Contribution ที่สถานีรถไฟ จ.ขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtSkh5NlhxellpZm16YS1SLXp2V01SMHBrNG1Pc2VqUTI0VkIyNUtYWWljRjlpLTFYdjAwaERfdk5ZSzRoYzJN?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2538,7 +2578,7 @@
     {
       "title": "วิทยาลัยการคอมพิวเตอร์ มข. จับมือ EIU เวียดนาม เปิดโอกาสฝึกงานนานาชาติ-วิจัยร่วมเชื่อมโยงอุตสาหกรรม",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1yS0VfVjlKaU1zb3hwNDUzUG9sYUhZcFlFVS03bUs3b1Z4cWIzbHktOGw2WG5xY185ejRyQkRGQ1BnYzJseHFR?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2025-12-23T08:00:00.000Z",
       "sourceId": "cp",
       "category": "วิทยาลัยการคอมพิวเตอร์",
@@ -2564,6 +2604,16 @@
       "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "other"
+    },
+    {
+      "title": "มหาวิทยาลัยขอนแก่น ร่วมกับวิทยาลัยนานาชาติ จัดพิธีมอบทุนการศึกษาโครงการแลกเปลี่ยนไทย–เวียดนาม ณ FPT University ส่งเสริมนักศึกษาสู่เวทีนานาชาติ - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9laEhkWVFrNG9VUUI1RVM4MXdocUR0ek9YQ0FhTG1MMHRCVFEySzVPbGVqU0F4VnhwWk02ZWZyRkFEN1VHVmhF?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-12-17T08:00:00.000Z",
+      "sourceId": "ic",
+      "category": "วิทยาลัยนานาชาติ",
+      "image": null,
+      "topic": "scholarship"
     },
     {
       "title": "นศ.นิติฯ มข. ถูกปฏิเสธพื้นที่จัดงานเสวนาวันรัฐธรรมนูญ 2 ครั้ง ก่อนย้ายไปที่อื่น- ย้ำมหาวิทยาลัยควรเป็นที่เสรีภาพทางวิชาการ",
@@ -2676,8 +2726,8 @@
       "topic": "other"
     },
     {
-      "title": "นศ.มข. คว้า 2 รางวัล โครงการเส้นทางสู่นวัตวณิชย์ ครั้งที่ 13 ระดับภูมิภาค คว้าตั๋วสู่รอบระดับประเทศ!",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9oS3NwbnZhaThZYlI4OU04elJmZlVrTWZCVnVFeVZzRTg0ZlRQWGUxSy1VRlZRTDA2c3BLRWlpanlseVBuQjZV?oc=5",
+      "title": "นศ. คณะเศรษฐศาสตร์ มข. คว้ารางวัลโครงการเส้นทางสู่นวัตวณิชย์ ครั้งที่ 13 ระดับภูมิภาค",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5INlhRdC1nUG12UVZqcWJjSmllSFNuUEpFVVFLMldUR1pxTmhFSEQxME96alVxWjNGamFWQkEwTkMyR1J4RUZn?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2025-11-15T08:00:00.000Z",
       "sourceId": "pharm",
@@ -2686,8 +2736,8 @@
       "topic": "activity"
     },
     {
-      "title": "นศ. คณะเศรษฐศาสตร์ มข. คว้ารางวัลโครงการเส้นทางสู่นวัตวณิชย์ ครั้งที่ 13 ระดับภูมิภาค",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5INlhRdC1nUG12UVZqcWJjSmllSFNuUEpFVVFLMldUR1pxTmhFSEQxME96alVxWjNGamFWQkEwTkMyR1J4RUZn?oc=5",
+      "title": "นศ.มข. คว้า 2 รางวัล โครงการเส้นทางสู่นวัตวณิชย์ ครั้งที่ 13 ระดับภูมิภาค คว้าตั๋วสู่รอบระดับประเทศ!",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9oS3NwbnZhaThZYlI4OU04elJmZlVrTWZCVnVFeVZzRTg0ZlRQWGUxSy1VRlZRTDA2c3BLRWlpanlseVBuQjZV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2025-11-15T08:00:00.000Z",
       "sourceId": "pharm",
