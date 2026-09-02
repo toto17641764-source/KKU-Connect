@@ -1,1 +1,4 @@
 .claude/settings.local.json
+
+# เอกสารประกอบรายวิชา ไม่ต้องขึ้นเว็บ
+docs/

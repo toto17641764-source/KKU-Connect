@@ -567,6 +567,97 @@
     .head-row { flex-wrap: wrap; }
     .search { order: 3; max-width: none; flex-basis: 100%; }
   }
+
+  /* ---------- ปุ่มและกล่องแบบประเมิน ---------- */
+  .rate-fab {
+    position: fixed; right: 20px; bottom: 20px; z-index: 60;
+    display: none; align-items: center; gap: 8px;
+    font-size: 0.9rem; font-weight: 700;
+    padding: 11px 18px; border-radius: 999px;
+    background: var(--brand); color: #fff; border: 0;
+    box-shadow: 0 2px 6px rgba(90, 50, 20, 0.18), 0 10px 26px rgba(90, 50, 20, 0.22);
+  }
+  .rate-fab.show { display: inline-flex; }
+  .rate-fab:hover { background: var(--brand-dark); }
+  .rate-fab:focus-visible { outline: 2px solid var(--brand-dark); outline-offset: 2px; }
+
+  dialog.rate {
+    border: 1px solid var(--line); border-radius: 18px; padding: 0;
+    background: var(--card); color: var(--ink);
+    max-width: 380px; width: calc(100% - 32px);
+    box-shadow: 0 14px 44px rgba(90, 50, 20, 0.25);
+  }
+  dialog.rate::backdrop { background: rgba(51, 48, 43, 0.45); }
+  .rate-body { padding: 26px 26px 22px; text-align: center; display: flex; flex-direction: column; gap: 14px; align-items: center; }
+  .rate-body h2 { font-size: 1.12rem; font-weight: 800; }
+  .rate-body p { font-size: 0.86rem; color: var(--ink-soft); }
+  .rate-qr {
+    background: #fff; border: 1px solid var(--line); border-radius: 14px;
+    padding: 10px; line-height: 0; width: 190px;
+  }
+  .rate-qr svg { width: 100%; height: auto; display: block; }
+  .rate-actions { display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; width: 100%; }
+  .rate-actions .btn {
+    font-size: 0.88rem; font-weight: 700;
+    padding: 9px 18px; border-radius: 999px;
+    border: 1px solid var(--line); background: var(--card); color: var(--ink);
+  }
+  .rate-actions .btn.primary { background: var(--brand); border-color: var(--brand); color: #fff; }
+  .rate-actions .btn:focus-visible { outline: 2px solid var(--brand); outline-offset: 2px; }
+
+  @media (max-width: 640px) {
+    .rate-fab { right: 14px; bottom: 14px; font-size: 0.84rem; padding: 10px 16px; }
+  }
+
+  /* ---------- สมัครสมาชิก / เข้าสู่ระบบ ---------- */
+  dialog.auth {
+    border: 1px solid var(--line); border-radius: 18px; padding: 0;
+    background: var(--card); color: var(--ink);
+    max-width: 430px; width: calc(100% - 32px);
+    box-shadow: 0 14px 44px rgba(90, 50, 20, 0.25);
+  }
+  dialog.auth::backdrop { background: rgba(51, 48, 43, 0.45); }
+  .auth-head { padding: 22px 24px 0; text-align: center; }
+  .auth-head h2 { font-size: 1.12rem; font-weight: 800; }
+  .auth-head p { font-size: 0.82rem; color: var(--ink-soft); margin-top: 4px; }
+
+  .auth-tabs { display: flex; gap: 6px; padding: 16px 24px 0; }
+  .auth-tab {
+    flex: 1; padding: 9px; border-radius: 10px;
+    border: 1px solid var(--line); background: var(--card);
+    font-size: 0.85rem; font-weight: 700; color: var(--ink-soft);
+  }
+  .auth-tab.on { background: var(--brand-soft); border-color: var(--brand-soft); color: var(--brand-dark); }
+
+  .auth-form { padding: 16px 24px 20px; display: flex; flex-direction: column; gap: 11px; }
+  .auth-form[hidden] { display: none; }
+  .auth-row { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .field { display: flex; flex-direction: column; gap: 5px; min-width: 0; }
+  .field label { font-size: 0.76rem; font-weight: 700; color: var(--ink-soft); }
+  .field input, .field select {
+    font: inherit; font-size: 0.9rem; padding: 9px 11px;
+    border: 1px solid var(--line); border-radius: 10px;
+    background: var(--paper); color: var(--ink); width: 100%;
+  }
+  .field input:focus, .field select:focus { outline: none; border-color: var(--brand); background: var(--card); }
+  .auth-msg { font-size: 0.8rem; color: #b4232a; font-weight: 600; }
+  .auth-msg[hidden] { display: none; }
+  .auth-submit {
+    background: var(--brand); color: #fff; border: 0; border-radius: 999px;
+    padding: 11px; font-weight: 800; font-size: 0.92rem; margin-top: 3px;
+  }
+  .auth-submit:hover { background: var(--brand-dark); }
+  .auth-note { font-size: 0.72rem; color: var(--ink-soft); text-align: center; line-height: 1.5; }
+  .auth-close {
+    position: absolute; top: 12px; right: 14px;
+    border: 0; background: none; color: var(--ink-soft); font-size: 1.3rem; line-height: 1;
+  }
+
+  .prof-info { padding: 2px 12px 6px; font-size: 0.82rem; }
+  .prof-info div { display: flex; justify-content: space-between; gap: 12px; padding: 5px 0; border-bottom: 1px dashed var(--line); }
+  .prof-info div:last-child { border-bottom: 0; }
+  .prof-info span { color: var(--ink-soft); flex-shrink: 0; }
+  .prof-info b { font-weight: 700; text-align: right; overflow: hidden; text-overflow: ellipsis; }
 </style>
 </head>
 <body>
@@ -615,10 +706,7 @@
           <span class="profile-name">สวัสดี, นักศึกษา<small>มหาวิทยาลัยขอนแก่น</small></span>
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="m6 9 6 6 6-6"/></svg>
         </button>
-        <div class="dropdown" id="profDrop">
-          <h4>โปรไฟล์ <small>ตัวอย่างจำลอง</small></h4>
-          <div class="noti-item"><span class="dot"></span><div><p>ระบบเข้าสู่ระบบด้วยบัญชี KKU Mail จะพัฒนาในเวอร์ชันถัดไป — ตั้งค่าการใช้งานได้ที่เมนู "ตั้งค่า"</p></div></div>
-        </div>
+        <div class="dropdown" id="profDrop"></div>
       </div>
     </div>
   </div>
@@ -703,6 +791,7 @@
           <label>ล้างรายการข่าวที่บันทึกไว้<small id="setSavedCount"></small></label>
           <button class="danger-btn" id="setClearSaved">ล้างบันทึก</button>
         </div>
+        <div class="desc" id="setLogNote" hidden></div>
       </div>
       <div class="set-panel" style="background: var(--gold-soft); border-color: #f3dfb2;">
         <h4>หมายเหตุ</h4>
@@ -755,6 +844,88 @@
   ข้อมูลข่าวรวบรวมจากเว็บไซต์คณะและ Google News โดยลิงก์กลับไปยังแหล่งข่าวต้นทางทุกรายการ · <span id="footUpdated"></span>
 </footer>
 
+<dialog class="auth" id="authDialog" aria-labelledby="authTitle">
+  <button class="auth-close" id="authClose" aria-label="ปิด">×</button>
+
+  <div class="auth-head">
+    <h2 id="authTitle">บัญชี KKU Connect</h2>
+    <p>สมัครไว้เพื่อให้เว็บเปิดข่าวคณะของคุณให้อัตโนมัติ</p>
+  </div>
+
+  <div class="auth-tabs" role="tablist">
+    <button class="auth-tab on" id="authTabSignup" role="tab">สมัครสมาชิก</button>
+    <button class="auth-tab" id="authTabLogin" role="tab">เข้าสู่ระบบ</button>
+  </div>
+
+  <form class="auth-form" id="authSignupForm" novalidate>
+    <div class="field">
+      <label for="suName">ชื่อ - นามสกุล</label>
+      <input id="suName" type="text" autocomplete="name" placeholder="เช่น สมชาย ใจดี" />
+    </div>
+    <div class="auth-row">
+      <div class="field">
+        <label for="suYear">ชั้นปี</label>
+        <select id="suYear">
+          <option value="">— เลือก —</option>
+          <option>ชั้นปีที่ 1</option>
+          <option>ชั้นปีที่ 2</option>
+          <option>ชั้นปีที่ 3</option>
+          <option>ชั้นปีที่ 4</option>
+          <option>สูงกว่าชั้นปีที่ 4</option>
+          <option>บุคลากร / อื่น ๆ</option>
+        </select>
+      </div>
+      <div class="field">
+        <label for="suGender">เพศ</label>
+        <select id="suGender">
+          <option value="">— เลือก —</option>
+          <option>ชาย</option>
+          <option>หญิง</option>
+          <option>ไม่ระบุ</option>
+          <option>อื่น ๆ</option>
+        </select>
+      </div>
+    </div>
+    <div class="field">
+      <label for="suFaculty">คณะ / วิทยาลัย</label>
+      <select id="suFaculty"><option value="">— เลือก —</option></select>
+    </div>
+    <div class="field">
+      <label for="suEmail">อีเมล</label>
+      <input id="suEmail" type="email" autocomplete="email" placeholder="เช่น somchai.j@kkumail.com" />
+    </div>
+    <p class="auth-msg" id="suMsg" hidden></p>
+    <button class="auth-submit" type="submit">สมัครสมาชิก</button>
+    <p class="auth-note" id="suNote"></p>
+  </form>
+
+  <form class="auth-form" id="authLoginForm" novalidate hidden>
+    <div class="field">
+      <label for="liEmail">อีเมลที่เคยสมัครไว้</label>
+      <input id="liEmail" type="email" autocomplete="email" placeholder="กรอกอีเมลของคุณ" />
+    </div>
+    <p class="auth-msg" id="liMsg" hidden></p>
+    <button class="auth-submit" type="submit">เข้าสู่ระบบ</button>
+    <p class="auth-note">บัญชีเก็บอยู่ในเครื่องนี้ ถ้าเปลี่ยนเครื่องหรือล้างข้อมูลเบราว์เซอร์ ต้องสมัครใหม่</p>
+  </form>
+</dialog>
+
+<button class="rate-fab" id="rateFab" aria-haspopup="dialog">★ ประเมินการใช้งาน</button>
+
+<dialog class="rate" id="rateDialog" aria-labelledby="rateTitle">
+  <div class="rate-body">
+    <h2 id="rateTitle">ช่วยประเมินการใช้งาน KKU Connect</h2>
+    <p>สแกน QR ด้วยกล้องมือถือ หรือกดปุ่มเปิดแบบประเมิน — ใช้เวลาไม่เกิน 1 นาที</p>
+    <div class="rate-qr" id="rateQr"></div>
+    <div class="rate-actions">
+      <a class="btn primary" id="rateOpen" target="_blank" rel="noopener">เปิดแบบประเมิน</a>
+      <button class="btn" id="rateClose">ปิด</button>
+    </div>
+  </div>
+</dialog>
+
+<script src="config.js"></script>
+<script src="qr.js"></script>
 <script>
 /* ---------- ตั้งค่าผู้ใช้ (localStorage) ---------- */
 const DEFAULT_SETTINGS = { showHero: true, pageSize: 24, defaultCat: "all" };
@@ -939,7 +1110,14 @@ function openDetail(link) {
 window._open = (el) => openDetail(el.dataset.link);
 
 function toggleSave(link) {
-  saved.has(link) ? (saved.delete(link), toast("เอาออกจากบันทึกแล้ว")) : (saved.add(link), toast("บันทึกข่าวนี้ไว้แล้ว 🔖"));
+  if (saved.has(link)) {
+    saved.delete(link);
+    toast("เอาออกจากบันทึกแล้ว");
+  } else {
+    saved.add(link);
+    toast("บันทึกข่าวนี้ไว้แล้ว 🔖");
+    queueSaveLog(link); // ส่งให้หลังบ้านรู้ว่าใครบันทึกข่าวไหนไว้ตอนไหน
+  }
   localStorage.setItem("kkuconnect-saved", JSON.stringify([...saved]));
   render();
 }
@@ -1259,6 +1437,15 @@ function initSettingsPage() {
 }
 function renderSettingsPage() {
   $("setSavedCount").textContent = `ตอนนี้บันทึกไว้ ${saved.size} รายการ`;
+
+  // บอกผู้ใช้ตามจริงว่ามีการเก็บสถิติการกดบันทึกไว้หรือไม่ (ขึ้นกับ SAVELOG_WEBHOOK_URL ใน config.js)
+  const note = $("setLogNote");
+  note.hidden = !logEnabled();
+  if (!note.hidden) {
+    note.textContent = currentUser()
+      ? "เมื่อคุณกดบันทึกข่าว ระบบจะเก็บสถิติไว้ว่าใครบันทึกข่าวใดเมื่อใด เพื่อใช้ประกอบการศึกษาเท่านั้น"
+      : "เมื่อคุณกดบันทึกข่าว ระบบจะเก็บสถิติไว้แบบไม่ระบุตัวตน เพื่อใช้ประกอบการศึกษาเท่านั้น";
+  }
 }
 
 /* ---------- Right rail (หน้าแรก) ---------- */
@@ -1400,13 +1587,317 @@ fetch("data/news.json")
     if (!validCats.has(state.cat)) state.cat = "all";
     $("footUpdated").textContent = "อัปเดตล่าสุด " + timeAgo(data.updatedAt);
     initSettingsPage();
+    initAuth();
     render();
   })
   .catch(() => {
     $("listView").hidden = false;
     $("empty").hidden = false;
     $("empty").innerHTML = `<div class="big">⚠️</div>โหลดข้อมูลข่าวไม่สำเร็จ — ถ้าเปิดไฟล์ตรง ๆ ให้รัน local server ก่อน เช่น <code>npx serve .</code>`;
+    initAuth(); // ให้ปุ่มโปรไฟล์ยังใช้ได้แม้โหลดข่าวไม่สำเร็จ
   });
+
+/* ---------- บัญชีผู้ใช้ (เก็บในเบราว์เซอร์เครื่องนี้เท่านั้น ไม่มีเซิร์ฟเวอร์) ---------- */
+const ACC_KEY = "kkuconnect-accounts";
+const SESSION_KEY = "kkuconnect-session";
+const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+function loadAccounts() {
+  try { return JSON.parse(localStorage.getItem(ACC_KEY) || "[]"); } catch { return []; }
+}
+function saveAccounts(list) { localStorage.setItem(ACC_KEY, JSON.stringify(list)); }
+function currentUser() {
+  const email = localStorage.getItem(SESSION_KEY);
+  return email ? loadAccounts().find((a) => a.email === email) || null : null;
+}
+function facultyName(id) {
+  return srcById.get(id)?.name || DATA.sources.find((s) => s.id === id)?.name || "ไม่ระบุคณะ";
+}
+function firstName(name) { return String(name).trim().split(/\s+/)[0]; }
+function closeDrops() {
+  document.querySelectorAll(".dropdown.open").forEach((x) => x.classList.remove("open"));
+}
+
+// ปุ่มโปรไฟล์มุมขวาบนเป็นทางเข้าเดียวของระบบสมาชิก — เปลี่ยนหน้าตาตามสถานะล็อกอิน
+function renderProfile() {
+  const user = currentUser();
+  const chip = $("profBtn");
+  const avatar = chip.querySelector(".avatar");
+  const label = chip.querySelector(".profile-name");
+
+  if (user) {
+    avatar.textContent = [...user.name.trim()][0] || "ผ";
+    label.innerHTML = `สวัสดี, ${esc(firstName(user.name))}<small>${esc(facultyName(user.facultyId))}</small>`;
+    $("profDrop").innerHTML =
+      `<h4>โปรไฟล์ <small>บัญชีในเครื่องนี้</small></h4>
+       <div class="prof-info">
+         <div><span>ชื่อ</span><b>${esc(user.name)}</b></div>
+         <div><span>ชั้นปี</span><b>${esc(user.year)}</b></div>
+         <div><span>คณะ</span><b>${esc(facultyName(user.facultyId))}</b></div>
+         <div><span>เพศ</span><b>${esc(user.gender)}</b></div>
+         <div><span>อีเมล</span><b>${esc(user.email)}</b></div>
+       </div>
+       <div class="foot"><button id="btnLogout">ออกจากระบบ</button></div>`;
+    $("btnLogout").addEventListener("click", logout);
+  } else {
+    avatar.textContent = "?";
+    label.innerHTML = `เข้าสู่ระบบ<small>ยังไม่ได้สมัครสมาชิก</small>`;
+    $("profDrop").innerHTML =
+      `<h4>ยังไม่ได้เข้าสู่ระบบ <small>ดูข่าวได้ตามปกติ</small></h4>
+       <div class="noti-item"><span class="dot"></span><div><p>สมัครสมาชิกไว้ แล้วเว็บจะเปิดหน้าข่าวคณะของคุณให้อัตโนมัติทุกครั้งที่เข้ามา</p></div></div>
+       <div class="foot"><button id="btnOpenAuth">สมัครสมาชิก / เข้าสู่ระบบ →</button></div>`;
+    $("btnOpenAuth").addEventListener("click", () => { closeDrops(); openAuth("signup"); });
+  }
+}
+
+// ผูกคณะของผู้ใช้เข้ากับหน้าแรก — ตรงกับที่ผู้ใช้บอกว่าอยากเห็นเฉพาะข้อมูลที่เกี่ยวกับตัวเอง
+function applyHomeFaculty(user) {
+  const cat = "f:" + user.facultyId;
+  settings.defaultCat = cat;
+  saveSettings();
+  if ($("setDefault")) $("setDefault").value = cat;
+  state.cat = cat;
+  state.detail = null;
+  state.listAll = false;
+  state.shown = settings.pageSize;
+  if (DATA.sources.length) render();
+}
+
+function logout() {
+  localStorage.removeItem(SESSION_KEY);
+  settings.defaultCat = "all";
+  saveSettings();
+  if ($("setDefault")) $("setDefault").value = "all";
+  state.cat = "all";
+  state.detail = null;
+  state.listAll = false;
+  closeDrops();
+  renderProfile();
+  if (DATA.sources.length) render();
+  toast("ออกจากระบบแล้ว");
+}
+
+/* ---------- ส่งรายชื่อคนสมัครไปเก็บที่ Google Sheets ---------- */
+// เปิดใช้เมื่อตั้งค่า SIGNUP_WEBHOOK_URL ใน config.js เท่านั้น ถ้าเว้นว่างไว้ข้อมูลจะไม่ออกจากเครื่องผู้ใช้เลย
+const SYNC_KEY = "kkuconnect-pending-sync";
+
+function syncEnabled() { return !!String(window.SIGNUP_WEBHOOK_URL || "").trim(); }
+function loadPending() {
+  try { return JSON.parse(localStorage.getItem(SYNC_KEY) || "[]"); } catch { return []; }
+}
+function savePending(list) { localStorage.setItem(SYNC_KEY, JSON.stringify(list)); }
+
+// เข้าคิวก่อนส่งเสมอ เน็ตหลุดตอนสมัครก็ยังได้ข้อมูลตอนเปิดเว็บครั้งหน้า
+// (ฝั่ง Apps Script เช็คอีเมลซ้ำให้อยู่แล้ว ส่งซ้ำจึงไม่ทำให้ชีตมีแถวเกิน)
+function queueSignup(user) {
+  if (!syncEnabled()) return;
+  const pending = loadPending();
+  if (pending.some((p) => p.email === user.email)) return;
+  pending.push({
+    token: String(window.SIGNUP_TOKEN || ""),
+    name: user.name,
+    year: user.year,
+    gender: user.gender,
+    faculty: facultyName(user.facultyId),
+    email: user.email,
+    createdAt: user.createdAt,
+    origin: location.origin + location.pathname,
+  });
+  savePending(pending);
+  flushPending();
+}
+
+// Apps Script ไม่ส่ง CORS header กลับมา จึงต้องใช้ no-cors — อ่านคำตอบไม่ได้
+// แต่ถ้า fetch ไม่ throw แปลว่าคำขอส่งออกจากเครื่องไปแล้ว จึงถือว่าสำเร็จและเอาออกจากคิว
+function postToScript(url, payload) {
+  return fetch(url, {
+    method: "POST",
+    mode: "no-cors",
+    headers: { "Content-Type": "text/plain;charset=utf-8" },
+    body: JSON.stringify(payload),
+  });
+}
+
+function flushPending() {
+  if (!syncEnabled()) return;
+  const url = String(window.SIGNUP_WEBHOOK_URL).trim();
+  loadPending().forEach((payload) => {
+    postToScript(url, payload)
+      .then(() => savePending(loadPending().filter((p) => p.email !== payload.email)))
+      .catch(() => {}); // ส่งไม่ออก ปล่อยค้างในคิวไว้ลองใหม่รอบหน้า
+  });
+}
+
+/* ---------- ส่ง log การกดบันทึกข่าวไปเก็บที่ Google Sheets ---------- */
+// เปิดใช้เมื่อตั้งค่า SAVELOG_WEBHOOK_URL ใน config.js เท่านั้น ถ้าเว้นว่างไว้ปุ่ม 🔖 ทำงานเหมือนเดิมทุกอย่าง
+// เก็บทั้งคนที่ล็อกอินและคนที่ไม่ได้ล็อกอิน (ฝั่งชีตจะขึ้นว่า "ผู้ไม่ระบุตัวตน")
+const LOG_KEY = "kkuconnect-pending-log";
+const DEVICE_KEY = "kkuconnect-device";
+const LOG_QUEUE_MAX = 200;  // กันคิวบวมถ้าส่งไม่ออกติดกันนาน ๆ
+
+function logEnabled() { return !!String(window.SAVELOG_WEBHOOK_URL || "").trim(); }
+function loadPendingLog() {
+  try { return JSON.parse(localStorage.getItem(LOG_KEY) || "[]"); } catch { return []; }
+}
+function savePendingLog(list) { localStorage.setItem(LOG_KEY, JSON.stringify(list)); }
+
+// รหัสประจำเครื่อง ไม่ผูกกับตัวตนจริง ใช้แยกว่าคนละคนกันเฉย ๆ ตอนที่ผู้ใช้ไม่ได้ล็อกอิน
+function deviceId() {
+  let id = localStorage.getItem(DEVICE_KEY);
+  if (!id) {
+    id = "d-" + Math.random().toString(36).slice(2, 10) + Date.now().toString(36).slice(-4);
+    localStorage.setItem(DEVICE_KEY, id);
+  }
+  return id;
+}
+
+// เข้าคิวก่อนส่งเสมอ เน็ตหลุดตอนกดบันทึกก็ยังได้ log ตอนเปิดเว็บครั้งหน้า
+// (ฝั่ง Apps Script เช็ค eventId ซ้ำให้อยู่แล้ว ส่งซ้ำจึงไม่ทำให้ชีตมีแถวเกิน)
+function queueSaveLog(link) {
+  if (!logEnabled()) return;
+  const it = itemByLink.get(link);
+  if (!it) return;
+
+  const user = currentUser();
+  const pending = loadPendingLog();
+  pending.push({
+    token: String(window.SAVELOG_TOKEN || ""),
+    eventId: deviceId() + "-" + Date.now().toString(36) + "-" + Math.random().toString(36).slice(2, 7),
+    savedAt: new Date().toISOString(),
+    device: deviceId(),
+    name: user ? user.name : "",
+    email: user ? user.email : "",
+    year: user ? user.year : "",
+    userFaculty: user ? facultyName(user.facultyId) : "",
+    title: it.title,
+    newsFaculty: srcById.get(it.sourceId)?.name || it.category || "",
+    topic: topicById.get(it.topic)?.name || it.topic || "",
+    publishedAt: it.publishedAt || "",
+    link: it.link,
+    origin: location.origin + location.pathname,
+  });
+  savePendingLog(pending.slice(-LOG_QUEUE_MAX));
+  flushSaveLog();
+}
+
+function flushSaveLog() {
+  if (!logEnabled()) return;
+  const url = String(window.SAVELOG_WEBHOOK_URL).trim();
+  loadPendingLog().forEach((payload) => {
+    postToScript(url, payload)
+      .then(() => savePendingLog(loadPendingLog().filter((p) => p.eventId !== payload.eventId)))
+      .catch(() => {}); // ส่งไม่ออก ปล่อยค้างในคิวไว้ลองใหม่รอบหน้า
+  });
+}
+
+function switchAuthTab(tab) {
+  const signup = tab === "signup";
+  $("authTabSignup").classList.toggle("on", signup);
+  $("authTabLogin").classList.toggle("on", !signup);
+  $("authSignupForm").hidden = !signup;
+  $("authLoginForm").hidden = signup;
+  $("suMsg").hidden = true;
+  $("liMsg").hidden = true;
+}
+function openAuth(tab) {
+  switchAuthTab(tab || "signup");
+  $("authDialog").showModal();
+}
+function authMsg(id, text) {
+  const el = $(id);
+  el.textContent = text;
+  el.hidden = false;
+}
+
+let authReady = false;
+function initAuth() {
+  if (authReady) return;
+  authReady = true;
+
+  // ตัวเลือกคณะดึงจากรายการแหล่งข่าวที่มีอยู่แล้ว (ตัด "มข." ซึ่งเป็นข่าวส่วนกลางออก)
+  const faculties = DATA.sources.filter((s) => s.id !== "kku");
+  $("suFaculty").innerHTML = `<option value="">— เลือก —</option>` +
+    faculties.map((s) => `<option value="${esc(s.id)}">${esc(s.name)}</option>`).join("");
+
+  // บอกผู้ใช้ตามจริงว่าข้อมูลไปไหน ขึ้นกับว่าตั้งค่า SIGNUP_WEBHOOK_URL ไว้หรือยัง
+  $("suNote").textContent = syncEnabled()
+    ? "ข้อมูลที่กรอกจะถูกบันทึกไว้ที่ Google Sheets ของผู้จัดทำ เพื่อใช้ประกอบการศึกษาเท่านั้น"
+    : "ข้อมูลถูกเก็บไว้ในเบราว์เซอร์เครื่องนี้เท่านั้น ไม่ได้ส่งออกไปที่เซิร์ฟเวอร์ใด ๆ";
+
+  flushPending(); // มีข้อมูลค้างจากรอบก่อน (เช่นตอนนั้นเน็ตหลุด) ส่งซ้ำให้
+  flushSaveLog(); // เช่นเดียวกัน — log การบันทึกข่าวที่ยังส่งไม่ออก
+
+  $("authTabSignup").addEventListener("click", () => switchAuthTab("signup"));
+  $("authTabLogin").addEventListener("click", () => switchAuthTab("login"));
+  $("authClose").addEventListener("click", () => $("authDialog").close());
+  $("authDialog").addEventListener("click", (e) => { if (e.target === $("authDialog")) $("authDialog").close(); });
+
+  $("authSignupForm").addEventListener("submit", (e) => {
+    e.preventDefault();
+    const name = $("suName").value.trim();
+    const year = $("suYear").value;
+    const gender = $("suGender").value;
+    const facultyId = $("suFaculty").value;
+    const email = $("suEmail").value.trim().toLowerCase();
+
+    if (!name) return authMsg("suMsg", "กรุณากรอกชื่อ - นามสกุล");
+    if (!year) return authMsg("suMsg", "กรุณาเลือกชั้นปี");
+    if (!gender) return authMsg("suMsg", "กรุณาเลือกเพศ");
+    if (!facultyId) return authMsg("suMsg", "กรุณาเลือกคณะ / วิทยาลัย");
+    if (!EMAIL_RE.test(email)) return authMsg("suMsg", "รูปแบบอีเมลไม่ถูกต้อง");
+
+    const accounts = loadAccounts();
+    if (accounts.some((a) => a.email === email))
+      return authMsg("suMsg", "อีเมลนี้สมัครไว้แล้วในเครื่องนี้ — ไปที่แท็บเข้าสู่ระบบได้เลย");
+
+    const user = { name, year, gender, facultyId, email, createdAt: new Date().toISOString() };
+    accounts.push(user);
+    saveAccounts(accounts);
+    localStorage.setItem(SESSION_KEY, email);
+
+    $("authDialog").close();
+    $("authSignupForm").reset();
+    queueSignup(user);
+    renderProfile();
+    applyHomeFaculty(user);
+    toast(`ยินดีต้อนรับ ${firstName(user.name)} 🎉 ตั้งหน้าแรกเป็นข่าว${facultyName(facultyId)} ให้แล้ว`);
+  });
+
+  $("authLoginForm").addEventListener("submit", (e) => {
+    e.preventDefault();
+    const email = $("liEmail").value.trim().toLowerCase();
+    if (!EMAIL_RE.test(email)) return authMsg("liMsg", "รูปแบบอีเมลไม่ถูกต้อง");
+
+    const user = loadAccounts().find((a) => a.email === email);
+    if (!user) return authMsg("liMsg", "ไม่พบบัญชีนี้ในเครื่องนี้ — สมัครสมาชิกใหม่ได้ที่แท็บด้านซ้าย");
+
+    localStorage.setItem(SESSION_KEY, email);
+    $("authDialog").close();
+    $("authLoginForm").reset();
+    renderProfile();
+    applyHomeFaculty(user);
+    toast(`ยินดีต้อนรับกลับมา ${firstName(user.name)} 👋`);
+  });
+
+  renderProfile();
+}
+
+/* ---------- แบบประเมิน ---------- */
+// ปุ่มจะโผล่เฉพาะตอนที่ตั้งค่าลิงก์ฟอร์มไว้แล้วใน config.js
+(function initFeedback() {
+  const url = (window.FEEDBACK_FORM_URL || "").trim();
+  if (!url) return;
+
+  $("rateOpen").href = url;
+  // QR ไว้ให้คนอื่นสแกนจากหน้าจอ เช่น ตอนนำเสนอหน้าห้อง
+  $("rateQr").innerHTML = QR.svg(url, { ecc: "Q", scale: 6, border: 2, dark: "#33302b" });
+
+  const dialog = $("rateDialog");
+  $("rateFab").classList.add("show");
+  $("rateFab").addEventListener("click", () => dialog.showModal());
+  $("rateClose").addEventListener("click", () => dialog.close());
+  dialog.addEventListener("click", (e) => { if (e.target === dialog) dialog.close(); });
+})();
 </script>
 </body>
 </html>

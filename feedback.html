@@ -1,0 +1,248 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>QR แบบประเมิน — KKU Connect</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@400;500;600;700&family=Anuphan:wght@400;500;600&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --paper: #f8f5f1;
+    --card: #ffffff;
+    --ink: #33302b;
+    --ink-soft: #8d8377;
+    --line: #efe6da;
+    --brand: #d4541c;
+    --hilite: #f2b544;
+    --hilite-ink: #4a2c08;
+  }
+
+  * { box-sizing: border-box; margin: 0; }
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "Anuphan", "IBM Plex Sans Thai", "Leelawadee UI", "Noto Sans Thai", sans-serif;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    padding: 32px 20px;
+    gap: 22px;
+  }
+
+  /* โปสเตอร์: สัดส่วนเดียวกับ A4 เพื่อให้สั่งพิมพ์แล้วได้ผลตรงกับที่เห็นบนจอ */
+  .poster {
+    width: 100%;
+    max-width: 620px;
+    aspect-ratio: 210 / 297;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 16px;
+    box-shadow: 0 1px 2px rgba(90, 50, 20, .06), 0 10px 30px rgba(90, 50, 20, .07);
+    padding: 7% 8%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+  }
+
+  .brand {
+    font-family: "IBM Plex Sans Thai", "Leelawadee UI", sans-serif;
+    font-weight: 700;
+    font-size: clamp(1.4rem, 4.4vw, 2rem);
+    letter-spacing: -.01em;
+  }
+  .brand .mark {
+    background: linear-gradient(transparent 55%, var(--hilite) 55%, var(--hilite) 92%, transparent 92%);
+    padding: 0 3px;
+  }
+  .kicker {
+    font-size: .82rem;
+    font-weight: 600;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-top: 4px;
+  }
+
+  .headline {
+    font-family: "IBM Plex Sans Thai", sans-serif;
+    font-weight: 700;
+    font-size: clamp(1.5rem, 5.5vw, 2.1rem);
+    line-height: 1.35;
+    text-wrap: balance;
+  }
+  .sub { color: var(--ink-soft); font-size: 1rem; margin-top: 8px; }
+
+  .qr-frame {
+    background: #fff;
+    border: 2px solid var(--ink);
+    border-radius: 14px;
+    padding: 14px;
+    line-height: 0;
+    width: min(62%, 300px);
+  }
+  .qr-frame svg { width: 100%; height: auto; display: block; }
+
+  .link {
+    font-size: .8rem;
+    color: var(--ink-soft);
+    word-break: break-all;
+    max-width: 90%;
+  }
+  .link b { color: var(--brand); font-weight: 600; }
+
+  .steps {
+    display: flex;
+    gap: 18px;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: .86rem;
+    color: var(--ink-soft);
+  }
+  .steps span { display: inline-flex; align-items: center; gap: 7px; }
+  .steps i {
+    display: grid;
+    place-items: center;
+    width: 22px; height: 22px;
+    border-radius: 999px;
+    background: var(--hilite);
+    color: var(--hilite-ink);
+    font-style: normal;
+    font-weight: 700;
+    font-size: .78rem;
+  }
+
+  /* แถบเครื่องมือด้านล่าง — ไม่ต้องติดไปกับกระดาษตอนพิมพ์ */
+  .toolbar { display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; }
+  .btn {
+    font: inherit;
+    font-weight: 600;
+    font-size: .92rem;
+    padding: 9px 18px;
+    border-radius: 999px;
+    border: 1px solid var(--line);
+    background: var(--card);
+    color: var(--ink);
+    cursor: pointer;
+  }
+  .btn:hover { border-color: var(--ink-soft); }
+  .btn.primary { background: var(--brand); border-color: var(--brand); color: #fff; }
+  .btn:focus-visible { outline: 2px solid var(--brand); outline-offset: 2px; }
+
+  .notice {
+    max-width: 620px;
+    background: #fff8e1;
+    border: 1px solid #f0dfa8;
+    color: #4a3f10;
+    border-radius: 12px;
+    padding: 16px 18px;
+    font-size: .92rem;
+  }
+  .notice code {
+    background: #fff;
+    border: 1px solid #ebdfba;
+    border-radius: 5px;
+    padding: 1px 5px;
+    font-size: .88em;
+  }
+  .notice ol { margin: 8px 0 0; padding-left: 20px; }
+
+  @media print {
+    @page { size: A4; margin: 12mm; }
+    body { background: #fff; padding: 0; display: block; }
+    .toolbar, .notice { display: none !important; }
+    .poster {
+      max-width: none;
+      width: 100%;
+      height: 100%;
+      aspect-ratio: auto;
+      border: none;
+      box-shadow: none;
+      border-radius: 0;
+    }
+  }
+</style>
+</head>
+<body>
+
+<div class="poster">
+  <div>
+    <div class="brand"><span class="mark" id="brand">KKU Connect</span></div>
+    <div class="kicker">แบบประเมินการใช้งาน</div>
+  </div>
+
+  <div>
+    <h1 class="headline">สแกนเพื่อประเมิน<br />การใช้งานเว็บไซต์</h1>
+    <p class="sub">ใช้เวลาไม่เกิน 1 นาที — ความเห็นของคุณช่วยให้เราพัฒนาต่อได้</p>
+  </div>
+
+  <div class="qr-frame" id="qr"></div>
+
+  <div>
+    <p class="steps">
+      <span><i>1</i> เปิดกล้องมือถือ</span>
+      <span><i>2</i> ส่องที่ QR</span>
+      <span><i>3</i> กรอกแบบประเมิน</span>
+    </p>
+    <p class="link" id="link"></p>
+  </div>
+</div>
+
+<div class="toolbar">
+  <button class="btn primary" onclick="window.print()">พิมพ์ / บันทึกเป็น PDF</button>
+  <button class="btn" id="download">ดาวน์โหลด QR (.svg)</button>
+  <a class="btn" href="index.html">กลับหน้าเว็บ</a>
+</div>
+
+<script src="config.js"></script>
+<script src="qr.js"></script>
+<script>
+(function () {
+  const url = (window.FEEDBACK_FORM_URL || "").trim();
+  const appName = window.FEEDBACK_APP_NAME || "KKU Connect";
+  document.getElementById("brand").textContent = appName;
+  document.title = "QR แบบประเมิน — " + appName;
+
+  if (!url) {
+    // ยังไม่ได้ใส่ลิงก์ฟอร์ม — บอกวิธีทำแทนที่จะโชว์ QR ที่สแกนแล้วไปไหนไม่ได้
+    document.querySelector(".poster").style.display = "none";
+    document.querySelector(".toolbar").style.display = "none";
+    const notice = document.createElement("div");
+    notice.className = "notice";
+    notice.innerHTML =
+      "<b>ยังไม่ได้ตั้งค่าลิงก์แบบประเมิน</b>" +
+      "<ol>" +
+      "<li>เปิด <code>https://script.google.com</code> แล้วสร้างโปรเจกต์ใหม่</li>" +
+      "<li>วางโค้ดจากไฟล์ <code>create-feedback-form.gs</code> แล้วกด Run</li>" +
+      "<li>คัดลอก \"ลิงก์สำหรับผู้ตอบ\" ที่ได้ ไปวางในไฟล์ <code>config.js</code></li>" +
+      "<li>เปิดหน้านี้ใหม่ QR จะขึ้นมาเอง</li>" +
+      "</ol>";
+    document.body.appendChild(notice);
+    return;
+  }
+
+  // ระดับกันความเสียหาย Q ทนต่อรอยเปื้อน/รอยพับบนกระดาษได้ราว 25%
+  const svg = QR.svg(url, { ecc: "Q", scale: 8, border: 2, dark: "#1b2431" });
+  document.getElementById("qr").innerHTML = svg;
+
+  const shown = url.replace(/^https?:\/\//, "");
+  document.getElementById("link").innerHTML = "หรือพิมพ์ <b>" + shown + "</b>";
+
+  document.getElementById("download").addEventListener("click", function () {
+    const blob = new Blob([QR.svg(url, { ecc: "Q", scale: 16, border: 4 })], { type: "image/svg+xml" });
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = "qr-แบบประเมิน.svg";
+    a.click();
+    URL.revokeObjectURL(a.href);
+  });
+})();
+</script>
+</body>
+</html>
