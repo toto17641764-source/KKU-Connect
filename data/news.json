@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T23:37:41.733Z",
+  "updatedAt": "2026-09-03T01:35:56.749Z",
   "sources": [
     {
       "id": "med",
@@ -996,13 +996,13 @@
       "topic": "activity"
     },
     {
-      "title": "จุดประกายทักษะแห่งอนาคต! ศึกษาศาสตร์ มข. โดยศูนย์วิจัยด้านพัฒนากำลังคนโค้ดดิ้งและพลเมืองดิจิทัล (CMDDC) จับมือ ผู้ประกอบการด้านการศึกษา จัดแข่งหุ่นยนต์ระดับชาติ “E-SAN Thailand Robotic 2026 Season 1” มุ่งยกระดับกำลังคนด้านวิทยาการคำนวณ",
-      "link": "https://ednet.kku.ac.th/news/20354/",
-      "outlet": "เว็บไซต์คณะ",
-      "publishedAt": "2026-07-22T08:14:30.000Z",
+      "title": "จุดประกายทักษะแห่งอนาคต! ศึกษาศาสตร์ มข. โดยศูนย์วิจัยด้านพัฒนากำลังคนโค้ดดิ้งและพลเมืองดิจิทัล (CMDDC) จับมือ ผู้ประกอบการด้านการศึกษา จัดแข่งหุ่นยนต์ระดับชาติ “E-SAN Thailand Robotic 2026 Season 1” มุ่งยกระดับกำลังคนด้านวิทยาการคำนวณ - Khon Kaen Universit",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBmRThZS1J2MmxLVFliYzlTMW5hSjBwclozS09jTFdvX3RDUG03WmV3a2sySFN4dldUSWxRTUs1X19QdHZDNjdj?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-07-22T09:46:32.000Z",
       "sourceId": "edu",
       "category": "คณะศึกษาศาสตร์",
-      "image": "https://ednet.kku.ac.th/wp-content/uploads/2026/07/EDKKU2026-07-17-Esan-Thailand-Robotic-2-5-of-21-1024x682.jpg",
+      "image": null,
       "topic": "research"
     },
     {
@@ -1176,16 +1176,6 @@
       "topic": "research"
     },
     {
-      "title": "นศ.สถาปัตย์ มข.คว้า 5 รางวัล ประกวดวิทยานิพนธ์ทางสถาปัตยกรรมดีเด่น ประจำปี 2026 (TOY arch 2026)",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ZTmgteXY4SklQd2QxckFVRUQxWjBNWHRydW5PbGpWODhLMzJSVXgtcklXZmRJZFdTa2JpWl82WjRuQQ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-07-14T04:56:42.000Z",
-      "sourceId": "arch",
-      "category": "คณะสถาปัตยกรรมศาสตร์",
-      "image": null,
-      "topic": "activity"
-    },
-    {
       "title": "คณะศิลปกรรมศาสตร์ มข. ร่วมเปิดค่ายยกระดับเทคนิคการสร้างภาพยนตร์ฯ #NextFrame2026 เสริมศักยภาพเยาวชนอีสานสู่การสร้างสรรค์ภาพยนตร์คุณภาพ",
       "link": "https://fa.kku.ac.th/%e0%b8%84%e0%b8%93%e0%b8%b0%e0%b8%a8%e0%b8%b4%e0%b8%a5%e0%b8%9b%e0%b8%81%e0%b8%a3%e0%b8%a3%e0%b8%a1%e0%b8%a8%e0%b8%b2%e0%b8%aa%e0%b8%95%e0%b8%a3%e0%b9%8c-%e0%b8%a1%e0%b8%82-%e0%b8%a3%e0%b9%88-4/",
       "outlet": "เว็บไซต์คณะ",
@@ -1193,6 +1183,16 @@
       "sourceId": "fa",
       "category": "คณะศิลปกรรมศาสตร์",
       "image": "https://fa.kku.ac.th/wp-content/uploads/2026/07/IMGL8018-1024x683.jpg",
+      "topic": "activity"
+    },
+    {
+      "title": "นศ.สถาปัตย์ มข.คว้า 5 รางวัล ประกวดวิทยานิพนธ์ทางสถาปัตยกรรมดีเด่น ประจำปี 2026 (TOY arch 2026)",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5sWkJBYVJpYUhoUUkzRjFDZk1RQ3pWcEJUQ19Pam1FaVpoOXdJX2hydkZSVktNLVBiOUFJckZnbTA0ZEVvNlJz?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-07-14T04:30:50.000Z",
+      "sourceId": "arch",
+      "category": "คณะสถาปัตยกรรมศาสตร์",
+      "image": null,
       "topic": "activity"
     },
     {
@@ -1366,6 +1366,16 @@
       "topic": "scholarship"
     },
     {
+      "title": "วิทยาลัยการคอมพิวเตอร์ มข. จัดอบรมเชิงปฏิบัติการ “Spatio-Temporal GeoAI: From Convolutional Networks to Foundation Models for Earth Observation",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1vQ1Jkdmd5bjlJY1F1NlJmYmk3S1k0Ml9JNHlqdDN5TjJpOXd2VmJTd0ZhUl9Kd0VOUTRWMEhfdmRWWTl4RkZJ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-06-29T02:30:09.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "นักศึกษาคณะเศรษฐศาสตร์ มข. ร่วมแข่งขัน Research to Market ครั้งที่ 14 ระดับภูมิภาค ณ จังหวัดอุบลราชธานี",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1uQzVJMDE1ZzVwUXNPOVNjQ2I3R040RHp2MEV6MzlNLWx2cVpYWjBwSlJwckRwZ0ZRUERpT05vLWtCaDJQMFFv?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1456,16 +1466,6 @@
       "topic": "study"
     },
     {
-      "title": "วิริยะประกันภัย สนับสนุน “ค่ายผู้นำ 4 จอบอาสาพัฒนา” ครั้งที่ 21 สานพลังเครือข่ายผู้นำนักศึกษาเกษตรศาสตร์ ยกระดับเกษตรท้องถิ่นไทย",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xTk85TU1RbTZMRlJrSk5pdlBpdnhZWXlwZ2FIa05sV19BcjFyaG9hVVFQZmM3eWpjbG4ySmRXbU9qN1FRZWhVU01tWTBxeVpGMFpr?oc=5",
-      "outlet": "สวพ.FM91",
-      "publishedAt": "2026-06-17T03:05:01.000Z",
-      "sourceId": "agri",
-      "category": "คณะเกษตรศาสตร์",
-      "image": null,
-      "topic": "activity"
-    },
-    {
       "title": "คณะเศรษฐศาสตร์ มข. เดินหน้าความร่วมมือ SWUFE เมืองเฉิงตู เปิดเส้นทางนักศึกษาเรียนต่อปริญญาโท AI in Business พร้อมโอกาส Global Academy Summer Camp และสหกิจศึกษาด้าน AI in Finance and Economics - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9yaC1rWXFyUFRTeHVqUDAwUnZYaFRtcExORmRhZHQxT3phTmUxMmNkb3laVS1XVm1DSGdyYWJIZE9Oa0g0OEtF?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1474,6 +1474,16 @@
       "category": "คณะเศรษฐศาสตร์",
       "image": null,
       "topic": "job"
+    },
+    {
+      "title": "วิริยะประกันภัย สนับสนุน “ค่ายผู้นำ 4 จอบอาสาพัฒนา” ครั้งที่ 21 สานพลังเครือข่ายผู้นำนักศึกษาเกษตรศาสตร์ ยกระดับเกษตรท้องถิ่นไทย | สวพ.FM91",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sSGI2QVdmMUQyNzE2c1N5Vmg2ME9HSlpuT010aG9vdXlrWmhTdmZDUmphODYyRDlJeFpPNmYxc29NbHhSTWZzVm1FLWp2MmZGaXFBZnh3?oc=5",
+      "outlet": "LINE TODAY",
+      "publishedAt": "2026-06-16T07:00:00.000Z",
+      "sourceId": "agri",
+      "category": "คณะเกษตรศาสตร์",
+      "image": null,
+      "topic": "activity"
     },
     {
       "title": "คณะสหวิทยาการ มข.จัดพิธีทำบุญสำนักงานคณะ เตรียมความพร้อมรองรับการจัดการเรียนการสอนรูปแบบ 1+3 ในปีการศึกษา 2569",
@@ -1550,6 +1560,16 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE15Q3pWMXI3V0hvV1RXYjNuUE1DbV9zT3dVNGlsSHQ0dlFadVpiY0E2ekdiLS02aXM3emh6LVpsc01KVHhnVFZz?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-06-09T07:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "activity"
+    },
+    {
+      "title": "มหาวิทยาลัยขอนแก่นคว้ารางวัล CWIE ระดับชาติ 2569 สะท้อนศักยภาพนักศึกษาสู่เวทีนานาชาติ",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9BTVN2NTFhSmphYm5UWkNnc2tVemYtbWpNYWM1TDdXMGZFWk5rX2VnRjlqR2lmSURyUXhGSHRZRVAxdVd0Z25J?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-06-09T03:30:59.000Z",
       "sourceId": "kku",
       "category": "มข.",
       "image": null,
@@ -1756,16 +1776,6 @@
       "image": null
     },
     {
-      "title": "ขอเชิญอาจารย์และบุคลากร มหาวิทยาลัยขอนแก่น เข้าทดสอบความรู้ “ความปลอดภัยทางไซเบอร์” ประจำปี 2569",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPOHRJajI2bU5LWVNUbVNLb0xrQW1PZnR6NTRCN1VRVWFiS2ZRX0xMb3V5ekZDeElENnUzQXhGV2RYVEVDazNRNk9EZ05hZ0VMdmtPRDVwYmhMdUQ2elpoVlRSMHRpVEVWVUZxb2V2ZnFqYW5LNkhhMXZqYTJIUTVwbW85UVZQdzlVTDJ0UkR5TzRPUW80WEZJRWMyYTBJQ2Q1M1hMcGlIQTZwYXg0dzcydXdOckJMLWlGbFBKQ19rNnk4blJiRF9FbWI1R3R1aGMxUDVDVEJubVlCRFg1cTZQS25FWk9RakNjTXZEOUZTZUtIUkRVVkZ3VkxVN0hzaUlHWFFTbnFzd0cybDdWZTBscHZfT3ZzcVVsTUVOVTFCUmVJQ3REd2s2ZmVGYlNIVjZnVGpEYllzU3JBbVBLVHE4SEdkbUxnNmlBeVJHRWpfYw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-05-11T07:00:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "image": null,
-      "topic": "study"
-    },
-    {
       "title": "ศึกษาศาสตร์ มข. ร่วมสถานศึกษาเครือข่าย เตรียมความพร้อมครูพี่เลี้ยง และอาจารย์นิเทศก์ ก่อนส่งนักศึกษาฝึกปฏิบัติการสอนฯ ประจำปี 2569 - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zVk5UZnNLTmdsd1hwc0Ryc0xWbzdRTWZDTTRPN1pFdFBTMWFlUWdfSWxseEJzdjhlQkF4YzV2VWtILXdwWGNV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1774,6 +1784,16 @@
       "category": "คณะศึกษาศาสตร์",
       "image": null,
       "topic": "other"
+    },
+    {
+      "title": "ขอเชิญอาจารย์และบุคลากร มหาวิทยาลัยขอนแก่น เข้าทดสอบความรู้ “ความปลอดภัยทางไซเบอร์” ประจำปี 2569",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPOHRJajI2bU5LWVNUbVNLb0xrQW1PZnR6NTRCN1VRVWFiS2ZRX0xMb3V5ekZDeElENnUzQXhGV2RYVEVDazNRNk9EZ05hZ0VMdmtPRDVwYmhMdUQ2elpoVlRSMHRpVEVWVUZxb2V2ZnFqYW5LNkhhMXZqYTJIUTVwbW85UVZQdzlVTDJ0UkR5TzRPUW80WEZJRWMyYTBJQ2Q1M1hMcGlIQTZwYXg0dzcydXdOckJMLWlGbFBKQ19rNnk4blJiRF9FbWI1R3R1aGMxUDVDVEJubVlCRFg1cTZQS25FWk9RakNjTXZEOUZTZUtIUkRVVkZ3VkxVN0hzaUlHWFFTbnFzd0cybDdWZTBscHZfT3ZzcVVsTUVOVTFCUmVJQ3REd2s2ZmVGYlNIVjZnVGpEYllzU3JBbVBLVHE4SEdkbUxnNmlBeVJHRWpfYw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-05-11T07:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "study"
     },
     {
       "title": "สอวน. ร่วมกับ คณะวิทยาศาสตร์ มข. เปิดฉากการแข่งขันดาราศาสตร์โอลิมปิกระดับชาติ ครั้งที่ 23 (TAO23) มุ่งสร้างนักดาราศาสตร์รุ่นใหม่สู่สากล - Khon Kaen University",
@@ -2776,6 +2796,16 @@
       "topic": "study"
     },
     {
+      "title": "นักศึกษาวิทยาลัยการคอมพิวเตอร์ มข. คว้าชัย Lifting Risk Analysis รางวัลนวัตกรรมปัญญาประดิษฐ์ยอดเยี่ยม งาน Super AI Engineer",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBNTkt5eVJDZ005X2pWRUJfUFZaSXFzRGVmUEc1TngxaW91aDQ5QmR2U1dvSXBLcmVZREhKcUNOYUVLZWxBeVlF?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-11-05T03:04:17.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
+      "image": null,
+      "topic": "research"
+    },
+    {
       "title": "คณะกรรมการสภามหาวิทยาลัยขอนแก่น พร้อมผู้บริหารคณะเทคโนโลยี มข. เยี่ยมชมและหารือความร่วมมือทางวิชาการ ณ International Center for Biotechnolog, the University of Osaka ประเทศญี่ปุ่น - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBLRlUxX1Qtb3l6TElfTTFKR1pSR0JuTnYtODNUd19CaFF3R0NKdURsSjF2WTNTTjRUcU9id0ppcTZaZVZLMTcw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2794,6 +2824,16 @@
       "category": "บัณฑิตวิทยาลัย",
       "image": null,
       "topic": "activity"
+    },
+    {
+      "title": "คณะศิลปกรรมศาสตร์ มข. ระดมสมองสร้างนวัตกรเทศกาลวัฒนธรรม พัฒนาหลักสูตรเข้าสู่ระบบเศรษฐกิจสร้างสรรค์",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9BRTVtdV9uZXF1aUt3cEZzN1RsOXUzMHEyV1MzZDVleWxKeER3SlFNd2pGVWo4YlRSbEVPYU1DUUNYUnZHdUlR?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-09-26T03:52:21.000Z",
+      "sourceId": "fa",
+      "category": "คณะศิลปกรรมศาสตร์",
+      "image": null,
+      "topic": "study"
     },
     {
       "title": "มข. จับมือ AIEI ยกระดับ “MBA AI” พัฒนาผู้บริหารยุคดิจิทัล เสริมความแข่งขันภาคธุรกิจอีสาน-อนุภูมิภาคลุ่มน้ำโขง",
@@ -3142,6 +3182,16 @@
       "publishedAt": "2023-09-11T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
+      "image": null,
+      "topic": "study"
+    },
+    {
+      "title": "บัณฑิตวิทยาลัย มหาวิทยาลัยขอนแก่น ขยายเวลารับสมัครนักศึกษาใหม่ ระดับบัณฑิตศึกษา ภาคการศึกษาต้น รอบที่ 2 ปีการศึกษา 2564 วันที่ 1 มีนาคม - 30 เมษายน 2564 - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBiYkJ4dzA3VXJ4eVFtajFJNjFtcmtEdlc2dzZhTmtvNG50MHRfZWk5MDl2X0ZXMFN1a1FtN1k1a3BkX1QyYnc?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2021-03-02T08:00:00.000Z",
+      "sourceId": "gs",
+      "category": "บัณฑิตวิทยาลัย",
       "image": null,
       "topic": "study"
     }
