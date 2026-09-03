@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T20:10:47.255Z",
+  "updatedAt": "2026-09-03T23:35:12.501Z",
   "sources": [
     {
       "id": "med",
@@ -516,16 +516,6 @@
       "topic": "other"
     },
     {
-      "title": "มข. เปิดงานสัปดาห์วิทยาศาสตร์ฯ 2569 ยิ่งใหญ่ จัดเต็ม 3 วัน ชูแนวคิดนวัตกรรมอัจฉริยะเพื่ออนาคตที่ยั่งยืน พร้อมดึงเยาวชนทั่วอีสานร่วมประลองทักษะคับคั่ง - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hWWxOMHQzbjVoeEl5b01neUM0M3FZajE2MU5mZHhqd2VPeE5iaGt5VWJxNkY5ZUtGLXJGYnFFdFc3WlY1Z2lr?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
-      "image": null,
-      "topic": "research"
-    },
-    {
       "title": "คณะเศรษฐศาสตร์ มข. ลงนาม MOU กับสมาคมบริษัทจัดการลงทุน ยกระดับนักศึกษาสู่วิชาชีพการเงิน",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MV3U0ZHQ2enpjQUlDckg0a0FUUS1kM1Q3TDlUYzlMY0RjMm10QlhlbllpUk44Tkx6cmxpYlI5MmJLVmxkTWww?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -550,10 +540,20 @@
       "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
       "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-08-17T07:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "other"
+    },
+    {
+      "title": "มข. เปิดงานสัปดาห์วิทยาศาสตร์ฯ 2569 ยิ่งใหญ่ จัดเต็ม 3 วัน ชูแนวคิดนวัตกรรมอัจฉริยะเพื่ออนาคตที่ยั่งยืน พร้อมดึงเยาวชนทั่วอีสานร่วมประลองทักษะคับคั่ง - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hWWxOMHQzbjVoeEl5b01neUM0M3FZajE2MU5mZHhqd2VPeE5iaGt5VWJxNkY5ZUtGLXJGYnFFdFc3WlY1Z2lr?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
       "image": null,
-      "topic": "other"
+      "topic": "research"
     },
     {
       "title": "มข. เปิดงานสัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 จุดประกายการเรียนรู้สู่อนาคตที่ยั่งยืน",
@@ -2216,6 +2216,16 @@
       "topic": "activity"
     },
     {
+      "title": "ชมรมกอล์ฟบุคลากร มข. จัดงานกอล์ฟการกุศล KKU Open 2026 สานสัมพันธ์ศิษย์เก่า-ภาคีเครือข่าย สนับสนุนกิจกรรมเพื่อสังคม",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBlSlFFRnpGYXdyY1VtNXVJOWIxbi1vR0UtRGtxSExhd3VwbzN4LXNtdFBWRk5rb2o2UGQyQnVaYnFsZFZzLTM4?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-03-21T07:00:00.000Z",
+      "sourceId": "agri",
+      "category": "คณะเกษตรศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "คณะเกษตรศาสตร์ มข. จัดงาน “นุ่งไทย ห่มสไบ เลาะไฮ่ชมกาลพฤกษ์” เปิดพื้นที่โชว์ศักยภาพนักศึกษา ผ่านผลงานนวัตกรรมสร้างมูลค่าเพิ่มสินค้าเกษตร - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1BTE92c0tENUwtQ2JJZ2Jabk1lSTJ4NFdPbUVOTXF6QXpvX0RBQXotWExXZGJlaGpsYWxucjBxczRvVVkxQ3g4?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2836,6 +2846,16 @@
       "topic": "study"
     },
     {
+      "title": "ขอเชิญชมแปลงกังหันดอกไม้ สวยๆ ของน้อง ๆ นักศึกษาชุมนุมเกษตรเรียนรู้ มข.",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQQm5QSUJ0WUUwcFFTeTMybUt1dmp3OUJGN2ZVV0NuaXNxSElKeWtLeDlhZkJOWGxoTE5iWU5JUTRTQ29vMXZhTjZ1cGRIUVpJanZpTU05eEIySzdOQnRZTVdLU0NURW9Oem5JOGpmYU9qVHJnSlVpSEdsd282aFBpU2JGU202MnpBWHZRaDc0SS1nUzRSQ1FWU2lpREFNa21aUHBqSERYM2JVVkxJMG80UlBnY3JJbHFaY1A1Z05LQWFrekNnTkhodGNpUEVIcVJVbFZQbXZqLWczZGJXTkNBamtkZUI1eDN6NEtkbUswMUdJaW1iRzFiSXI3NUtGWlJsYWw2VDRlTzJBNXQ3WGlhc21xVEpFZXNSLVhhc1QtaUlMbDhfZ1ZYekdkeXN5RHVTRV96SmJRZll0RXBybklXWEcyU3FqWmQzV0t4Rnh4OF8?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-12-01T08:00:00.000Z",
+      "sourceId": "agri",
+      "category": "คณะเกษตรศาสตร์",
+      "image": null,
+      "topic": "other"
+    },
+    {
       "title": "บัณฑิตวิทยาลัย เปิดตัว “GS Admission” ระบบรับเข้าแบบ Full Digital Service รูปแบบใหม่",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5KemM2aVhhN1ZYM093WmYzMllhQklsVHk4TFAtdTdqTjNYdU50VWgzTnFEaEhFU0U0QmJ6TTg2TF96VDB4a1JB?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -3086,6 +3106,16 @@
       "topic": "other"
     },
     {
+      "title": "คณะสถาปัตยกรรมศาสตร์ มหาวิทยาลัยขอนแก่น ขอเรียนเชิญทุกท่านร่วมงาน ISAN Creativity and Innovation Summit 2025 มหกรรมสร้างสรรค์และนวัตกรรมแห่งภูมิภาคอีสานประจำปี 2568 - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNREt3WjFvZE5WQW1NN1YyOXE1elpUMnhnMVZ5bllrcXJMZng0R2Q0bmNVNGVNMWlMY0JSREx2WnlOU0pEa3NrWGVFbjRfeWxZM3VTejlzN3VMZjUxWUVYa3ZDcjVXNWpkNFE3Z0c3M252Z1JiZnpMY3MwX2gzOXNaNW5sSUlhVnE2WFJ1TmRwSE51ckIyanVyWTkwSGlVWkhDZWJVa0xOZ3hxNDhkTWpSY1AwQ1VoblBqWERrc2pKekRkdzQzak9yMGRsNzIwcWFWbHZzVlFxclZHaWkwWk1YZFhoMXFQYmE0WFlVNUdSSkhrN04tbEJ0VkpubTZEMXJfODg4NXlZcEhIckctT1NvSGVjWVBHRndpVlFCSmxCNTFLQWFtZUFnRGczWXR6SXRORU14Q2dHWTY5M1VUaGZHaW1pODBwVlpXS2Z6MENJWGk?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-07-05T07:00:00.000Z",
+      "sourceId": "arch",
+      "category": "คณะสถาปัตยกรรมศาสตร์",
+      "image": null,
+      "topic": "research"
+    },
+    {
       "title": "วิทยาลัยการปกครองท้องถิ่น ม.ขอนแก่น จัด COLA Town Hall Meeting 2025 รับฟังเสียงของนักศึกษาอย่างต่อเนื่อง",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CYjN6LTM4amJpVTdXRnRpYXk2dUZCYkRtVG5NUmEwcFBtS2R3YTdNa0luaFhBYU16UU5ucU1wZHo2cjFGVzUw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -3104,6 +3134,16 @@
       "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": "https://apds.kku.ac.th/wp-content/uploads/2025/06/M_717uvtta_GW.png",
       "topic": "scholarship"
+    },
+    {
+      "title": "คณะเภสัชศาสตร์ มข. ต้อนรับอาจารย์และนักศึกษาแลกเปลี่ยนจาก Faculty of Pharmacy, Keio University ประเทศญี่ปุ่น",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9TSXlSbnZDREdyNDBPXzVDMkwtQVN2ODN6YzQ2am1JS3hDZ3BycnV2UzA5VG95MkRaNjdlZFQtVnZTVFZvbU5v?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-06-17T23:05:02.000Z",
+      "sourceId": "pharm",
+      "category": "คณะเภสัชศาสตร์",
+      "image": null,
+      "topic": "activity"
     },
     {
       "title": "วิทยาลัยการปกครองท้องถิ่น ม.ขอนแก่น จัดกิจกรรม “COLA Inter Connect 2024” ต้อนรับนักศึกษาต่างชาติ",
@@ -3436,6 +3476,16 @@
       "image": null
     },
     {
+      "title": "OPEN HOUSE คณะสัตวแพทย์ มหาวิทยาลัยขอนแก่น",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yU005SUFPVU9zcFNWWXdUUGdscmV2b2p0djBYMG56NVcxX0xWemZyazVyTkZ0Sm5VT3lMbFU1VWF1R3Vocl8xNTRrS3hzM2lQN3B3?oc=5",
+      "outlet": "dek-d.com",
+      "publishedAt": "2024-04-18T08:04:47.000Z",
+      "sourceId": "vet",
+      "category": "คณะสัตวแพทยศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "ดร.สุนทร – คุณอารยา ร่วมงาน วันสถาปนา วิทยาลัยบัณฑิตศึกษาการจัดการ MBA KKU ครบรอบ 30 ปี",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBReFNIVmV0OWtSYk5pV2Vpa0VORlpKS0MxVzJiT0FMLTJ5Z3lpZ0RHWXgyQXo2M2JUdDlrUHhlQWRpa1V0YkhfOWZLckdaNjdJYmMzVkt3?oc=5",
       "outlet": "LINE TODAY",
@@ -3482,6 +3532,26 @@
       "publishedAt": "2021-03-02T08:00:00.000Z",
       "sourceId": "gs",
       "category": "บัณฑิตวิทยาลัย",
+      "image": null,
+      "topic": "study"
+    },
+    {
+      "title": "MBA ม.ขอนแก่น ณ กรุงเทพฯ เปิดรับสมัครแล้ว ขอเชิญร่วมงาน Open House",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQYXVfNno3TmJrczFDeU9QRWU0SXUyVXd1djhMem12T25vUVhzdlJJcE1QemduZkdNU3RyMGhab2p4S2p3ZmVuZXVocE41N3BIZGpXemR3ZWs5ekFHYzk4?oc=5",
+      "outlet": "Teenee.com",
+      "publishedAt": "2020-08-23T15:08:15.000Z",
+      "sourceId": "cbs",
+      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
+      "image": null,
+      "topic": "study"
+    },
+    {
+      "title": "MBA KKU เปิดรับสมัครนักศึกษาใหม่ปี 2553",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjeXZRR19lMXI5NHR5UlVxMjh4cUtISVAzbFo5NW56a1hGREpvX2xKTHdqMUlLRzZTNjJLakRFeGVXYjFNbTQyNVR0NC1GbHY0SVVuR1ln?oc=5",
+      "outlet": "kapook.com",
+      "publishedAt": "2016-10-29T22:21:25.000Z",
+      "sourceId": "cbs",
+      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
       "image": null,
       "topic": "study"
     }
