@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T06:32:43.962Z",
+  "updatedAt": "2026-09-03T12:16:53.009Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,16 @@
   ],
   "items": [
     {
+      "title": "คณะศึกษาศาสตร์ มข. ต้อนรับคณาจารย์และนักศึกษาเวชนิทัศน์ คณะแพทยศาสตร์ เข้าศึกษาดูงานศูนย์นวัตกรรมการศึกษาเชิงพาณิชย์ เสริมทักษะการผลิตสื่อนวัตกรรมการเรียนรู้",
+      "link": "https://ednet.kku.ac.th/news/20790/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-03T09:15:02.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": "https://ednet.kku.ac.th/wp-content/uploads/2026/09/1162206-1024x683.jpg",
+      "topic": "research"
+    },
+    {
       "title": "แก้ไขคุณสมบัติ ของผู้มีสิทธิสมัครสอบเพื่อคัดเลือกบุคคลเพื่อจัดจ้างเป็นพนักงานจ้างเหมาบริการทำความสะอาด สังกัดคณะวิทยาศาสตร์ มหาวิทยาลัยขอนแก่น",
       "link": "https://sc.kku.ac.th/wp-content/uploads/2026/09/128-2569-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B9%84%E0%B8%82%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%84%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%AF-%E0%B8%9E%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94.pdf#new_tab",
       "outlet": "เว็บไซต์คณะ",
@@ -506,6 +516,16 @@
       "topic": "other"
     },
     {
+      "title": "วิทยาลัยการคอมพิวเตอร์ มข. จัดงาน \"Computing Fair & CPKKU Open House ครั้งที่ 4\" เปิดเวทีเยาวชนประลองทักษะดิจิทัล พร้อมให้ความรู้หลักสูตรแห่งอนาคต - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpVlYwclJabHJzZnFOSTJFNFVuMUZWTm9qek5YbDVPb2xpU3lxeElJaU1FaFdub0JxV1JEYnF3WFhaSTBwRDRJ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
+      "image": null,
+      "topic": "study"
+    },
+    {
       "title": "มข. เปิดงานสัปดาห์วิทยาศาสตร์ฯ 2569 ยิ่งใหญ่ จัดเต็ม 3 วัน ชูแนวคิดนวัตกรรมอัจฉริยะเพื่ออนาคตที่ยั่งยืน พร้อมดึงเยาวชนทั่วอีสานร่วมประลองทักษะคับคั่ง - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hWWxOMHQzbjVoeEl5b01neUM0M3FZajE2MU5mZHhqd2VPeE5iaGt5VWJxNkY5ZUtGLXJGYnFFdFc3WlY1Z2lr?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -524,16 +544,6 @@
       "category": "คณะเศรษฐศาสตร์",
       "image": null,
       "topic": "activity"
-    },
-    {
-      "title": "วิทยาลัยการคอมพิวเตอร์ มข. จัดงาน \"Computing Fair & CPKKU Open House ครั้งที่ 4\" เปิดเวทีเยาวชนประลองทักษะดิจิทัล พร้อมให้ความรู้หลักสูตรแห่งอนาคต - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpVlYwclJabHJzZnFOSTJFNFVuMUZWTm9qek5YbDVPb2xpU3lxeElJaU1FaFdub0JxV1JEYnF3WFhaSTBwRDRJ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
-      "sourceId": "cp",
-      "category": "วิทยาลัยการคอมพิวเตอร์",
-      "image": null,
-      "topic": "study"
     },
     {
       "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
@@ -1878,12 +1888,12 @@
     {
       "title": "มข. ฟอร์มแรง! คว้าชนะเลิศ – รองชนะเลิศอันดับ 2 เวที Startup Thailand League 2026 ภาคอีสาน พร้อมคว้าทุนพัฒนา Prototype สู่รอบ Demo Day ระดับประเทศ",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1acTZUaENLWGNiZHpRUHVoZURXcFo3cEZoUGplTURrMnVHOEJnUW1xRHJGRjViLWM4T2dBYTZsYUZPVWtpU0R3?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-05-06T06:14:54.000Z",
       "sourceId": "nurse",
       "category": "คณะพยาบาลศาสตร์",
-      "topic": "activity",
-      "image": null
+      "image": null,
+      "topic": "activity"
     },
     {
       "title": "นักศึกษา Cybersecurity วิทยาลัยการคอมพิวเตอร์ มข. คว้าใบรับรองวิชาชีพระดับสากล ตอกย้ำหลักสูตรผลิตบัณฑิตพร้อมทำงานจริงในยุค AI และภัยคุกคามไซเบอร์ - Khon Kaen University",
@@ -2976,6 +2986,16 @@
       "topic": "activity"
     },
     {
+      "title": "คณะพยาบาลศาสตร์ มข.เปิดบ้านต้อนรับคณะศึกษาดูงานจาก วิทยาลัยพยาบาลบรมราชชนนี อุดรธานี",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1zd0lhYnZxZWxLUXY2all4QXI4eG5MNm0wU25CcnJyMFJGdWh3RzRNZ2lvUEhzZGJNalE0Tnl4RV8wOGNOb1NJ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-05-24T19:57:02.000Z",
+      "sourceId": "nurse",
+      "category": "คณะพยาบาลศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "คณะสาธารณสุขศาสตร์ มข. ลงนามความร่วมมือและปฐมนิเทศโครงการฝึกอบรมหลักสูตรประกาศนียบัตรผู้บริหารระดับสูงระดับอำเภอ กับ กรมอนามัย กระทรวงสาธารณสุข - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5PY0hfeTlQSG43a0JMTGdVd01iZm00MXBrNXBqenNELVAyRUNWRVkzY0s2YklrTGVFa0VmRUJvSS0yRXowWFE?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -3024,6 +3044,16 @@
       "category": "บัณฑิตวิทยาลัย",
       "image": null,
       "topic": "activity"
+    },
+    {
+      "title": "คณะพยาบาลศาสตร์ มข. จัดพิธี “มอบขีดหมวกและเข็มสถาบันสืบสานปณิธานวิชาชีพการพยาบาล” หลักสูตรพยาบาลศาสตรบัณฑิต รุ่นที่ 50 - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xaUFMV0lJSWFRVVRXc2NraWNXbFcxOHZsZmVsRDhwaUkzYk13eWZCWkMtYkRISm5hc1FXUzdwaFIxWmpmQnFZ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-05-21T21:39:16.000Z",
+      "sourceId": "nurse",
+      "category": "คณะพยาบาลศาสตร์",
+      "image": null,
+      "topic": "study"
     },
     {
       "title": "มหาวิทยาลัยขอนแก่น ประกาศ เกณฑ์การคัดเลือก #TCAS66 คณะเภสัชศาสตร์ จำนวนรับ รวม 180 คน . รายละเอียด 👉 https://www.eduzones .com/2022/10/10/tcas66-kku/ #dek66 #เภสัชศาสตร์ #เภสัชขอนแก่น - Khon Kaen University",
@@ -3144,6 +3174,26 @@
       "category": "วิทยาลัยการปกครองท้องถิ่น",
       "image": null,
       "topic": "activity"
+    },
+    {
+      "title": "คณะพยาบาลศาสตร์ มข. จัดโครงการอบมรมเชิงปฏิบัติการหลักสูตร “การให้การปรึกษาเบื้องต้น สำหรับพยาบาล” รุ่นที่ 2",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8yVlpkclpQa0Z2dWxsWWVsTi1ZNzNBZkZ0WXlxSy02cjVGZVZOVS1kTFVrdkpVdWRHc0FEb2Zrc213TERXVkJz?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-05-05T14:45:06.000Z",
+      "sourceId": "nurse",
+      "category": "คณะพยาบาลศาสตร์",
+      "image": null,
+      "topic": "study"
+    },
+    {
+      "title": "คณะพยาบาลศาสตร์ มหาวิทยาลัยขอนแก่น ขอเชิญประชุมวิชาการนานาชาติ ครั้งที่ 5 เรื่อง \"Digital Health and Innovation in Nursing and Health Science: Shaping a Healthier Tomorrow and Global Sustainability\" - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE92NlhmMGc3c1JraWJXS0hiMG43ZVJBUHNxVVNSX3BDeDhqMGNpNWFJbG53RGNTZFhjUU9oSWc1SHJPOGFqU01v?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-05-05T14:04:48.000Z",
+      "sourceId": "nurse",
+      "category": "คณะพยาบาลศาสตร์",
+      "image": null,
+      "topic": "other"
     },
     {
       "title": "admissionpremium-สายสัตวแพทย์ต้องรู้! มาส่อง เกณฑ์ Portfolio คณะสัตวแพทยศาสตร์ 6 มหาวิทยาลัยดัง !",
