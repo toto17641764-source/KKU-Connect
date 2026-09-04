@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T12:17:25.404Z",
+  "updatedAt": "2026-09-04T17:11:45.199Z",
   "sources": [
     {
       "id": "med",
@@ -566,16 +566,6 @@
       "topic": "research"
     },
     {
-      "title": "คณะเศรษฐศาสตร์ มข. ลงนาม MOU กับสมาคมบริษัทจัดการลงทุน ยกระดับนักศึกษาสู่วิชาชีพการเงิน",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MV3U0ZHQ2enpjQUlDckg0a0FUUS1kM1Q3TDlUYzlMY0RjMm10QlhlbllpUk44Tkx6cmxpYlI5MmJLVmxkTWww?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
-      "sourceId": "econ",
-      "category": "คณะเศรษฐศาสตร์",
-      "image": null,
-      "topic": "activity"
-    },
-    {
       "title": "วิทยาลัยการคอมพิวเตอร์ มข. จัดงาน \"Computing Fair & CPKKU Open House ครั้งที่ 4\" เปิดเวทีเยาวชนประลองทักษะดิจิทัล พร้อมให้ความรู้หลักสูตรแห่งอนาคต - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpVlYwclJabHJzZnFOSTJFNFVuMUZWTm9qek5YbDVPb2xpU3lxeElJaU1FaFdub0JxV1JEYnF3WFhaSTBwRDRJ?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -584,6 +574,16 @@
       "category": "วิทยาลัยการคอมพิวเตอร์",
       "image": null,
       "topic": "study"
+    },
+    {
+      "title": "คณะเศรษฐศาสตร์ มข. ลงนาม MOU กับสมาคมบริษัทจัดการลงทุน ยกระดับนักศึกษาสู่วิชาชีพการเงิน",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MV3U0ZHQ2enpjQUlDckg0a0FUUS1kM1Q3TDlUYzlMY0RjMm10QlhlbllpUk44Tkx6cmxpYlI5MmJLVmxkTWww?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "sourceId": "econ",
+      "category": "คณะเศรษฐศาสตร์",
+      "image": null,
+      "topic": "activity"
     },
     {
       "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
@@ -676,6 +676,16 @@
       "topic": "activity"
     },
     {
+      "title": "คณะทันตแพทยศาสตร์ มข. ต้อนรับนักเรียนและครูจากโรงเรียนลำปลายมาศ เยี่ยมชมคณะ เปิดโลกการศึกษาสู่เส้นทางวิชาชีพทันตแพทย์ - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43X0I0akZoT3VnaFdNVC00NUpuYmV2dEdJQ3hpWTdJemtzcEpLaC05aVlYUEJ1VGhqTk1HTThTUGQ3VENiWGJJ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-11T07:56:18.000Z",
+      "sourceId": "dent",
+      "category": "คณะทันตแพทยศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "มข. จัดใหญ่ \"สัปดาห์วิทยาศาสตร์แห่งชาติ 69\" ชูแนวคิด \"Intelligence Science for a Sustainable Future\" ปลุกพลังขับเคลื่อนอนาคตที่ยั่งยืน เยาวชนตบเท้าร่วมแข่งตอบปัญหากว่า 1,400 ทีม - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9FdS16RXViZVlEbmlpOXdvaUFhdUVOTloxQ1V2VDVSeGVrNnZYeHJiVG4zUk9MalJwams4ZEEyZXdMMnRWS3JN?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -684,16 +694,6 @@
       "category": "คณะวิทยาศาสตร์",
       "image": null,
       "topic": "other"
-    },
-    {
-      "title": "คณะทันตแพทยศาสตร์ มข. ต้อนรับนักเรียนและครูจากโรงเรียนลำปลายมาศ เยี่ยมชมคณะ เปิดโลกการศึกษาสู่เส้นทางวิชาชีพทันตแพทย์",
-      "link": "https://dentistry.kku.ac.th/30091?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%2584%25e0%25b8%2593%25e0%25b8%25b0%25e0%25b8%2597%25e0%25b8%25b1%25e0%25b8%2599%25e0%25b8%2595%25e0%25b9%2581%25e0%25b8%259e%25e0%25b8%2597%25e0%25b8%25a2%25e0%25b8%25a8%25e0%25b8%25b2%25e0%25b8%25aa%25e0%25b8%2595%25e0%25b8%25a3%25e0%25b9%258c-%25e0%25b8%25a1%25e0%25b8%2582-%25e0%25b8%2595%25e0%25b9%2589-4",
-      "outlet": "เว็บไซต์คณะ",
-      "publishedAt": "2026-08-11T03:22:32.000Z",
-      "sourceId": "dent",
-      "category": "คณะทันตแพทยศาสตร์",
-      "image": null,
-      "topic": "activity"
     },
     {
       "title": "KKBS–ECON ยกระดับศักยภาพนักวิจัย เปิดเวทีอบรมเชิงปฏิบัติการ “Research Training Programme” พร้อมเชื่อมเครือข่ายความร่วมมือ ต่อยอดสู่ทุนวิจัยระดับนานาชาติ",
@@ -898,7 +898,7 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "outlet": "dek-d.com",
+      "outlet": "Dek-D.com",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -1324,6 +1324,16 @@
       "category": "มข.",
       "image": null,
       "topic": "other"
+    },
+    {
+      "title": "สาขาวิชาวิทยาศาสตร์สิ่งแวดล้อม คณะวิทยาศาสตร์ มข. ต้อนรับนักศึกษา The Lao American Institute ศึกษาดูงานด้านการจัดการสิ่งแวดล้อม",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBrQ0wtWkFyMGZiNE5lZnE1VlVPUTI1M2t3STRoeUZPczNrNm9ibVM1cGRzamRWenlPZEEwdVU2LTNkS2pocGdJ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-07-02T07:46:05.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity"
     },
     {
       "title": "ขยายเวลาส่งผลงาน การประชุมวิชาการระดับชาติของนักเศรษฐศาสตร์ (National Conference of Economists: NCE) และการประชุมวิชาการระดับบัณฑิตศึกษาด้านเศรษฐศาสตร์ (Graduate Conference in Economics: GCE) ครั้งที่ 19 - Khon Kaen University",
@@ -2056,16 +2066,6 @@
       "topic": "activity"
     },
     {
-      "title": "ช่างคึด ครั้งที่ 17 เทศกาลงานตลาดอาร์ตของเราเหล่าเด็กถาปัตย์ มข. กลับมาอีกครั้ง",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOODVtMzBnRXljNXViRG9qYl9DSFNweVdEQzIzRk8wSE1qM21waGp6SENZRVE4a2VOZ0dGZDFfQThzQi1ZSVk4TTBrVW1oR1JsOFRpZVBtcE9lMVJEZ3Y4ZS0tbFRQR3pGTXROR2pTcFJFSzdZbFZDa0lzRWY1QjFRLUxWSjNDLXdfMjNrVUwzNmtYblJyWl9HR1liUjRNX2lpQzQzUmlzbXZUWHFxVHFpc2N6VVgyOUdGZXBaVXlNLXVGQmpNQ2h0TFpyTVFMTmd1YWRseHJZbDA4eEkxeW1QbUd2b0tZUGhnSWFEd3RlcDB5SE82SHdPRUE2Ykw3MzlGM1liaGd6SVhXOFVhdjNLSkJxZGNtYzJkdmdDaksyU3RMNmR4T091XzVYV3hQNFhMNFNiVndJSVRxUU9WSEV1UUUxdHFOZkk2Y0E?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-04-20T01:05:33.000Z",
-      "sourceId": "arch",
-      "category": "คณะสถาปัตยกรรมศาสตร์",
-      "image": null,
-      "topic": "activity"
-    },
-    {
       "title": "คณะวิทยาศาสตร์ มข. จัดงานประชุมวิชาการคณะวิทยาศาสตร์ ครั้งที่ 27 นักศึกษา/นักเรียน นำผลงานมาโชว์เพียบ",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB5c2F1OVg3bDBKSmptRzh2X2pEZVpRQnhDVDVqOUdRX2dYMDdKUWt6blhfeEFZMjVFS0lxZnJpZWY1bG1IeW93?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2406,6 +2406,16 @@
       "topic": "activity"
     },
     {
+      "title": "มข. ผนึก 62 หน่วยงาน จัดมหกรรม KKU Societal Contribution ครั้งที่ 6 เปิดพื้นที่บริการประชาชน ยกระดับคุณภาพชีวิตชุมชนสู่ความยั่งยืน",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43UXY3U3hKTHVPZzBwQzlnNW1qMXFFNmRJZGVHOU5EeVlaMzVjTXNoSkY2bXU2alllWmFEZ1M0dVZ5ZjlUZ1RN?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-03-06T08:00:00.000Z",
+      "sourceId": "nurse",
+      "category": "คณะพยาบาลศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "🎶 มข.เปิดประกวดแบบ “Mor Lam Opera Hall” ดันหมอลำสู่อุตสาหกรรมสร้างสรรค์",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPN3FPZFVWX1pVSHpER28tenVLcVR2R05XaThFNDc1Vk5VR0thUmZ3WjJVM1B6QWRfRWtrSzA5ZHhlSFk4SDhBNzBJbmxCb21BNjR4ZQ?oc=5",
       "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
@@ -2414,16 +2424,6 @@
       "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "activity"
-    },
-    {
-      "title": "มข. ผนึก 62 หน่วยงาน จัดมหกรรม KKU Societal Contribution ครั้งที่ 6 เปิดพื้นที่บริการประชาชน ยกระดับคุณภาพชีวิตชุมชนสู่ความยั่งยืน",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43UXY3U3hKTHVPZzBwQzlnNW1qMXFFNmRJZGVHOU5EeVlaMzVjTXNoSkY2bXU2alllWmFEZ1M0dVZ5ZjlUZ1RN?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
-      "publishedAt": "2026-03-06T08:00:00.000Z",
-      "sourceId": "nurse",
-      "category": "คณะพยาบาลศาสตร์",
-      "topic": "activity",
-      "image": null
     },
     {
       "title": "คณะเกษตรศาสตร์ มข. จัดอบรม “การยกระดับความปลอดภัยในห้องปฏิบัติการตามระบบ ESPReL และการใช้งาน ESPReL Checklist”",
@@ -2458,12 +2458,12 @@
     {
       "title": "พลังคนรุ่นใหม่! ทีมนักศึกษาพยาบาล ม.ขอนแก่น คว้าโล่ \"Youth Change Maker\" จากเวทีรณรงค์ต้านภัยบุหรี่ เตรียมพร้อมเป็นผู้นำ GEN Z สู่สังคมไร้ควัน - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAybXlzVmVhYTk4Z2xRYTR2a1FLTVJpejFrc25XaHNKQ29LdlFMS2ljVHNuTF9RXzAyVFViTWs2YVRWUnFqUkZN?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-02-25T11:51:50.000Z",
       "sourceId": "nurse",
       "category": "คณะพยาบาลศาสตร์",
-      "topic": "activity",
-      "image": null
+      "image": null,
+      "topic": "activity"
     },
     {
       "title": "คณะพยาบาลศาสตร์ ม.ขอนแก่น จัดพิธีมอบขีดหมวกและเข็มสถาบัน ประจำปีการศึกษา 2568 สร้างบัณฑิตพยาบาลรุ่นใหม่สู่วิชาชีพ - Khon Kaen University",
@@ -2666,16 +2666,6 @@
       "topic": "activity"
     },
     {
-      "title": "ประกาศรับสมัคร “นักเรียนผู้ช่วยทันตแพทย์” คณะทันตแพทยศาสตร์ มหาวิทยาลัยขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE80X0p5S0ZrNnVpcUI3b0FSQ0tnTWd2LXFndW5MTkJKRkpMaFdCbGJrYTZILVNxbENNYVhVRDZZc2ZzeUxVTk1N?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-01-15T08:00:00.000Z",
-      "sourceId": "dent",
-      "category": "คณะทันตแพทยศาสตร์",
-      "image": null,
-      "topic": "announce"
-    },
-    {
       "title": "คณะเกษตรศาสตร์ มข. ติวเข้มทักษะเสียงตามสาย กองสื่อสารองค์กร ส่งบุคลากรให้ความรู้ ปั้นนักศึกษาประชาสัมพันธ์ พร้อมลุยงานวันเกษตรภาคอีสาน 2569 - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA5QTA3TEszeXQwdHducDZGMzdyTDk3Q3djQzlvR0tvMzg2YzlDU2RjQlkxVHdyMTNCRnluWEs4cjNfdVRrcHc0?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2684,6 +2674,16 @@
       "category": "คณะเกษตรศาสตร์",
       "image": null,
       "topic": "other"
+    },
+    {
+      "title": "ประกาศรับสมัคร “นักเรียนผู้ช่วยทันตแพทย์” คณะทันตแพทยศาสตร์ มหาวิทยาลัยขอนแก่น",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE80X0p5S0ZrNnVpcUI3b0FSQ0tnTWd2LXFndW5MTkJKRkpMaFdCbGJrYTZILVNxbENNYVhVRDZZc2ZzeUxVTk1N?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-01-15T08:00:00.000Z",
+      "sourceId": "dent",
+      "category": "คณะทันตแพทยศาสตร์",
+      "image": null,
+      "topic": "announce"
     },
     {
       "title": "ม.ขอนแก่น ร่วมมือ ธนาคารกรุงไทย ลงนาม MOU พัฒนาศักยภาพนักศึกษาสู่การทำงานจริง",
@@ -2876,6 +2876,16 @@
       "topic": "activity"
     },
     {
+      "title": "ช่างคึด ครั้งที่ 17 เทศกาลงานตลาดอาร์ตของเราเหล่าเด็กถาปัตย์ มข. กลับมาอีกครั้ง",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOODVtMzBnRXljNXViRG9qYl9DSFNweVdEQzIzRk8wSE1qM21waGp6SENZRVE4a2VOZ0dGZDFfQThzQi1ZSVk4TTBrVW1oR1JsOFRpZVBtcE9lMVJEZ3Y4ZS0tbFRQR3pGTXROR2pTcFJFSzdZbFZDa0lzRWY1QjFRLUxWSjNDLXdfMjNrVUwzNmtYblJyWl9HR1liUjRNX2lpQzQzUmlzbXZUWHFxVHFpc2N6VVgyOUdGZXBaVXlNLXVGQmpNQ2h0TFpyTVFMTmd1YWRseHJZbDA4eEkxeW1QbUd2b0tZUGhnSWFEd3RlcDB5SE82SHdPRUE2Ykw3MzlGM1liaGd6SVhXOFVhdjNLSkJxZGNtYzJkdmdDaksyU3RMNmR4T091XzVYV3hQNFhMNFNiVndJSVRxUU9WSEV1UUUxdHFOZkk2Y0E?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-12-05T08:00:00.000Z",
+      "sourceId": "arch",
+      "category": "คณะสถาปัตยกรรมศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "ศูนย์หัวใจสิริกิติ์ ภาคตะวันออกเฉียงเหนือ คณะแพทยศาสตร์ มหาวิทยาลัยขอนแก่น จัดอบรมเชิงปฏิบัติการ “Advance Arch Management with Frozen Elephant Trunk Surgery” - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQUHhZYjZPVVl3SjBrQ2lJbGxBM1JLbTJvVXB2ejFndGpPRnpLQjBDNzZGWUZPZF9hVE9sY0toMW1nbE1zODlSTzc3RE9vN040VkdGVHVvX1pmMkkxcERrLUpFd2ZSdGMxVl9JdVljckJYY3JFQml1amlBMW1JQVVCT3h5dVg5T2VDLWt2bUw2Tjg2MXFlY2hid1BmeGZvam1TQ05SSG00Z3g4NUpJZjFxeXYyYWgtNDNWRy1HT212ZG5GeXJBTnhzMkJTRFcydC1DUkRQS3cwNTA2RFAycl93Vm1Jdk85N0loYW9DZm50NjllMG1KQUxTbS1jR0lFLWZCdGFRSjgyMU1HOWxnNGFtMk5qX2JzS2tNS282R0w4RDMwMG5RSEJNVmQ0eW94dmtKVkV6WmVObHpaU3U3Mllyd2Vic29fWGREekp3Um9yM0w?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2946,6 +2956,16 @@
       "topic": "activity"
     },
     {
+      "title": "มหาวิทยาลัยขอนแก่นร่วมขับเคลื่อน SDGs โชว์ผลงานในงานเทศกาลไหมนานาชาติ ประเพณีผูกเสี่ยว งานกาชาดจังหวัดขอนแก่น 2568 - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1TT2JUTmNwbW1NdF9raVF4ck5fQU12VUxDZGN5U1dIUlEyUkNMckQxRWVaNDRjVDBwTzkybGhzY01hdFBBT3ZF?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-11-29T08:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "มหาวิทยาลัยขอนแก่นส่งมอบเครื่องมือ Program Benchmark System ให้ สปอว. เพื่อยกระดับมาตรฐานหลักสูตรบัณฑิตศึกษา",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xU3pNRXBoM2p6a0RZdVp1NC1sU1FGX1J0RDhGeEYxMFllUG1VTVl0WHA0eTdoSVBCQ1k2V1VERW83S3pHR2Zv?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2996,6 +3016,16 @@
       "topic": "other"
     },
     {
+      "title": "นศ. คณะเศรษฐศาสตร์ มข. คว้ารางวัลโครงการเส้นทางสู่นวัตวณิชย์ ครั้งที่ 13 ระดับภูมิภาค",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5INlhRdC1nUG12UVZqcWJjSmllSFNuUEpFVVFLMldUR1pxTmhFSEQxME96alVxWjNGamFWQkEwTkMyR1J4RUZn?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-11-15T08:00:00.000Z",
+      "sourceId": "pharm",
+      "category": "คณะเภสัชศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "นศ.มข. คว้า 2 รางวัล โครงการเส้นทางสู่นวัตวณิชย์ ครั้งที่ 13 ระดับภูมิภาค คว้าตั๋วสู่รอบระดับประเทศ!",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9oS3NwbnZhaThZYlI4OU04elJmZlVrTWZCVnVFeVZzRTg0ZlRQWGUxSy1VRlZRTDA2c3BLRWlpanlseVBuQjZV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -3006,14 +3036,14 @@
       "topic": "activity"
     },
     {
-      "title": "นศ. คณะเศรษฐศาสตร์ มข. คว้ารางวัลโครงการเส้นทางสู่นวัตวณิชย์ ครั้งที่ 13 ระดับภูมิภาค",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5INlhRdC1nUG12UVZqcWJjSmllSFNuUEpFVVFLMldUR1pxTmhFSEQxME96alVxWjNGamFWQkEwTkMyR1J4RUZn?oc=5",
+      "title": "นักศึกษาพยาบาล มข. สุดเจ๋ง! คว้าแชมป์ระดับประเทศ AmHealthHack 2025 ชูนวัตกรรม \"Grow-up\" สร้างสะพานโอกาส ลดการตีตราให้ผู้ผ่านการบำบัด - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5iUXVFSmZnSUlPSm80eExRZ3FYMUJBZ1lHSUhxa0ZCMjNzMWZOc2c3a1lDUWJaVjYwWkhjdzNxTVpDWWw1a2JV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-11-15T08:00:00.000Z",
-      "sourceId": "pharm",
-      "category": "คณะเภสัชศาสตร์",
+      "publishedAt": "2025-11-13T11:35:47.000Z",
+      "sourceId": "nurse",
+      "category": "คณะพยาบาลศาสตร์",
       "image": null,
-      "topic": "activity"
+      "topic": "research"
     },
     {
       "title": "นศ.คณะสหวิทยาการ ม.ขอนแก่น สร้างชื่อ ได้รับคัดเลือกเป็น “ยุวทูตส่งเสริมวัฒนธรรมนานาชาติ 2025”",
@@ -3086,6 +3116,16 @@
       "topic": "study"
     },
     {
+      "title": "มหาวิทยาลัยขอนแก่น ยกระดับเครือข่ายพัฒนานักศึกษา สู่เป้าหมายการสร้างอัตลักษณ์บัณฑิตยุคใหม่ “EGGS” KKU Students’Identity",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE13cU03aVJQdzJLZnF5Yy1pekRuYlBmMm1FZzRUcmprcXh1X2RjZG1NeDhuWHd2OXl1UWNURjBCdjRhR015MmE4?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-09-15T05:35:41.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "other"
+    },
+    {
       "title": "มข. จับมือ AIEI ยกระดับ “MBA AI” พัฒนาผู้บริหารยุคดิจิทัล เสริมความแข่งขันภาคธุรกิจอีสาน-อนุภูมิภาคลุ่มน้ำโขง",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE51Q3RDSDV6R1BvVmN5ZDBrMmUxeWJVV1VELV9PNXdvTXpLMFRlQmlqLThKNTBwdDNJajJUMjFySjZVa2pkUUZr?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -3122,6 +3162,16 @@
       "publishedAt": "2025-09-08T07:21:35.000Z",
       "sourceId": "fa",
       "category": "คณะศิลปกรรมศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
+      "title": "สุดประทับใจ KKU Societal Contribution มหกรรมมหาวิทยาลัยขอนแก่นบริการชุมชน ครั้งที่ 5",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hT2N6U1kwbHUwVXpOMzBqNWcxRFZUUzc0d0hualZSNmhXVUtqdDFNU0k1OGVxc0VnWTQwNWJpY2VIbDloeEc0?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-09-05T07:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
       "image": null,
       "topic": "activity"
     },
@@ -3304,6 +3354,16 @@
       "category": "คณะสัตวแพทยศาสตร์",
       "image": null,
       "topic": "job"
+    },
+    {
+      "title": "คณะเกษตรศาสตร์ มข. จัดกิจกรรม “กินเข่าทง ลงแขกดำนา” แปลงนาสาธิต เฉลิมฉลองในวาระครบรอบ 60 ปี มข.",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA2SXlteGVRRTJDOHh2NW1KVUROZzA4dzRVcEYzZ3pRb3o3TzZsVFpRX05IWlBxZ1hRemg0T25vbmt4cFhlbkhF?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-05-23T22:09:20.000Z",
+      "sourceId": "agri",
+      "category": "คณะเกษตรศาสตร์",
+      "image": null,
+      "topic": "study"
     },
     {
       "title": "คณะพยาบาลศาสตร์ มหาวิทยาลัยขอนแก่น เปิดรับสมัครหลักสูตร “การให้การปรึกษาเบื้องต้น สำหรับพยาบาล” รุ่นที่ 1",
