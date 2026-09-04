@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T17:11:45.199Z",
+  "updatedAt": "2026-09-04T19:56:14.458Z",
   "sources": [
     {
       "id": "med",
@@ -1470,8 +1470,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE05VldIZmZnajlCNlFiclNyTWZrcWRIZkgza0dRZnFrWE9LLTBqbWpyc0pZR1ZTcDRaYm15RmcyQkc4VnpmWkxN?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-06-27T04:44:45.000Z",
-      "sourceId": "hs",
-      "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+      "sourceId": "econ",
+      "category": "คณะเศรษฐศาสตร์",
       "image": null,
       "topic": "activity"
     },
@@ -3076,6 +3076,16 @@
       "topic": "research"
     },
     {
+      "title": "คณะพยาบาล มข. จัดพิธีมอบทุนการศึกษา มูลนิธิเวชดุสิตฯ “ปลูกต้นกล้า สร้างพยาบาล” แก่ นักศึกษาพยาบาล",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5zZzE0N2tjakVPT1lQOVZIMDNWMmo4R1JjYTBVV290NG9MOXVSMkNhQWlyYVl2NjJRTVVuOWtlSjdScmlCUDB3?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-11-03T09:30:36.000Z",
+      "sourceId": "nurse",
+      "category": "คณะพยาบาลศาสตร์",
+      "image": null,
+      "topic": "scholarship"
+    },
+    {
       "title": "ISKKU Grill & Talk กิจกรรมรับฟังเสียง นศ.คณะสหวิทยาการ หาแนวทางพัฒนาการบริหารจัดการคณะร่วมกัน",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5jX01nM19sZUVkZVl5QnJYeU9hSFZIaGVmSldBOEJJZFNIUllHWnRtQWd2a1VzYThXR0c3VVVXQTlkUVpfTU13?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -3346,6 +3356,16 @@
       "topic": "study"
     },
     {
+      "title": "คณะเภสัชศาสตร์ นำนักศึกษาร่วมกิจกรรมส่งเสริมประสบการณ์วิชาชีพเภสัชกรรมในต่างประเทศ ณ ประเทศโปรตุเกส",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zRER2WkM0blMyelpDZFBSMmJnQlZpZU1hd2J2SUc3ZUVBa0hHSVNwQ1Rjajh5MUY3bmw0QmRxS2xyN2NRdElr?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-05-24T05:32:46.000Z",
+      "sourceId": "pharm",
+      "category": "คณะเภสัชศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "#TCAS64 คณะสัตวแพทยศาสตร์ ม.ขอนแก่น เปิดรับสมัครนศ.ป.ตรี รอบที่ 4 (รับตรงอิสระ) ตั้งแต่วันที่ 3-7 มิ.ย. 64 #dek64 #TCASรอบ4 คณะสัตวแพทยศาสตร์ มหาวิทยาลัยขอนแก่น เปิดรับสมัครบุคคลเพื่อคัดเลือกเข้าเป็นนิสิตระดับปริญญาตรี - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5VMVBVbWZtQVZ2SEZ6ZHJRLU44eTd2U2ZJRUU2SENUNGYxVHV6WkpCQ0lWdElSckdKU3dDWmZXU295eW0yb2c?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -3384,6 +3404,16 @@
       "category": "บัณฑิตวิทยาลัย",
       "image": null,
       "topic": "research"
+    },
+    {
+      "title": "dek-d-เภสัชศาสตร์ ม.ขอนแก่น เตรียมเปิดรับ TCAS67 3 รอบ กว่า 180 ที่นั่ง!",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1jVkJlT1phT1dIdF9Oa1ZLbHcxdEhoR3UteHcwMi0wck5nUjFYejBoODZ4dEJrcTZpTlRMWEtYeVBUa1BPNC1F?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-05-22T11:41:03.000Z",
+      "sourceId": "pharm",
+      "category": "คณะเภสัชศาสตร์",
+      "image": null,
+      "topic": "study"
     },
     {
       "title": "เรียนต่อ มข. KKU Insight EP.21 บัณฑิตวิทยาลัย มหาวิทยาลัยขอนแก่น",
@@ -3698,7 +3728,7 @@
     {
       "title": "MBA ม.ขอนแก่น ณ กรุงเทพฯ เปิดรับสมัครแล้ว ขอเชิญร่วมงาน Open House",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQYXVfNno3TmJrczFDeU9QRWU0SXUyVXd1djhMem12T25vUVhzdlJJcE1QemduZkdNU3RyMGhab2p4S2p3ZmVuZXVocE41N3BIZGpXemR3ZWs5ekFHYzk4?oc=5",
-      "outlet": "Teenee.com",
+      "outlet": "variety.teenee.com",
       "publishedAt": "2020-08-23T15:08:15.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
