@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T01:29:34.985Z",
+  "updatedAt": "2026-09-04T06:35:06.391Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,26 @@
     }
   ],
   "items": [
+    {
+      "title": "นักศึกษาสถิติ หลักสูตร SIDS คว้ารางวัลชมเชย NSC 2026 ชู AI พยากรณ์ความเสี่ยงโรคหัวใจและหลอดเลือด",
+      "link": "https://sc.kku.ac.th/news/123335/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-04T06:07:07.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "study"
+    },
+    {
+      "title": "“วงโปงลางสินไซ” ร่วมแสดงความวิจิตรตระการตา ในพิธีเปิดการประกวดวงดนตรีพื้นบ้านโปงลาง ชิงถ้วยพระราชทานฯ ครั้งที่ ๑ อย่างสมพระเกียรติ",
+      "link": "https://fa.kku.ac.th/%e0%b8%a7%e0%b8%87%e0%b9%82%e0%b8%9b%e0%b8%87%e0%b8%a5%e0%b8%b2%e0%b8%87%e0%b8%aa%e0%b8%b4%e0%b8%99%e0%b9%84%e0%b8%8b-%e0%b8%a3%e0%b9%88%e0%b8%a7%e0%b8%a1%e0%b9%81%e0%b8%aa%e0%b8%94/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-04T03:53:46.000Z",
+      "sourceId": "fa",
+      "category": "คณะศิลปกรรมศาสตร์",
+      "image": "https://fa.kku.ac.th/wp-content/uploads/2026/09/001-1-1024x683.jpg",
+      "topic": "activity"
+    },
     {
       "title": "คณะศึกษาศาสตร์ มข. ต้อนรับคณาจารย์และนักศึกษาเวชนิทัศน์ คณะแพทยศาสตร์ เข้าศึกษาดูงานศูนย์นวัตกรรมการศึกษาเชิงพาณิชย์ เสริมทักษะการผลิตสื่อนวัตกรรมการเรียนรู้",
       "link": "https://ednet.kku.ac.th/news/20790/",
@@ -1219,7 +1239,7 @@
       "title": "นศ.คณะเศรษฐศาสตร์ มข. ร่วมพิธีมอบทุนการศึกษา SMBC สาขากรุงเทพฯ",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE94M0x3QTEwYzFTa0twQ2VMN0phYWduVXdWVzZnbnRhU3dHRmhqREhVNmphR3lXWXpoVFVpMWh2eVJVeF95eW1v?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-07-13T07:15:20.000Z",
+      "publishedAt": "2026-07-13T07:00:00.000Z",
       "sourceId": "econ",
       "category": "คณะเศรษฐศาสตร์",
       "image": null,
@@ -1234,6 +1254,16 @@
       "category": "คณะเทคนิคการแพทย์",
       "image": null,
       "topic": "other"
+    },
+    {
+      "title": "นักศึกษาคณะวิทยาศาสตร์ มข. คว้า 3 รางวัล Best Oral Presentation Award จากเวทีนานาชาติ IUMRS-ICEM 2026",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE54eGM2S3h4SURfenlpTXVZZEY1VFVMeGtQSnBkckxzelc5RnNZWlo4YU1xY1pRRV93M1c3UXRyODdJT1hqWjE0?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-07-09T04:55:13.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity"
     },
     {
       "title": "สมาคมสหประชาชาติแห่งประเทศไทย เยือนวิทยาลัยนานาชาติ มข. ให้ความรู้เรื่องสหประชาชาติแก่นักศึกษา ฉลองโอกาสครบ 80 ปี การเป็นสมาชิกสหประชาชาติของประเทศไทย - Khon Kaen University",
@@ -2070,8 +2100,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5pYXdkR1hjLWRQdE5ONThKRzB6OTRWbUNGWGJwN29aamM2eUpBWHdrLVR6LVI2eEJmcVpwa0VVYUYtd2dlTmEw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-04-07T07:00:00.000Z",
-      "sourceId": "eng",
-      "category": "คณะวิศวกรรมศาสตร์",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
       "image": null,
       "topic": "research"
     },
@@ -2536,6 +2566,16 @@
       "topic": "activity"
     },
     {
+      "title": "นักศึกษามหาวิทยาลัยขอนแก่นคว้าชัยระดับภูมิภาค เวที UBI Alpha Business Contest 2026 ประเภทธุรกิจ Future Food",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9VYnBxN0VKUDRXZHBnb2J3RUk5LXdpYmlPQ1FzNzh3NndWbTFMQmRIU3RDZEtSUnRNRVVlaENoLXdRUDBSN0Rj?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-02-05T09:53:11.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "โรงพยาบาลทันตกรรม คณะทันตแพทยศาสตร์ มหาวิทยาลัยขอนแก่น จัดโครงการประกวดผลงานพัฒนาคุณภาพ (Best Practices) “ปั้นดาว ปีที่ 4” ประจำปี 2569 - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE56eWtCVC1oSVVjMkY2S195SGEwTThDWjY4Z09JQkVuNVZoUUlpajhYSHlZbEw0V0xlMHAtYnczdWlVR2tVM2ZV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2856,16 +2896,6 @@
       "topic": "study"
     },
     {
-      "title": "ขอเชิญชมแปลงกังหันดอกไม้ สวยๆ ของน้อง ๆ นักศึกษาชุมนุมเกษตรเรียนรู้ มข.",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQQm5QSUJ0WUUwcFFTeTMybUt1dmp3OUJGN2ZVV0NuaXNxSElKeWtLeDlhZkJOWGxoTE5iWU5JUTRTQ29vMXZhTjZ1cGRIUVpJanZpTU05eEIySzdOQnRZTVdLU0NURW9Oem5JOGpmYU9qVHJnSlVpSEdsd282aFBpU2JGU202MnpBWHZRaDc0SS1nUzRSQ1FWU2lpREFNa21aUHBqSERYM2JVVkxJMG80UlBnY3JJbHFaY1A1Z05LQWFrekNnTkhodGNpUEVIcVJVbFZQbXZqLWczZGJXTkNBamtkZUI1eDN6NEtkbUswMUdJaW1iRzFiSXI3NUtGWlJsYWw2VDRlTzJBNXQ3WGlhc21xVEpFZXNSLVhhc1QtaUlMbDhfZ1ZYekdkeXN5RHVTRV96SmJRZll0RXBybklXWEcyU3FqWmQzV0t4Rnh4OF8?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-12-01T08:00:00.000Z",
-      "sourceId": "agri",
-      "category": "คณะเกษตรศาสตร์",
-      "image": null,
-      "topic": "other"
-    },
-    {
       "title": "บัณฑิตวิทยาลัย เปิดตัว “GS Admission” ระบบรับเข้าแบบ Full Digital Service รูปแบบใหม่",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5KemM2aVhhN1ZYM093WmYzMllhQklsVHk4TFAtdTdqTjNYdU50VWgzTnFEaEhFU0U0QmJ6TTg2TF96VDB4a1JB?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2874,6 +2904,16 @@
       "category": "บัณฑิตวิทยาลัย",
       "image": null,
       "topic": "study"
+    },
+    {
+      "title": "ขอเชิญชมแปลงกังหันดอกไม้ สวยๆ ของน้อง ๆ นักศึกษาชุมนุมเกษตรเรียนรู้ มข.",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQQm5QSUJ0WUUwcFFTeTMybUt1dmp3OUJGN2ZVV0NuaXNxSElKeWtLeDlhZkJOWGxoTE5iWU5JUTRTQ29vMXZhTjZ1cGRIUVpJanZpTU05eEIySzdOQnRZTVdLU0NURW9Oem5JOGpmYU9qVHJnSlVpSEdsd282aFBpU2JGU202MnpBWHZRaDc0SS1nUzRSQ1FWU2lpREFNa21aUHBqSERYM2JVVkxJMG80UlBnY3JJbHFaY1A1Z05LQWFrekNnTkhodGNpUEVIcVJVbFZQbXZqLWczZGJXTkNBamtkZUI1eDN6NEtkbUswMUdJaW1iRzFiSXI3NUtGWlJsYWw2VDRlTzJBNXQ3WGlhc21xVEpFZXNSLVhhc1QtaUlMbDhfZ1ZYekdkeXN5RHVTRV96SmJRZll0RXBybklXWEcyU3FqWmQzV0t4Rnh4OF8?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-12-01T08:00:00.000Z",
+      "sourceId": "agri",
+      "category": "คณะเกษตรศาสตร์",
+      "image": null,
+      "topic": "other"
     },
     {
       "title": "คณะเทคโนโลยี มข. จัดประกวด “Food Product Innovation Contest 2025” ดึงไอเดียอาหารอนาคตสู่ความยั่งยืนระดับประเทศ",
@@ -2936,8 +2976,8 @@
       "topic": "other"
     },
     {
-      "title": "นศ.มข. คว้า 2 รางวัล โครงการเส้นทางสู่นวัตวณิชย์ ครั้งที่ 13 ระดับภูมิภาค คว้าตั๋วสู่รอบระดับประเทศ!",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9oS3NwbnZhaThZYlI4OU04elJmZlVrTWZCVnVFeVZzRTg0ZlRQWGUxSy1VRlZRTDA2c3BLRWlpanlseVBuQjZV?oc=5",
+      "title": "นศ. คณะเศรษฐศาสตร์ มข. คว้ารางวัลโครงการเส้นทางสู่นวัตวณิชย์ ครั้งที่ 13 ระดับภูมิภาค",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5INlhRdC1nUG12UVZqcWJjSmllSFNuUEpFVVFLMldUR1pxTmhFSEQxME96alVxWjNGamFWQkEwTkMyR1J4RUZn?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2025-11-15T08:00:00.000Z",
       "sourceId": "pharm",
@@ -2946,8 +2986,8 @@
       "topic": "activity"
     },
     {
-      "title": "นศ. คณะเศรษฐศาสตร์ มข. คว้ารางวัลโครงการเส้นทางสู่นวัตวณิชย์ ครั้งที่ 13 ระดับภูมิภาค",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5INlhRdC1nUG12UVZqcWJjSmllSFNuUEpFVVFLMldUR1pxTmhFSEQxME96alVxWjNGamFWQkEwTkMyR1J4RUZn?oc=5",
+      "title": "นศ.มข. คว้า 2 รางวัล โครงการเส้นทางสู่นวัตวณิชย์ ครั้งที่ 13 ระดับภูมิภาค คว้าตั๋วสู่รอบระดับประเทศ!",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9oS3NwbnZhaThZYlI4OU04elJmZlVrTWZCVnVFeVZzRTg0ZlRQWGUxSy1VRlZRTDA2c3BLRWlpanlseVBuQjZV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2025-11-15T08:00:00.000Z",
       "sourceId": "pharm",
