@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T06:35:06.391Z",
+  "updatedAt": "2026-09-04T12:17:25.404Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,26 @@
     }
   ],
   "items": [
+    {
+      "title": "หลักสูตรปรัชญาดุษฎีบัณฑิต สาขาวิชาการบริหารการศึกษา คณะศึกษาศาสตร์ มหาวิทยาลัยขอนแก่น จัดการอบรมเชิงปฏิบัติการ “การบริหารทรัพยากรมนุษย์ในองค์กรทางการศึกษา : ดึงดูด พัฒนา รักษาคนดีและคนเก่ง",
+      "link": "https://ednet.kku.ac.th/news/20813/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-04T06:54:24.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": "https://ednet.kku.ac.th/wp-content/uploads/2026/09/789349761_1455759386361493_2774974220538008466_n-1-1024x576.jpg",
+      "topic": "study"
+    },
+    {
+      "title": "ประกาศรายชื่อผู้สอบผ่านข้อเขียนมีสิทธิ์เข้าสอบภาคความเหมาะสมกับตำแหน่ง (สัมภาษณ์) ตำแหน่งนักทรัพยากรบุคคล",
+      "link": "https://dentistry.kku.ac.th/30306?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%259b%25e0%25b8%25a3%25e0%25b8%25b0%25e0%25b8%2581%25e0%25b8%25b2%25e0%25b8%25a8%25e0%25b8%25a3%25e0%25b8%25b2%25e0%25b8%25a2%25e0%25b8%258a%25e0%25b8%25b7%25e0%25b9%2588%25e0%25b8%25ad%25e0%25b8%259c%25e0%25b8%25b9%25e0%25b9%2589%25e0%25b8%25aa%25e0%25b8%25ad%25e0%25b8%259a%25e0%25b8%259c%25e0%25b9%2588%25e0%25b8%25b2-2",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-04T06:45:39.000Z",
+      "sourceId": "dent",
+      "category": "คณะทันตแพทยศาสตร์",
+      "image": null,
+      "topic": "study"
+    },
     {
       "title": "นักศึกษาสถิติ หลักสูตร SIDS คว้ารางวัลชมเชย NSC 2026 ชู AI พยากรณ์ความเสี่ยงโรคหัวใจและหลอดเลือด",
       "link": "https://sc.kku.ac.th/news/123335/",
@@ -546,6 +566,16 @@
       "topic": "research"
     },
     {
+      "title": "คณะเศรษฐศาสตร์ มข. ลงนาม MOU กับสมาคมบริษัทจัดการลงทุน ยกระดับนักศึกษาสู่วิชาชีพการเงิน",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MV3U0ZHQ2enpjQUlDckg0a0FUUS1kM1Q3TDlUYzlMY0RjMm10QlhlbllpUk44Tkx6cmxpYlI5MmJLVmxkTWww?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "sourceId": "econ",
+      "category": "คณะเศรษฐศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "วิทยาลัยการคอมพิวเตอร์ มข. จัดงาน \"Computing Fair & CPKKU Open House ครั้งที่ 4\" เปิดเวทีเยาวชนประลองทักษะดิจิทัล พร้อมให้ความรู้หลักสูตรแห่งอนาคต - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpVlYwclJabHJzZnFOSTJFNFVuMUZWTm9qek5YbDVPb2xpU3lxeElJaU1FaFdub0JxV1JEYnF3WFhaSTBwRDRJ?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -564,16 +594,6 @@
       "category": "มข.",
       "image": null,
       "topic": "other"
-    },
-    {
-      "title": "คณะเศรษฐศาสตร์ มข. ลงนาม MOU กับสมาคมบริษัทจัดการลงทุน ยกระดับนักศึกษาสู่วิชาชีพการเงิน",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MV3U0ZHQ2enpjQUlDckg0a0FUUS1kM1Q3TDlUYzlMY0RjMm10QlhlbllpUk44Tkx6cmxpYlI5MmJLVmxkTWww?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
-      "sourceId": "econ",
-      "category": "คณะเศรษฐศาสตร์",
-      "image": null,
-      "topic": "activity"
     },
     {
       "title": "มข. เปิดงานสัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 จุดประกายการเรียนรู้สู่อนาคตที่ยั่งยืน",
@@ -878,7 +898,7 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -1196,10 +1216,10 @@
       "topic": "study"
     },
     {
-      "title": "คณะทันตแพทยศาสตร์ มหาวิทยาลัยขอนแก่น จัดอบรมด้าน Systematic Reviews และ Meta-Analysis พร้อมต้อนรับผู้เชี่ยวชาญระดับนานาชาติ ร่วมแลกเปลี่ยนองค์ความรู้ด้านการวิจัยสุขภาพช่องปาก",
-      "link": "https://dentistry.kku.ac.th/29865?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%2584%25e0%25b8%2593%25e0%25b8%25b0%25e0%25b8%2597%25e0%25b8%25b1%25e0%25b8%2599%25e0%25b8%2595%25e0%25b9%2581%25e0%25b8%259e%25e0%25b8%2597%25e0%25b8%25a2%25e0%25b8%25a8%25e0%25b8%25b2%25e0%25b8%25aa%25e0%25b8%2595%25e0%25b8%25a3%25e0%25b9%258c-%25e0%25b8%25a1%25e0%25b8%25ab%25e0%25b8%25b2%25e0%25b8%25a7-33",
-      "outlet": "เว็บไซต์คณะ",
-      "publishedAt": "2026-07-14T07:17:52.000Z",
+      "title": "คณะทันตแพทยศาสตร์ มหาวิทยาลัยขอนแก่น จัดอบรมด้าน Systematic Reviews และ Meta-Analysis พร้อมต้อนรับผู้เชี่ยวชาญระดับนานาชาติ ร่วมแลกเปลี่ยนองค์ความรู้ด้านการวิจัยสุขภาพช่องปาก - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE14SDdxUk1IVURiajlfcGx3SGRCUDMyNmlybHczUEVzczk1Sk9vMEdUa1dERHkxRDlEZzNBSTByTTI4Ykd2cTVz?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-07-14T10:45:51.000Z",
       "sourceId": "dent",
       "category": "คณะทันตแพทยศาสตร์",
       "image": null,
@@ -2646,16 +2666,6 @@
       "topic": "activity"
     },
     {
-      "title": "คณะเกษตรศาสตร์ มข. ติวเข้มทักษะเสียงตามสาย กองสื่อสารองค์กร ส่งบุคลากรให้ความรู้ ปั้นนักศึกษาประชาสัมพันธ์ พร้อมลุยงานวันเกษตรภาคอีสาน 2569 - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA5QTA3TEszeXQwdHducDZGMzdyTDk3Q3djQzlvR0tvMzg2YzlDU2RjQlkxVHdyMTNCRnluWEs4cjNfdVRrcHc0?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-01-15T08:00:00.000Z",
-      "sourceId": "agri",
-      "category": "คณะเกษตรศาสตร์",
-      "image": null,
-      "topic": "other"
-    },
-    {
       "title": "ประกาศรับสมัคร “นักเรียนผู้ช่วยทันตแพทย์” คณะทันตแพทยศาสตร์ มหาวิทยาลัยขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE80X0p5S0ZrNnVpcUI3b0FSQ0tnTWd2LXFndW5MTkJKRkpMaFdCbGJrYTZILVNxbENNYVhVRDZZc2ZzeUxVTk1N?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2664,6 +2674,16 @@
       "category": "คณะทันตแพทยศาสตร์",
       "image": null,
       "topic": "announce"
+    },
+    {
+      "title": "คณะเกษตรศาสตร์ มข. ติวเข้มทักษะเสียงตามสาย กองสื่อสารองค์กร ส่งบุคลากรให้ความรู้ ปั้นนักศึกษาประชาสัมพันธ์ พร้อมลุยงานวันเกษตรภาคอีสาน 2569 - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA5QTA3TEszeXQwdHducDZGMzdyTDk3Q3djQzlvR0tvMzg2YzlDU2RjQlkxVHdyMTNCRnluWEs4cjNfdVRrcHc0?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-01-15T08:00:00.000Z",
+      "sourceId": "agri",
+      "category": "คณะเกษตรศาสตร์",
+      "image": null,
+      "topic": "other"
     },
     {
       "title": "ม.ขอนแก่น ร่วมมือ ธนาคารกรุงไทย ลงนาม MOU พัฒนาศักยภาพนักศึกษาสู่การทำงานจริง",
@@ -2976,8 +2996,8 @@
       "topic": "other"
     },
     {
-      "title": "นศ. คณะเศรษฐศาสตร์ มข. คว้ารางวัลโครงการเส้นทางสู่นวัตวณิชย์ ครั้งที่ 13 ระดับภูมิภาค",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5INlhRdC1nUG12UVZqcWJjSmllSFNuUEpFVVFLMldUR1pxTmhFSEQxME96alVxWjNGamFWQkEwTkMyR1J4RUZn?oc=5",
+      "title": "นศ.มข. คว้า 2 รางวัล โครงการเส้นทางสู่นวัตวณิชย์ ครั้งที่ 13 ระดับภูมิภาค คว้าตั๋วสู่รอบระดับประเทศ!",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9oS3NwbnZhaThZYlI4OU04elJmZlVrTWZCVnVFeVZzRTg0ZlRQWGUxSy1VRlZRTDA2c3BLRWlpanlseVBuQjZV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2025-11-15T08:00:00.000Z",
       "sourceId": "pharm",
@@ -2986,8 +3006,8 @@
       "topic": "activity"
     },
     {
-      "title": "นศ.มข. คว้า 2 รางวัล โครงการเส้นทางสู่นวัตวณิชย์ ครั้งที่ 13 ระดับภูมิภาค คว้าตั๋วสู่รอบระดับประเทศ!",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9oS3NwbnZhaThZYlI4OU04elJmZlVrTWZCVnVFeVZzRTg0ZlRQWGUxSy1VRlZRTDA2c3BLRWlpanlseVBuQjZV?oc=5",
+      "title": "นศ. คณะเศรษฐศาสตร์ มข. คว้ารางวัลโครงการเส้นทางสู่นวัตวณิชย์ ครั้งที่ 13 ระดับภูมิภาค",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5INlhRdC1nUG12UVZqcWJjSmllSFNuUEpFVVFLMldUR1pxTmhFSEQxME96alVxWjNGamFWQkEwTkMyR1J4RUZn?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2025-11-15T08:00:00.000Z",
       "sourceId": "pharm",
