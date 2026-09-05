@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T06:21:54.139Z",
+  "updatedAt": "2026-09-05T11:24:48.956Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,16 @@
     }
   ],
   "items": [
+    {
+      "title": "สรุปผลการแข่งขันในงานสัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 KKU Science Week 2026",
+      "link": "https://sc.kku.ac.th/news/121640/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-05T06:24:22.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
     {
       "title": "หลักสูตรปรัชญาดุษฎีบัณฑิต สาขาวิชาการบริหารการศึกษา คณะศึกษาศาสตร์ มหาวิทยาลัยขอนแก่น จัดการอบรมเชิงปฏิบัติการ “การบริหารทรัพยากรมนุษย์ในองค์กรทางการศึกษา : ดึงดูด พัฒนา รักษาคนดีและคนเก่ง",
       "link": "https://ednet.kku.ac.th/news/20813/",
@@ -1336,8 +1346,8 @@
       "topic": "activity"
     },
     {
-      "title": "ขยายเวลาส่งผลงาน การประชุมวิชาการระดับชาติของนักเศรษฐศาสตร์ (National Conference of Economists: NCE) และการประชุมวิชาการระดับบัณฑิตศึกษาด้านเศรษฐศาสตร์ (Graduate Conference in Economics: GCE) ครั้งที่ 19 - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOemFmVEZKbTRTWDNzRlN6SzJUd0RfZWpLYjRDSVFzdFpzcWo0Nzd3MWllQ1VFS2tIT3U2SFc1eWZ4ZFZXc0dMdDJOUndaR2RtcU1hNk82STlmVF9JQy04MXpCMkR6czNKZDlLM1lZZmtkSWtkNG1TYUtfeTlwdnE4MkprVFBIVU4yTENuTEVKbVpsWVA5b2VRMU1rVkVINUowajQtVjd5R3cyTWE0blFhRFJJM1A3VWpjdHlpd0RtNHRTLUFXcnhjSG9wUWMwUk90U1ZWZWMzVjhmWlJjRVNQazZscm1RdUpNTTlDNnlNbHFXdnFFc2QtRU5WeHF2WXEtTXdsSHFKV2hQMUZzQ0pMMEc1NlZGWTBpNE8xWTlrSnIweFV6TUdkYVVKMVVBVzNKc2FhY3Ztak9PU1BVODJqRnY3NWs?oc=5",
+      "title": "การประชุมวิชาการระดับชาติของนักเศรษฐศาสตร์และระดับบัณฑิตศึกษาด้านเศรษฐศาสตร์ ครั้งที่ 19",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQX2lraW5TbVAtSEhDR0N0N0dYa1ZYaUZPa2w3TmZqeTBvR2huek1HcHhLOXR2dW9OQWtqS180VDFHMnkwUnVTczdMMjJFZExXRHM3Yk1LTGVTQTdwX1FmUmZUaUU1UEltdXFjekl1TXY3cHVyUUpJbEhRMzQzeG9FMkdiTEk4N05FbVFGN0tpSm4xR1FSeTlTNmE1YXVEZUtkNUozZzFwN1VzanVvenQ2a3JiZk1LdVFMN0JYZ284a3hxVWg4OVRXMFlDWGVyNE9PVlNLUXNBME93ZF9ZQmNET1FBR09kNHBqdlotUjdfQnBha0pGNldHTmczQXYxbWR1LUN0MDduTjllOWQzSWpOakVKUmQ5cHNCeGV4dXJzWVRkQmgwNEo1czhWNXVrQzZlb1E0ZVUyQWF4eU54TEVuT2p6ZTJSaU9ORG5LWjhGMjJSUQ?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-07-02T07:00:00.000Z",
       "sourceId": "econ",
@@ -1346,8 +1356,8 @@
       "topic": "other"
     },
     {
-      "title": "การประชุมวิชาการระดับชาติของนักเศรษฐศาสตร์และระดับบัณฑิตศึกษาด้านเศรษฐศาสตร์ ครั้งที่ 19",
-      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQX2lraW5TbVAtSEhDR0N0N0dYa1ZYaUZPa2w3TmZqeTBvR2huek1HcHhLOXR2dW9OQWtqS180VDFHMnkwUnVTczdMMjJFZExXRHM3Yk1LTGVTQTdwX1FmUmZUaUU1UEltdXFjekl1TXY3cHVyUUpJbEhRMzQzeG9FMkdiTEk4N05FbVFGN0tpSm4xR1FSeTlTNmE1YXVEZUtkNUozZzFwN1VzanVvenQ2a3JiZk1LdVFMN0JYZ284a3hxVWg4OVRXMFlDWGVyNE9PVlNLUXNBME93ZF9ZQmNET1FBR09kNHBqdlotUjdfQnBha0pGNldHTmczQXYxbWR1LUN0MDduTjllOWQzSWpOakVKUmQ5cHNCeGV4dXJzWVRkQmgwNEo1czhWNXVrQzZlb1E0ZVUyQWF4eU54TEVuT2p6ZTJSaU9ORG5LWjhGMjJSUQ?oc=5",
+      "title": "ขยายเวลาส่งผลงาน การประชุมวิชาการระดับชาติของนักเศรษฐศาสตร์ (National Conference of Economists: NCE) และการประชุมวิชาการระดับบัณฑิตศึกษาด้านเศรษฐศาสตร์ (Graduate Conference in Economics: GCE) ครั้งที่ 19 - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOemFmVEZKbTRTWDNzRlN6SzJUd0RfZWpLYjRDSVFzdFpzcWo0Nzd3MWllQ1VFS2tIT3U2SFc1eWZ4ZFZXc0dMdDJOUndaR2RtcU1hNk82STlmVF9JQy04MXpCMkR6czNKZDlLM1lZZmtkSWtkNG1TYUtfeTlwdnE4MkprVFBIVU4yTENuTEVKbVpsWVA5b2VRMU1rVkVINUowajQtVjd5R3cyTWE0blFhRFJJM1A3VWpjdHlpd0RtNHRTLUFXcnhjSG9wUWMwUk90U1ZWZWMzVjhmWlJjRVNQazZscm1RdUpNTTlDNnlNbHFXdnFFc2QtRU5WeHF2WXEtTXdsSHFKV2hQMUZzQ0pMMEc1NlZGWTBpNE8xWTlrSnIweFV6TUdkYVVKMVVBVzNKc2FhY3Ztak9PU1BVODJqRnY3NWs?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-07-02T07:00:00.000Z",
       "sourceId": "econ",
@@ -1908,7 +1918,7 @@
     {
       "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
