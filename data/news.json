@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T11:46:04.673Z",
+  "updatedAt": "2026-09-06T14:27:26.563Z",
   "sources": [
     {
       "id": "med",
@@ -578,7 +578,7 @@
     {
       "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-08-17T07:00:00.000Z",
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
@@ -1568,7 +1568,7 @@
     {
       "title": "วิริยะประกันภัย สนับสนุน “ค่ายผู้นำ 4 จอบอาสาพัฒนา” ครั้งที่ 21 สานพลังเครือข่ายผู้นำนักศึกษาเกษตรศาสตร์ ยกระดับเกษตรท้องถิ่นไทย | สวพ.FM91",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sSGI2QVdmMUQyNzE2c1N5Vmg2ME9HSlpuT010aG9vdXlrWmhTdmZDUmphODYyRDlJeFpPNmYxc29NbHhSTWZzVm1FLWp2MmZGaXFBZnh3?oc=5",
-      "outlet": "today.line.me",
+      "outlet": "LINE TODAY",
       "publishedAt": "2026-06-16T07:00:00.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
@@ -1630,8 +1630,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JRHN4ck4zQkhFTVBUX0FhZU9GQ2x5clN1NmFmSEEtazNOWWtvZkNkTjFtUDZpYTBWVThHbW1kcnRGV3dPckdV?oc=5",
       "outlet": "kku.ac.th",
       "publishedAt": "2026-06-10T07:00:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
+      "sourceId": "arch",
+      "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "research"
     },
@@ -1918,7 +1918,7 @@
     {
       "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -2208,7 +2208,7 @@
     {
       "title": "สถาปัตย์ มข. เปิดรับสมัคร อบรมระยะสั้น หัวข้อ Deline&Watercolors for Interior และ (ขึ้นเส้นเล่นสีตีฟภายใน) และ Perspective (ลายเส้นและสีน้ำกับทัศนียภาพ) - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQNVpLOXI5SGhBSmttSkZEUFcwM2VhT0JZWk9XNUlDSDRmbHdTWDlCeTdoWDM1MVZPTXdxUVJYdVdtUThBSHloeTJuVnpuZWV3bFRSelBEcFFSdUdDLVk0U2tJUVByWHJsYTc3dDRMal9rUW1ZS0Z4TTJrX1psMG4yTVpkdGRvTkxrZkZ4UFVNVUFjMVZIaDNmWVVRRWswTXI5MnY3b3ExMXFUVXpfcmhKUjZHeElIbWk5NTJhZzM4RVdsTnpMa0hIQy1XMHFNczE3S1JTRXF5eGxfZjQwTHlkQlFkeGZSU1k1bUxuaDBWbURXRi1URW90Tjl0aWQ5ekZVTnN1ZWNRcHFOQmZFUmNDdVBXTjlFSm90V2tVaE5vOURMRnNvd0R1cGk5QlNYc0Z4bHZUNDUxRGJjZXRTQnhoTkJQbEdiZw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "outlet": "kku.ac.th",
       "publishedAt": "2026-03-29T07:00:00.000Z",
       "sourceId": "arch",
       "category": "คณะสถาปัตยกรรมศาสตร์",
@@ -2358,7 +2358,7 @@
     {
       "title": "คณะนิติฯ มข. เตรียมจัดเวทีเสวนาวิชาการ Law & ADR Forum 2026 ชูธงกฎหมายเพื่อสังคมแห่งความยุติธรรมที่เข้าถึงได้",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4tbS14bDduWUpPQXFGaWMxLTEzMTVqZ25VeDZtd1RzMl9sQWNQRDdPaWlrdUVxUjJkX1BlNTI5VzFPTkd2RXBr?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "outlet": "kku.ac.th",
       "publishedAt": "2026-03-13T08:44:14.000Z",
       "sourceId": "law",
       "category": "คณะนิติศาสตร์",
@@ -2908,7 +2908,7 @@
     {
       "title": "สถาปัตย์ มข. ขนทัพแฟชั่นโชว์และนิทรรศการนวัตกรรมสิ่งทอ ร่วมจัดแสดงในงาน ISAN SILK & Textile Expo 2025",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1vam1oa1gyNmNVR3I4LTlheEdfSnZsd3JBR1FaQVc5SElYZXZaMjV6R0phT1QyZmVwUzFkZmgtcENYYmNSR1Y4?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "outlet": "kku.ac.th",
       "publishedAt": "2025-12-03T08:00:00.000Z",
       "sourceId": "arch",
       "category": "คณะสถาปัตยกรรมศาสตร์",
