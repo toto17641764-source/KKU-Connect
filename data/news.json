@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T06:40:28.643Z",
+  "updatedAt": "2026-09-07T13:42:56.536Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,26 @@
   ],
   "items": [
     {
+      "title": "เติมทักษะคิดผ่านเกมและกิจกรรม! Gen Math 3 กิจกรรมเรียนรู้คณิตศาสตร์นอกห้องเรียน",
+      "link": "https://sc.kku.ac.th/news/124577/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-07T09:57:14.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
+      "title": "🔐 รู้ทันก่อนคลิก! นักศึกษา ป.ตรี–ป.เอก เรียนรู้รับมือภัยไซเบอร์จากสถานการณ์จริง",
+      "link": "https://sc.kku.ac.th/trainingnews/124367/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-07T07:39:33.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "study"
+    },
+    {
       "title": "ประกาศรายชื่อผู้มีสิทธิ์สอบสัมภาษณ์: พนักงานจ้างเหมาบริการทำความสะอาด (จำนวน 10 อัตรา) สังกัดคณะวิทยาศาสตร์ มหาวิทยาลัยขอนแก่น",
       "link": "https://sc.kku.ac.th/wp-content/uploads/2026/09/129-2569-%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A1%E0%B8%B5%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%84%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%AF-%E0%B8%9E%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94.pdf#new_tab",
       "outlet": "เว็บไซต์คณะ",
@@ -327,7 +347,7 @@
     },
     {
       "title": "นักศึกษาสถิติ หลักสูตร SIDS คว้ารางวัลชมเชย NSC 2026 ชู AI พยากรณ์ความเสี่ยงโรคหัวใจและหลอดเลือด",
-      "link": "https://sc.kku.ac.th/news/123335/",
+      "link": "https://sc.kku.ac.th/studentnews/123335/",
       "outlet": "เว็บไซต์คณะ",
       "publishedAt": "2026-09-04T06:07:07.000Z",
       "sourceId": "sci",
@@ -608,7 +628,7 @@
     {
       "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
-      "outlet": "khonkaenlink.info",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-08-17T07:00:00.000Z",
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
@@ -1566,6 +1586,16 @@
       "topic": "activity"
     },
     {
+      "title": "คณะศึกษาศาสตร์ มข. นำหลักสูตรสาธิต Innovation ปั้น “ครูน้ำพองภูริพัฒน์” โมเดลต้นแบบใช้นวัตกรรมการศึกษามุ่งลดความเหลื่อมล้ำในท้องถิ่น - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE92cU1qTFhmbVdxRFp2aGtqZ2o1Uk9pMzVRa2E2Tmt6T0dXTU1qem81dWNXcElDQWEtZ3FjbkJUbDlEbkJQVDlR?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-06-19T06:14:20.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": null,
+      "topic": "research"
+    },
+    {
       "title": "คณะศิลปกรรมศาสตร์ มหาวิทยาลัยขอนแก่น เชิญชวนครูมัธยมศึกษาภาคอีสานเข้าร่วมอบรม “อีสานคราฟต์” ยกระดับงานศิลป์สู่ Soft Power ระดับสากล - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBDQzlCYXNSRTNsd24yaUU3Y0IxWlVLVjRrY2RQaVpibmV6MFhGWWVJNXNWNmJwUWE0MUlIVjRUNVVmWnJpMHdN?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1908,7 +1938,7 @@
     {
       "title": "ศึกษาศาสตร์ มข. ร่วมสถานศึกษาเครือข่าย เตรียมความพร้อมครูพี่เลี้ยง และอาจารย์นิเทศก์ ก่อนส่งนักศึกษาฝึกปฏิบัติการสอนฯ ประจำปี 2569 - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zVk5UZnNLTmdsd1hwc0Ryc0xWbzdRTWZDTTRPN1pFdFBTMWFlUWdfSWxseEJzdjhlQkF4YzV2VWtILXdwWGNV?oc=5",
-      "outlet": "kku.ac.th",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-05-11T07:00:00.000Z",
       "sourceId": "edu",
       "category": "คณะศึกษาศาสตร์",
@@ -1918,7 +1948,7 @@
     {
       "title": "ขอเชิญอาจารย์และบุคลากร มหาวิทยาลัยขอนแก่น เข้าทดสอบความรู้ “ความปลอดภัยทางไซเบอร์” ประจำปี 2569",
       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPOHRJajI2bU5LWVNUbVNLb0xrQW1PZnR6NTRCN1VRVWFiS2ZRX0xMb3V5ekZDeElENnUzQXhGV2RYVEVDazNRNk9EZ05hZ0VMdmtPRDVwYmhMdUQ2elpoVlRSMHRpVEVWVUZxb2V2ZnFqYW5LNkhhMXZqYTJIUTVwbW85UVZQdzlVTDJ0UkR5TzRPUW80WEZJRWMyYTBJQ2Q1M1hMcGlIQTZwYXg0dzcydXdOckJMLWlGbFBKQ19rNnk4blJiRF9FbWI1R3R1aGMxUDVDVEJubVlCRFg1cTZQS25FWk9RakNjTXZEOUZTZUtIUkRVVkZ3VkxVN0hzaUlHWFFTbnFzd0cybDdWZTBscHZfT3ZzcVVsTUVOVTFCUmVJQ3REd2s2ZmVGYlNIVjZnVGpEYllzU3JBbVBLVHE4SEdkbUxnNmlBeVJHRWpfYw?oc=5",
-      "outlet": "kku.ac.th",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-05-11T07:00:00.000Z",
       "sourceId": "kku",
       "category": "มข.",
@@ -1948,7 +1978,7 @@
     {
       "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "khonkaenlink.info",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -2102,6 +2132,16 @@
       "publishedAt": "2026-04-21T23:21:52.000Z",
       "sourceId": "cp",
       "category": "วิทยาลัยการคอมพิวเตอร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
+      "title": "ช่างคึด ครั้งที่ 17 เทศกาลงานตลาดอาร์ตของเราเหล่าเด็กถาปัตย์ มข. กลับมาอีกครั้ง",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOODVtMzBnRXljNXViRG9qYl9DSFNweVdEQzIzRk8wSE1qM21waGp6SENZRVE4a2VOZ0dGZDFfQThzQi1ZSVk4TTBrVW1oR1JsOFRpZVBtcE9lMVJEZ3Y4ZS0tbFRQR3pGTXROR2pTcFJFSzdZbFZDa0lzRWY1QjFRLUxWSjNDLXdfMjNrVUwzNmtYblJyWl9HR1liUjRNX2lpQzQzUmlzbXZUWHFxVHFpc2N6VVgyOUdGZXBaVXlNLXVGQmpNQ2h0TFpyTVFMTmd1YWRseHJZbDA4eEkxeW1QbUd2b0tZUGhnSWFEd3RlcDB5SE82SHdPRUE2Ykw3MzlGM1liaGd6SVhXOFVhdjNLSkJxZGNtYzJkdmdDaksyU3RMNmR4T091XzVYV3hQNFhMNFNiVndJSVRxUU9WSEV1UUUxdHFOZkk2Y0E?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-04-20T01:05:33.000Z",
+      "sourceId": "arch",
+      "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "activity"
     },
@@ -2888,7 +2928,7 @@
     {
       "title": "คณะสถาปัตยกรรมศาสตร์ มข. ทูลเกล้าฯ ถวายผ้าทอลายสวนดอกไม้แห่งพระเมตตา แด่สมเด็จพระกนิษฐาธิราชเจ้าฯ และขอแสดงความยินดีกับผู้สำเร็จการศึกษา ประจำปี พ.ศ. 2568 - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5kT1pvXzFSckNsZ29wMHhjZ0R0WXNQdUZXcTNzdTVhbG9vV0ZSTVBiNmttb0phR1hfNFFyMC1oTDl6aDJBZW1z?oc=5",
-      "outlet": "kku.ac.th",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2025-12-20T07:35:18.000Z",
       "sourceId": "arch",
       "category": "คณะสถาปัตยกรรมศาสตร์",
@@ -2922,16 +2962,6 @@
       "publishedAt": "2025-12-10T08:00:00.000Z",
       "sourceId": "law",
       "category": "คณะนิติศาสตร์",
-      "image": null,
-      "topic": "activity"
-    },
-    {
-      "title": "ช่างคึด ครั้งที่ 17 เทศกาลงานตลาดอาร์ตของเราเหล่าเด็กถาปัตย์ มข. กลับมาอีกครั้ง",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOODVtMzBnRXljNXViRG9qYl9DSFNweVdEQzIzRk8wSE1qM21waGp6SENZRVE4a2VOZ0dGZDFfQThzQi1ZSVk4TTBrVW1oR1JsOFRpZVBtcE9lMVJEZ3Y4ZS0tbFRQR3pGTXROR2pTcFJFSzdZbFZDa0lzRWY1QjFRLUxWSjNDLXdfMjNrVUwzNmtYblJyWl9HR1liUjRNX2lpQzQzUmlzbXZUWHFxVHFpc2N6VVgyOUdGZXBaVXlNLXVGQmpNQ2h0TFpyTVFMTmd1YWRseHJZbDA4eEkxeW1QbUd2b0tZUGhnSWFEd3RlcDB5SE82SHdPRUE2Ykw3MzlGM1liaGd6SVhXOFVhdjNLSkJxZGNtYzJkdmdDaksyU3RMNmR4T091XzVYV3hQNFhMNFNiVndJSVRxUU9WSEV1UUUxdHFOZkk2Y0E?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-12-05T08:00:00.000Z",
-      "sourceId": "arch",
-      "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "activity"
     },
@@ -3028,7 +3058,7 @@
     {
       "title": "คณะนิติศาสตร์ มข. จัดสัมมนา “Restaulaw” สู่ “มื้ออาหารแห่งอิสรภาพ” เชื่อมธุรกิจ-กฎหมาย-สังคม",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBQUdBcnpOQkY0bWJYQWkwRzVQQ0NobUtpdzlXRHVHeFk4eDZ5Q2MwTDkzU2VaOWctN081N3lBWkpPRWt2QktZ?oc=5",
-      "outlet": "kku.ac.th",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2025-11-28T08:00:00.000Z",
       "sourceId": "law",
       "category": "คณะนิติศาสตร์",
