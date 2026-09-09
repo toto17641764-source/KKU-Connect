@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T12:30:25.165Z",
+  "updatedAt": "2026-09-09T17:22:03.680Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,26 @@
     }
   ],
   "items": [
+    {
+      "title": "คณะวิศวกรรมศาสตร์ มข. จัดงาน Culture Connect 2026: Kaprao Galaxy เชื่อมสัมพันธ์นักศึกษานานาชาติ ผ่านรสชาติแห่งความสนุกและมิตรภาพ",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBtUXRyaVpzZXI5QTJwdEdYMEZwdkJVS2pMOTNVOVh0M1J2RWRxdk8yVmNjWTZHZ0FjeGE4RmZwcnh6OV9KWk5R?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-09T14:09:21.000Z",
+      "sourceId": "eng",
+      "category": "คณะวิศวกรรมศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
+      "title": "คณะวิศวฯ มข. จับมือ บริษัท อี-สแควร์ สิ่งแวดล้อมและวิศวกรรม จำกัด ลงนาม MOU มุ่งผลิตบัณฑิตสมรรถนะสูง ยกระดับงานวิจัยและนวัตกรรมสิ่งแวดล้อมอย่างยั่งยืน - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBLZ3hNMmxBcWRLZTQzNW1XcXZHZ3NNT0FWLVFQXzUzTVF4YmFSenI4NWljX3pOLWh5eEFUYVBuQ0dhRWFQekRn?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-09T14:04:17.000Z",
+      "sourceId": "eng",
+      "category": "คณะวิศวกรรมศาสตร์",
+      "image": null,
+      "topic": "research"
+    },
     {
       "title": "นักศึกษา KKBS รับทุนการศึกษาจากธนาคาร ICBC ประจำปี 2569",
       "link": "https://kkbs.kku.ac.th/insight-kkbs/33585/",
@@ -1750,8 +1770,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JRHN4ck4zQkhFTVBUX0FhZU9GQ2x5clN1NmFmSEEtazNOWWtvZkNkTjFtUDZpYTBWVThHbW1kcnRGV3dPckdV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-06-10T07:00:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
+      "sourceId": "arch",
+      "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "research"
     },
@@ -1879,7 +1899,7 @@
       "title": "อุทยานวิทยาศาสตร์ มข. เปิดเวที University Selection คัดเลือกสตาร์ทอัพนักศึกษา ผลักดันไอเดียนวัตกรรมสู่การแข่งขันเวทีนานาชาติระดับภูมิภาค - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB6a2JPd3Zpa0JpblpUTno5NW96dUVudngyYVF2SGg4Y1lrVWZfdzViRnNGMDlxNC1pZ3gzV01pUGw1MjBkUUNV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-05-29T09:07:52.000Z",
+      "publishedAt": "2026-05-29T07:18:08.000Z",
       "sourceId": "ic",
       "category": "วิทยาลัยนานาชาติ",
       "image": null,
