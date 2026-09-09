@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T06:47:16.412Z",
+  "updatedAt": "2026-09-09T12:30:25.165Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,36 @@
   ],
   "items": [
     {
+      "title": "นักศึกษา KKBS รับทุนการศึกษาจากธนาคาร ICBC ประจำปี 2569",
+      "link": "https://kkbs.kku.ac.th/insight-kkbs/33585/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-09T10:42:22.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "image": "https://kkbs.kku.ac.th/wp/wp-content/uploads/2026/09/04092026--icbc--25-1024x682.jpg",
+      "topic": "scholarship"
+    },
+    {
+      "title": "นักศึกษา KKBS รับทุนการศึกษาจาก บริษัท เอเชียเสริมกิจ ลิสซิ่ง จำกัด (มหาชน) ประจำปี 2569",
+      "link": "https://kkbs.kku.ac.th/insight-kkbs/33573/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-09T10:30:10.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "image": "https://kkbs.kku.ac.th/wp/wp-content/uploads/2026/09/02092026---62-1024x682.jpg",
+      "topic": "scholarship"
+    },
+    {
+      "title": "นักศึกษา KKBS รับทุนการศึกษา “ทุนตลาดนัด โชห่วย” จากบริษัท ซีพี แอ็กซ์ตร้า จำกัด (มหาชน)",
+      "link": "https://kkbs.kku.ac.th/insight-kkbs/33567/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-09T10:04:06.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "image": "https://kkbs.kku.ac.th/wp/wp-content/uploads/2026/09/31082026-.-3-1024x682.jpg",
+      "topic": "scholarship"
+    },
+    {
       "title": "คณะเกษตรศาสตร์ มข. ให้การต้อนรับคณาจารย์และนักศึกษาจาก University of the Ryukyus ประเทศญี่ปุ่น",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ycVZ0VzBqR1BOWUUtYXJDSGtlTHExRGgzOFVBZmhiLXJPSEIzNjNqc0ZWVHNZTzNsbjR0cmlPbXFEeV9oWDdB?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -402,6 +432,16 @@
       "publishedAt": "2026-09-02T08:46:45.000Z",
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "study"
+    },
+    {
+      "title": "ครบรอบ 33 ปี วันคล้ายวันสถาปนา วิทยาลัยบัณฑิตศึกษาการจัดการ มหาวิทยาลัยขอนแก่น (MBA KKU)",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNa01fVDl4S1Q1akt5WExZY3JtRmhQVThMdWFjMWNCVHZ0RkVPQ0ZIM21qMGJJcWdjdWxNT1ZRaTBPUFlaa2FwM0txdHA3c3lJMUdlUTRGcGg4b1pFcy1jWDRPMFMwUF93Z1d3OEp6cnFFRUJad2MtSnR5SDhBb0hkdmEtODhVZURrS2pwdUhrc1JjOWwwdl9hN3BSeUJ0c0NyX2ZTQ00yaGlLQzVIMExDX00wRWsxQXNHeWRDR3FvaEJYT2x5TUstSEZzWDFzZjZqcnp1UFVPZEU2RUV4SE5FVnZmLVVxekhJV0JYcUtqZ19QQjZlc204NF9pcHhNTkNMMmVtODFmODhHSUg2R01nVHB2TzhFWERmS1pzMUFxZGRweUpibkdUTEVmNXdTeUpZZmN6MHE0TlRTZ0lmeTRMNS1sRFZlRVJMU3c?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-02T07:00:00.000Z",
+      "sourceId": "cbs",
+      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
       "image": null,
       "topic": "study"
     },
