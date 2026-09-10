@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T06:41:36.243Z",
+  "updatedAt": "2026-09-10T12:24:15.230Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,16 @@
     }
   ],
   "items": [
+    {
+      "title": "ศึกษาศาสตร์ ชูนโยบาย“National Learning Ecosystem” ยกระดับการศึกษาไทยและการพัฒนาครูตลอดชีวิต บนเวทีเสวนาวุฒิสภา",
+      "link": "https://ednet.kku.ac.th/news/20874/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-10T09:17:23.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": "https://ednet.kku.ac.th/wp-content/uploads/2026/09/DSC_4898-1024x681.jpg",
+      "topic": "activity"
+    },
     {
       "title": "คณะศิลปกรรมศาสตร์ มข. ร่วม KKU Roadshow จังหวัดอุบลราชธานี เปิดพื้นที่แนะแนวหลักสูตร สร้างโอกาสทางการศึกษาสู่นักเรียนและผู้สนใจ",
       "link": "https://fa.kku.ac.th/%e0%b8%84%e0%b8%93%e0%b8%b0%e0%b8%a8%e0%b8%b4%e0%b8%a5%e0%b8%9b%e0%b8%81%e0%b8%a3%e0%b8%a3%e0%b8%a1%e0%b8%a8%e0%b8%b2%e0%b8%aa%e0%b8%95%e0%b8%a3%e0%b9%8c-%e0%b8%a1%e0%b8%82-%e0%b8%a3%e0%b9%88-6/",
@@ -560,8 +570,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1yT3RxZkJOS0MxMzRXdXUyVTlsWFZWMURGWXJuc0ptaTFVRHpWSkVGei02WTFacHdFTk1JNXVveFU0X2ZlUWpJ?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-08-26T11:31:19.000Z",
-      "sourceId": "is",
-      "category": "คณะสหวิทยาการ (หนองคาย)",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
       "image": null,
       "topic": "other"
     },
