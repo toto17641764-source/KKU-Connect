@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T01:35:27.323Z",
+  "updatedAt": "2026-09-10T06:41:36.243Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,16 @@
     }
   ],
   "items": [
+    {
+      "title": "คณะศิลปกรรมศาสตร์ มข. ร่วม KKU Roadshow จังหวัดอุบลราชธานี เปิดพื้นที่แนะแนวหลักสูตร สร้างโอกาสทางการศึกษาสู่นักเรียนและผู้สนใจ",
+      "link": "https://fa.kku.ac.th/%e0%b8%84%e0%b8%93%e0%b8%b0%e0%b8%a8%e0%b8%b4%e0%b8%a5%e0%b8%9b%e0%b8%81%e0%b8%a3%e0%b8%a3%e0%b8%a1%e0%b8%a8%e0%b8%b2%e0%b8%aa%e0%b8%95%e0%b8%a3%e0%b9%8c-%e0%b8%a1%e0%b8%82-%e0%b8%a3%e0%b9%88-6/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-10T03:42:30.000Z",
+      "sourceId": "fa",
+      "category": "คณะศิลปกรรมศาสตร์",
+      "image": "https://fa.kku.ac.th/wp-content/uploads/2026/09/IMGL2263-1024x683.png",
+      "topic": "study"
+    },
     {
       "title": "คณะวิศวกรรมศาสตร์ มข. จัดงาน Culture Connect 2026: Kaprao Galaxy เชื่อมสัมพันธ์นักศึกษานานาชาติ ผ่านรสชาติแห่งความสนุกและมิตรภาพ",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBtUXRyaVpzZXI5QTJwdEdYMEZwdkJVS2pMOTNVOVh0M1J2RWRxdk8yVmNjWTZHZ0FjeGE4RmZwcnh6OV9KWk5R?oc=5",
@@ -706,16 +716,6 @@
       "topic": "research"
     },
     {
-      "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
-      "image": null,
-      "topic": "other"
-    },
-    {
       "title": "วิทยาลัยการคอมพิวเตอร์ มข. จัดงาน \"Computing Fair & CPKKU Open House ครั้งที่ 4\" เปิดเวทีเยาวชนประลองทักษะดิจิทัล พร้อมให้ความรู้หลักสูตรแห่งอนาคต - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpVlYwclJabHJzZnFOSTJFNFVuMUZWTm9qek5YbDVPb2xpU3lxeElJaU1FaFdub0JxV1JEYnF3WFhaSTBwRDRJ?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -724,6 +724,16 @@
       "category": "วิทยาลัยการคอมพิวเตอร์",
       "image": null,
       "topic": "study"
+    },
+    {
+      "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "other"
     },
     {
       "title": "คณะเศรษฐศาสตร์ มข. ลงนาม MOU กับสมาคมบริษัทจัดการลงทุน ยกระดับนักศึกษาสู่วิชาชีพการเงิน",
@@ -1899,7 +1909,7 @@
       "title": "อุทยานวิทยาศาสตร์ มข. เปิดเวที University Selection คัดเลือกสตาร์ทอัพนักศึกษา ผลักดันไอเดียนวัตกรรมสู่การแข่งขันเวทีนานาชาติระดับภูมิภาค - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB6a2JPd3Zpa0JpblpUTno5NW96dUVudngyYVF2SGg4Y1lrVWZfdzViRnNGMDlxNC1pZ3gzV01pUGw1MjBkUUNV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-05-29T09:07:52.000Z",
+      "publishedAt": "2026-05-29T07:18:08.000Z",
       "sourceId": "ic",
       "category": "วิทยาลัยนานาชาติ",
       "image": null,
