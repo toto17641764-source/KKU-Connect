@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T06:40:58.346Z",
+  "updatedAt": "2026-09-11T12:22:51.797Z",
   "sources": [
     {
       "id": "med",
@@ -570,8 +570,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1yT3RxZkJOS0MxMzRXdXUyVTlsWFZWMURGWXJuc0ptaTFVRHpWSkVGei02WTFacHdFTk1JNXVveFU0X2ZlUWpJ?oc=5",
       "outlet": "kku.ac.th",
       "publishedAt": "2026-08-26T11:31:19.000Z",
-      "sourceId": "kkbs",
-      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "sourceId": "is",
+      "category": "คณะสหวิทยาการ (หนองคาย)",
       "image": null,
       "topic": "other"
     },
@@ -688,7 +688,7 @@
     {
       "title": "มหาวิทยาลัยขอนแก่นร่วมพิธีถวายราชสักการะ ‘พระบิดาแห่งวิทยาศาสตร์ไทย’ เนื่องในสัปดาห์วิทยาศาสตร์แห่งชาติ ประจำปี 2569 - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5PT2pwRU9iaXlydGZNT3ltbXN0WXQ4VnowVmRMSWw2NVdhVzVOVXFXdEUtTWRKdnQtOXFsbmUwRVpiVzZ5a3I4?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "outlet": "kku.ac.th",
       "publishedAt": "2026-08-18T04:28:45.000Z",
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
@@ -1398,7 +1398,7 @@
     {
       "title": "นศ.สถาปัตย์ มข.คว้า 5 รางวัล ประกวดวิทยานิพนธ์ทางสถาปัตยกรรมดีเด่น ประจำปี 2026 (TOY arch 2026)",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5sWkJBYVJpYUhoUUkzRjFDZk1RQ3pWcEJUQ19Pam1FaVpoOXdJX2hydkZSVktNLVBiOUFJckZnbTA0ZEVvNlJz?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "outlet": "kku.ac.th",
       "publishedAt": "2026-07-14T04:30:50.000Z",
       "sourceId": "arch",
       "category": "คณะสถาปัตยกรรมศาสตร์",
@@ -1790,8 +1790,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JRHN4ck4zQkhFTVBUX0FhZU9GQ2x5clN1NmFmSEEtazNOWWtvZkNkTjFtUDZpYTBWVThHbW1kcnRGV3dPckdV?oc=5",
       "outlet": "kku.ac.th",
       "publishedAt": "2026-06-10T07:00:00.000Z",
-      "sourceId": "arch",
-      "category": "คณะสถาปัตยกรรมศาสตร์",
+      "sourceId": "kku",
+      "category": "มข.",
       "image": null,
       "topic": "research"
     },
@@ -2508,7 +2508,7 @@
     {
       "title": "สร้างเครือข่ายผู้นำนักศึกษาพยาบาล! มข. – ราชภัฏบุรีรัมย์ แลกเปลี่ยนแนวคิดพัฒนากิจกรรม",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1DOVZSanQtbXRsX0p5NmN3bTY3VGtxWVFpYUkxRXBPRjVEYjBvUG9NeXUtYVRHRU1rR2xaUGJ5OXprNXN0d3FR?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "outlet": "kku.ac.th",
       "publishedAt": "2026-03-18T07:00:00.000Z",
       "sourceId": "nurse",
       "category": "คณะพยาบาลศาสตร์",
@@ -3138,7 +3138,7 @@
     {
       "title": "คณะเทคโนโลยี มข. จัดประกวด “Food Product Innovation Contest 2025” ดึงไอเดียอาหารอนาคตสู่ความยั่งยืนระดับประเทศ",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE83VFY1U2tMeG5kLURfRHZ2X3BNSkNIUFB4WGRkYnNaVnF3RkU4UzljU2Y0OHdkVzFRNlBBTjcyN2l6T2lJNklz?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "outlet": "kku.ac.th",
       "publishedAt": "2025-11-29T09:07:19.000Z",
       "sourceId": "tech",
       "category": "คณะเทคโนโลยี",
@@ -3208,7 +3208,7 @@
     {
       "title": "นศ. คณะเศรษฐศาสตร์ มข. คว้ารางวัลโครงการเส้นทางสู่นวัตวณิชย์ ครั้งที่ 13 ระดับภูมิภาค",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5INlhRdC1nUG12UVZqcWJjSmllSFNuUEpFVVFLMldUR1pxTmhFSEQxME96alVxWjNGamFWQkEwTkMyR1J4RUZn?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "outlet": "kku.ac.th",
       "publishedAt": "2025-11-15T08:00:00.000Z",
       "sourceId": "pharm",
       "category": "คณะเภสัชศาสตร์",
