@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T06:34:19.173Z",
+  "updatedAt": "2026-09-12T11:44:29.868Z",
   "sources": [
     {
       "id": "med",
@@ -266,9 +266,19 @@
   ],
   "items": [
     {
+      "title": "เปิดโลกวิทยาศาสตร์เสริมประสบการณ์ให้กับนักเรียน 523 คน จาก 5 โรงเรียนสู่ห้อง LAB คณะวิทยาศาสตร์ มข.",
+      "link": "https://sc.kku.ac.th/trainingnews/stdlab/125064/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-12T10:21:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "other"
+    },
+    {
       "title": "จับตารับปริญญา มข.–ม.กาฬสินธุ์ ปลายปี 2569 ประกาศช่วงวันที่ทับซ้อน 22–23 ธ.ค.",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6UHNvWnZ3S3hjc0oxMm02aHo2Mkt4UFpOVHpCbk5xSERYY1FYaGhGLW5ORGtUMjA5alI3dDdoNGNMaEpmTkNoMUszMTlvYmQyNkVNUA?oc=5",
-      "outlet": "khonkaenlink.info",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-09-11T07:22:44.000Z",
       "sourceId": "kku",
       "category": "มข.",
@@ -746,16 +756,6 @@
       "topic": "research"
     },
     {
-      "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
-      "outlet": "khonkaenlink.info",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
-      "image": null,
-      "topic": "other"
-    },
-    {
       "title": "วิทยาลัยการคอมพิวเตอร์ มข. จัดงาน \"Computing Fair & CPKKU Open House ครั้งที่ 4\" เปิดเวทีเยาวชนประลองทักษะดิจิทัล พร้อมให้ความรู้หลักสูตรแห่งอนาคต - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpVlYwclJabHJzZnFOSTJFNFVuMUZWTm9qek5YbDVPb2xpU3lxeElJaU1FaFdub0JxV1JEYnF3WFhaSTBwRDRJ?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -764,6 +764,16 @@
       "category": "วิทยาลัยการคอมพิวเตอร์",
       "image": null,
       "topic": "study"
+    },
+    {
+      "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
+      "outlet": "khonkaenlink.info",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "other"
     },
     {
       "title": "คณะเศรษฐศาสตร์ มข. ลงนาม MOU กับสมาคมบริษัทจัดการลงทุน ยกระดับนักศึกษาสู่วิชาชีพการเงิน",
@@ -1078,7 +1088,7 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -2098,7 +2108,7 @@
     {
       "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "khonkaenlink.info",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -3218,7 +3228,7 @@
     {
       "title": "เรียนต่อ มข. KKU Insight Ep.24 วิทยาลัยบัณฑิตศึกษาการจัดการ(MBA) มหาวิทยาลัยขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9aT3RNSlprZ1JEdjBKZ05ua0xydFZuWHBuWFZ3RUp3VzlWTWNhcm43NURNdE8xSk5yZTJhcnFWVzlLY3N0dzVF?oc=5",
-      "outlet": "kku.ac.th",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2025-11-24T08:58:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
