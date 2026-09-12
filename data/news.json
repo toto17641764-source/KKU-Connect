@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T01:41:16.003Z",
+  "updatedAt": "2026-09-12T06:34:19.173Z",
   "sources": [
     {
       "id": "med",
@@ -268,7 +268,7 @@
     {
       "title": "จับตารับปริญญา มข.–ม.กาฬสินธุ์ ปลายปี 2569 ประกาศช่วงวันที่ทับซ้อน 22–23 ธ.ค.",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6UHNvWnZ3S3hjc0oxMm02aHo2Mkt4UFpOVHpCbk5xSERYY1FYaGhGLW5ORGtUMjA5alI3dDdoNGNMaEpmTkNoMUszMTlvYmQyNkVNUA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-09-11T07:22:44.000Z",
       "sourceId": "kku",
       "category": "มข.",
@@ -590,8 +590,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1yT3RxZkJOS0MxMzRXdXUyVTlsWFZWMURGWXJuc0ptaTFVRHpWSkVGei02WTFacHdFTk1JNXVveFU0X2ZlUWpJ?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-08-26T11:31:19.000Z",
-      "sourceId": "is",
-      "category": "คณะสหวิทยาการ (หนองคาย)",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
       "image": null,
       "topic": "other"
     },
@@ -748,7 +748,7 @@
     {
       "title": "สัปดาห์วิทยาศาสตร์แห่งชาติ ส่วนภูมิภาค ประจำปี 2569 มหาวิทยาลัยขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONjlPMFd4bmktWUU1UkRkbWM5SkNfTklPZVR6bVhOOVluZTg0VlMyWUQyVTBZODd3SF83TlExUVlFMlRUdjBIUTlSdGczSk9PUFRuc1RzUTV3T0JXRUVTSU5WLUdudWQ5RHRycjNrQ3lGalVxRFVMUWwxU21NVDdVRDZOZlVzang2RU8wSFZqbW04NjlsMGZMaHYxSkJKRXJCM3dPRHlLUDJSZDQ0WTVaV2I0ZVRVZFlBZ1ppQmQzV0FfVjJSYmMtMG1nTkp3aHM4WllVeGdLcUEtVU1MTE5jcm1Id25FVl9ZSFBUV1luYUo4NzBlN2NKajhnajYzSTI2TDJiOGc5aHRzRmxfR09SZjN1LUQtOWtkaFotcEVwNUFVSEt1Ujd3bFZXNGhTMkpuTWswNGEweFhmOEZoSHljX1pneFM4cHdLSkFNLUhmcWhXMEd5bkE?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-08-17T07:00:00.000Z",
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
@@ -1810,8 +1810,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JRHN4ck4zQkhFTVBUX0FhZU9GQ2x5clN1NmFmSEEtazNOWWtvZkNkTjFtUDZpYTBWVThHbW1kcnRGV3dPckdV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-06-10T07:00:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
+      "sourceId": "arch",
+      "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "research"
     },
@@ -1858,7 +1858,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "Matichon Online",
+      "outlet": "matichon.co.th",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -2098,7 +2098,7 @@
     {
       "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -3928,7 +3928,7 @@
     {
       "title": "วันสถาปนาวิทยาลัยบัณฑิตศึกษาการจัดการ ครบรอบ 30 ปี",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uSW0ySVFWdUpXRF93VFBDNGNuTmsxY2tBLWlfLWQwNHFLYnpIVlFCUDUzN0NZUEp5dlJhMnFtck9HcVgxZ3lKcGFQOHVyTEZIMTNQMVNCbGphUQ?oc=5",
-      "outlet": "khaosod.co.th",
+      "outlet": "ข่าวสด",
       "publishedAt": "2023-09-11T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
