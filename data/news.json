@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T17:06:04.013Z",
+  "updatedAt": "2026-09-13T19:54:56.589Z",
   "sources": [
     {
       "id": "med",
@@ -1108,7 +1108,7 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -2096,16 +2096,6 @@
       "image": null
     },
     {
-      "title": "ขอเชิญอาจารย์และบุคลากร มหาวิทยาลัยขอนแก่น เข้าทดสอบความรู้ “ความปลอดภัยทางไซเบอร์” ประจำปี 2569",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPOHRJajI2bU5LWVNUbVNLb0xrQW1PZnR6NTRCN1VRVWFiS2ZRX0xMb3V5ekZDeElENnUzQXhGV2RYVEVDazNRNk9EZ05hZ0VMdmtPRDVwYmhMdUQ2elpoVlRSMHRpVEVWVUZxb2V2ZnFqYW5LNkhhMXZqYTJIUTVwbW85UVZQdzlVTDJ0UkR5TzRPUW80WEZJRWMyYTBJQ2Q1M1hMcGlIQTZwYXg0dzcydXdOckJMLWlGbFBKQ19rNnk4blJiRF9FbWI1R3R1aGMxUDVDVEJubVlCRFg1cTZQS25FWk9RakNjTXZEOUZTZUtIUkRVVkZ3VkxVN0hzaUlHWFFTbnFzd0cybDdWZTBscHZfT3ZzcVVsTUVOVTFCUmVJQ3REd2s2ZmVGYlNIVjZnVGpEYllzU3JBbVBLVHE4SEdkbUxnNmlBeVJHRWpfYw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-05-11T07:00:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "image": null,
-      "topic": "study"
-    },
-    {
       "title": "ศึกษาศาสตร์ มข. ร่วมสถานศึกษาเครือข่าย เตรียมความพร้อมครูพี่เลี้ยง และอาจารย์นิเทศก์ ก่อนส่งนักศึกษาฝึกปฏิบัติการสอนฯ ประจำปี 2569 - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zVk5UZnNLTmdsd1hwc0Ryc0xWbzdRTWZDTTRPN1pFdFBTMWFlUWdfSWxseEJzdjhlQkF4YzV2VWtILXdwWGNV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2114,6 +2104,16 @@
       "category": "คณะศึกษาศาสตร์",
       "image": null,
       "topic": "other"
+    },
+    {
+      "title": "ขอเชิญอาจารย์และบุคลากร มหาวิทยาลัยขอนแก่น เข้าทดสอบความรู้ “ความปลอดภัยทางไซเบอร์” ประจำปี 2569",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPOHRJajI2bU5LWVNUbVNLb0xrQW1PZnR6NTRCN1VRVWFiS2ZRX0xMb3V5ekZDeElENnUzQXhGV2RYVEVDazNRNk9EZ05hZ0VMdmtPRDVwYmhMdUQ2elpoVlRSMHRpVEVWVUZxb2V2ZnFqYW5LNkhhMXZqYTJIUTVwbW85UVZQdzlVTDJ0UkR5TzRPUW80WEZJRWMyYTBJQ2Q1M1hMcGlIQTZwYXg0dzcydXdOckJMLWlGbFBKQ19rNnk4blJiRF9FbWI1R3R1aGMxUDVDVEJubVlCRFg1cTZQS25FWk9RakNjTXZEOUZTZUtIUkRVVkZ3VkxVN0hzaUlHWFFTbnFzd0cybDdWZTBscHZfT3ZzcVVsTUVOVTFCUmVJQ3REd2s2ZmVGYlNIVjZnVGpEYllzU3JBbVBLVHE4SEdkbUxnNmlBeVJHRWpfYw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-05-11T07:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "study"
     },
     {
       "title": "สอวน. ร่วมกับ คณะวิทยาศาสตร์ มข. เปิดฉากการแข่งขันดาราศาสตร์โอลิมปิกระดับชาติ ครั้งที่ 23 (TAO23) มุ่งสร้างนักดาราศาสตร์รุ่นใหม่สู่สากล - Khon Kaen University",
@@ -2128,7 +2128,7 @@
     {
       "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
-      "outlet": "MGR Online",
+      "outlet": "ผู้จัดการออนไลน์",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
