@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T12:52:24.794Z",
+  "updatedAt": "2026-09-13T17:06:04.013Z",
   "sources": [
     {
       "id": "med",
@@ -324,6 +324,16 @@
       "category": "คณะศิลปกรรมศาสตร์",
       "image": "https://fa.kku.ac.th/wp-content/uploads/2026/09/IMGL2263-1024x683.png",
       "topic": "study"
+    },
+    {
+      "title": "นักศึกษาวิศวกรรมโยธา มข. รับฟังการแชร์ประสบการณ์งานก่อสร้าง จากอิตาเลียนไทยฯ พร้อมเปิดโอกาสฝึกงานและสมัครงาน - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0wTHFfVEZOYm5hdEhFcXI4a3c2cFZIWTBaSDN2cERYdWpfZzFrSDlSOWRQMnFQa0pjQV91cmJpS1JNa1pvSkJ3?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-09T14:09:22.000Z",
+      "sourceId": "eng",
+      "category": "คณะวิศวกรรมศาสตร์",
+      "image": null,
+      "topic": "job"
     },
     {
       "title": "คณะวิศวกรรมศาสตร์ มข. จัดงาน Culture Connect 2026: Kaprao Galaxy เชื่อมสัมพันธ์นักศึกษานานาชาติ ผ่านรสชาติแห่งความสนุกและมิตรภาพ",
@@ -2118,7 +2128,7 @@
     {
       "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
-      "outlet": "ผู้จัดการออนไลน์",
+      "outlet": "MGR Online",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -3908,7 +3918,7 @@
     {
       "title": "มข. ลงพื้นที่ให้บริการดูแลสัตว์เลี้ยงฉีดวัคซีนสุนัขและแมว สร้างความปลอดภัยในชุมชน",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9GR2pBaHlIb2F4bzZJWVhvNFZySlhYQ1ZvWmZYeTUwcVN5akpsWDRmVFRNdGJqRU9RWS1DYkp0RjNieHQtaG9z?oc=5",
-      "outlet": "kku.ac.th",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2024-06-24T07:00:00.000Z",
       "sourceId": "vet",
       "category": "คณะสัตวแพทยศาสตร์",
