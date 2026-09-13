@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T06:49:42.531Z",
+  "updatedAt": "2026-09-13T12:52:24.794Z",
   "sources": [
     {
       "id": "med",
@@ -1476,6 +1476,16 @@
       "topic": "other"
     },
     {
+      "title": "ศึกษาศาสตร์ มข. จัดอบรมเสริมภูมิคุ้มกันภัยอาชญากรรมทางเทคโนโลยี แก่นักศึกษายุคดิจิทัล",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1qSzZtSlVYTHdVakY3U091WGNqV1pSTFhoVy1zNDB6WWlNbVgxWlp6T1ZnbmQ1b0pVZlFOMXlaQmxaU0ZzdUZz?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-07-09T07:00:00.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "นักศึกษาคณะวิทยาศาสตร์ มข. คว้า 3 รางวัล Best Oral Presentation Award จากเวทีนานาชาติ IUMRS-ICEM 2026",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE54eGM2S3h4SURfenlpTXVZZEY1VFVMeGtQSnBkckxzelc5RnNZWlo4YU1xY1pRRV93M1c3UXRyODdJT1hqWjE0?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1830,8 +1840,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JRHN4ck4zQkhFTVBUX0FhZU9GQ2x5clN1NmFmSEEtazNOWWtvZkNkTjFtUDZpYTBWVThHbW1kcnRGV3dPckdV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-06-10T07:00:00.000Z",
-      "sourceId": "arch",
-      "category": "คณะสถาปัตยกรรมศาสตร์",
+      "sourceId": "kku",
+      "category": "มข.",
       "image": null,
       "topic": "research"
     },
