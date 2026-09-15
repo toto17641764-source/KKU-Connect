@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T01:58:42.965Z",
+  "updatedAt": "2026-09-15T07:07:47.029Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,36 @@
     }
   ],
   "items": [
+    {
+      "title": "SCI KKU GAMES 2026 สานสัมพันธ์ชาววิทยาศาสตร์ผ่านกีฬาและกิจกรรมสร้างสรรค์",
+      "link": "https://sc.kku.ac.th/studentnews/125967/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-15T07:05:43.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
+      "title": "ประกาศรายชื่อผู้ได้รับสิทธิ์ใช้พื้นที่ผู้ประกอบการประเภทร้านค้าภายใน Science Square",
+      "link": "https://sc.kku.ac.th/wp-content/uploads/2026/09/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-SCi-.pdf#new_tab",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-15T03:56:04.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "announce"
+    },
+    {
+      "title": "เปิดโอกาสเรียนต่อไต้หวัน! 14 มหาวิทยาลัยชั้นนำ เปิดข้อมูลทุน–ฝึกงาน–เส้นทางอาชีพ ใน “2026 Taiwan Higher Education Expo”",
+      "link": "https://sc.kku.ac.th/news/125826/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-15T03:32:59.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "job"
+    },
     {
       "title": "จากไอเดียในห้องเรียน สู่ธุรกิจจริง: Startup Ecosystem ของ KKBS กับเส้นทาง “KKBS–KKU Silicon Valley”",
       "link": "https://kkbs.kku.ac.th/insight-kkbs/33650/",
@@ -640,8 +670,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1yT3RxZkJOS0MxMzRXdXUyVTlsWFZWMURGWXJuc0ptaTFVRHpWSkVGei02WTFacHdFTk1JNXVveFU0X2ZlUWpJ?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-08-26T11:31:19.000Z",
-      "sourceId": "kkbs",
-      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "sourceId": "is",
+      "category": "คณะสหวิทยาการ (หนองคาย)",
       "image": null,
       "topic": "other"
     },
@@ -2148,7 +2178,7 @@
     {
       "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
-      "outlet": "ผู้จัดการออนไลน์",
+      "outlet": "mgronline.com",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -3288,7 +3318,7 @@
     {
       "title": "นศ. คณะเศรษฐศาสตร์ มข. คว้ารางวัลโครงการเส้นทางสู่นวัตวณิชย์ ครั้งที่ 13 ระดับภูมิภาค",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5INlhRdC1nUG12UVZqcWJjSmllSFNuUEpFVVFLMldUR1pxTmhFSEQxME96alVxWjNGamFWQkEwTkMyR1J4RUZn?oc=5",
-      "outlet": "kku.ac.th",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2025-11-15T08:00:00.000Z",
       "sourceId": "pharm",
       "category": "คณะเภสัชศาสตร์",
