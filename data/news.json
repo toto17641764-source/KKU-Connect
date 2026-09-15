@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T07:07:47.029Z",
+  "updatedAt": "2026-09-15T12:55:13.698Z",
   "sources": [
     {
       "id": "med",
@@ -670,8 +670,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1yT3RxZkJOS0MxMzRXdXUyVTlsWFZWMURGWXJuc0ptaTFVRHpWSkVGei02WTFacHdFTk1JNXVveFU0X2ZlUWpJ?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-08-26T11:31:19.000Z",
-      "sourceId": "is",
-      "category": "คณะสหวิทยาการ (หนองคาย)",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
       "image": null,
       "topic": "other"
     },
@@ -1948,7 +1948,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "Matichon Online",
+      "outlet": "matichon.co.th",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -2178,7 +2178,7 @@
     {
       "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
-      "outlet": "mgronline.com",
+      "outlet": "ผู้จัดการออนไลน์",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
