@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T20:29:54.576Z",
+  "updatedAt": "2026-09-15T23:46:44.712Z",
   "sources": [
     {
       "id": "med",
@@ -326,16 +326,6 @@
       "topic": "activity"
     },
     {
-      "title": "บัณฑิตวิทยาลัย จัดโครงการ “GS Service Excellence 2026” ยกระดับบุคลิกภาพและการบริการบุคลากรสู่มาตรฐานมืออาชีพ",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1mM2VUTnVRYlRiTlJOSHdMZzVyUy1SY19Wazh5YXVVVk1RNVdDWXdEVlBWR2RHQ0JVdHdJSVpWcHowMGhORkpz?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-09-12T22:53:57.000Z",
-      "sourceId": "gs",
-      "category": "บัณฑิตวิทยาลัย",
-      "image": null,
-      "topic": "other"
-    },
-    {
       "title": "เปิดโลกวิทยาศาสตร์เสริมประสบการณ์ให้กับนักเรียน 523 คน จาก 5 โรงเรียนสู่ห้อง LAB คณะวิทยาศาสตร์ มข.",
       "link": "https://sc.kku.ac.th/trainingnews/stdlab/125064/",
       "outlet": "เว็บไซต์คณะ",
@@ -364,6 +354,16 @@
       "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
       "image": null,
       "topic": "activity"
+    },
+    {
+      "title": "บัณฑิตวิทยาลัย จัดโครงการ “GS Service Excellence 2026” ยกระดับบุคลิกภาพและการบริการบุคลากรสู่มาตรฐานมืออาชีพ",
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNYUZQTHhxbTBqVG9MZ2FEQXhCT09uMDFObTdQLWxwd09JSm5kUXNVNnE3bDNGZzlNTDdJWHhCa0M2OVdrU0JHR3kzSGt4NTZVWVVVS0cyeU1oQVdnRXM1UnZndjhwUF94SUpULWF3czlhazBoRElmbXR4dXV3dEM4LW4xQ1hkb080N1JhVHY4c0FjbVI1ZVBxUkE1TjFoV2k3M0htMDBoYmdrU1pEUnZZSFBHcTNMLWlyMWhEYkZJVndfV0YydW1xank2TWZWN3FnNUhrNG4zYWpyM2kxVzVQVGxJdXRubWhGNjNseHpmY1p2WVI4eVctLTdCM3ZPbkk4cDFkWW9oS0JWOUJycGllcjBtZG91OVBfMFJsR3lyWVgzR2g5NnBRZ21FZ0lGT3dzTnRybDZkajJVRzkyS1RsUHJvYVF5aDUwUElOQUJLOEsxdXpscFFB?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-11T01:42:48.000Z",
+      "sourceId": "gs",
+      "category": "บัณฑิตวิทยาลัย",
+      "image": null,
+      "topic": "other"
     },
     {
       "title": "ศึกษาศาสตร์ ชูนโยบาย“National Learning Ecosystem” ยกระดับการศึกษาไทยและการพัฒนาครูตลอดชีวิต บนเวทีเสวนาวุฒิสภา",
@@ -1168,7 +1168,7 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -1820,8 +1820,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBDQzlCYXNSRTNsd24yaUU3Y0IxWlVLVjRrY2RQaVpibmV6MFhGWWVJNXNWNmJwUWE0MUlIVjRUNVVmWnJpMHdN?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-06-18T10:51:11.000Z",
-      "sourceId": "fa",
-      "category": "คณะศิลปกรรมศาสตร์",
+      "sourceId": "kku",
+      "category": "มข.",
       "image": null,
       "topic": "activity"
     },
@@ -4028,7 +4028,7 @@
     {
       "title": "วันสถาปนาวิทยาลัยบัณฑิตศึกษาการจัดการ ครบรอบ 30 ปี",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uSW0ySVFWdUpXRF93VFBDNGNuTmsxY2tBLWlfLWQwNHFLYnpIVlFCUDUzN0NZUEp5dlJhMnFtck9HcVgxZ3lKcGFQOHVyTEZIMTNQMVNCbGphUQ?oc=5",
-      "outlet": "khaosod.co.th",
+      "outlet": "ข่าวสด",
       "publishedAt": "2023-09-11T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
