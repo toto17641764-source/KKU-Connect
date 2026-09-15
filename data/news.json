@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T22:54:02.494Z",
+  "updatedAt": "2026-09-15T01:58:42.965Z",
   "sources": [
     {
       "id": "med",
@@ -286,6 +286,16 @@
       "topic": "activity"
     },
     {
+      "title": "บัณฑิตวิทยาลัย จัดโครงการ “GS Service Excellence 2026” ยกระดับบุคลิกภาพและการบริการบุคลากรสู่มาตรฐานมืออาชีพ",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1mM2VUTnVRYlRiTlJOSHdMZzVyUy1SY19Wazh5YXVVVk1RNVdDWXdEVlBWR2RHQ0JVdHdJSVpWcHowMGhORkpz?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-12T22:53:57.000Z",
+      "sourceId": "gs",
+      "category": "บัณฑิตวิทยาลัย",
+      "image": null,
+      "topic": "other"
+    },
+    {
       "title": "เปิดโลกวิทยาศาสตร์เสริมประสบการณ์ให้กับนักเรียน 523 คน จาก 5 โรงเรียนสู่ห้อง LAB คณะวิทยาศาสตร์ มข.",
       "link": "https://sc.kku.ac.th/trainingnews/stdlab/125064/",
       "outlet": "เว็บไซต์คณะ",
@@ -314,16 +324,6 @@
       "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
       "image": null,
       "topic": "activity"
-    },
-    {
-      "title": "บัณฑิตวิทยาลัย จัดโครงการ “GS Service Excellence 2026” ยกระดับบุคลิกภาพและการบริการบุคลากรสู่มาตรฐานมืออาชีพ",
-      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNYUZQTHhxbTBqVG9MZ2FEQXhCT09uMDFObTdQLWxwd09JSm5kUXNVNnE3bDNGZzlNTDdJWHhCa0M2OVdrU0JHR3kzSGt4NTZVWVVVS0cyeU1oQVdnRXM1UnZndjhwUF94SUpULWF3czlhazBoRElmbXR4dXV3dEM4LW4xQ1hkb080N1JhVHY4c0FjbVI1ZVBxUkE1TjFoV2k3M0htMDBoYmdrU1pEUnZZSFBHcTNMLWlyMWhEYkZJVndfV0YydW1xank2TWZWN3FnNUhrNG4zYWpyM2kxVzVQVGxJdXRubWhGNjNseHpmY1p2WVI4eVctLTdCM3ZPbkk4cDFkWW9oS0JWOUJycGllcjBtZG91OVBfMFJsR3lyWVgzR2g5NnBRZ21FZ0lGT3dzTnRybDZkajJVRzkyS1RsUHJvYVF5aDUwUElOQUJLOEsxdXpscFFB?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-09-11T01:42:48.000Z",
-      "sourceId": "gs",
-      "category": "บัณฑิตวิทยาลัย",
-      "image": null,
-      "topic": "other"
     },
     {
       "title": "ศึกษาศาสตร์ ชูนโยบาย“National Learning Ecosystem” ยกระดับการศึกษาไทยและการพัฒนาครูตลอดชีวิต บนเวทีเสวนาวุฒิสภา",
@@ -1808,7 +1808,7 @@
     {
       "title": "วิริยะประกันภัย สนับสนุน “ค่ายผู้นำ 4 จอบอาสาพัฒนา” ครั้งที่ 21 สานพลังเครือข่ายผู้นำนักศึกษาเกษตรศาสตร์ ยกระดับเกษตรท้องถิ่นไทย | สวพ.FM91",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sSGI2QVdmMUQyNzE2c1N5Vmg2ME9HSlpuT010aG9vdXlrWmhTdmZDUmphODYyRDlJeFpPNmYxc29NbHhSTWZzVm1FLWp2MmZGaXFBZnh3?oc=5",
-      "outlet": "today.line.me",
+      "outlet": "LINE TODAY",
       "publishedAt": "2026-06-16T07:00:00.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
