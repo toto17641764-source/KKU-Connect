@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T06:53:29.989Z",
+  "updatedAt": "2026-09-16T12:52:10.826Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,16 @@
   ],
   "items": [
     {
+      "title": "คณะเภสัชศาสตร์ มข. จัดการแข่งขันตอบปัญหาวิชาการทางเภสัชศาสตร์ PharmQuiz KKU 2026 เปิดเวทีน้อง ๆ มัธยมปลายประลองความรู้และสร้างแรงบันดาลใจสู่รั้วเภสัชศาสตร์ - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Mb3FHUXlxc0E5THNWeExQd1h4bm4wVV8tZXBQMWhfd09TLVVBNWZvaU5aYXpNamw1ZnpadGVSZDBlbjYwS3Rj?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-16T09:50:14.000Z",
+      "sourceId": "pharm",
+      "category": "คณะเภสัชศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
       "title": "ประกาศรายชื่อผู้สอบผ่านข้อเขียนมีสิทธิ์เข้าสอบภาคความเหมาะสมกับตำแหน่ง (สัมภาษณ์) ตำแหน่งพนักงานธุรการ เลขประจำตำแหน่ง 50229",
       "link": "https://dentistry.kku.ac.th/30339?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%259b%25e0%25b8%25a3%25e0%25b8%25b0%25e0%25b8%2581%25e0%25b8%25b2%25e0%25b8%25a8%25e0%25b8%25a3%25e0%25b8%25b2%25e0%25b8%25a2%25e0%25b8%258a%25e0%25b8%25b7%25e0%25b9%2588%25e0%25b8%25ad%25e0%25b8%259c%25e0%25b8%25b9%25e0%25b9%2589%25e0%25b8%25aa%25e0%25b8%25ad%25e0%25b8%259a%25e0%25b8%259c%25e0%25b9%2588%25e0%25b8%25b2-3",
       "outlet": "เว็บไซต์คณะ",
@@ -326,14 +336,14 @@
       "topic": "job"
     },
     {
-      "title": "จากไอเดียในห้องเรียน สู่ธุรกิจจริง: Startup Ecosystem ของ KKBS กับเส้นทาง “KKBS–KKU Silicon Valley”",
+      "title": "เมื่อไอเดียในห้องเรียนกลายเป็นธุรกิจจริง: เปิดกลไก “KKBS Startup Ecosystem” สู่เป้าหมายพื้นที่ทดลองธุรกิจของคนรุ่นใหม่ “Kangsadan Venture Lab”",
       "link": "https://kkbs.kku.ac.th/insight-kkbs/33650/",
       "outlet": "เว็บไซต์คณะ",
       "publishedAt": "2026-09-14T04:41:17.000Z",
       "sourceId": "kkbs",
       "category": "คณะบริหารธุรกิจและการบัญชี",
       "image": "https://kkbs.kku.ac.th/wp/wp-content/uploads/2026/09/08032025-startupcamp2025-272-476588-1024x682.jpg",
-      "topic": "other"
+      "topic": "research"
     },
     {
       "title": "ศิลปศึกษา มข. เปิดนิทรรศการ “Ars Longa Vita Brevis ครั้งที่ 39” ส่งต่อพลังสร้างสรรค์ สู่การพัฒนาครูและเยาวชน",
@@ -372,6 +382,16 @@
       "publishedAt": "2026-09-11T07:00:00.000Z",
       "sourceId": "hs",
       "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+      "image": null,
+      "topic": "activity"
+    },
+    {
+      "title": "วิทยาลัยการคอมพิวเตอร์ มข. จับมือ OIT ประเทศญี่ปุ่น เปิดเวิร์กชอป PBL พัฒนาเกม เสริมการเรียนรู้และการทำงานข้ามวัฒนธรรม - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9WUU1zWFRIc2lRZTFDYU1FU09rLVh1UXFQOUZWM2RvRlNPd1JJaHhiSXphNE9raUtHRE1GWEJoNDdHal8xTnJN?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-11T07:00:00.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
       "image": null,
       "topic": "activity"
     },
@@ -690,8 +710,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1yT3RxZkJOS0MxMzRXdXUyVTlsWFZWMURGWXJuc0ptaTFVRHpWSkVGei02WTFacHdFTk1JNXVveFU0X2ZlUWpJ?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-08-26T11:31:19.000Z",
-      "sourceId": "kkbs",
-      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "sourceId": "is",
+      "category": "คณะสหวิทยาการ (หนองคาย)",
       "image": null,
       "topic": "other"
     },
@@ -1858,7 +1878,7 @@
     {
       "title": "วิริยะประกันภัย สนับสนุน “ค่ายผู้นำ 4 จอบอาสาพัฒนา” ครั้งที่ 21 สานพลังเครือข่ายผู้นำนักศึกษาเกษตรศาสตร์ ยกระดับเกษตรท้องถิ่นไทย | สวพ.FM91",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sSGI2QVdmMUQyNzE2c1N5Vmg2ME9HSlpuT010aG9vdXlrWmhTdmZDUmphODYyRDlJeFpPNmYxc29NbHhSTWZzVm1FLWp2MmZGaXFBZnh3?oc=5",
-      "outlet": "today.line.me",
+      "outlet": "LINE TODAY",
       "publishedAt": "2026-06-16T07:00:00.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
@@ -1966,16 +1986,6 @@
       "topic": "activity"
     },
     {
-      "title": "MBA มข. จับมือ GFGL เปิดหลักสูตร WVP 2026 ปั้นผู้นำธุรกิจเวลเนส ขับเคลื่อนเศรษฐกิจสุขภาพด้วย AI และนวัตกรรม",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OODRIWWtCU3ZYSG05V3NoM0hRd21uOEh3a0d2QzhTUHdtbHMzQmstUW14SkJxWk56RkdUYjdEZjlDMzF6M1U1dWVuYlBtWTkzTHpQUQ?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
-      "publishedAt": "2026-06-06T07:00:00.000Z",
-      "sourceId": "cbs",
-      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
-      "image": null,
-      "topic": "research"
-    },
-    {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
       "outlet": "Matichon Online",
@@ -1984,6 +1994,16 @@
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
       "image": null,
       "topic": "study"
+    },
+    {
+      "title": "MBA มข. จับมือ GFGL เปิดหลักสูตร WVP 2026 ปั้นผู้นำธุรกิจเวลเนส ขับเคลื่อนเศรษฐกิจสุขภาพด้วย AI และนวัตกรรม",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OODRIWWtCU3ZYSG05V3NoM0hRd21uOEh3a0d2QzhTUHdtbHMzQmstUW14SkJxWk56RkdUYjdEZjlDMzF6M1U1dWVuYlBtWTkzTHpQUQ?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-06-06T07:00:00.000Z",
+      "sourceId": "cbs",
+      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
+      "image": null,
+      "topic": "research"
     },
     {
       "title": "นักศึกษา ป.โท ผังเมือง มข. คว้าทุน สสส. พัฒนาพื้นที่สุขภาวะ สีชมพูโมเดล",
@@ -2008,7 +2028,7 @@
     {
       "title": "ศิลปวัฒนธรรมไทยสู่สากล : คณะมนุษยศาสตร์ฯ มข. ร่วมกิจกรรมสืบสานประเพณีไทยสร้างความประทับใจในเทศกาลสงกรานต์เมืองลีดส์ สหราชอาณาจักร - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4wYVdOLU9YbkExNzNZVHk3bFlEbDlLb2luV3ZaMkI4OTZ6RktOcnc0bmhmZ3NKdnJ4SHg2Zk1QbElCWERtVVNv?oc=5",
-      "outlet": "kku.ac.th",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-06-05T03:44:03.000Z",
       "sourceId": "hs",
       "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
@@ -2198,7 +2218,7 @@
     {
       "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -2208,7 +2228,7 @@
     {
       "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
-      "outlet": "ผู้จัดการออนไลน์",
+      "outlet": "MGR Online",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -2308,7 +2328,7 @@
     {
       "title": "วิทยาลัยนานาชาติ มข. ชูรากเหง้าอีสาน “นักศึกษา“ สร้างหนังสั้นตีแผ่ชีวิตเรื่องราวลมหายใจคนขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2YkVnOU9ZSF9FZmdnUENWVnh3aXpjVlc1SUoyNWxzdFZORDloa3FZM0ZnRExfLVdFVTNfbjA0c2dsNmV6NldvUkExYXNFbV9wUlZn?oc=5",
-      "outlet": "dailynews.co.th",
+      "outlet": "เดลินิวส์",
       "publishedAt": "2026-05-05T07:00:00.000Z",
       "sourceId": "ic",
       "category": "วิทยาลัยนานาชาติ",
