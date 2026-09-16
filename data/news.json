@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T17:46:56.618Z",
+  "updatedAt": "2026-09-16T20:29:16.239Z",
   "sources": [
     {
       "id": "med",
@@ -1198,7 +1198,7 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -1850,8 +1850,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBDQzlCYXNSRTNsd24yaUU3Y0IxWlVLVjRrY2RQaVpibmV6MFhGWWVJNXNWNmJwUWE0MUlIVjRUNVVmWnJpMHdN?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-06-18T10:51:11.000Z",
-      "sourceId": "fa",
-      "category": "คณะศิลปกรรมศาสตร์",
+      "sourceId": "kku",
+      "category": "มข.",
       "image": null,
       "topic": "activity"
     },
@@ -1940,8 +1940,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JRHN4ck4zQkhFTVBUX0FhZU9GQ2x5clN1NmFmSEEtazNOWWtvZkNkTjFtUDZpYTBWVThHbW1kcnRGV3dPckdV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-06-10T07:00:00.000Z",
-      "sourceId": "arch",
-      "category": "คณะสถาปัตยกรรมศาสตร์",
+      "sourceId": "kku",
+      "category": "มข.",
       "image": null,
       "topic": "research"
     },
@@ -1988,7 +1988,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "Matichon Online",
+      "outlet": "มติชนออนไลน์",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -3348,7 +3348,7 @@
     {
       "title": "เรียนต่อ มข. KKU Insight Ep.24 วิทยาลัยบัณฑิตศึกษาการจัดการ(MBA) มหาวิทยาลัยขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9aT3RNSlprZ1JEdjBKZ05ua0xydFZuWHBuWFZ3RUp3VzlWTWNhcm43NURNdE8xSk5yZTJhcnFWVzlLY3N0dzVF?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "outlet": "kku.ac.th",
       "publishedAt": "2025-11-24T08:58:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
