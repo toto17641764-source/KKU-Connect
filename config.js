@@ -6,7 +6,7 @@
 /* ---------- แบบประเมิน ---------- */
 // ลิงก์ Google Form ที่ได้จาก create-feedback-form.gs
 // ปุ่ม "ประเมินการใช้งาน" และหน้า feedback.html จะใช้ลิงก์นี้สร้าง QR
-window.FEEDBACK_FORM_URL = "https://forms.gle/j7EuLjwmBfCVVFkG9";
+window.FEEDBACK_FORM_URL = "https://forms.gle/WGdAeTsUbrSrNeHV7";
 
 // ชื่อที่แสดงบนโปสเตอร์ QR
 window.FEEDBACK_APP_NAME = "KKU Connect";
