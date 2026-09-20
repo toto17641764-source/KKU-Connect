@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T07:08:13.700Z",
+  "updatedAt": "2026-09-20T12:39:34.920Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,16 @@
     }
   ],
   "items": [
+    {
+      "title": "เปิดมุมมองวิทยาศาสตร์รอบตัว! นักเรียน 383 คน ฝึกคิด วิเคราะห์ และทดลองจริงที่คณะวิทยาศาสตร์ มข.",
+      "link": "https://sc.kku.ac.th/trainingnews/stdlab/126270/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-20T08:14:21.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "research"
+    },
     {
       "title": "เช็กเลย! คณะเภสัชศาสตร์ ม.ขอนแก่น เผยเกณฑ์ TCAS70 ครบทุกรอบ",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5YkZNWkNBUGlxWUVvM0EyZHgzQ1JnVHlRWUVadWt6ZTgzVmlhZFhWdGppWllDWmRmZ05yV1hfVzU1MkVFQzVXbA?oc=5",
@@ -1918,7 +1928,7 @@
     {
       "title": "วิริยะประกันภัย สนับสนุน “ค่ายผู้นำ 4 จอบอาสาพัฒนา” ครั้งที่ 21 สานพลังเครือข่ายผู้นำนักศึกษาเกษตรศาสตร์ ยกระดับเกษตรท้องถิ่นไทย | สวพ.FM91",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sSGI2QVdmMUQyNzE2c1N5Vmg2ME9HSlpuT010aG9vdXlrWmhTdmZDUmphODYyRDlJeFpPNmYxc29NbHhSTWZzVm1FLWp2MmZGaXFBZnh3?oc=5",
-      "outlet": "LINE TODAY",
+      "outlet": "today.line.me",
       "publishedAt": "2026-06-16T07:00:00.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
@@ -1980,8 +1990,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JRHN4ck4zQkhFTVBUX0FhZU9GQ2x5clN1NmFmSEEtazNOWWtvZkNkTjFtUDZpYTBWVThHbW1kcnRGV3dPckdV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-06-10T07:00:00.000Z",
-      "sourceId": "arch",
-      "category": "คณะสถาปัตยกรรมศาสตร์",
+      "sourceId": "kku",
+      "category": "มข.",
       "image": null,
       "topic": "research"
     },
