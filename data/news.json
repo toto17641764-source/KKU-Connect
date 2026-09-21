@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T01:48:53.323Z",
+  "updatedAt": "2026-09-21T07:17:24.613Z",
   "sources": [
     {
       "id": "med",
@@ -1258,7 +1258,7 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -3066,22 +3066,22 @@
       "topic": "activity"
     },
     {
-      "title": "โรงเรียนสาธิต ม.ขอนแก่น วิทยาเขตหนองคาย สร้างชื่อ นำนักเรียนผู้ได้รับรางวัล \"เด็กและเยาวชนดีเด่นแห่งชาติ\" ประจำปี 2569 เข้าพบคณบดีคณะสหวิทยาการ รับฟังโอวาทแห่งความภาคภูมิใจ - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuQXdZN0RSSVB3YTFkX0tRSHRLR2hzeVlZVU01dW1ManFRQ1p1RmZMWEdna1k5NXdScUJmbjNvT2pTd2pDQzRF?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-01-20T02:53:18.000Z",
-      "sourceId": "is",
-      "category": "คณะสหวิทยาการ (หนองคาย)",
-      "image": null,
-      "topic": "activity"
-    },
-    {
       "title": "สาขาวิชาเทคโนโลยีชีวภาพ คณะเทคโนโลยี มข. จุดประกายแรงบันดาลใจนักวิทยาศาสตร์รุ่นใหม่ ผ่านค่าย “Biotech KKU’s Camp 2026”",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JbHZIWHJlaDQ2T2hEc2tfYkZrdDRpdDdBbUhZMnVXQlpnYnhfQmJFREtDekthazR1MzhqVUpTSDdSbXc5QXNj?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-01-17T08:00:00.000Z",
       "sourceId": "tech",
       "category": "คณะเทคโนโลยี",
+      "image": null,
+      "topic": "activity"
+    },
+    {
+      "title": "โรงเรียนสาธิต ม.ขอนแก่น วิทยาเขตหนองคาย สร้างชื่อ นำนักเรียนผู้ได้รับรางวัล \"เด็กและเยาวชนดีเด่นแห่งชาติ\" ประจำปี 2569 เข้าพบคณบดีคณะสหวิทยาการ รับฟังโอวาทแห่งความภาคภูมิใจ - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuQXdZN0RSSVB3YTFkX0tRSHRLR2hzeVlZVU01dW1ManFRQ1p1RmZMWEdna1k5NXdScUJmbjNvT2pTd2pDQzRF?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-01-16T08:00:00.000Z",
+      "sourceId": "is",
+      "category": "คณะสหวิทยาการ (หนองคาย)",
       "image": null,
       "topic": "activity"
     },
