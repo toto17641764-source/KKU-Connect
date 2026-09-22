@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T12:51:57.868Z",
+  "updatedAt": "2026-09-22T17:46:50.757Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,26 @@
     }
   ],
   "items": [
+    {
+      "title": "คณะวิศวกรรมศาสตร์ มหาวิทยาลัยขอนแก่น ก้าวสู่มาตรฐานโลก 4 หลักสูตรได้รับการรับรองมาตรฐานจาก ABET ยกระดับคุณภาพการศึกษา สร้างอนาคตวิศวกรไทยสู่สากล - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5kMDM3RWNXT0RjZTAtbUxUNWxqRXUtMFU0RERnNnJycVFoaEctc3p1ZnRrWkZEOFg1c1NQLTZuN0JWUGRBV3Uw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-22T13:52:40.000Z",
+      "sourceId": "eng",
+      "category": "คณะวิศวกรรมศาสตร์",
+      "image": null,
+      "topic": "study"
+    },
+    {
+      "title": "อาจารย์คณะทันตแพทยศาสตร์ มข. ร่วมบรรยายในการประชุม International Cleft Mastery Summit, Ha Noi 2026",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8zeGdEcF9JSU5Pd1o0QUl5cUhUS0s5VWplUWlVNkxSdDdVbGRrLUM2X2pWS2JRTWZwZUJpcHdtMXlHYTNNSUxV?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-22T13:52:35.000Z",
+      "sourceId": "dent",
+      "category": "คณะทันตแพทยศาสตร์",
+      "image": null,
+      "topic": "other"
+    },
     {
       "title": "อาจารย์ KKBS รับ Certificate บุคลากรด้านการท่องเที่ยวอาเซียน (MRA on TP) ตอกย้ำศักยภาพสู่ความเป็นมืออาชีพในระดับภูมิภาค",
       "link": "https://kkbs.kku.ac.th/insight-kkbs/33744/",
@@ -2010,8 +2030,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JRHN4ck4zQkhFTVBUX0FhZU9GQ2x5clN1NmFmSEEtazNOWWtvZkNkTjFtUDZpYTBWVThHbW1kcnRGV3dPckdV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-06-10T07:00:00.000Z",
-      "sourceId": "arch",
-      "category": "คณะสถาปัตยกรรมศาสตร์",
+      "sourceId": "kku",
+      "category": "มข.",
       "image": null,
       "topic": "research"
     },
@@ -2298,7 +2318,7 @@
     {
       "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
