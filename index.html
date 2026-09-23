@@ -656,6 +656,10 @@
   }
   .auth-submit:hover { background: var(--brand-dark); }
   .auth-note { font-size: 0.72rem; color: var(--ink-soft); text-align: center; line-height: 1.5; }
+  .auth-warn {
+    font-size: 0.71rem; line-height: 1.5; color: #6b5218; background: var(--gold-soft);
+    border: 1px solid #f3dfb2; border-radius: 10px; padding: 8px 10px; margin-bottom: 4px;
+  }
   .auth-close {
     position: absolute; top: 12px; right: 14px;
     border: 0; background: none; color: var(--ink-soft); font-size: 1.3rem; line-height: 1;
@@ -896,6 +900,21 @@
       <label for="suEmail">อีเมล</label>
       <input id="suEmail" type="email" autocomplete="email" placeholder="เช่น somchai.j@kkumail.com" />
     </div>
+    <div class="field">
+      <label for="suPhone">เบอร์โทรศัพท์</label>
+      <input id="suPhone" type="tel" inputmode="numeric" autocomplete="tel" placeholder="เช่น 0812345678" />
+    </div>
+    <div class="auth-row">
+      <div class="field">
+        <label for="suPass">รหัสผ่าน</label>
+        <input id="suPass" type="password" autocomplete="new-password" placeholder="อย่างน้อย 8 ตัว" />
+      </div>
+      <div class="field">
+        <label for="suPass2">ยืนยันรหัสผ่าน</label>
+        <input id="suPass2" type="password" autocomplete="new-password" placeholder="พิมพ์อีกครั้ง" />
+      </div>
+    </div>
+    <p class="auth-warn">⚠️ นี่เป็นเว็บสำหรับงานเรียน ระบบรหัสผ่านยังไม่ปลอดภัยระดับใช้งานจริง กรุณาอย่าใช้รหัสเดียวกับอีเมลหรือธนาคารของคุณ</p>
     <p class="auth-msg" id="suMsg" hidden></p>
     <button class="auth-submit" type="submit">สมัครสมาชิก</button>
     <p class="auth-note" id="suNote"></p>
@@ -903,12 +922,16 @@
 
   <form class="auth-form" id="authLoginForm" novalidate hidden>
     <div class="field">
-      <label for="liEmail">อีเมลที่เคยสมัครไว้</label>
-      <input id="liEmail" type="email" autocomplete="email" placeholder="กรอกอีเมลของคุณ" />
+      <label for="liId">อีเมลหรือเบอร์โทร</label>
+      <input id="liId" type="text" autocomplete="username" placeholder="อีเมล หรือ 0812345678" />
+    </div>
+    <div class="field">
+      <label for="liPass">รหัสผ่าน</label>
+      <input id="liPass" type="password" autocomplete="current-password" placeholder="รหัสผ่านของคุณ" />
     </div>
     <p class="auth-msg" id="liMsg" hidden></p>
     <button class="auth-submit" type="submit">เข้าสู่ระบบ</button>
-    <p class="auth-note">บัญชีเก็บอยู่ในเครื่องนี้ ถ้าเปลี่ยนเครื่องหรือล้างข้อมูลเบราว์เซอร์ ต้องสมัครใหม่</p>
+    <p class="auth-note">บัญชีเก็บไว้หลังบ้าน จึงเข้าสู่ระบบจากเครื่องไหนก็ได้ด้วยอีเมลหรือเบอร์ที่สมัครไว้</p>
   </form>
 </dialog>
 
@@ -1633,19 +1656,73 @@ fetch("data/news.json")
     initAuth(); // ให้ปุ่มโปรไฟล์ยังใช้ได้แม้โหลดข่าวไม่สำเร็จ
   });
 
-/* ---------- บัญชีผู้ใช้ (เก็บในเบราว์เซอร์เครื่องนี้เท่านั้น ไม่มีเซิร์ฟเวอร์) ---------- */
-const ACC_KEY = "kkuconnect-accounts";
+/* ---------- บัญชีผู้ใช้ (เก็บที่ Google Sheets ผ่าน accounts.gs) ---------- */
+// เดิมเก็บรายชื่อบัญชีไว้ใน localStorage ซึ่งแยกตาม origin สมัครที่ localhost แล้วไปล็อกอิน
+// บนเว็บจริงจึงไม่เจอบัญชี และล้างข้อมูลเบราว์เซอร์ทีก็หายหมด ตอนนี้ย้ายไปไว้หลังบ้านแล้ว
+// localStorage เหลือหน้าที่เดียวคือจำว่า "ตอนนี้ใครล็อกอินค้างอยู่ในเครื่องนี้"
 const SESSION_KEY = "kkuconnect-session";
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+const PHONE_RE = /^0\d{8,9}$/;
+const PASS_MIN = 8;
 
-function loadAccounts() {
-  try { return JSON.parse(localStorage.getItem(ACC_KEY) || "[]"); } catch { return []; }
-}
-function saveAccounts(list) { localStorage.setItem(ACC_KEY, JSON.stringify(list)); }
+function accountsEnabled() { return !!String(window.ACCOUNTS_WEBHOOK_URL || "").trim(); }
+const normPhone = (s) => String(s ?? "").replace(/\D/g, "");
+
 function currentUser() {
-  const email = localStorage.getItem(SESSION_KEY);
-  return email ? loadAccounts().find((a) => a.email === email) || null : null;
+  try {
+    const u = JSON.parse(localStorage.getItem(SESSION_KEY) || "null");
+    // รูปแบบเก่าเก็บไว้แค่อีเมลเป็นข้อความ — ถือว่ายังไม่ได้ล็อกอิน ให้สมัคร/ล็อกอินใหม่
+    return u && typeof u === "object" && u.facultyId ? u : null;
+  } catch { return null; }
 }
+function setSession(user) { localStorage.setItem(SESSION_KEY, JSON.stringify(user)); }
+
+// แฮชรหัสผ่านตั้งแต่ในเบราว์เซอร์ รหัสจริงจึงไม่เคยออกจากเครื่องและไม่โผล่ใน URL
+// ฝั่ง accounts.gs จะเอาค่านี้ไปแฮชซ้ำกับค่าสุ่มประจำบัญชีอีกชั้นก่อนเก็บลงชีต
+// crypto.subtle ใช้ได้เฉพาะ https หรือ localhost — ตรงกับที่เว็บนี้รันอยู่ทั้งสองแบบ
+async function hashPassword(password) {
+  const data = new TextEncoder().encode("kkuconnect-v1|" + password);
+  const buf = await crypto.subtle.digest("SHA-256", data);
+  return [...new Uint8Array(buf)].map((x) => x.toString(16).padStart(2, "0")).join("");
+}
+
+// Apps Script ไม่ส่ง CORS header จึงอ่านคำตอบผ่าน fetch ข้ามโดเมนไม่ได้
+// ใช้ JSONP แทน: แปะ <script> ที่มี callback แล้วรอให้สคริปต์เรียกกลับ
+let jsonpSeq = 0;
+function callAccounts(params) {
+  return new Promise((resolve, reject) => {
+    const name = "__kkuAcc" + Date.now().toString(36) + jsonpSeq++;
+    const url = new URL(String(window.ACCOUNTS_WEBHOOK_URL).trim());
+    url.searchParams.set("token", String(window.ACCOUNTS_TOKEN || ""));
+    url.searchParams.set("callback", name);
+    for (const [k, v] of Object.entries(params)) url.searchParams.set(k, String(v ?? ""));
+
+    const el = document.createElement("script");
+    const done = (fn, arg) => { clearTimeout(timer); delete window[name]; el.remove(); fn(arg); };
+    const timer = setTimeout(() => done(reject, new Error("timeout")), 20000);
+    window[name] = (res) => done(resolve, res);
+    el.onerror = () => done(reject, new Error("network"));
+    el.src = url.href;
+    document.head.appendChild(el);
+  });
+}
+
+// ข้อความบอกผู้ใช้ตามรหัสข้อผิดพลาดที่ accounts.gs ส่งกลับมา
+const AUTH_ERROR = {
+  token: "โทเคนไม่ตรงกับหลังบ้าน — ตรวจ ACCOUNTS_TOKEN ใน config.js กับ accounts.gs ให้ตรงกัน",
+  missing: "กรอกข้อมูลไม่ครบ",
+  "bad-email": "รูปแบบอีเมลไม่ถูกต้อง",
+  "bad-phone": "รูปแบบเบอร์โทรไม่ถูกต้อง",
+  "bad-hash": "ข้อมูลรหัสผ่านผิดรูปแบบ ลองใหม่อีกครั้ง",
+  "email-taken": "อีเมลนี้มีคนสมัครไว้แล้ว — ไปที่แท็บเข้าสู่ระบบได้เลย",
+  "phone-taken": "เบอร์นี้มีคนสมัครไว้แล้ว — ไปที่แท็บเข้าสู่ระบบได้เลย",
+  "no-account": "ไม่พบบัญชีนี้ — ตรวจอีเมล/เบอร์อีกครั้ง หรือสมัครสมาชิกใหม่",
+  "no-password": "บัญชีนี้สมัครไว้ก่อนมีระบบรหัสผ่าน กรุณาสมัครใหม่อีกครั้ง",
+  "wrong-pass": "รหัสผ่านไม่ถูกต้อง",
+  server: "หลังบ้านมีปัญหา ลองใหม่อีกครั้ง",
+};
+const authError = (code) => AUTH_ERROR[code] || "เกิดข้อผิดพลาด ลองใหม่อีกครั้ง";
+
 function facultyName(id) {
   return srcById.get(id)?.name || DATA.sources.find((s) => s.id === id)?.name || "ไม่ระบุคณะ";
 }
@@ -1713,57 +1790,6 @@ function logout() {
   toast("ออกจากระบบแล้ว");
 }
 
-/* ---------- ส่งรายชื่อคนสมัครไปเก็บที่ Google Sheets ---------- */
-// เปิดใช้เมื่อตั้งค่า SIGNUP_WEBHOOK_URL ใน config.js เท่านั้น ถ้าเว้นว่างไว้ข้อมูลจะไม่ออกจากเครื่องผู้ใช้เลย
-const SYNC_KEY = "kkuconnect-pending-sync";
-
-function syncEnabled() { return !!String(window.SIGNUP_WEBHOOK_URL || "").trim(); }
-function loadPending() {
-  try { return JSON.parse(localStorage.getItem(SYNC_KEY) || "[]"); } catch { return []; }
-}
-function savePending(list) { localStorage.setItem(SYNC_KEY, JSON.stringify(list)); }
-
-// เข้าคิวก่อนส่งเสมอ เน็ตหลุดตอนสมัครก็ยังได้ข้อมูลตอนเปิดเว็บครั้งหน้า
-// (ฝั่ง Apps Script เช็คอีเมลซ้ำให้อยู่แล้ว ส่งซ้ำจึงไม่ทำให้ชีตมีแถวเกิน)
-function queueSignup(user) {
-  if (!syncEnabled()) return;
-  const pending = loadPending();
-  if (pending.some((p) => p.email === user.email)) return;
-  pending.push({
-    token: String(window.SIGNUP_TOKEN || ""),
-    name: user.name,
-    year: user.year,
-    gender: user.gender,
-    faculty: facultyName(user.facultyId),
-    email: user.email,
-    createdAt: user.createdAt,
-    origin: location.origin + location.pathname,
-  });
-  savePending(pending);
-  flushPending();
-}
-
-// Apps Script ไม่ส่ง CORS header กลับมา จึงต้องใช้ no-cors — อ่านคำตอบไม่ได้
-// แต่ถ้า fetch ไม่ throw แปลว่าคำขอส่งออกจากเครื่องไปแล้ว จึงถือว่าสำเร็จและเอาออกจากคิว
-function postToScript(url, payload) {
-  return fetch(url, {
-    method: "POST",
-    mode: "no-cors",
-    headers: { "Content-Type": "text/plain;charset=utf-8" },
-    body: JSON.stringify(payload),
-  });
-}
-
-function flushPending() {
-  if (!syncEnabled()) return;
-  const url = String(window.SIGNUP_WEBHOOK_URL).trim();
-  loadPending().forEach((payload) => {
-    postToScript(url, payload)
-      .then(() => savePending(loadPending().filter((p) => p.email !== payload.email)))
-      .catch(() => {}); // ส่งไม่ออก ปล่อยค้างในคิวไว้ลองใหม่รอบหน้า
-  });
-}
-
 /* ---------- ส่ง log การกดบันทึกข่าวไปเก็บที่ Google Sheets ---------- */
 // เปิดใช้เมื่อตั้งค่า SAVELOG_WEBHOOK_URL ใน config.js เท่านั้น ถ้าเว้นว่างไว้ปุ่ม 🔖 ทำงานเหมือนเดิมทุกอย่าง
 // เก็บทั้งคนที่ล็อกอินและคนที่ไม่ได้ล็อกอิน (ฝั่งชีตจะขึ้นว่า "ผู้ไม่ระบุตัวตน")
@@ -1772,6 +1798,18 @@ const DEVICE_KEY = "kkuconnect-device";
 const LOG_QUEUE_MAX = 200;  // กันคิวบวมถ้าส่งไม่ออกติดกันนาน ๆ
 
 function logEnabled() { return !!String(window.SAVELOG_WEBHOOK_URL || "").trim(); }
+
+// Apps Script ไม่ส่ง CORS header กลับมา จึงต้องใช้ no-cors — อ่านคำตอบไม่ได้
+// แต่ถ้า fetch ไม่ throw แปลว่าคำขอออกจากเครื่องไปแล้ว จึงถือว่าสำเร็จและเอาออกจากคิว
+// (ระบบสมาชิกต้องอ่านคำตอบ จึงใช้ JSONP แทน — ดู callAccounts ด้านบน)
+function postToScript(url, payload) {
+  return fetch(url, {
+    method: "POST",
+    mode: "no-cors",
+    headers: { "Content-Type": "text/plain;charset=utf-8" },
+    body: JSON.stringify(payload),
+  });
+}
 function loadPendingLog() {
   try { return JSON.parse(localStorage.getItem(LOG_KEY) || "[]"); } catch { return []; }
 }
@@ -1855,12 +1893,11 @@ function initAuth() {
   $("suFaculty").innerHTML = `<option value="">— เลือก —</option>` +
     faculties.map((s) => `<option value="${esc(s.id)}">${esc(s.name)}</option>`).join("");
 
-  // บอกผู้ใช้ตามจริงว่าข้อมูลไปไหน ขึ้นกับว่าตั้งค่า SIGNUP_WEBHOOK_URL ไว้หรือยัง
-  $("suNote").textContent = syncEnabled()
+  // บอกผู้ใช้ตามจริงว่าข้อมูลไปไหน ขึ้นกับว่าตั้งค่า ACCOUNTS_WEBHOOK_URL ไว้หรือยัง
+  $("suNote").textContent = accountsEnabled()
     ? "ข้อมูลที่กรอกจะถูกบันทึกไว้ที่ Google Sheets ของผู้จัดทำ เพื่อใช้ประกอบการศึกษาเท่านั้น"
-    : "ข้อมูลถูกเก็บไว้ในเบราว์เซอร์เครื่องนี้เท่านั้น ไม่ได้ส่งออกไปที่เซิร์ฟเวอร์ใด ๆ";
+    : "ยังไม่ได้ตั้งค่าหลังบ้าน (ACCOUNTS_WEBHOOK_URL ใน config.js) จึงยังสมัครสมาชิกไม่ได้";
 
-  flushPending(); // มีข้อมูลค้างจากรอบก่อน (เช่นตอนนั้นเน็ตหลุด) ส่งซ้ำให้
   flushSaveLog(); // เช่นเดียวกัน — log การบันทึกข่าวที่ยังส่งไม่ออก
 
   $("authTabSignup").addEventListener("click", () => switchAuthTab("signup"));
@@ -1868,51 +1905,91 @@ function initAuth() {
   $("authClose").addEventListener("click", () => $("authDialog").close());
   $("authDialog").addEventListener("click", (e) => { if (e.target === $("authDialog")) $("authDialog").close(); });
 
-  $("authSignupForm").addEventListener("submit", (e) => {
+  // ปิดปุ่มระหว่างรอหลังบ้านตอบ กันกดซ้ำแล้วได้บัญชีซ้ำ
+  const busy = (form, on, label) => {
+    const btn = form.querySelector(".auth-submit");
+    btn.disabled = on;
+    btn.textContent = on ? "กำลังดำเนินการ..." : label;
+  };
+
+  $("authSignupForm").addEventListener("submit", async (e) => {
     e.preventDefault();
+    const form = $("authSignupForm");
     const name = $("suName").value.trim();
     const year = $("suYear").value;
     const gender = $("suGender").value;
     const facultyId = $("suFaculty").value;
     const email = $("suEmail").value.trim().toLowerCase();
+    const phone = normPhone($("suPhone").value);
+    const pass = $("suPass").value;
+    const pass2 = $("suPass2").value;
 
+    if (!accountsEnabled()) return authMsg("suMsg", "ยังไม่ได้ตั้งค่าหลังบ้าน จึงสมัครสมาชิกไม่ได้");
     if (!name) return authMsg("suMsg", "กรุณากรอกชื่อ - นามสกุล");
     if (!year) return authMsg("suMsg", "กรุณาเลือกชั้นปี");
     if (!gender) return authMsg("suMsg", "กรุณาเลือกเพศ");
     if (!facultyId) return authMsg("suMsg", "กรุณาเลือกคณะ / วิทยาลัย");
     if (!EMAIL_RE.test(email)) return authMsg("suMsg", "รูปแบบอีเมลไม่ถูกต้อง");
+    if (!PHONE_RE.test(phone)) return authMsg("suMsg", "เบอร์โทรต้องเป็นตัวเลขขึ้นต้นด้วย 0 ความยาว 9-10 หลัก");
+    if (pass.length < PASS_MIN) return authMsg("suMsg", `รหัสผ่านต้องยาวอย่างน้อย ${PASS_MIN} ตัวอักษร`);
+    if (pass !== pass2) return authMsg("suMsg", "รหัสผ่านทั้งสองช่องไม่ตรงกัน");
 
-    const accounts = loadAccounts();
-    if (accounts.some((a) => a.email === email))
-      return authMsg("suMsg", "อีเมลนี้สมัครไว้แล้วในเครื่องนี้ — ไปที่แท็บเข้าสู่ระบบได้เลย");
+    busy(form, true, "สมัครสมาชิก");
+    try {
+      const res = await callAccounts({
+        action: "signup", name, year, gender, facultyId,
+        facultyName: facultyName(facultyId), email, phone,
+        hash: await hashPassword(pass),
+        clientTime: new Date().toISOString(),
+        origin: location.origin + location.pathname,
+      });
+      if (!res || !res.ok) return authMsg("suMsg", authError(res && res.error));
 
-    const user = { name, year, gender, facultyId, email, createdAt: new Date().toISOString() };
-    accounts.push(user);
-    saveAccounts(accounts);
-    localStorage.setItem(SESSION_KEY, email);
-
-    $("authDialog").close();
-    $("authSignupForm").reset();
-    queueSignup(user);
-    renderProfile();
-    applyHomeFaculty(user);
-    toast(`ยินดีต้อนรับ ${firstName(user.name)} 🎉 ตั้งหน้าแรกเป็นข่าว${facultyName(facultyId)} ให้แล้ว`);
+      const user = res.user;
+      setSession(user);
+      $("authDialog").close();
+      form.reset();
+      renderProfile();
+      applyHomeFaculty(user);
+      toast(`ยินดีต้อนรับ ${firstName(user.name)} 🎉 ตั้งหน้าแรกเป็นข่าว${facultyName(user.facultyId)} ให้แล้ว`);
+    } catch {
+      authMsg("suMsg", "ติดต่อหลังบ้านไม่ได้ ตรวจอินเทอร์เน็ตแล้วลองใหม่อีกครั้ง");
+    } finally {
+      busy(form, false, "สมัครสมาชิก");
+    }
   });
 
-  $("authLoginForm").addEventListener("submit", (e) => {
+  $("authLoginForm").addEventListener("submit", async (e) => {
     e.preventDefault();
-    const email = $("liEmail").value.trim().toLowerCase();
-    if (!EMAIL_RE.test(email)) return authMsg("liMsg", "รูปแบบอีเมลไม่ถูกต้อง");
+    const form = $("authLoginForm");
+    const raw = $("liId").value.trim();
+    const pass = $("liPass").value;
+    // พิมพ์อะไรลงมาช่องเดียว เดาเอาว่าเป็นอีเมลหรือเบอร์จากเครื่องหมาย @
+    const id = raw.includes("@") ? raw.toLowerCase() : normPhone(raw);
 
-    const user = loadAccounts().find((a) => a.email === email);
-    if (!user) return authMsg("liMsg", "ไม่พบบัญชีนี้ในเครื่องนี้ — สมัครสมาชิกใหม่ได้ที่แท็บด้านซ้าย");
+    if (!accountsEnabled()) return authMsg("liMsg", "ยังไม่ได้ตั้งค่าหลังบ้าน จึงเข้าสู่ระบบไม่ได้");
+    if (!id) return authMsg("liMsg", "กรุณากรอกอีเมลหรือเบอร์โทร");
+    if (raw.includes("@") ? !EMAIL_RE.test(id) : !PHONE_RE.test(id))
+      return authMsg("liMsg", "รูปแบบอีเมลหรือเบอร์โทรไม่ถูกต้อง");
+    if (!pass) return authMsg("liMsg", "กรุณากรอกรหัสผ่าน");
 
-    localStorage.setItem(SESSION_KEY, email);
-    $("authDialog").close();
-    $("authLoginForm").reset();
-    renderProfile();
-    applyHomeFaculty(user);
-    toast(`ยินดีต้อนรับกลับมา ${firstName(user.name)} 👋`);
+    busy(form, true, "เข้าสู่ระบบ");
+    try {
+      const res = await callAccounts({ action: "login", id, hash: await hashPassword(pass) });
+      if (!res || !res.ok) return authMsg("liMsg", authError(res && res.error));
+
+      const user = res.user;
+      setSession(user);
+      $("authDialog").close();
+      form.reset();
+      renderProfile();
+      applyHomeFaculty(user);
+      toast(`ยินดีต้อนรับกลับมา ${firstName(user.name)} 👋`);
+    } catch {
+      authMsg("liMsg", "ติดต่อหลังบ้านไม่ได้ ตรวจอินเทอร์เน็ตแล้วลองใหม่อีกครั้ง");
+    } finally {
+      busy(form, false, "เข้าสู่ระบบ");
+    }
   });
 
   renderProfile();

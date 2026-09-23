@@ -280,7 +280,7 @@ async function fetchSource(source) {
 // ทั้งที่เปิด URL ตรง ๆ ได้ปกติ — แก้ด้วยการดาวน์โหลดมาไว้ใน assets/news/ แล้วเสิร์ฟจากโดเมนเดียวกับเว็บ
 // items[].image = พาธในรีโป, items[].imageSrc = URL ต้นทาง (เก็บไว้ให้รอบถัดไปรู้ว่าโหลดมาจากไหน)
 function imageFileName(url) {
-  const ext = (url.match(/.(jpe?g|png|webp|gif)(?:[?#]|$)/i)?.[1] ?? "jpg").toLowerCase();
+  const ext = (url.match(/\.(jpe?g|png|webp|gif)(?:[?#]|$)/i)?.[1] ?? "jpg").toLowerCase();
   return createHash("sha1").update(url).digest("hex").slice(0, 16) + "." + (ext === "jpeg" ? "jpg" : ext);
 }
 

@@ -11,13 +11,14 @@ window.FEEDBACK_FORM_URL = "https://forms.gle/WGdAeTsUbrSrNeHV7";
 // ชื่อที่แสดงบนโปสเตอร์ QR
 window.FEEDBACK_APP_NAME = "KKU Connect";
 
-/* ---------- บันทึกคนสมัครสมาชิกลง Google Sheets ---------- */
-// Web app URL ที่ได้จากการ Deploy signup-sheet.gs (ลงท้ายด้วย /exec)
-// เว้นว่างไว้ = ไม่ส่งข้อมูลออกไปไหน บัญชีเก็บอยู่ในเบราว์เซอร์เครื่องผู้ใช้อย่างเดียว
-window.SIGNUP_WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbzl3IrXZQx0bkWkX0zmw07T2u0TYbwlMPORUhSXXJb4MQxlNu7kcACGV_0PVjodJ3JA/exec";
+/* ---------- ระบบสมาชิก (สมัคร + เข้าสู่ระบบ) ---------- */
+// Web app URL ที่ได้จากการ Deploy accounts.gs (ลงท้ายด้วย /exec)
+// เว้นว่างไว้ = ปิดระบบสมาชิกทั้งหมด ปุ่มสมัคร/เข้าสู่ระบบจะบอกผู้ใช้ว่ายังไม่เปิดใช้
+// หมายเหตุ: ตัวนี้แทน SIGNUP_WEBHOOK_URL เดิม (signup-sheet.gs ส่งได้ทางเดียว ล็อกอินไม่ได้)
+window.ACCOUNTS_WEBHOOK_URL = "";
 
-// ต้องตรงกับตัวแปร SIGNUP_TOKEN ในไฟล์ signup-sheet.gs
-window.SIGNUP_TOKEN = "kkuconnect-2569";
+// ต้องตรงกับตัวแปร ACCOUNTS_TOKEN ในไฟล์ accounts.gs
+window.ACCOUNTS_TOKEN = "kkuconnect-2569";
 
 /* ---------- บันทึก log การกดบันทึกข่าวลง Google Sheets ---------- */
 // Web app URL ที่ได้จากการ Deploy save-log.gs (ลงท้ายด้วย /exec)
