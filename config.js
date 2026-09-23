@@ -15,7 +15,7 @@ window.FEEDBACK_APP_NAME = "KKU Connect";
 // Web app URL ที่ได้จากการ Deploy accounts.gs (ลงท้ายด้วย /exec)
 // เว้นว่างไว้ = ปิดระบบสมาชิกทั้งหมด ปุ่มสมัคร/เข้าสู่ระบบจะบอกผู้ใช้ว่ายังไม่เปิดใช้
 // หมายเหตุ: ตัวนี้แทน SIGNUP_WEBHOOK_URL เดิม (signup-sheet.gs ส่งได้ทางเดียว ล็อกอินไม่ได้)
-window.ACCOUNTS_WEBHOOK_URL = "";
+window.ACCOUNTS_WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbziCRbYeFdhpQYLzK2SvLfkFxNZYE3Uzc-LTP6gboO-mdyyozoA0nZwuh1p_CyNcRJQ/exec";
 
 // ต้องตรงกับตัวแปร ACCOUNTS_TOKEN ในไฟล์ accounts.gs
 window.ACCOUNTS_TOKEN = "kkuconnect-2569";
