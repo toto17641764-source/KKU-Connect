@@ -489,7 +489,7 @@
     font-size: 0.95rem; font-weight: 700; margin-bottom: 10px;
     display: flex; align-items: center; gap: 7px; justify-content: space-between;
   }
-  .panel h3 .see-all { border: 0; background: none; color: var(--brand-dark); font-weight: 700; font-size: 0.72rem; }
+  .panel h3 .see-all { flex: none; white-space: nowrap; border: 0; background: none; color: var(--brand-dark); font-weight: 700; font-size: 0.72rem; }
   .hot-item { display: flex; gap: 11px; padding: 8px 6px; border-radius: 12px; align-items: flex-start; cursor: pointer; }
   .hot-item:hover { background: var(--brand-softer); }
   .hot-item .tile { width: 42px; height: 42px; font-size: 1.15rem; border-radius: 10px; }
@@ -1177,9 +1177,11 @@ function renderRecs() {
   $("recGrid").innerHTML = recs.map((it) => {
     const idx = srcIndex.get(it.sourceId) ?? 0;
     const topic = topicById.get(it.topic);
+    // รูปจากเว็บคณะบางตัวโหลดไม่ได้เมื่อถูกฝังข้ามเว็บ — ให้ตกไปใช้พื้นไล่สี + ตราคณะ แทนที่จะเหลือกล่องขาวเปล่า
+    const ph = `<div class="ph" style="background:linear-gradient(135deg,${tileColor(idx)},${tileColor(idx + 3)})">${srcIcon(it.sourceId)}</div>`;
     const img = it.image
-      ? `<img src="${esc(it.image)}" alt="" loading="lazy"/>`
-      : `<div class="ph" style="background:linear-gradient(135deg,${tileColor(idx)},${tileColor(idx + 3)})">${srcIcon(it.sourceId)}</div>`;
+      ? `<img src="${esc(it.image)}" alt="" loading="lazy" data-ph="${esc(ph)}" onerror="this.outerHTML = this.dataset.ph"/>`
+      : ph;
     return `
     <article class="rec-card">
       <div class="rec-img" data-link="${esc(it.link)}" onclick="_open(this)">

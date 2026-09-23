@@ -1,14 +1,18 @@
 // fetch-news.mjs — KKU Connect: ดึงข่าวมหาวิทยาลัยขอนแก่นรายคณะ แล้วบันทึกเป็น data/news.json
 // รันด้วย: node fetch-news.mjs  (ไม่ต้องติดตั้ง dependency ใด ๆ)
-import { writeFile, mkdir, readFile } from "node:fs/promises";
+import { writeFile, mkdir, readFile, readdir, unlink } from "node:fs/promises";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import https from "node:https";
+import { createHash } from "node:crypto";
 
 const ROOT = dirname(fileURLToPath(import.meta.url));
 const OUT_FILE = join(ROOT, "data", "news.json");
 const MAX_PER_SOURCE = 10;
 const MAX_TOTAL = 400;
+const IMG_DIR = join(ROOT, "assets", "news");
+const IMG_MAX_BYTES = 4 * 1024 * 1024;
+const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36";
 
 // เว็บ มข. และคณะส่วนใหญ่ไม่เปิด RSS — ดึงผ่าน Google News RSS แทน
 // (รวมข่าวจากทุกสำนักข่าวไทย + ข่าวประชาสัมพันธ์จากเว็บ มข. เองที่ Google เก็บไว้)
@@ -271,6 +275,94 @@ async function fetchSource(source) {
   }
 }
 
+/* ---------- เก็บรูปข่าวไว้ในรีโปเอง ---------- */
+// เว็บคณะปฏิเสธคำขอรูปที่ถูกฝังมาจากหน้าเว็บ HTTPS ภายนอก (ตอบ 503) รูปจึงไม่ขึ้นบน GitHub Pages
+// ทั้งที่เปิด URL ตรง ๆ ได้ปกติ — แก้ด้วยการดาวน์โหลดมาไว้ใน assets/news/ แล้วเสิร์ฟจากโดเมนเดียวกับเว็บ
+// items[].image = พาธในรีโป, items[].imageSrc = URL ต้นทาง (เก็บไว้ให้รอบถัดไปรู้ว่าโหลดมาจากไหน)
+function imageFileName(url) {
+  const ext = (url.match(/.(jpe?g|png|webp|gif)(?:[?#]|$)/i)?.[1] ?? "jpg").toLowerCase();
+  return createHash("sha1").update(url).digest("hex").slice(0, 16) + "." + (ext === "jpeg" ? "jpg" : ext);
+}
+
+// เหมือน fetchInsecure แต่คืนเป็น Buffer เพราะรูปเป็นไฟล์ไบนารี
+function downloadInsecure(url, hops = 0) {
+  return new Promise((resolve, reject) => {
+    if (hops > 3) return reject(new Error("redirect วนเกินไป"));
+    const req = https.get(url, { rejectUnauthorized: false, headers: { "user-agent": UA }, timeout: 25000 }, (res) => {
+      if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+        res.resume();
+        return downloadInsecure(new URL(res.headers.location, url).href, hops + 1).then(resolve, reject);
+      }
+      if (res.statusCode !== 200) { res.resume(); return reject(new Error(`HTTP ${res.statusCode}`)); }
+      const chunks = [];
+      res.on("data", (c) => chunks.push(c));
+      res.on("end", () => resolve(Buffer.concat(chunks)));
+    });
+    req.on("timeout", () => req.destroy(new Error("timeout")));
+    req.on("error", reject);
+  });
+}
+
+async function downloadImage(url) {
+  try {
+    const res = await fetch(url, { headers: { "user-agent": UA }, signal: AbortSignal.timeout(25000) });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    return Buffer.from(await res.arrayBuffer());
+  } catch (err) {
+    const cert = /certificate|UNABLE_TO_VERIFY|CERT_/i.test(String(err.cause?.code ?? err.cause?.message ?? ""));
+    if (cert && new URL(url).hostname.endsWith(".kku.ac.th")) return downloadInsecure(url);
+    throw err;
+  }
+}
+
+async function mirrorImages(items) {
+  await mkdir(IMG_DIR, { recursive: true });
+  const onDisk = new Set(await readdir(IMG_DIR).catch(() => []));
+  const keep = new Set();
+  const queue = [];
+
+  for (const it of items) {
+    const src = it.imageSrc ?? (/^https?:/i.test(it.image ?? "") ? it.image : null);
+    if (!src) continue;
+    it.imageSrc = src;
+    const name = imageFileName(src);
+    if (onDisk.has(name)) { it.image = `assets/news/${name}`; keep.add(name); continue; }
+    queue.push({ it, src, name });
+  }
+
+  const total = queue.length;
+  let ok = 0, fail = 0;
+  // โหลดพร้อมกันทีละ 6 ไฟล์ พอให้เร็วโดยไม่ถล่มเซิร์ฟเวอร์คณะ
+  await Promise.all(Array.from({ length: 6 }, async () => {
+    while (queue.length) {
+      const { it, src, name } = queue.shift();
+      try {
+        const buf = await downloadImage(src);
+        if (buf.length > IMG_MAX_BYTES) throw new Error(`ไฟล์ใหญ่เกิน (${(buf.length / 1048576).toFixed(1)} MB)`);
+        if (buf.length < 1024) throw new Error("ไฟล์เล็กผิดปกติ น่าจะไม่ใช่รูป");
+        await writeFile(join(IMG_DIR, name), buf);
+        it.image = `assets/news/${name}`;
+        keep.add(name);
+        ok++;
+      } catch (err) {
+        // โหลดไม่ได้ก็คง URL ต้นทางไว้ตามเดิม หน้าเว็บมี fallback เป็นตราคณะอยู่แล้ว
+        fail++;
+        console.error(`  ✗ โหลดรูปไม่สำเร็จ: ${err.message} — ${src}`);
+      }
+    }
+  }));
+
+  // ลบรูปของข่าวที่หลุดออกจากรายการแล้ว กันรีโปบวมไปเรื่อย ๆ
+  let removed = 0;
+  for (const name of onDisk) {
+    if (keep.has(name)) continue;
+    await unlink(join(IMG_DIR, name)).catch(() => {});
+    removed++;
+  }
+  console.log(`รูปข่าวในรีโป ${keep.size} ไฟล์ (โหลดใหม่ ${ok}/${total}, ไม่สำเร็จ ${fail}, ลบที่ไม่ใช้แล้ว ${removed})`);
+}
+
+
 async function main() {
   console.log("กำลังดึงข่าว มข. จากเว็บคณะและทุกแหล่ง...");
   const results = await Promise.all(SOURCES.map(fetchSource));
@@ -305,6 +397,7 @@ async function main() {
       outlet: it.outlet ?? it.source ?? "ไม่ระบุแหล่ง",
       topic: classifyTopic(it.title),
       image: it.image ?? null,
+      imageSrc: it.imageSrc ?? null,
     }))
     .filter((it) => {
       const fromFacultySite = it.outlet === "เว็บไซต์คณะ";
@@ -328,6 +421,8 @@ async function main() {
 
   merged.sort((a, b) => (b.publishedAt ?? "").localeCompare(a.publishedAt ?? ""));
   const items = merged.slice(0, MAX_TOTAL);
+
+  await mirrorImages(items);
 
   await mkdir(dirname(OUT_FILE), { recursive: true });
   await writeFile(

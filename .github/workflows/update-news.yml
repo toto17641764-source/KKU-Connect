@@ -30,6 +30,7 @@ jobs:
         run: |
           git config user.name "news-bot"
           git config user.email "actions@github.com"
-          git add data/news.json
+          # -A ครอบคลุมรูปข่าวที่ fetch-news.mjs โหลดมาใหม่และที่ลบทิ้งใน assets/news/
+          git add -A data/news.json assets/news
           git diff --cached --quiet || git commit -m "update news $(date -u +'%Y-%m-%d %H:%M')"
           git push
