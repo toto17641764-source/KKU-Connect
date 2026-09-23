@@ -1,0 +1,18 @@
+{
+  "name": "KKU Connect — ข่าวสารมหาวิทยาลัยขอนแก่น",
+  "short_name": "KKU Connect",
+  "description": "รวมข่าวสาร กิจกรรม ทุนการศึกษา และประกาศของมหาวิทยาลัยขอนแก่น แยกตามคณะ อัปเดตอัตโนมัติทุก 2 ชั่วโมง",
+  "lang": "th",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f5f1",
+  "theme_color": "#d4541c",
+  "categories": ["news", "education"],
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-192-maskable.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "assets/icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
