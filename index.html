@@ -804,14 +804,8 @@
   <aside class="rail">
     <div id="railHome">
       <div style="display:flex;flex-direction:column;gap:16px">
-        <div class="panel">
-          <h3>📅 กิจกรรมที่กำลังจะมาถึง <button class="see-all" data-goto="t:activity">ดูทั้งหมด ›</button></h3>
-          <div id="upcomingList"></div>
-          <button class="panel-btn" data-goto="t:activity">
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
-            ดูข่าวกิจกรรมทั้งหมด
-          </button>
-        </div>
+        <!-- ข่าวสารคณะที่ผู้ใช้สังกัด — เนื้อหาสร้างใน renderFacNewsPanel() เพราะขึ้นกับว่าล็อกอินอยู่หรือไม่ -->
+        <div class="panel" id="facNewsPanel"></div>
         <div class="panel">
           <h3>🗂️ หมวดหมู่</h3>
           <div class="cat-grid" id="catGrid"></div>
@@ -1448,15 +1442,47 @@ function renderSettingsPage() {
   }
 }
 
+/* ---------- กล่องข่าวสารคณะของผู้ใช้ (แถบขวาหน้าแรก) ---------- */
+// เว็บรู้คณะของผู้ใช้จาก facultyId ที่กรอกตอนสมัครสมาชิก — ยังไม่สมัครจึงยังไม่รู้ จึงชวนสมัครก่อน
+function renderFacNewsPanel() {
+  const panel = $("facNewsPanel");
+  const user = currentUser();
+
+  if (!user) {
+    panel.innerHTML = `
+      <h3>📰 ข่าวสารคณะของคุณ</h3>
+      <div class="noti-cta" style="margin:0">
+        <div class="t">🎓 คุณอยู่คณะไหน?</div>
+        <p>สมัครสมาชิกครั้งเดียว แล้วช่องนี้จะรวมข่าวกิจกรรมของคณะคุณมาให้ทุกครั้งที่เข้าเว็บ</p>
+        <button id="facNewsSignup">สมัครสมาชิก</button>
+      </div>`;
+    $("facNewsSignup").addEventListener("click", () => openAuth("signup"));
+    return;
+  }
+
+  const facId = user.facultyId;
+  const facName = facultyName(facId);
+  // ตามที่เลือกไว้: เอาเฉพาะข่าวหมวดกิจกรรมของคณะนั้น
+  const items = DATA.items.filter((it) => it.sourceId === facId && it.topic === "activity").slice(0, 3);
+
+  panel.innerHTML = `
+    <h3>📰 ข่าวสาร${esc(facName)} <button class="see-all" data-goto="f:${facId}">ดูทั้งหมด ›</button></h3>
+    ${items.length
+      ? items.map((it) => `
+        <div class="hot-item" data-link="${esc(it.link)}" onclick="_open(this)">
+          ${thumbHtml(it)}
+          <div style="min-width:0"><p>${esc(it.title)}</p><small>🗓️ ${thaiDate(it.publishedAt)} · ${esc(it.category)}</small></div>
+        </div>`).join("")
+      : `<p style="font-size:0.74rem;color:var(--ink-soft);line-height:1.5;padding:4px 6px 8px">ช่วงนี้ยังไม่มีข่าวกิจกรรมของ${esc(facName)} กดด้านล่างเพื่อดูข่าวหมวดอื่นได้ครับ</p>`}
+    <button class="panel-btn" data-goto="f:${facId}">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
+      ดูข่าว${esc(facName)}ทั้งหมด
+    </button>`;
+}
+
 /* ---------- Right rail (หน้าแรก) ---------- */
 function renderRailHome() {
-  // กิจกรรมที่กำลังจะมาถึง = ข่าวหมวดกิจกรรมล่าสุด
-  const upcoming = DATA.items.filter((it) => it.topic === "activity").slice(0, 3);
-  $("upcomingList").innerHTML = upcoming.map((it) => `
-    <div class="hot-item" data-link="${esc(it.link)}" onclick="_open(this)">
-      ${thumbHtml(it)}
-      <div style="min-width:0"><p>${esc(it.title)}</p><small>🗓️ ${thaiDate(it.publishedAt)} · ${esc(it.category)}</small></div>
-    </div>`).join("");
+  renderFacNewsPanel();
 
   $("catGrid").innerHTML = DATA.topics.map((t) => `
     <button class="cat-cell" data-cat="t:${t.id}">
