@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T20:14:21.707Z",
+  "updatedAt": "2026-09-26T23:56:48.188Z",
   "sources": [
     {
       "id": "med",
@@ -285,6 +285,17 @@
       "category": "คณะเภสัชศาสตร์",
       "image": null,
       "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะเศรษฐศาสตร์ มข. เปิดรับสมัครนักศึกษาระดับปริญญาตรี รอบที่ 1 Portfolio ประจำปีการศึกษา 2570",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1VSWc4bm5naENmRF9WVTVKbERONmt0OVlrQTlCSjJwcGdQdVJINzVZaUJ1THZlVmJHenBFMzNHbmREVnFmc1NZ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-24T21:03:36.000Z",
+      "sourceId": "econ",
+      "category": "คณะเศรษฐศาสตร์",
+      "image": null,
+      "topic": "study",
       "imageSrc": null
     },
     {
@@ -1434,7 +1445,7 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -2791,6 +2802,17 @@
       "publishedAt": "2026-04-16T07:02:00.000Z",
       "sourceId": "ic",
       "category": "วิทยาลัยนานาชาติ",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "นักศึกษา KKBS คว้ารางวัลจากเวที MTEX MarTech Expert Certification – Young Talent Bootcamp 2026 รอบคัดเลือกมหาวิทยาลัยขอนแก่น พร้อมลุยต่อในระดับประเทศ",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA5Zk9GRmNxQ0gyVVhGLURXVWhoY2d1OWxBeFRHT09rYnVqOFhQUFZoS3Q5S1FRVEpfSEtiLTRMX1JzUkNkOFAw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-04-13T15:13:51.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -4639,28 +4661,6 @@
       "publishedAt": "2021-03-02T08:00:00.000Z",
       "sourceId": "gs",
       "category": "บัณฑิตวิทยาลัย",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "MBA ม.ขอนแก่น ณ กรุงเทพฯ เปิดรับสมัครแล้ว ขอเชิญร่วมงาน Open House",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQYXVfNno3TmJrczFDeU9QRWU0SXUyVXd1djhMem12T25vUVhzdlJJcE1QemduZkdNU3RyMGhab2p4S2p3ZmVuZXVocE41N3BIZGpXemR3ZWs5ekFHYzk4?oc=5",
-      "outlet": "Teenee.com",
-      "publishedAt": "2020-08-23T15:08:15.000Z",
-      "sourceId": "cbs",
-      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "MBA KKU เปิดรับสมัครนักศึกษาใหม่ปี 2553",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjeXZRR19lMXI5NHR5UlVxMjh4cUtISVAzbFo5NW56a1hGREpvX2xKTHdqMUlLRzZTNjJLakRFeGVXYjFNbTQyNVR0NC1GbHY0SVVuR1ln?oc=5",
-      "outlet": "kapook.com",
-      "publishedAt": "2016-10-29T22:21:25.000Z",
-      "sourceId": "cbs",
-      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
       "image": null,
       "topic": "study",
       "imageSrc": null
