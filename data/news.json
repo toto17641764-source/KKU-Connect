@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T02:36:47.689Z",
+  "updatedAt": "2026-09-27T09:33:28.376Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,17 @@
   ],
   "items": [
     {
+      "title": "เปิดประสบการณ์วิทยาศาสตร์เชิงลึก! คณะวิทยาศาสตร์ มข. ชวนนักเรียน 145 คน จาก 2 โรงเรียน เรียนรู้จุลินทรีย์ ดีเอ็นเอ ชีวเคมี และฟิสิกส์",
+      "link": "https://sc.kku.ac.th/trainingnews/stdlab/127227/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-27T04:59:29.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
+    },
+    {
       "title": "COPA KKU ขยายเวลาเปิดรับสมัครอาจารย์ 2 อัตรา ถึง 25 พ.ย. 69",
       "link": "https://copa.kku.ac.th/3702/",
       "outlet": "เว็บไซต์คณะ",
@@ -279,7 +290,7 @@
     {
       "title": "โรงพยาบาลขอนแก่น ต้อนรับคณะเภสัชศาสตร์ มหาวิทยาลัยขอนแก่น และนักศึกษาเภสัชศาสตร์จากประเทศญี่ปุ่น",
       "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPX2dXZlIyR3drWEQwYXpvb2lKZ19keUxtSXZHWGUwTnNTSElobzczTVZkUC1FeWEwNTVWYzdPRDVucUxlWmtVRXdKQnFWNnR2NEszdXA0N21FNG95SXo0cTBiQ0s5UE5RcURyQWsxa0tnLTJ0TmItck9Oem5VYVQtbV9kY1hSaWxhRUhrNElhX002aTdseEhIYWdqMldqMGpoa09zT1czVG43czJpakM4Q0MyX3BvX3lXWVpmX3ZzRDBLdTVQdEgyS2xMS2NpNndnc3hHcU1jM1JfY3h3RmdQbm5Wa09RMWQzbk1TSk5YclF3MGU1V0JjbloxWS1hRDhlamdVX0dHS1JJekJrUUN6R0h6emNUZmF4N1hMYXV3?oc=5",
-      "outlet": "pr.moph.go.th",
+      "outlet": "สำนักสารนิเทศ สำนักงานปลัดกระทรวงสาธารณสุข",
       "publishedAt": "2026-09-25T05:50:14.000Z",
       "sourceId": "pharm",
       "category": "คณะเภสัชศาสตร์",
@@ -4650,17 +4661,6 @@
       "publishedAt": "2023-09-11T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "บัณฑิตวิทยาลัย มหาวิทยาลัยขอนแก่น ขยายเวลารับสมัครนักศึกษาใหม่ ระดับบัณฑิตศึกษา ภาคการศึกษาต้น รอบที่ 2 ปีการศึกษา 2564 วันที่ 1 มีนาคม - 30 เมษายน 2564 - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBiYkJ4dzA3VXJ4eVFtajFJNjFtcmtEdlc2dzZhTmtvNG50MHRfZWk5MDl2X0ZXMFN1a1FtN1k1a3BkX1QyYnc?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2021-03-02T08:00:00.000Z",
-      "sourceId": "gs",
-      "category": "บัณฑิตวิทยาลัย",
       "image": null,
       "topic": "study",
       "imageSrc": null
