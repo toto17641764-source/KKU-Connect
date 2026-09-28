@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T02:04:14.583Z",
+  "updatedAt": "2026-09-28T10:12:28.680Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,28 @@
   ],
   "items": [
     {
+      "title": "คณะเภสัชศาสตร์ มข. สร้างพื้นที่แห่งการพบกันระหว่างอาจารย์และนักศึกษา เดินหน้าดูแลอย่างรอบด้าน พร้อมเสริมระบบให้คำปรึกษา “พื้นที่คนฟัง” - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ENFBxYUl6Yk5oTFhKSkh1b090UWxNeFRmbHFaUFlKS1BHMkY1SWQ0NE9mT2ZTZzBDUk5vZ3BPUDAtdHp0aFNz?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-28T07:45:31.000Z",
+      "sourceId": "pharm",
+      "category": "คณะเภสัชศาสตร์",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะศึกษาศาสตร์ มข. จับมือ มรภ.หมู่บ้านจอมบึง ขับเคลื่อนโครงการ “สานสัมพันธ์ครูรัก(ษ์)ถิ่น” เชื่อมพลังเครือข่ายนักศึกษาครู มุ่งพัฒนานวัตกรรมและสร้างความยั่งยืนสู่ชุมชนท้องถิ่น",
+      "link": "https://ednet.kku.ac.th/news/21145/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-28T06:58:58.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": "assets/news/1d8d4b9af572d26d.jpg",
+      "topic": "research",
+      "imageSrc": "https://ednet.kku.ac.th/wp-content/uploads/2026/09/EDKKU2026-09-25-รภช-บ้านจอมบึง-1-of-1.jpg"
+    },
+    {
       "title": "เปิดประสบการณ์วิทยาศาสตร์เชิงลึก! คณะวิทยาศาสตร์ มข. ชวนนักเรียน 145 คน จาก 2 โรงเรียน เรียนรู้จุลินทรีย์ ดีเอ็นเอ ชีวเคมี และฟิสิกส์",
       "link": "https://sc.kku.ac.th/trainingnews/stdlab/127227/",
       "outlet": "เว็บไซต์คณะ",
@@ -307,6 +329,17 @@
       "category": "คณะเศรษฐศาสตร์",
       "image": null,
       "topic": "study",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะวิศวกรรมศาสตร์ มหาวิทยาลัยขอนแก่น ร่วมกับ กลุ่มมิตรผล จัดกิจกรรมศึกษาดูงาน เสริมประสบการณ์จริงด้านวิศวกรรมอุตสาหการ - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA5ZXdWU19OY3ltRVhIT3lkbFFzbDRTNVFsZDlfc01haFNORWU2MWZRV2RnbV9Ecloyb01iNWpRWmFZYW0zUG8w?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-24T07:00:00.000Z",
+      "sourceId": "eng",
+      "category": "คณะวิศวกรรมศาสตร์",
+      "image": null,
+      "topic": "activity",
       "imageSrc": null
     },
     {
@@ -4626,39 +4659,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBReFNIVmV0OWtSYk5pV2Vpa0VORlpKS0MxVzJiT0FMLTJ5Z3lpZ0RHWXgyQXo2M2JUdDlrUHhlQWRpa1V0YkhfOWZLckdaNjdJYmMzVkt3?oc=5",
       "outlet": "LINE TODAY",
       "publishedAt": "2023-09-13T07:00:00.000Z",
-      "sourceId": "cbs",
-      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "รำลึก วันสถาปนาวิทยาลัยบัณฑิตศึกษาการจัดการ ครบรอบ 30 ปี",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tTE5IWnM3SDJSSS1aS2hSVXhOZ1Iyc2Z2RHJybElRRWtUSW9PQjFyZnVHeklYR1VaQy0zeU80dVJjeTZ1ekpTR2dvUUxYVlJyVDBlVWNKZVgtRXZUX1RfN1ctYUFPa0g2eGx2RV9ZYmNiNVhPaGxUYw?oc=5",
-      "outlet": "prachachat.net",
-      "publishedAt": "2023-09-12T07:00:00.000Z",
-      "sourceId": "cbs",
-      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "วันสถาปนาวิทยาลัยบัณฑิตศึกษาการจัดการ ครบรอบ 30 ปี",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uSW0ySVFWdUpXRF93VFBDNGNuTmsxY2tBLWlfLWQwNHFLYnpIVlFCUDUzN0NZUEp5dlJhMnFtck9HcVgxZ3lKcGFQOHVyTEZIMTNQMVNCbGphUQ?oc=5",
-      "outlet": "ข่าวสด",
-      "publishedAt": "2023-09-11T07:00:00.000Z",
-      "sourceId": "cbs",
-      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "สมาคมศิษย์เก่า ร่วมรำลึก วันสถาปนาวิทยาลัยบัณฑิตศึกษาการจัดการ ครบรอบ 30 ปี",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HLUtBaGxJUWowY3Q2MjRUTWx1QmNodEJIMmwxTl9RSFRVazVRRk9uMFNsVGZBa1c2enRFX2YxY2E0ZjB2VlJkZExTSDJORVE0Q1J2NEp5RDFtb09VcXVhSHc5WnRGZkpJanpZTGlhRVFhX1pQd2RyNw?oc=5",
-      "outlet": "ประชาชาติธุรกิจ",
-      "publishedAt": "2023-09-11T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
       "image": null,
