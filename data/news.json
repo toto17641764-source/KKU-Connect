@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T10:12:28.680Z",
+  "updatedAt": "2026-09-28T18:47:49.692Z",
   "sources": [
     {
       "id": "med",
@@ -288,6 +288,17 @@
       "imageSrc": "https://ednet.kku.ac.th/wp-content/uploads/2026/09/EDKKU2026-09-25-รภช-บ้านจอมบึง-1-of-1.jpg"
     },
     {
+      "title": "โรงพยาบาลขอนแก่น ต้อนรับคณะเภสัชศาสตร์ มหาวิทยาลัยขอนแก่น และนักศึกษาเภสัชศาสตร์จากประเทศญี่ปุ่น",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQUDM0T2IwZDJxSTNTYXZEOEF6VEhodWhibGhtOUlFVEtkQ1UybGI5aVFhbVAwNmw1THFqRzlwT3dDYXk2dXp3R0VJSXdCT214Mm9PM3lEVGJCNnRZQUFWZTlzdnJVUWRqVnBBSDNBemszdHdkbVZRMk04bktEVk1ycUJiajhTQzRnQmMwVXhMenFWU0xVcHFMRWpnS2EyU2RtUWJBTGV4R2pFMVB3Y29pRUtrdzRqMVZjX3VlQ0lSdHE2aG9oQ2RieG5DTDMza3ZNdVpsUW1YaVp2QmJ1SFg3N1lsMkZrd0ZVSG5veFRIU1otVnZnVHVRUC1RNWFoVktyTXY2RWNQak41ZlAtTDk1dUdLNElqN1ZkX2pDN3dhNkp2dS1KSjRwNjVhaTFIYWZzeFJjNVBtenVqZkJod09YMmItUQ?oc=5",
+      "outlet": "สำนักสารนิเทศ สำนักงานปลัดกระทรวงสาธารณสุข",
+      "publishedAt": "2026-09-28T02:12:37.000Z",
+      "sourceId": "pharm",
+      "category": "คณะเภสัชศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
       "title": "เปิดประสบการณ์วิทยาศาสตร์เชิงลึก! คณะวิทยาศาสตร์ มข. ชวนนักเรียน 145 คน จาก 2 โรงเรียน เรียนรู้จุลินทรีย์ ดีเอ็นเอ ชีวเคมี และฟิสิกส์",
       "link": "https://sc.kku.ac.th/trainingnews/stdlab/127227/",
       "outlet": "เว็บไซต์คณะ",
@@ -310,14 +321,14 @@
       "imageSrc": "https://copa.kku.ac.th/wp-content/uploads/2026/09/ขยายรับสมัครอาจารย์-1-819x1024.webp"
     },
     {
-      "title": "โรงพยาบาลขอนแก่น ต้อนรับคณะเภสัชศาสตร์ มหาวิทยาลัยขอนแก่น และนักศึกษาเภสัชศาสตร์จากประเทศญี่ปุ่น",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPX2dXZlIyR3drWEQwYXpvb2lKZ19keUxtSXZHWGUwTnNTSElobzczTVZkUC1FeWEwNTVWYzdPRDVucUxlWmtVRXdKQnFWNnR2NEszdXA0N21FNG95SXo0cTBiQ0s5UE5RcURyQWsxa0tnLTJ0TmItck9Oem5VYVQtbV9kY1hSaWxhRUhrNElhX002aTdseEhIYWdqMldqMGpoa09zT1czVG43czJpakM4Q0MyX3BvX3lXWVpmX3ZzRDBLdTVQdEgyS2xMS2NpNndnc3hHcU1jM1JfY3h3RmdQbm5Wa09RMWQzbk1TSk5YclF3MGU1V0JjbloxWS1hRDhlamdVX0dHS1JJekJrUUN6R0h6emNUZmF4N1hMYXV3?oc=5",
-      "outlet": "สำนักสารนิเทศ สำนักงานปลัดกระทรวงสาธารณสุข",
-      "publishedAt": "2026-09-25T05:50:14.000Z",
-      "sourceId": "pharm",
-      "category": "คณะเภสัชศาสตร์",
+      "title": "ศึกษาศาสตร์ มข. จับมือ มรภ.หมู่บ้านจอมบึง ขับเคลื่อนโครงการ “สานสัมพันธ์ครูรัก(ษ์)ถิ่น” เชื่อมพลังเครือข่ายนักศึกษาครู มุ่งพัฒนานวัตกรรมและสร้างความยั่งยืนสู่ชุมชนท้องถิ่น - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE94cHBSVS1kZmlEV2ExREFBaEVqMF9VVGk5T0dRMVlGbElXbDJUZ3k0UUxzN0dLRVdCQnBNSF9xNHBuZGVVMUJj?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-25T07:00:00.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
       "image": null,
-      "topic": "activity",
+      "topic": "research",
       "imageSrc": null
     },
     {
@@ -2622,7 +2633,7 @@
     {
       "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "outlet": "khonkaenlink.info",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -4652,17 +4663,6 @@
       "category": "คณะเภสัชศาสตร์",
       "image": null,
       "topic": "other",
-      "imageSrc": null
-    },
-    {
-      "title": "ดร.สุนทร – คุณอารยา ร่วมงาน วันสถาปนา วิทยาลัยบัณฑิตศึกษาการจัดการ MBA KKU ครบรอบ 30 ปี",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBReFNIVmV0OWtSYk5pV2Vpa0VORlpKS0MxVzJiT0FMLTJ5Z3lpZ0RHWXgyQXo2M2JUdDlrUHhlQWRpa1V0YkhfOWZLckdaNjdJYmMzVkt3?oc=5",
-      "outlet": "LINE TODAY",
-      "publishedAt": "2023-09-13T07:00:00.000Z",
-      "sourceId": "cbs",
-      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
-      "image": null,
-      "topic": "study",
       "imageSrc": null
     }
   ]
