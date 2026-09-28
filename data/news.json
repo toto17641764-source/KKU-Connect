@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T18:47:49.692Z",
+  "updatedAt": "2026-09-28T23:59:42.008Z",
   "sources": [
     {
       "id": "med",
@@ -563,6 +563,17 @@
       "imageSrc": null
     },
     {
+      "title": "บัณฑิตวิทยาลัย จัดโครงการ “GS Service Excellence 2026” ยกระดับบุคลิกภาพและการบริการบุคลากรสู่มาตรฐานมืออาชีพ",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1mM2VUTnVRYlRiTlJOSHdMZzVyUy1SY19Wazh5YXVVVk1RNVdDWXdEVlBWR2RHQ0JVdHdJSVpWcHowMGhORkpz?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-12T22:53:57.000Z",
+      "sourceId": "gs",
+      "category": "บัณฑิตวิทยาลัย",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
+    },
+    {
       "title": "เปิดโลกวิทยาศาสตร์เสริมประสบการณ์ให้กับนักเรียน 523 คน จาก 5 โรงเรียนสู่ห้อง LAB คณะวิทยาศาสตร์ มข.",
       "link": "https://sc.kku.ac.th/trainingnews/stdlab/125064/",
       "outlet": "เว็บไซต์คณะ",
@@ -693,17 +704,6 @@
       "image": "assets/news/a0e430cb0b4e100f.jpg",
       "topic": "scholarship",
       "imageSrc": "https://kkbs.kku.ac.th/wp/wp-content/uploads/2026/09/31082026-.-3-1024x682.jpg"
-    },
-    {
-      "title": "บัณฑิตวิทยาลัย จัดโครงการ “GS Service Excellence 2026” ยกระดับบุคลิกภาพและการบริการบุคลากรสู่มาตรฐานมืออาชีพ",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1mM2VUTnVRYlRiTlJOSHdMZzVyUy1SY19Wazh5YXVVVk1RNVdDWXdEVlBWR2RHQ0JVdHdJSVpWcHowMGhORkpz?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-09-08T09:52:56.000Z",
-      "sourceId": "gs",
-      "category": "บัณฑิตวิทยาลัย",
-      "image": null,
-      "topic": "other",
-      "imageSrc": null
     },
     {
       "title": "คณะเกษตรศาสตร์ มข. ให้การต้อนรับคณาจารย์และนักศึกษาจาก University of the Ryukyus ประเทศญี่ปุ่น",
@@ -1500,7 +1500,7 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -2633,7 +2633,7 @@
     {
       "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "khonkaenlink.info",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
