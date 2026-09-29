@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T11:38:10.463Z",
+  "updatedAt": "2026-09-29T17:04:30.577Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,17 @@
   ],
   "items": [
     {
+      "title": "คณะเกษตรศาสตร์ มข. ต้อนรับผู้แทนจาก Weihenstephan-Triesdorf University of Applied Sciences เยอรมนี เดินหน้าความร่วมมือทางวิชาการและการแลกเปลี่ยนนักศึกษา - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5TUkhqczR0SzlXMjcwMUhMUjVSUF93WXZTZWJVS3VZOEJCRG1SOFkyRXU3QVBlQmlHMW1BTXBoMUR5U1hVSkZr?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-29T07:43:34.000Z",
+      "sourceId": "agri",
+      "category": "คณะเกษตรศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
       "title": "ศ.ดร.ทพ.จรินทร์ ปภังกรกิจ คว้ารางวัล “หม่อมงามจิตต์ บุรฉัตร บุคคลสำคัญของโลก” ด้านการส่งเสริมคุณธรรมและจริยธรรมนักศึกษา",
       "link": "https://dentistry.kku.ac.th/30481?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%2599%25e0%25b8%2597%25e0%25b8%259e-%25e0%25b8%25ad%25e0%25b8%25b4%25e0%25b8%25aa%25e0%25b8%25a3%25e0%25b8%25b2%25e0%25b8%25a0%25e0%25b8%25a3%25e0%25b8%2593%25e0%25b9%258c-%25e0%25b8%25a8%25e0%25b8%25b8%25e0%25b8%25a0%25e0%25b8%25ad%25e0%25b8%25b1%25e0%25b8%2581%25e0%25b8%25a9%25e0%25b8%25a3-%25e0%25b8%2599-2",
       "outlet": "เว็บไซต์คณะ",
@@ -283,6 +294,17 @@
       "publishedAt": "2026-09-29T02:14:41.000Z",
       "sourceId": "dent",
       "category": "คณะทันตแพทยศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "โรงพยาบาลขอนแก่น ต้อนรับคณะเภสัชศาสตร์ มหาวิทยาลัยขอนแก่น และนักศึกษาเภสัชศาสตร์จากประเทศญี่ปุ่น",
+      "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNRDY5Mm1SVDhnUXJ2Wlhsdl9IdVByN1lpQ00tenpIUXdwcFQzelZtcHAwN280Z0czWGt2Wml2dm9aZmhSREd5ZXlzRXNLcWdzcmphUWtidEFaUGZmc2RjSFE2elpLVEs3dFJRSXBLODRqdjJVc1NkQnlrNnhKVHhqSk4yUW5tMjJXRGxReldTWUg1bGNBM1NSTTByaXBaV3J2VlZvdjVHcG5IOXIwWG96MjZreVJFMV9IUHRZMjBkYmFUbzFoZ0ttdE1JX3ZVc0tnaFgyT1d1QkZIbk5JWkJnNGNnbERLY1BkWmdRNlpwZGNrMUljNGxSb05FclY1U1ZHa1BQSjk4NnFaVUktdTUtUVd4cHlkcnNFZWtKSWZEd1ZrdjNZRTRUbElBUDJDYjBNMEJjaURDbUVZcUxaZFZoU1BWN05iZUhSMnhycGxrblVmdUczTm1HN3U2NVNaOXhrVDc4M280OXJxaG1KMFE?oc=5",
+      "outlet": "สำนักสารนิเทศ สำนักงานปลัดกระทรวงสาธารณสุข",
+      "publishedAt": "2026-09-28T23:18:14.000Z",
+      "sourceId": "pharm",
+      "category": "คณะเภสัชศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -308,17 +330,6 @@
       "image": "assets/news/1d8d4b9af572d26d.jpg",
       "topic": "research",
       "imageSrc": "https://ednet.kku.ac.th/wp-content/uploads/2026/09/EDKKU2026-09-25-รภช-บ้านจอมบึง-1-of-1.jpg"
-    },
-    {
-      "title": "โรงพยาบาลขอนแก่น ต้อนรับคณะเภสัชศาสตร์ มหาวิทยาลัยขอนแก่น และนักศึกษาเภสัชศาสตร์จากประเทศญี่ปุ่น",
-      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOTDFDbjU0bGU2TlN1Yk9iZ0MxQjBwUl9PVzBRRko4clFXcy1wSm9YcUFzOWRCLU0yTHFDLTd2SjRXSFU0bFRVbHp0dy1BNG1RWjlMbkRFQVpDUlJORjNpZE50bGtMNHFIb0h1MTJfTnB1NEJuOU9HNjlMc0FtbDU1OWlaOEJzbWc3Qnl2M1ByZGFfMnhQdjFDcG9xWVJwZzd0ZkJXLXdRR1VJZ3NxOWJRcWJrMVVndmVfYXU4dFN5a0l1Y3pwLUNkazVIdXkwVzlMcFd6dURILW9hRS12a2FpU3JnVzZERUd1djNvQ0tFalNzUXFybmVJSV9jaF9oRkhCVjJETVNhQnllbmtfaTI1SS1BVEw4aG5MczNHeVhxV0x3UzF2Q2FXT3h6bG1ZZWZoVXByNG92YzVOMTd5QXdtX3dKaw?oc=5",
-      "outlet": "สำนักสารนิเทศ สำนักงานปลัดกระทรวงสาธารณสุข",
-      "publishedAt": "2026-09-27T23:04:20.000Z",
-      "sourceId": "pharm",
-      "category": "คณะเภสัชศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
     },
     {
       "title": "เปิดประสบการณ์วิทยาศาสตร์เชิงลึก! คณะวิทยาศาสตร์ มข. ชวนนักเรียน 145 คน จาก 2 โรงเรียน เรียนรู้จุลินทรีย์ ดีเอ็นเอ ชีวเคมี และฟิสิกส์",
@@ -629,23 +640,23 @@
       "imageSrc": null
     },
     {
-      "title": "วิทยาลัยการคอมพิวเตอร์ มข. จับมือ OIT ประเทศญี่ปุ่น เปิดเวิร์กชอป PBL พัฒนาเกม เสริมการเรียนรู้และการทำงานข้ามวัฒนธรรม - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9WUU1zWFRIc2lRZTFDYU1FU09rLVh1UXFQOUZWM2RvRlNPd1JJaHhiSXphNE9raUtHRE1GWEJoNDdHal8xTnJN?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-09-11T07:00:00.000Z",
-      "sourceId": "cp",
-      "category": "วิทยาลัยการคอมพิวเตอร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "มนุษยศาสตร์ฯ มข. จัดแข่งขันวิชาการและศิลปวัฒนธรรมภาษาตะวันออก ครั้งที่ 4 เปิดพื้นที่เยาวชนอีสานกว่า 1000 คน ส่งเสริมทักษะภาษาจีน-ญี่ปุ่น-เกาหลี - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5lVHhVdDFhaUR6aGdtUGtyOE1JTUJMZjZfV2dSNUFCU3RRREhuUFBnbEVBcWlWcFpLdU9rcjZhTFhkcjk5SUkw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-09-11T07:00:00.000Z",
       "sourceId": "hs",
       "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "วิทยาลัยการคอมพิวเตอร์ มข. จับมือ OIT ประเทศญี่ปุ่น เปิดเวิร์กชอป PBL พัฒนาเกม เสริมการเรียนรู้และการทำงานข้ามวัฒนธรรม - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9WUU1zWFRIc2lRZTFDYU1FU09rLVh1UXFQOUZWM2RvRlNPd1JJaHhiSXphNE9raUtHRE1GWEJoNDdHal8xTnJN?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-11T07:00:00.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -1533,7 +1544,7 @@
     {
       "title": "มาแล้ว! เกณฑ์ TCAS70 แพทยศาสตร์ ม.ขอนแก่น ครบทุกรอบ รวม 288 ที่นั่ง",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RSnB3RnU4RTFwalFpaWxyRFJBOWJQalN5UndCV2NDRW42Q1dFSFJCeGhxYm9HdGprcFVSS0xhQl9HRE5Ca2VPdg?oc=5",
-      "outlet": "Dek-D.com",
+      "outlet": "dek-d.com",
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
@@ -2402,7 +2413,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "มติชนออนไลน์",
+      "outlet": "Matichon Online",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -3896,6 +3907,17 @@
       "imageSrc": null
     },
     {
+      "title": "คณะพยาบาลศาสตร์ มข. จัดอบรมวิชาการเทคนิคการดูแลผู้ป่วยหัวใจและหลอดเลือด รุ่นที่ 22 ยกระดับสมรรถนะพยาบาลสู่มาตรฐานสากล - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBsdlBSd2swTFVSajBLaEdFc0xPRXY0VzdBcUdxRVp5eU1DcUxUc014d01rVVlTMHBXOFh1Njh5UnRfRmNpaGsw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-11-28T08:00:00.000Z",
+      "sourceId": "nurse",
+      "category": "คณะพยาบาลศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
       "title": "บัณฑิตวิทยาลัย มหาวิทยาลัยขอนแก่น ครบรอบ 47 ปี จัดพิธีทำบุญเพื่อความเป็นสิริมงคลและรำลึกถึงความเป็นมาของสถาบัน - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0ZGduS19lYUdxdXFTMTJCSTRwVHRMMm1ob29uMVdFVE5LeC1Ob2JQN3NMRnQwaTlCblBwM1RtTnVyN1FfNVRv?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -4641,28 +4663,6 @@
       "category": "บัณฑิตวิทยาลัย",
       "image": null,
       "topic": "research",
-      "imageSrc": null
-    },
-    {
-      "title": "เช็กเลย! ลำดับคณะ-วิทยาลัย รับปริญญา มข. 18-19 ธ.ค.นี้ พร้อมกำหนดการและคู่มือฝึกซ้อมโดยละเอียด",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBtTFl6SlZ1QXFucVVieU9rekZvUHROUWMzdzRSMmd1amoxUm0yakFmMlZvTmZ4TjhMdUFFWVM1OS0waHR1Q1dR?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2024-12-13T08:00:00.000Z",
-      "sourceId": "ph",
-      "category": "คณะสาธารณสุขศาสตร์",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "มข. ลงพื้นที่ให้บริการดูแลสัตว์เลี้ยงฉีดวัคซีนสุนัขและแมว สร้างความปลอดภัยในชุมชน",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9GR2pBaHlIb2F4bzZJWVhvNFZySlhYQ1ZvWmZYeTUwcVN5akpsWDRmVFRNdGJqRU9RWS1DYkp0RjNieHQtaG9z?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2024-06-24T07:00:00.000Z",
-      "sourceId": "vet",
-      "category": "คณะสัตวแพทยศาสตร์",
-      "image": null,
-      "topic": "other",
       "imageSrc": null
     }
   ]
