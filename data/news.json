@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T07:33:00.495Z",
+  "updatedAt": "2026-09-30T14:16:55.177Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,17 @@
   ],
   "items": [
     {
+      "title": "ประกาศคณะวิทยาศาสตร์ (ฉบับที่ 145/2569) เรื่อง ประกาศรายชื่อผู้ได้รับสิทธิ์ใช้พื้นที่ ผู้ประกอบการประเภทร้านค้าภายใน Science Square ครั้งที่ 2/2569",
+      "link": "https://kku.world/oc3lpe#new_tab",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-30T09:35:45.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "announce",
+      "imageSrc": null
+    },
+    {
       "title": "คณะเกษตรศาสตร์ มข. ร่วมกับ สสก.4 ขอนแก่น จัด Open House เปิดบ้านวิชาการงานส่งเสริมการเกษตร ประจำปี 2569 ขับเคลื่อนความร่วมมือด้านการเรียนการสอน วิจัย และส่งเสริมการเกษตร - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9pOU9KbGpVU2xyYkUzdmRiMHc5bzFhMGRCQUIxM2tKSThRU2dJSE5CVzR3WUFOSTdiSVhuYnBWMG9KSUdrYnow?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -312,7 +323,7 @@
     {
       "title": "โรงพยาบาลขอนแก่น ต้อนรับคณะเภสัชศาสตร์ มหาวิทยาลัยขอนแก่น และนักศึกษาเภสัชศาสตร์จากประเทศญี่ปุ่น",
       "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNRDY5Mm1SVDhnUXJ2Wlhsdl9IdVByN1lpQ00tenpIUXdwcFQzelZtcHAwN280Z0czWGt2Wml2dm9aZmhSREd5ZXlzRXNLcWdzcmphUWtidEFaUGZmc2RjSFE2elpLVEs3dFJRSXBLODRqdjJVc1NkQnlrNnhKVHhqSk4yUW5tMjJXRGxReldTWUg1bGNBM1NSTTByaXBaV3J2VlZvdjVHcG5IOXIwWG96MjZreVJFMV9IUHRZMjBkYmFUbzFoZ0ttdE1JX3ZVc0tnaFgyT1d1QkZIbk5JWkJnNGNnbERLY1BkWmdRNlpwZGNrMUljNGxSb05FclY1U1ZHa1BQSjk4NnFaVUktdTUtUVd4cHlkcnNFZWtKSWZEd1ZrdjNZRTRUbElBUDJDYjBNMEJjaURDbUVZcUxaZFZoU1BWN05iZUhSMnhycGxrblVmdUczTm1HN3U2NVNaOXhrVDc4M280OXJxaG1KMFE?oc=5",
-      "outlet": "pr.moph.go.th",
+      "outlet": "สำนักสารนิเทศ สำนักงานปลัดกระทรวงสาธารณสุข",
       "publishedAt": "2026-09-28T23:18:14.000Z",
       "sourceId": "pharm",
       "category": "คณะเภสัชศาสตร์",
@@ -2424,7 +2435,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "มติชนออนไลน์",
+      "outlet": "Matichon Online",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -2524,7 +2535,7 @@
       "title": "อุทยานวิทยาศาสตร์ มข. เปิดเวที University Selection คัดเลือกสตาร์ทอัพนักศึกษา ผลักดันไอเดียนวัตกรรมสู่การแข่งขันเวทีนานาชาติระดับภูมิภาค - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB6a2JPd3Zpa0JpblpUTno5NW96dUVudngyYVF2SGg4Y1lrVWZfdzViRnNGMDlxNC1pZ3gzV01pUGw1MjBkUUNV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-05-29T07:18:08.000Z",
+      "publishedAt": "2026-05-29T09:07:52.000Z",
       "sourceId": "ic",
       "category": "วิทยาลัยนานาชาติ",
       "image": null,
@@ -4652,17 +4663,6 @@
       "category": "วิทยาลัยการปกครองท้องถิ่น",
       "image": null,
       "topic": "scholarship",
-      "imageSrc": null
-    },
-    {
-      "title": "การสอบสัมภาษณ์ รอบที่ 2 แบบออนไลน์",
-      "link": "https://apds.kku.ac.th/post/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%aa%e0%b8%ad%e0%b8%9a%e0%b8%aa%e0%b8%b1%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%a9%e0%b8%93%e0%b9%8c-%e0%b8%a3%e0%b8%ad%e0%b8%9a%e0%b8%97%e0%b8%b5%e0%b9%88-2-%e0%b9%81/",
-      "outlet": "เว็บไซต์คณะ",
-      "publishedAt": "2025-04-02T04:21:40.000Z",
-      "sourceId": "arch",
-      "category": "คณะสถาปัตยกรรมศาสตร์",
-      "image": null,
-      "topic": "study",
       "imageSrc": null
     }
   ]
