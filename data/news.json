@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T14:16:55.177Z",
+  "updatedAt": "2026-09-30T20:21:11.016Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,17 @@
   ],
   "items": [
     {
+      "title": "นักศึกษาบัณฑิตศึกษา คณิตศาสตร์ มข. คว้า 2 รางวัลนำเสนอผลงานยอดเยี่ยมระดับนานาชาติ",
+      "link": "https://sc.kku.ac.th/studentnews/127638/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-09-30T15:10:21.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
       "title": "ประกาศคณะวิทยาศาสตร์ (ฉบับที่ 145/2569) เรื่อง ประกาศรายชื่อผู้ได้รับสิทธิ์ใช้พื้นที่ ผู้ประกอบการประเภทร้านค้าภายใน Science Square ครั้งที่ 2/2569",
       "link": "https://kku.world/oc3lpe#new_tab",
       "outlet": "เว็บไซต์คณะ",
@@ -323,7 +334,7 @@
     {
       "title": "โรงพยาบาลขอนแก่น ต้อนรับคณะเภสัชศาสตร์ มหาวิทยาลัยขอนแก่น และนักศึกษาเภสัชศาสตร์จากประเทศญี่ปุ่น",
       "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNRDY5Mm1SVDhnUXJ2Wlhsdl9IdVByN1lpQ00tenpIUXdwcFQzelZtcHAwN280Z0czWGt2Wml2dm9aZmhSREd5ZXlzRXNLcWdzcmphUWtidEFaUGZmc2RjSFE2elpLVEs3dFJRSXBLODRqdjJVc1NkQnlrNnhKVHhqSk4yUW5tMjJXRGxReldTWUg1bGNBM1NSTTByaXBaV3J2VlZvdjVHcG5IOXIwWG96MjZreVJFMV9IUHRZMjBkYmFUbzFoZ0ttdE1JX3ZVc0tnaFgyT1d1QkZIbk5JWkJnNGNnbERLY1BkWmdRNlpwZGNrMUljNGxSb05FclY1U1ZHa1BQSjk4NnFaVUktdTUtUVd4cHlkcnNFZWtKSWZEd1ZrdjNZRTRUbElBUDJDYjBNMEJjaURDbUVZcUxaZFZoU1BWN05iZUhSMnhycGxrblVmdUczTm1HN3U2NVNaOXhrVDc4M280OXJxaG1KMFE?oc=5",
-      "outlet": "สำนักสารนิเทศ สำนักงานปลัดกระทรวงสาธารณสุข",
+      "outlet": "pr.moph.go.th",
       "publishedAt": "2026-09-28T23:18:14.000Z",
       "sourceId": "pharm",
       "category": "คณะเภสัชศาสตร์",
@@ -662,23 +673,23 @@
       "imageSrc": null
     },
     {
-      "title": "มนุษยศาสตร์ฯ มข. จัดแข่งขันวิชาการและศิลปวัฒนธรรมภาษาตะวันออก ครั้งที่ 4 เปิดพื้นที่เยาวชนอีสานกว่า 1000 คน ส่งเสริมทักษะภาษาจีน-ญี่ปุ่น-เกาหลี - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5lVHhVdDFhaUR6aGdtUGtyOE1JTUJMZjZfV2dSNUFCU3RRREhuUFBnbEVBcWlWcFpLdU9rcjZhTFhkcjk5SUkw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-09-11T07:00:00.000Z",
-      "sourceId": "hs",
-      "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "วิทยาลัยการคอมพิวเตอร์ มข. จับมือ OIT ประเทศญี่ปุ่น เปิดเวิร์กชอป PBL พัฒนาเกม เสริมการเรียนรู้และการทำงานข้ามวัฒนธรรม - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9WUU1zWFRIc2lRZTFDYU1FU09rLVh1UXFQOUZWM2RvRlNPd1JJaHhiSXphNE9raUtHRE1GWEJoNDdHal8xTnJN?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-09-11T07:00:00.000Z",
       "sourceId": "cp",
       "category": "วิทยาลัยการคอมพิวเตอร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "มนุษยศาสตร์ฯ มข. จัดแข่งขันวิชาการและศิลปวัฒนธรรมภาษาตะวันออก ครั้งที่ 4 เปิดพื้นที่เยาวชนอีสานกว่า 1000 คน ส่งเสริมทักษะภาษาจีน-ญี่ปุ่น-เกาหลี - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5lVHhVdDFhaUR6aGdtUGtyOE1JTUJMZjZfV2dSNUFCU3RRREhuUFBnbEVBcWlWcFpLdU9rcjZhTFhkcjk5SUkw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-11T07:00:00.000Z",
+      "sourceId": "hs",
+      "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -2435,7 +2446,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "Matichon Online",
+      "outlet": "มติชนออนไลน์",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -4652,17 +4663,6 @@
       "category": "คณะสัตวแพทยศาสตร์",
       "image": null,
       "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "วิทยาลัยการปกครองท้องถิ่น ม.ขอนแก่น โดยสโมสร นศ. จัดมหกรรม “COLA Academic Tournaments 2024” ครั้งที่ 2 มอบทุนการศึกษารวมกว่า 48,000 บาท พร้อมโล่และเกียรติบัตร - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0yMmdURkRnVE83WC1VOGJkMVpxLUxycTFEZ1g2VE9VNjJBN3JRTjNHdGdvRUtlbE9zQ09ncEFEc256MjJmUTNJ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-05-05T11:35:52.000Z",
-      "sourceId": "cola",
-      "category": "วิทยาลัยการปกครองท้องถิ่น",
-      "image": null,
-      "topic": "scholarship",
       "imageSrc": null
     }
   ]
