@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T20:21:11.016Z",
+  "updatedAt": "2026-10-01T00:52:36.633Z",
   "sources": [
     {
       "id": "med",
@@ -334,7 +334,7 @@
     {
       "title": "โรงพยาบาลขอนแก่น ต้อนรับคณะเภสัชศาสตร์ มหาวิทยาลัยขอนแก่น และนักศึกษาเภสัชศาสตร์จากประเทศญี่ปุ่น",
       "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNRDY5Mm1SVDhnUXJ2Wlhsdl9IdVByN1lpQ00tenpIUXdwcFQzelZtcHAwN280Z0czWGt2Wml2dm9aZmhSREd5ZXlzRXNLcWdzcmphUWtidEFaUGZmc2RjSFE2elpLVEs3dFJRSXBLODRqdjJVc1NkQnlrNnhKVHhqSk4yUW5tMjJXRGxReldTWUg1bGNBM1NSTTByaXBaV3J2VlZvdjVHcG5IOXIwWG96MjZreVJFMV9IUHRZMjBkYmFUbzFoZ0ttdE1JX3ZVc0tnaFgyT1d1QkZIbk5JWkJnNGNnbERLY1BkWmdRNlpwZGNrMUljNGxSb05FclY1U1ZHa1BQSjk4NnFaVUktdTUtUVd4cHlkcnNFZWtKSWZEd1ZrdjNZRTRUbElBUDJDYjBNMEJjaURDbUVZcUxaZFZoU1BWN05iZUhSMnhycGxrblVmdUczTm1HN3U2NVNaOXhrVDc4M280OXJxaG1KMFE?oc=5",
-      "outlet": "pr.moph.go.th",
+      "outlet": "สำนักสารนิเทศ สำนักงานปลัดกระทรวงสาธารณสุข",
       "publishedAt": "2026-09-28T23:18:14.000Z",
       "sourceId": "pharm",
       "category": "คณะเภสัชศาสตร์",
@@ -2446,7 +2446,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "มติชนออนไลน์",
+      "outlet": "Matichon Online",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -3242,6 +3242,17 @@
       "publishedAt": "2026-03-16T08:34:08.000Z",
       "sourceId": "hs",
       "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "สำนักบริการวิชาการ มข. จัดอบรม EdPEx In-House Training เสริมศักยภาพผู้บริหาร คณะสารสนเทศและการสื่อสาร มหาวิทยาลัยแม่โจ้ วางรากฐานองค์กรสู่ความเป็นเลิศ - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtZ1VnYXNOeFdXdElJNnltWi1FSWs3TjBXQ1NHOE1FVXRqdmtKSWNBY3MxQlpxaWIyRVFNSDFCOW1lbzdpY21n?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-03-16T08:33:58.000Z",
+      "sourceId": "gs",
+      "category": "บัณฑิตวิทยาลัย",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -4652,17 +4663,6 @@
       "category": "คณะพยาบาลศาสตร์",
       "image": null,
       "topic": "other",
-      "imageSrc": null
-    },
-    {
-      "title": "admissionpremium-สายสัตวแพทย์ต้องรู้! มาส่อง เกณฑ์ Portfolio คณะสัตวแพทยศาสตร์ 6 มหาวิทยาลัยดัง !",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBQVnd3bFFIZXNKVlk4TE9EczJUUG5SSlBaR0V2UVkyMjVCWkZvNEFHVlV2SDB5MXRaR21zcjZsZlBIQkF1cDZZ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-05-05T13:17:15.000Z",
-      "sourceId": "vet",
-      "category": "คณะสัตวแพทยศาสตร์",
-      "image": null,
-      "topic": "study",
       "imageSrc": null
     }
   ]
