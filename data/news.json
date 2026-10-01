@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T14:51:09.538Z",
+  "updatedAt": "2026-10-01T20:36:29.751Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,17 @@
   ],
   "items": [
     {
+      "title": "คณะวิศวกรรมศาสตร์ มข. ผลักดันนักศึกษาสู่เวทีวิจัยนานาชาติ ร่วมสร้าง Sports Innovation ร่วมญี่ปุ่น",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9JOHJ2bUJtSlNzVGM3SmpWNUpoR3hTbXFyTE5QangyN0JuTDZBa0hFNHJOcE5mQ1hZa2xpN2pzekp3WW9BZkNR?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-10-01T06:42:24.000Z",
+      "sourceId": "eng",
+      "category": "คณะวิศวกรรมศาสตร์",
+      "image": null,
+      "topic": "research",
+      "imageSrc": null
+    },
+    {
       "title": "คณะวิศวฯ มข. ร่วมมือ MOU กับ บมจ.ยูนิค เอ็นจิเนียริ่ง แอนด์ คอนสตรัคชั่น มุ่งสนับสนุนการฝึกงานและสหกิจศึกษา",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9TMXJkakRFSVcyQWx4ZmpTM0kxU3Z3aTZTNF81V1p4bVUxU2tNMThZR1A1UU5DbE55Vms2WWdGeGdpdFNqdWxF?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -307,6 +318,17 @@
       "category": "คณะวิทยาศาสตร์",
       "image": null,
       "topic": "announce",
+      "imageSrc": null
+    },
+    {
+      "title": "งานแถลงข่าวการประกวดดนตรีและมาร์ชชิ่งอาร์ทสากล “Thailand KKU Open 2026” ชิงถ้วยพระราชทานพระบาทสมเด็จพระเจ้าอยู่หัว",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQb25zRzN3RkIzMHh1bVNudTNxYjE0SDhwY2NHTE9jcHJxcFNkY1l5cnFzQkRZQi1mUG96MEhlRVRaUGI4STZyWkxvclBQTG4xVkUxZVMtdjVtWUZYZFpRTzIwV2FuMkI4ZmQ5azktVWttTk5QdGt5TmlnQ0xoclZlRFRKQzVoQW0weER2V2h2RGpJMkNpZHJ3UXl2X3ZIandCT1BVT3N6enhZWWFpNXBjVDA2ZkVQQ25QTElzaE0zM0lkT21WbkpLaXZmN0I2U0xoV0hpZ3dPU1VnODhZektJejRUOHlZQmoxTkl0dEFtNVVtdUY4anRRMUsySmVrSzd1eHpqdGtZVnpNRmYzbXVrT1FVcC1qZFNIeTBDa2h5VWVmZ1c0R203OWlTUU15X1RHdmVFXzZnS1E2TWttUGZCS3cwUjJYV0ZpdGp5LXpuNA?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-30T05:29:05.000Z",
+      "sourceId": "fa",
+      "category": "คณะศิลปกรรมศาสตร์",
+      "image": null,
+      "topic": "activity",
       "imageSrc": null
     },
     {
@@ -695,23 +717,23 @@
       "imageSrc": null
     },
     {
+      "title": "มนุษยศาสตร์ฯ มข. จัดแข่งขันวิชาการและศิลปวัฒนธรรมภาษาตะวันออก ครั้งที่ 4 เปิดพื้นที่เยาวชนอีสานกว่า 1000 คน ส่งเสริมทักษะภาษาจีน-ญี่ปุ่น-เกาหลี - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5lVHhVdDFhaUR6aGdtUGtyOE1JTUJMZjZfV2dSNUFCU3RRREhuUFBnbEVBcWlWcFpLdU9rcjZhTFhkcjk5SUkw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-11T07:00:00.000Z",
+      "sourceId": "hs",
+      "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
       "title": "วิทยาลัยการคอมพิวเตอร์ มข. จับมือ OIT ประเทศญี่ปุ่น เปิดเวิร์กชอป PBL พัฒนาเกม เสริมการเรียนรู้และการทำงานข้ามวัฒนธรรม - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9WUU1zWFRIc2lRZTFDYU1FU09rLVh1UXFQOUZWM2RvRlNPd1JJaHhiSXphNE9raUtHRE1GWEJoNDdHal8xTnJN?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-09-11T07:00:00.000Z",
       "sourceId": "cp",
       "category": "วิทยาลัยการคอมพิวเตอร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "มนุษยศาสตร์ฯ มข. จัดแข่งขันวิชาการและศิลปวัฒนธรรมภาษาตะวันออก ครั้งที่ 4 เปิดพื้นที่เยาวชนอีสานกว่า 1000 คน ส่งเสริมทักษะภาษาจีน-ญี่ปุ่น-เกาหลี - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5lVHhVdDFhaUR6aGdtUGtyOE1JTUJMZjZfV2dSNUFCU3RRREhuUFBnbEVBcWlWcFpLdU9rcjZhTFhkcjk5SUkw?oc=5",
-      "outlet": "kku.ac.th",
-      "publishedAt": "2026-09-11T07:00:00.000Z",
-      "sourceId": "hs",
-      "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -4641,28 +4663,6 @@
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
       "image": null,
       "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "TCAS65 คณะแพทยศาสตร์ มหาวิทยาลัยขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5adGE3R2JVME1hcFoxUWtUYWx5cnE0WFN2NFJ1X3RIMU1fblNLY0pObmJyTXpYZE1VeDQyS25GLUpRaEY1ZEE?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-05-06T14:57:34.000Z",
-      "sourceId": "med",
-      "category": "คณะแพทยศาสตร์",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "วิทยาลัยการปกครองท้องถิ่น ม.ขอนแก่น เปิดบ้านต้อนรับอัยการผู้ช่วย รุ่นที่ 66 เปิดมุมมองใหม่ต่อบทบาทองค์กรปกครองส่วนท้องถิ่น - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBoSksxbGNneXhIdTJERE5lS2hJVXBRcHhGRTRWZ3BrMXFlSnA2MTJRaGVJY29RYmZrZ2Ntc2k1eDVUTkZFT1pR?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-05-05T18:34:56.000Z",
-      "sourceId": "cola",
-      "category": "วิทยาลัยการปกครองท้องถิ่น",
-      "image": null,
-      "topic": "activity",
       "imageSrc": null
     }
   ]
