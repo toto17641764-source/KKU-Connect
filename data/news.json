@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T20:11:28.353Z",
+  "updatedAt": "2026-10-03T00:46:33.617Z",
   "sources": [
     {
       "id": "med",
@@ -266,12 +266,12 @@
   ],
   "items": [
     {
-      "title": "โรงพยาบาลขอนแก่น ต้อนรับคณะเภสัชศาสตร์ มหาวิทยาลัยขอนแก่น และนักศึกษาเภสัชศาสตร์จากประเทศญี่ปุ่น",
-      "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOcXhoT0syUUVWVEttNVJScnROcUwwbG9Ec1gwcXhsRG1nRWxfbVpoZzR6Vl9KVlR2WjlSUHVnWnVWN2RRck9ESmZDUjgtOXNmUTFGa0lid2w5ZF92TVlOb3lJTE5HZHZOdUpkd3oySnh2cW96VFlaUEQ0S0pyOHN0aTRubWZRcXZzMEZoZTRab1FPbjk2YzdLaklYaFFYd3hacEVzaEtIRVIwVVpjTTVZZFNJSU1XSXM3cFVlTmJGWGtSLTdQV241RjltSWp3ZUFYVURGM295N3luV3drSmtPM1VydjRWUHpXQXZ5d1JOcHcwZGVwUlVfT2tBS211aTNrM1k1SVc3TTc0bl9LM1A1ODk2WGl3UkdjYkM0QUJhZko1a0VETzBTTFRzbEpibW5uMUpBMWE3QlpaR0gzdG51STBZQWRiSXVDVHR0dFg1MUQxV0JXS1Iyd1VsMlBZWlo1MTFzV1hvMHkxWGg4b1pKdVFPOFhQaHlsbDlpM2RreU1qX19QdzV1Sm5qT3BIb1VLbF9N?oc=5",
-      "outlet": "สำนักสารนิเทศ",
-      "publishedAt": "2026-10-02T00:28:55.000Z",
-      "sourceId": "pharm",
-      "category": "คณะเภสัชศาสตร์",
+      "title": "คณะทันตแพทยศาสตร์ มข. ขอแสดงความยินดี “อ.ทพญ.ธารพร พิชญธาดา” ศิษย์เก่าทันตแพทย์ รุ่นที่ 41 ในโอกาสได้รับรางวัล “บัณฑิตทันตแพทย์ดีเยี่ยม” ประจำปี 2569 - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1EQnRHcV9lRWVYQnFOZ0l5bU1KZnRIMExMOG01T0dBWWJmMVdKNjlndThVbXJNbFdOVUxXSFNWcHJOeFhIbG9V?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-10-02T11:23:43.000Z",
+      "sourceId": "dent",
+      "category": "คณะทันตแพทยศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -382,6 +382,17 @@
       "publishedAt": "2026-09-29T02:14:41.000Z",
       "sourceId": "dent",
       "category": "คณะทันตแพทยศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "โรงพยาบาลขอนแก่น ต้อนรับคณะเภสัชศาสตร์ มหาวิทยาลัยขอนแก่น และนักศึกษาเภสัชศาสตร์จากประเทศญี่ปุ่น",
+      "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNRDY5Mm1SVDhnUXJ2Wlhsdl9IdVByN1lpQ00tenpIUXdwcFQzelZtcHAwN280Z0czWGt2Wml2dm9aZmhSREd5ZXlzRXNLcWdzcmphUWtidEFaUGZmc2RjSFE2elpLVEs3dFJRSXBLODRqdjJVc1NkQnlrNnhKVHhqSk4yUW5tMjJXRGxReldTWUg1bGNBM1NSTTByaXBaV3J2VlZvdjVHcG5IOXIwWG96MjZreVJFMV9IUHRZMjBkYmFUbzFoZ0ttdE1JX3ZVc0tnaFgyT1d1QkZIbk5JWkJnNGNnbERLY1BkWmdRNlpwZGNrMUljNGxSb05FclY1U1ZHa1BQSjk4NnFaVUktdTUtUVd4cHlkcnNFZWtKSWZEd1ZrdjNZRTRUbElBUDJDYjBNMEJjaURDbUVZcUxaZFZoU1BWN05iZUhSMnhycGxrblVmdUczTm1HN3U2NVNaOXhrVDc4M280OXJxaG1KMFE?oc=5",
+      "outlet": "สำนักสารนิเทศ",
+      "publishedAt": "2026-09-28T23:18:14.000Z",
+      "sourceId": "pharm",
+      "category": "คณะเภสัชศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -4650,17 +4661,6 @@
       "publishedAt": "2025-05-06T22:18:30.000Z",
       "sourceId": "cola",
       "category": "วิทยาลัยการปกครองท้องถิ่น",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "banmuang-“วิทยาลัยบัณฑิตศึกษาการจัดการ มข.”เปิดตัว โปรแกรม MBA Chinese Business Study 3.5+1.5 หลักสูตรปริญญาตรีควบปริญญาโท",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBPMDFieHM1MEV3eDIwYkhQWlZVbTdETFFyVUxEQWZSNE5KRWQtb3ktMi1GNk1WNEdfdWRSdzhlWDY1aTN3TDdB?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-05-06T15:42:40.000Z",
-      "sourceId": "cbs",
-      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
       "image": null,
       "topic": "study",
       "imageSrc": null
