@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T00:46:33.617Z",
+  "updatedAt": "2026-10-03T07:09:10.911Z",
   "sources": [
     {
       "id": "med",
@@ -277,6 +277,17 @@
       "imageSrc": null
     },
     {
+      "title": "โรงพยาบาลขอนแก่น ต้อนรับคณะเภสัชศาสตร์ มหาวิทยาลัยขอนแก่น และนักศึกษาเภสัชศาสตร์จากประเทศญี่ปุ่น",
+      "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOcXhoT0syUUVWVEttNVJScnROcUwwbG9Ec1gwcXhsRG1nRWxfbVpoZzR6Vl9KVlR2WjlSUHVnWnVWN2RRck9ESmZDUjgtOXNmUTFGa0lid2w5ZF92TVlOb3lJTE5HZHZOdUpkd3oySnh2cW96VFlaUEQ0S0pyOHN0aTRubWZRcXZzMEZoZTRab1FPbjk2YzdLaklYaFFYd3hacEVzaEtIRVIwVVpjTTVZZFNJSU1XSXM3cFVlTmJGWGtSLTdQV241RjltSWp3ZUFYVURGM295N3luV3drSmtPM1VydjRWUHpXQXZ5d1JOcHcwZGVwUlVfT2tBS211aTNrM1k1SVc3TTc0bl9LM1A1ODk2WGl3UkdjYkM0QUJhZko1a0VETzBTTFRzbEpibW5uMUpBMWE3QlpaR0gzdG51STBZQWRiSXVDVHR0dFg1MUQxV0JXS1Iyd1VsMlBZWlo1MTFzV1hvMHkxWGg4b1pKdVFPOFhQaHlsbDlpM2RreU1qX19QdzV1Sm5qT3BIb1VLbF9N?oc=5",
+      "outlet": "สำนักสารนิเทศ สำนักงานปลัดกระทรวงสาธารณสุข",
+      "publishedAt": "2026-10-02T00:28:55.000Z",
+      "sourceId": "pharm",
+      "category": "คณะเภสัชศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
       "title": "คณะวิศวกรรมศาสตร์ มข. ผลักดันนักศึกษาสู่เวทีวิจัยนานาชาติ ร่วมสร้าง Sports Innovation ร่วมญี่ปุ่น",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9JOHJ2bUJtSlNzVGM3SmpWNUpoR3hTbXFyTE5QangyN0JuTDZBa0hFNHJOcE5mQ1hZa2xpN2pzekp3WW9BZkNR?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -382,17 +393,6 @@
       "publishedAt": "2026-09-29T02:14:41.000Z",
       "sourceId": "dent",
       "category": "คณะทันตแพทยศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "โรงพยาบาลขอนแก่น ต้อนรับคณะเภสัชศาสตร์ มหาวิทยาลัยขอนแก่น และนักศึกษาเภสัชศาสตร์จากประเทศญี่ปุ่น",
-      "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNRDY5Mm1SVDhnUXJ2Wlhsdl9IdVByN1lpQ00tenpIUXdwcFQzelZtcHAwN280Z0czWGt2Wml2dm9aZmhSREd5ZXlzRXNLcWdzcmphUWtidEFaUGZmc2RjSFE2elpLVEs3dFJRSXBLODRqdjJVc1NkQnlrNnhKVHhqSk4yUW5tMjJXRGxReldTWUg1bGNBM1NSTTByaXBaV3J2VlZvdjVHcG5IOXIwWG96MjZreVJFMV9IUHRZMjBkYmFUbzFoZ0ttdE1JX3ZVc0tnaFgyT1d1QkZIbk5JWkJnNGNnbERLY1BkWmdRNlpwZGNrMUljNGxSb05FclY1U1ZHa1BQSjk4NnFaVUktdTUtUVd4cHlkcnNFZWtKSWZEd1ZrdjNZRTRUbElBUDJDYjBNMEJjaURDbUVZcUxaZFZoU1BWN05iZUhSMnhycGxrblVmdUczTm1HN3U2NVNaOXhrVDc4M280OXJxaG1KMFE?oc=5",
-      "outlet": "สำนักสารนิเทศ",
-      "publishedAt": "2026-09-28T23:18:14.000Z",
-      "sourceId": "pharm",
-      "category": "คณะเภสัชศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -728,23 +728,23 @@
       "imageSrc": null
     },
     {
-      "title": "วิทยาลัยการคอมพิวเตอร์ มข. จับมือ OIT ประเทศญี่ปุ่น เปิดเวิร์กชอป PBL พัฒนาเกม เสริมการเรียนรู้และการทำงานข้ามวัฒนธรรม - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9WUU1zWFRIc2lRZTFDYU1FU09rLVh1UXFQOUZWM2RvRlNPd1JJaHhiSXphNE9raUtHRE1GWEJoNDdHal8xTnJN?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-09-11T07:00:00.000Z",
-      "sourceId": "cp",
-      "category": "วิทยาลัยการคอมพิวเตอร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "มนุษยศาสตร์ฯ มข. จัดแข่งขันวิชาการและศิลปวัฒนธรรมภาษาตะวันออก ครั้งที่ 4 เปิดพื้นที่เยาวชนอีสานกว่า 1000 คน ส่งเสริมทักษะภาษาจีน-ญี่ปุ่น-เกาหลี - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5lVHhVdDFhaUR6aGdtUGtyOE1JTUJMZjZfV2dSNUFCU3RRREhuUFBnbEVBcWlWcFpLdU9rcjZhTFhkcjk5SUkw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-09-11T07:00:00.000Z",
       "sourceId": "hs",
       "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "วิทยาลัยการคอมพิวเตอร์ มข. จับมือ OIT ประเทศญี่ปุ่น เปิดเวิร์กชอป PBL พัฒนาเกม เสริมการเรียนรู้และการทำงานข้ามวัฒนธรรม - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9WUU1zWFRIc2lRZTFDYU1FU09rLVh1UXFQOUZWM2RvRlNPd1JJaHhiSXphNE9raUtHRE1GWEJoNDdHal8xTnJN?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-11T07:00:00.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -2501,7 +2501,7 @@
     {
       "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "Matichon Online",
+      "outlet": "มติชนออนไลน์",
       "publishedAt": "2026-06-06T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
