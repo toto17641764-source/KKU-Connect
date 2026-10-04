@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T07:29:03.092Z",
+  "updatedAt": "2026-10-04T13:30:13.424Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,17 @@
     }
   ],
   "items": [
+    {
+      "title": "คณะวิทยาศาสตร์ มข. เปิด LAB ฝึกคิด วิเคราะห์ และใช้เครื่องมือจริง ให้นักเรียน 242 คน จาก 4 โรงเรียน เรียนรู้วิทยาศาสตร์ผ่านการลงมือทำ",
+      "link": "https://sc.kku.ac.th/trainingnews/stdlab/128271/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-10-04T09:02:28.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
+    },
     {
       "title": "คณะทันตแพทยศาสตร์ มข. ขอแสดงความยินดี “อ.ทพญ.ธารพร พิชญธาดา” ศิษย์เก่าทันตแพทย์ รุ่นที่ 41 ในโอกาสได้รับรางวัล “บัณฑิตทันตแพทย์ดีเยี่ยม” ประจำปี 2569 - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1EQnRHcV9lRWVYQnFOZ0l5bU1KZnRIMExMOG01T0dBWWJmMVdKNjlndThVbXJNbFdOVUxXSFNWcHJOeFhIbG9V?oc=5",
@@ -1245,17 +1256,6 @@
       "imageSrc": "https://kkbs.kku.ac.th/wp/wp-content/uploads/2026/08/8-9082026-kkbs-camp-de-10-1024x682.jpg"
     },
     {
-      "title": "วิทยาลัยการคอมพิวเตอร์ มข. จัดงาน \"Computing Fair & CPKKU Open House ครั้งที่ 4\" เปิดเวทีเยาวชนประลองทักษะดิจิทัล พร้อมให้ความรู้หลักสูตรแห่งอนาคต - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpVlYwclJabHJzZnFOSTJFNFVuMUZWTm9qek5YbDVPb2xpU3lxeElJaU1FaFdub0JxV1JEYnF3WFhaSTBwRDRJ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
-      "sourceId": "cp",
-      "category": "วิทยาลัยการคอมพิวเตอร์",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
       "title": "มข. เปิดงานสัปดาห์วิทยาศาสตร์ฯ 2569 ยิ่งใหญ่ จัดเต็ม 3 วัน ชูแนวคิดนวัตกรรมอัจฉริยะเพื่ออนาคตที่ยั่งยืน พร้อมดึงเยาวชนทั่วอีสานร่วมประลองทักษะคับคั่ง - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hWWxOMHQzbjVoeEl5b01neUM0M3FZajE2MU5mZHhqd2VPeE5iaGt5VWJxNkY5ZUtGLXJGYnFFdFc3WlY1Z2lr?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1264,6 +1264,17 @@
       "category": "คณะวิทยาศาสตร์",
       "image": null,
       "topic": "research",
+      "imageSrc": null
+    },
+    {
+      "title": "วิทยาลัยการคอมพิวเตอร์ มข. จัดงาน \"Computing Fair & CPKKU Open House ครั้งที่ 4\" เปิดเวทีเยาวชนประลองทักษะดิจิทัล พร้อมให้ความรู้หลักสูตรแห่งอนาคต - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpVlYwclJabHJzZnFOSTJFNFVuMUZWTm9qek5YbDVPb2xpU3lxeElJaU1FaFdub0JxV1JEYnF3WFhaSTBwRDRJ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
+      "image": null,
+      "topic": "study",
       "imageSrc": null
     },
     {
@@ -2765,7 +2776,7 @@
     {
       "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "khonkaenlink.info",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -4652,17 +4663,6 @@
       "category": "คณะแพทยศาสตร์",
       "image": null,
       "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "วิทยาลัยการปกครองท้องถิ่น ร่วมกับ วิทยาลัยการคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น เปิดรับสมัครนักศึกษาใหม่ระดับบัณฑิตศึกษา ประจำปีการศึกษา 2565 หลักสูตรรัฐประศาสนศาสตรมหาบัณฑิต มุ่งเน้นด้าน Digital Governance - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Dem1lUmJrNzlIYTZhVGU2UXI3eEhxbWZSOURtV3lVaUpOLWxiOUE4WVJnTDJYUkVUYnllLUxXUDJJUTVWbWc?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-05-06T22:18:30.000Z",
-      "sourceId": "cola",
-      "category": "วิทยาลัยการปกครองท้องถิ่น",
-      "image": null,
-      "topic": "study",
       "imageSrc": null
     }
   ]
