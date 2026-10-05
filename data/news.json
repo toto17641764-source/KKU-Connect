@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T00:15:25.174Z",
+  "updatedAt": "2026-10-05T07:45:30.284Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,17 @@
   ],
   "items": [
     {
+      "title": "อ.ทพญ.ธารพร พิชญธาดา” ศิษย์เก่าทันตแพทย์ รุ่นที่ 41 ในโอกาสได้รับรางวัล “บัณฑิตทันตแพทย์ดีเยี่ยม” ประจำปี 2569",
+      "link": "https://dentistry.kku.ac.th/30526?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%25ad-%25e0%25b8%2597%25e0%25b8%259e%25e0%25b8%258d-%25e0%25b8%2598%25e0%25b8%25b2%25e0%25b8%25a3%25e0%25b8%259e%25e0%25b8%25a3-%25e0%25b8%259e%25e0%25b8%25b4%25e0%25b8%258a%25e0%25b8%258d%25e0%25b8%2598%25e0%25b8%25b2%25e0%25b8%2594%25e0%25b8%25b2-%25e0%25b8%25a8%25e0%25b8%25b4%25e0%25b8%25a9",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-10-05T07:21:11.000Z",
+      "sourceId": "dent",
+      "category": "คณะทันตแพทยศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
       "title": "คณะวิทยาศาสตร์ มข. เปิด LAB ฝึกคิด วิเคราะห์ และใช้เครื่องมือจริง ให้นักเรียน 242 คน จาก 4 โรงเรียน เรียนรู้วิทยาศาสตร์ผ่านการลงมือทำ",
       "link": "https://sc.kku.ac.th/trainingnews/stdlab/128271/",
       "outlet": "เว็บไซต์คณะ",
@@ -325,8 +336,8 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNdElPRnFVVUZtQm91dWs1cWFEbE1pNTRBc3lmTG1TWUhid1VmTHNjNnRmcGtBYldsR2pIa1FFaXFkelV6WGtwYUVHbm81WjlJWHgtcmZYLWs2eWZvMGdfMV9wWWFOWTg4Zm5hSENNeGE?oc=5",
       "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-09-30T17:00:00.000Z",
-      "sourceId": "kkbs",
-      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "sourceId": "law",
+      "category": "คณะนิติศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -2787,7 +2798,7 @@
     {
       "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
-      "outlet": "mgronline.com",
+      "outlet": "ผู้จัดการออนไลน์",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -4652,17 +4663,6 @@
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
       "image": null,
       "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะแพทยศาสตร์ มข.จัดกิจกรรมส่งเสริมสุขภาพประชาชน 50 years MDKKU: Mom & Kids Day 2022 ส่งต่อสุขภาพดีจากคุณแม่สู่ลูกน้อย เนื่องในวันแม่แห่งชาติ - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBWYmkzZUEzdl9VeXR6bEN2OG1kTHBXX0tzcUVpeGloUjZCZDBSTjM3UlFvYjQ4VFdWZ255ekVxY3k5UTlJRTJZ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-05-06T23:06:42.000Z",
-      "sourceId": "med",
-      "category": "คณะแพทยศาสตร์",
-      "image": null,
-      "topic": "activity",
       "imageSrc": null
     }
   ]
