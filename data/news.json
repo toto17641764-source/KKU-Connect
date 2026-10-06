@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T10:49:42.237Z",
+  "updatedAt": "2026-10-06T17:27:11.503Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,17 @@
   ],
   "items": [
     {
+      "title": "การ อบรมเชิงปฏิบัติการฟรี!] ล็อกคุณภาพงานวิจัยและผลิตภัณฑ์ด้วยเทคโนโลยี Freeze Drying ขั้นสูง กับเครื่อง SP VirTis Genesis 25L",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNd2tPYm16NmlYVlNLaEJqczFPRFNBbDUyQmlyaDZtQVlPUWdkaXluc3NreDktdVhFUko1T19qcnQtdW5TcWxMdWFFVFFlZHdYT212clNRaUo3SHZ1WUxuazN0MEVEa3c4MEM2cm1WTW5rWUVCZ1BDdTVYa3ZsZm9lRmFDNkhxSG5EQTVxUkR2amhneDV6N216TWdBUXZWY2RlQTBmWjRvQVFESkVIM2d0bDRMU0RYekd6SXdmSDBnM1ZPMjFCbHA4RDRiYnB3YktseXYyZDdXSEpENWxBOXdBQmZRZGI4Nk5KNHNVT21BcHA0aUlLVjNjTENhVVAzQmZ6cTdpR0htZnFZZm5IQnFJbGpGV24zTEhtaTRQVjhDaEVjdnRpWHNLUlNzM0dNT1dfS0RzUkVQcTRKQ0NTX0E3c0FjQWRfNjRZUWtPYWt3WHY?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-10-06T10:25:54.000Z",
+      "sourceId": "tech",
+      "category": "คณะเทคโนโลยี",
+      "image": null,
+      "topic": "research",
+      "imageSrc": null
+    },
+    {
       "title": "คณะศึกษาศาสตร์ มข. ปฐมนิเทศนักศึกษาปฏิบัติการสอน ภาคปลาย ปี 2569 เสริมสมรรถนะวิชาชีพครูตามมาตรฐานคุรุสภา พร้อมออกฝึกปฏิบัติการสอนใน 63 โรงเรียนเครือข่าย",
       "link": "https://ednet.kku.ac.th/news/21161/",
       "outlet": "เว็บไซต์คณะ",
@@ -323,7 +334,7 @@
     {
       "title": "โรงพยาบาลขอนแก่น ต้อนรับคณะเภสัชศาสตร์ มหาวิทยาลัยขอนแก่น และนักศึกษาเภสัชศาสตร์จากประเทศญี่ปุ่น",
       "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOcXhoT0syUUVWVEttNVJScnROcUwwbG9Ec1gwcXhsRG1nRWxfbVpoZzR6Vl9KVlR2WjlSUHVnWnVWN2RRck9ESmZDUjgtOXNmUTFGa0lid2w5ZF92TVlOb3lJTE5HZHZOdUpkd3oySnh2cW96VFlaUEQ0S0pyOHN0aTRubWZRcXZzMEZoZTRab1FPbjk2YzdLaklYaFFYd3hacEVzaEtIRVIwVVpjTTVZZFNJSU1XSXM3cFVlTmJGWGtSLTdQV241RjltSWp3ZUFYVURGM295N3luV3drSmtPM1VydjRWUHpXQXZ5d1JOcHcwZGVwUlVfT2tBS211aTNrM1k1SVc3TTc0bl9LM1A1ODk2WGl3UkdjYkM0QUJhZko1a0VETzBTTFRzbEpibW5uMUpBMWE3QlpaR0gzdG51STBZQWRiSXVDVHR0dFg1MUQxV0JXS1Iyd1VsMlBZWlo1MTFzV1hvMHkxWGg4b1pKdVFPOFhQaHlsbDlpM2RreU1qX19QdzV1Sm5qT3BIb1VLbF9N?oc=5",
-      "outlet": "สำนักสารนิเทศ",
+      "outlet": "สำนักสารนิเทศ สำนักงานปลัดกระทรวงสาธารณสุข",
       "publishedAt": "2026-10-02T00:28:55.000Z",
       "sourceId": "pharm",
       "category": "คณะเภสัชศาสตร์",
@@ -3458,7 +3469,7 @@
     {
       "title": "คณะเกษตรศาสตร์ มข. จัดอบรม “การยกระดับความปลอดภัยในห้องปฏิบัติการตามระบบ ESPReL และการใช้งาน ESPReL Checklist”",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE85NGhjWUcyYXFSLUZmcU9PVjFjQjhfcFVUakE5NVk4SENIUEpRN1FzcnFobFpvS2ZlX1ZJcUJmclhvTmcxdzFN?oc=5",
-      "outlet": "kku.ac.th",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-03-05T08:00:00.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
@@ -4652,17 +4663,6 @@
       "category": "คณะสาธารณสุขศาสตร์",
       "image": null,
       "topic": "research",
-      "imageSrc": null
-    },
-    {
-      "title": "QSHC ร่วมกับคณะสาธารณสุขศาสตร์ มข. ฝึกอบรมการกู้ชีพ “สร้างเมล็ดพันธุ์ CPR”",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5VLXZ0czJ5OG93UlIyd3pLRnY2Y1Y1WnNLWlBOTFNtQ3FuSnZEajJaZXpSVU5yZDRHSmo2cXQwTXRfc1VidW04?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-05-07T04:55:25.000Z",
-      "sourceId": "ph",
-      "category": "คณะสาธารณสุขศาสตร์",
-      "image": null,
-      "topic": "activity",
       "imageSrc": null
     }
   ]
