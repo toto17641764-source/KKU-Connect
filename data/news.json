@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T01:22:26.790Z",
+  "updatedAt": "2026-10-08T08:03:26.509Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,17 @@
     }
   ],
   "items": [
+    {
+      "title": "ขอนแก่น มข. เตรียมจัดใหญ่จัดการประกวดดนตรีและมาร์ชชิ่งอาร์ทสากล",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqQm1LVXQ1ZkYwU0tzUXFSajlJVDBwVEU4czg1N2F6MUhVRmh5emxkN2hKcFp1dDl1N0c4N1Q0SWdyQUpMY1h0SFlRVjlkRFJfVnFr?oc=5",
+      "outlet": "เดลินิวส์",
+      "publishedAt": "2026-10-08T06:08:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
     {
       "title": "คณะวิทยาศาสตร์ มข. เปิดบ้านแลกเปลี่ยนโมเดลบริหารหน่วยงานวิสาหกิจ ต้อนรับคณะวิทยาศาสตร์ มมส. ศึกษาดูงาน SCi Centre",
       "link": "https://sc.kku.ac.th/news/129282/",
@@ -4653,17 +4664,6 @@
       "image": "assets/news/9e0ed44524c3493b.jpg",
       "topic": "activity",
       "imageSrc": "https://apds.kku.ac.th/wp-content/uploads/2025/05/053aeec2-f777-4cda-9787-d167d98dca86-1024x1024.jpg"
-    },
-    {
-      "title": "นักศึกษาปี 4 สาขาการตลาดระหว่างประเทศ วิทยาลัยนานาชาติ มข. ร่วมกับ มูลนิธิมะเร็งท่อน้ำดี จัดการวิ่งเพื่อการกุศล “KKUIC The Insider 9 : Music Run Funtiverse” ภายใต้แนวคิด “สร้างสรรค์ความหลากหลาย เชื่อมต่อกันได้ด้วยเสียงเพลง” - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0tVlpaX201czFWZ2tzenVrazNMdjVONUFLTFFELU42RFFHSmN3YzFjdExFSGRqcXdQSnlVYWR5UHFvdFg0WTRz?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-05-07T11:24:22.000Z",
-      "sourceId": "ic",
-      "category": "วิทยาลัยนานาชาติ",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
     }
   ]
 }
