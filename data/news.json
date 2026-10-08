@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T08:03:26.509Z",
+  "updatedAt": "2026-10-08T17:00:32.626Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,17 @@
   ],
   "items": [
     {
+      "title": "KKBS ประกาศรายชื่อผู้มีสิทธิ์เข้ารับการสอบคัดเลือก ประเภทลูกจ้างเหมา (ปฏิบัติงานภารกิจด้านการวิจัยและบริการวิชาการ)",
+      "link": "https://kkbs.kku.ac.th/news-general/jobs/33864/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-10-08T10:12:47.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "image": null,
+      "topic": "research",
+      "imageSrc": null
+    },
+    {
       "title": "ขอนแก่น มข. เตรียมจัดใหญ่จัดการประกวดดนตรีและมาร์ชชิ่งอาร์ทสากล",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqQm1LVXQ1ZkYwU0tzUXFSajlJVDBwVEU4czg1N2F6MUhVRmh5emxkN2hKcFp1dDl1N0c4N1Q0SWdyQUpMY1h0SFlRVjlkRFJfVnFr?oc=5",
       "outlet": "เดลินิวส์",
@@ -352,6 +363,17 @@
       "image": null,
       "topic": "activity",
       "imageSrc": null
+    },
+    {
+      "title": "KKBS รับสมัครคัดเลือกบุคคลเข้าปฏิบัติงานประเภทลูกจ้างเหมา จำนวน 1 อัตรา ค่าจ้าง 15,000 บาท/เดือน (ปฏิบัติงานภารกิจด้านการวิจัยและบริการวิชาการ)",
+      "link": "https://kkbs.kku.ac.th/news-general/jobs/33857/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-10-02T08:47:01.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "image": "assets/news/5878d8ed74f0f161.jpg",
+      "topic": "research",
+      "imageSrc": "https://kkbs.kku.ac.th/wp/wp-content/uploads/2026/10/pr-202601351-nuntaporn-khamsorntha-724x1024.jpg"
     },
     {
       "title": "โรงพยาบาลขอนแก่น ต้อนรับคณะเภสัชศาสตร์ มหาวิทยาลัยขอนแก่น และนักศึกษาเภสัชศาสตร์จากประเทศญี่ปุ่น",
@@ -2840,9 +2862,9 @@
       "imageSrc": null
     },
     {
-      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
-      "outlet": "ผู้จัดการออนไลน์",
+      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -2851,9 +2873,9 @@
       "imageSrc": null
     },
     {
-      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
+      "outlet": "ผู้จัดการออนไลน์",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -4642,28 +4664,6 @@
       "image": null,
       "topic": "study",
       "imageSrc": null
-    },
-    {
-      "title": "คณะสถาปัตยกรรมศาสตร์ มหาวิทยาลัยขอนแก่น เปิดรับสมัครนักศึกษาปริญญาเอก หลักสูตร ปรัชญาดุษฎีบัณฑิต",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9EUFc1WUZNbGl1WUFZeHl5Yzh2U1FnS0dVVlRyMkQ2Z3ZfdkI2cU44SkNpSkRvR0NhME4ydTU2ODJUTldnalE?oc=5",
-      "outlet": "kku.ac.th",
-      "publishedAt": "2025-05-18T11:15:13.000Z",
-      "sourceId": "arch",
-      "category": "คณะสถาปัตยกรรมศาสตร์",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "โครงการอบรมระยะสั้น “Creative Craft Journey” ตอน Product of Earth : ปั้นดิน สีน้ำจากธรรมชาติ : 14-15 June 2025",
-      "link": "https://apds.kku.ac.th/post/%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%ad%e0%b8%9a%e0%b8%a3%e0%b8%a1%e0%b8%a3%e0%b8%b0%e0%b8%a2%e0%b8%b0%e0%b8%aa%e0%b8%b1%e0%b9%89%e0%b8%99-creative-craft-jour/",
-      "outlet": "เว็บไซต์คณะ",
-      "publishedAt": "2025-05-14T03:52:19.000Z",
-      "sourceId": "arch",
-      "category": "คณะสถาปัตยกรรมศาสตร์",
-      "image": "assets/news/9e0ed44524c3493b.jpg",
-      "topic": "activity",
-      "imageSrc": "https://apds.kku.ac.th/wp-content/uploads/2025/05/053aeec2-f777-4cda-9787-d167d98dca86-1024x1024.jpg"
     }
   ]
 }
