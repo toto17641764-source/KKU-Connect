@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T03:12:26.069Z",
+  "updatedAt": "2026-10-09T10:56:47.959Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,17 @@
   ],
   "items": [
     {
+      "title": "วิทยาลัยนานาชาติ มข. ร่วมกับ สมาคมสหประชาชาติฯ เปิดเวทีถ่ายทอดประสบการณ์การทูต ปูทางสู่อาชีพในองค์กรนานาชาติ",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE03MUQ3UEtLdjBkdXZzQXJmNmE1dXpwcW9Kd1piUFpkWjc5U0ZRaV9NVHZ3bGROZERhYl9NYmoyZlZDTnByVzRN?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-10-09T09:38:07.000Z",
+      "sourceId": "ic",
+      "category": "วิทยาลัยนานาชาติ",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
+    },
+    {
       "title": "ศิษย์เก่าศึกษาศาสตร์ มข. รุ่น 4 ถ่ายทอดพลังความผูกพัน “พี่ช่วยน้อง” ร่วมหารือการมอบทุนการศึกษา พร้อมวางแผนงานคืนสู่เหย้า ต่อยอดโอกาสทางการศึกษาและสร้างเครือข่ายเข้มแข็ง",
       "link": "https://ednet.kku.ac.th/news/21322/",
       "outlet": "เว็บไซต์คณะ",
@@ -426,6 +437,17 @@
       "publishedAt": "2026-09-30T17:00:00.000Z",
       "sourceId": "law",
       "category": "คณะนิติศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "“GE KKU NextGen Showcase 2026” มหกรรมแสดงผลงานนักศึกษาจากสถาบันการสอนวิชาศึกษาทั่วไป มหาวิทยาลัยขอนแก่น ภายใต้แนวคิด Learn • Create • Impact : เรียนรู้ สร้างสรรค์ สู่พลังแห่งการเปลี่ยนแปลง",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5TlJocHh3MmYzZld2eVFVbGxnbHJPcmJGRTV2bVlLR2V5NmtrLXBKajJTTWd6bEVYQzVKU1YxR1JpOEJSVjJ4Q09CUXpUWlRJODBYVmFoSHlGdVNCR2hSTG1Vc2ZOcFEyZmYzQkI5dW1VNlk?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-09-30T17:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -2400,6 +2422,17 @@
       "imageSrc": "https://fa.kku.ac.th/wp-content/uploads/2026/06/S__22495266_0-1024x768.jpg"
     },
     {
+      "title": "ฝ่ายการต่างประเทศ มหาวิทยาลัยขอนแก่น จัดสัมมนาบุคลากรด้านการต่างประเทศ เสริมศักยภาพและบทบาทการต่างประเทศสู่ความเป็นสากล - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0zN0c3Z3BJYmliVnAzSUZ4bEFKUi0ydFE4LVJNMmUzZ1ltaS1pdHZTUlZUSjFIMXdmR2d6dUdkaXV0WHlIVzJr?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-06-24T06:00:47.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
       "title": "มหาวิทยาลัยขอนแก่น โชว์ศักยภาพนวัตกรรม คว้ารางวัล Top 5 R2M#14 ระดับภูมิภาค พร้อมเตรียมเป็นเจ้าภาพรอบชิงระดับประเทศ",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9XQlowN1ktelAxTmRRTnQyeHFkR3gyWGllR3p6YVVXaTJVdnByOF9RaEEtc2hhdFVBWHpDcU9samZ1RUdDb2Vv?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2411,17 +2444,6 @@
       "imageSrc": null
     },
     {
-      "title": "คณะเทคโนโลยี มข. ร่วมงานสัมมนาวันความปลอดภัยอาหารโลก (World Food Safety Day) ของประเทศไทย ประจำปี 2569",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5IeDZjWFpGQWZFR2VlT3BSZmFzWXlfYkVjaW9zQnBYRU5aY1hvdXMxcE5sc09LTWdycjk3UkVyeXQ1elVyY1E0?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-06-22T07:00:00.000Z",
-      "sourceId": "tech",
-      "category": "คณะเทคโนโลยี",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "มหาวิทยาลัยขอนแก่น เปิดรับสมัครนักศึกษาระดับปริญญาตรี เพื่อรับทุนการศึกษา ภาคการศึกษาต้น ปีการศึกษา 2569 ทั้งทุนประเภท ก (ทุนต่อเนื่องจนสำเร็จการศึกษา) และทุนประเภท ข - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CV0lVTk9yN19OeTNCM2VXR3RyM256YmxGWXlIWHMyU2Y5S29sV2I4Q2phNTg0ZmpUUFBVdGpWdmluX0NNRnEw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2430,6 +2452,17 @@
       "category": "มข.",
       "image": null,
       "topic": "scholarship",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะเทคโนโลยี มข. ร่วมงานสัมมนาวันความปลอดภัยอาหารโลก (World Food Safety Day) ของประเทศไทย ประจำปี 2569",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5IeDZjWFpGQWZFR2VlT3BSZmFzWXlfYkVjaW9zQnBYRU5aY1hvdXMxcE5sc09LTWdycjk3UkVyeXQ1elVyY1E0?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-06-22T07:00:00.000Z",
+      "sourceId": "tech",
+      "category": "คณะเทคโนโลยี",
+      "image": null,
+      "topic": "activity",
       "imageSrc": null
     },
     {
@@ -2873,9 +2906,9 @@
       "imageSrc": null
     },
     {
-      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
-      "outlet": "ผู้จัดการออนไลน์",
+      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -2884,9 +2917,9 @@
       "imageSrc": null
     },
     {
-      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
+      "outlet": "ผู้จัดการออนไลน์",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -4630,39 +4663,6 @@
       "category": "บัณฑิตวิทยาลัย",
       "image": null,
       "topic": "other",
-      "imageSrc": null
-    },
-    {
-      "title": "บัณฑิตวิทยาลัย มข. ต้อนรับคณะศึกษาดูงานจากบัณฑิตวิทยาลัย มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา แลกเปลี่ยนแนวทางการบริหารจัดการงานบัณฑิตศึกษา - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1iUzhRY2Jsb2hCbWcyT2lwdDAwMGNPQnpOeFJGWGJVc1V4MV9yRHVWdWJzaXEwdE9neU0tYnJpVHFRcmRLay1z?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-05-22T02:10:55.000Z",
-      "sourceId": "gs",
-      "category": "บัณฑิตวิทยาลัย",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะพยาบาลศาสตร์ มข. จัดพิธี “มอบขีดหมวกและเข็มสถาบันสืบสานปณิธานวิชาชีพการพยาบาล” หลักสูตรพยาบาลศาสตรบัณฑิต รุ่นที่ 50 - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xaUFMV0lJSWFRVVRXc2NraWNXbFcxOHZsZmVsRDhwaUkzYk13eWZCWkMtYkRISm5hc1FXUzdwaFIxWmpmQnFZ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-05-21T21:39:16.000Z",
-      "sourceId": "nurse",
-      "category": "คณะพยาบาลศาสตร์",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "มหาวิทยาลัยขอนแก่น ประกาศ เกณฑ์การคัดเลือก #TCAS66 คณะเภสัชศาสตร์ จำนวนรับ รวม 180 คน . รายละเอียด 👉 https://www.eduzones .com/2022/10/10/tcas66-kku/ #dek66 #เภสัชศาสตร์ #เภสัชขอนแก่น - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Ic2MzWEcyTUZnbXZseDVoYzlqbFVwSkkzdUJmcC1zNE1Vbmk2a2tzNEdLbVlvejlJZGZ2c3ByYzIzYVBPUi1J?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-05-21T18:54:01.000Z",
-      "sourceId": "pharm",
-      "category": "คณะเภสัชศาสตร์",
-      "image": null,
-      "topic": "study",
       "imageSrc": null
     }
   ]
