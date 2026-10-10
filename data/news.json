@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T07:47:12.236Z",
+  "updatedAt": "2026-10-10T14:00:21.810Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,17 @@
     }
   ],
   "items": [
+    {
+      "title": "ฝึกใช้เครื่องมือจริง เข้าใจวิทยาศาสตร์มากขึ้น! นักเรียนกัลยาณวัตรเรียนรู้สัญญาณไฟฟ้าและ DNA ที่คณะวิทยาศาสตร์ มข.",
+      "link": "https://sc.kku.ac.th/trainingnews/stdlab/129408/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-10-10T07:56:26.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
+    },
     {
       "title": "นักวิจัยสาขาวิชาชีววิทยา คณะวิทยาศาสตร์ มข. ได้รับรางวัล Most Cited Paper Award 2025 จากวารสาร Environment International สำนักพิมพ์ Elsevier",
       "link": "https://sc.kku.ac.th/sdg/sdg-2-zero-hunger-%e0%b8%a2%e0%b8%b8%e0%b8%95%e0%b8%b4%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%ab%e0%b8%b4%e0%b8%a7%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%9e%e0%b8%b1%e0%b8%92%e0%b8%99%e0%b8%b2%e0%b9%80/129399/",
@@ -4652,17 +4663,6 @@
       "category": "บัณฑิตวิทยาลัย",
       "image": null,
       "topic": "research",
-      "imageSrc": null
-    },
-    {
-      "title": "dek-d-เภสัชศาสตร์ ม.ขอนแก่น เตรียมเปิดรับ TCAS67 3 รอบ กว่า 180 ที่นั่ง!",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1jVkJlT1phT1dIdF9Oa1ZLbHcxdEhoR3UteHcwMi0wck5nUjFYejBoODZ4dEJrcTZpTlRMWEtYeVBUa1BPNC1F?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-05-22T11:41:03.000Z",
-      "sourceId": "pharm",
-      "category": "คณะเภสัชศาสตร์",
-      "image": null,
-      "topic": "study",
       "imageSrc": null
     }
   ]
