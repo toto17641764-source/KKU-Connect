@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T21:54:05.891Z",
+  "updatedAt": "2026-10-10T01:20:23.409Z",
   "sources": [
     {
       "id": "med",
@@ -4149,6 +4149,17 @@
       "imageSrc": null
     },
     {
+      "title": "คณะพยาบาลศาสตร์ มข. จัดอบรมวิชาการเทคนิคการดูแลผู้ป่วยหัวใจและหลอดเลือด รุ่นที่ 22 ยกระดับสมรรถนะพยาบาลสู่มาตรฐานสากล - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBsdlBSd2swTFVSajBLaEdFc0xPRXY0VzdBcUdxRVp5eU1DcUxUc014d01rVVlTMHBXOFh1Njh5UnRfRmNpaGsw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-11-28T08:00:00.000Z",
+      "sourceId": "nurse",
+      "category": "คณะพยาบาลศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
       "title": "บัณฑิตวิทยาลัย มหาวิทยาลัยขอนแก่น ครบรอบ 47 ปี จัดพิธีทำบุญเพื่อความเป็นสิริมงคลและรำลึกถึงความเป็นมาของสถาบัน - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0ZGduS19lYUdxdXFTMTJCSTRwVHRMMm1ob29uMVdFVE5LeC1Ob2JQN3NMRnQwaTlCblBwM1RtTnVyN1FfNVRv?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -4157,17 +4168,6 @@
       "category": "บัณฑิตวิทยาลัย",
       "image": null,
       "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะพยาบาลศาสตร์ มข. จัดอบรมวิชาการเทคนิคการดูแลผู้ป่วยหัวใจและหลอดเลือด รุ่นที่ 22 ยกระดับสมรรถนะพยาบาลสู่มาตรฐานสากล - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBsdlBSd2swTFVSajBLaEdFc0xPRXY0VzdBcUdxRVp5eU1DcUxUc014d01rVVlTMHBXOFh1Njh5UnRfRmNpaGsw?oc=5",
-      "outlet": "kku.ac.th",
-      "publishedAt": "2025-11-28T08:00:00.000Z",
-      "sourceId": "nurse",
-      "category": "คณะพยาบาลศาสตร์",
-      "image": null,
-      "topic": "activity",
       "imageSrc": null
     },
     {
