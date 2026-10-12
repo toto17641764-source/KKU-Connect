@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T00:46:40.194Z",
+  "updatedAt": "2026-10-12T08:08:37.078Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,28 @@
   ],
   "items": [
     {
+      "title": "ศูนย์วิจัยการพัฒนากำลังคนด้านโค้ดดิ้งและพลเมืองดิจิทัล คณะศึกษาศาสตร์ มข. จัดเวที KKU Cybersecurity Clinic รอบชิงชนะเลิศ เชื่อมโยงทักษะไซเบอร์สู่ผู้ประกอบการ SME",
+      "link": "https://ednet.kku.ac.th/news/21332/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-10-12T04:37:26.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": "assets/news/a8a4e1da608d556b.jpg",
+      "topic": "research",
+      "imageSrc": "https://ednet.kku.ac.th/wp-content/uploads/2026/10/P1215233-1024x683.jpg"
+    },
+    {
+      "title": "ประกาศรายชื่อผู้สอบผ่านข้อเขียนและมีสิทธิ์เข้าสอบสัมภาษณ์ ตําแหน่งนักวิเทศสัมพันธ์ สังกัดคณะวิทยาศาสตร์ มหาวิทยาลัยขอนแก่น",
+      "link": "https://sc.kku.ac.th/wp-content/uploads/2026/10/151-2569-ประกาศรายชื่อผู้มีสิทธิ์สัมภาษณ์-นักวิเทศสัมพันธ์-signed.pdf#new_tab",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-10-12T02:39:07.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "study",
+      "imageSrc": null
+    },
+    {
       "title": "ฝึกใช้เครื่องมือจริง เข้าใจวิทยาศาสตร์มากขึ้น! นักเรียนกัลยาณวัตรเรียนรู้สัญญาณไฟฟ้าและ DNA ที่คณะวิทยาศาสตร์ มข.",
       "link": "https://sc.kku.ac.th/trainingnews/stdlab/129408/",
       "outlet": "เว็บไซต์คณะ",
@@ -384,6 +406,17 @@
       "category": "คณะทันตแพทยศาสตร์",
       "image": null,
       "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "KKBS ร่วมกับ คณะนิติศาสตร์ มข. จัดเวที MarTech × IP Challenge เปิดโจทย์ธุรกิจจริงให้นักศึกษา พัฒนาแผนการตลาดภายใต้กรอบกฎหมาย",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9aQ0JWWWpuaTVxSGtoQjhaN2VuVlA1WkNDd2FFWGE2eFdZS0RvOUpXU05MN0x1Vll5OWdKcXJoUmxIb1BEbE13?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-10-05T07:00:00.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "image": null,
+      "topic": "other",
       "imageSrc": null
     },
     {
@@ -3029,7 +3062,7 @@
     {
       "title": "คณะทันตแพทยศาสตร์ มข. ผนึกกำลังคณะแพทยศาสตร์ มข. จัดค่ายวิชาการ “พระธาตุพนมทองคำวิทยานุสรณ์ ครั้งที่ 13” จุดประกายเยาวชนสู่เส้นทางสายสุขภาพ - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IbDBmZWhDTzE1V1o4NEN4VGRiRkRJVFhpOUZyVDB6WElxV3UtMGJDcUVkUDMyakxuMlBSdkVzM2QyVjBxTUJR?oc=5",
-      "outlet": "kku.ac.th",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-05-06T03:24:56.000Z",
       "sourceId": "dent",
       "category": "คณะทันตแพทยศาสตร์",
@@ -4630,39 +4663,6 @@
       "category": "คณะสัตวแพทยศาสตร์",
       "image": null,
       "topic": "job",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะเกษตรศาสตร์ มข. จัดกิจกรรม “กินเข่าทง ลงแขกดำนา” แปลงนาสาธิต เฉลิมฉลองในวาระครบรอบ 60 ปี มข.",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA2SXlteGVRRTJDOHh2NW1KVUROZzA4dzRVcEYzZ3pRb3o3TzZsVFpRX05IWlBxZ1hRemg0T25vbmt4cFhlbkhF?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-05-23T22:09:20.000Z",
-      "sourceId": "agri",
-      "category": "คณะเกษตรศาสตร์",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะพยาบาลศาสตร์ มหาวิทยาลัยขอนแก่น เปิดรับสมัครหลักสูตร “การให้การปรึกษาเบื้องต้น สำหรับพยาบาล” รุ่นที่ 1",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE45LWdWOUpvZnJaMGhLeVVRdVlwNllxTFEyQVhMTDJVa2xZMS1DS0VFZGhwYzNKWC1CdlRqMk5nRkp3UEVuSFdF?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-05-23T21:10:46.000Z",
-      "sourceId": "nurse",
-      "category": "คณะพยาบาลศาสตร์",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "บัณฑิตวิทยาลัย มหาวิทยาลัยขอนแก่น จัดการประชุมวิชาการเสนอผลงานวิจัยระดับบัณฑิตศึกษาระดับชาติ ครั้งที่ 23",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9jN1hoQ1dkV18yZk5aVlRuOHpfUG9sckdfVDl2TTRGNmhQTXhOcXk5UTNicGVqQXlieXY2MTZUQUFWUkJ3cUE?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-05-22T12:31:54.000Z",
-      "sourceId": "gs",
-      "category": "บัณฑิตวิทยาลัย",
-      "image": null,
-      "topic": "research",
       "imageSrc": null
     }
   ]
