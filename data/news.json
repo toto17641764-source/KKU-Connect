@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T06:47:43.712Z",
+  "updatedAt": "2026-10-14T13:07:43.226Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,17 @@
     }
   ],
   "items": [
+    {
+      "title": "คณบดีคณะเศรษฐศาสตร์ มข. ได้รับเชิญร่วมเวทีเสวนานานาชาติด้านการเติบโตสีเขียวของแอฟริกา ในงาน IMF–World Bank Annual Meetings 2026",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1iZ3phUGdNeS1EdjF1Vjljd29pVjQxSGlreDBhMDEyaXh5QzU4Zlg5V0hXWWkwaFljZ3BpT2VRWUNZQXVSSmlr?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-10-14T08:46:07.000Z",
+      "sourceId": "econ",
+      "category": "คณะเศรษฐศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
     {
       "title": "ศึกษาศาสตร์ มข. ร่วมภาคีเครือข่ายจัดอบรมผู้กำกับลูกเสือ เสริมทักษะการจัดกิจกรรมและภาวะผู้นำทางการศึกษา",
       "link": "https://ednet.kku.ac.th/news/21352/",
@@ -2510,17 +2521,6 @@
       "imageSrc": null
     },
     {
-      "title": "มหาวิทยาลัยขอนแก่น เปิดรับสมัครนักศึกษาระดับปริญญาตรี เพื่อรับทุนการศึกษา ภาคการศึกษาต้น ปีการศึกษา 2569 ทั้งทุนประเภท ก (ทุนต่อเนื่องจนสำเร็จการศึกษา) และทุนประเภท ข - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CV0lVTk9yN19OeTNCM2VXR3RyM256YmxGWXlIWHMyU2Y5S29sV2I4Q2phNTg0ZmpUUFBVdGpWdmluX0NNRnEw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-06-22T07:00:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "image": null,
-      "topic": "scholarship",
-      "imageSrc": null
-    },
-    {
       "title": "คณะเทคโนโลยี มข. ร่วมงานสัมมนาวันความปลอดภัยอาหารโลก (World Food Safety Day) ของประเทศไทย ประจำปี 2569",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5IeDZjWFpGQWZFR2VlT3BSZmFzWXlfYkVjaW9zQnBYRU5aY1hvdXMxcE5sc09LTWdycjk3UkVyeXQ1elVyY1E0?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2529,6 +2529,17 @@
       "category": "คณะเทคโนโลยี",
       "image": null,
       "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "มหาวิทยาลัยขอนแก่น เปิดรับสมัครนักศึกษาระดับปริญญาตรี เพื่อรับทุนการศึกษา ภาคการศึกษาต้น ปีการศึกษา 2569 ทั้งทุนประเภท ก (ทุนต่อเนื่องจนสำเร็จการศึกษา) และทุนประเภท ข - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CV0lVTk9yN19OeTNCM2VXR3RyM256YmxGWXlIWHMyU2Y5S29sV2I4Q2phNTg0ZmpUUFBVdGpWdmluX0NNRnEw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-06-22T07:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "scholarship",
       "imageSrc": null
     },
     {
@@ -2972,9 +2983,9 @@
       "imageSrc": null
     },
     {
-      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
+      "outlet": "ผู้จัดการออนไลน์",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -2983,9 +2994,9 @@
       "imageSrc": null
     },
     {
-      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
-      "outlet": "ผู้จัดการออนไลน์",
+      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -4652,17 +4663,6 @@
       "category": "คณะสาธารณสุขศาสตร์",
       "image": null,
       "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะเภสัชศาสตร์ นำนักศึกษาร่วมกิจกรรมส่งเสริมประสบการณ์วิชาชีพเภสัชกรรมในต่างประเทศ ณ ประเทศโปรตุเกส",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zRER2WkM0blMyelpDZFBSMmJnQlZpZU1hd2J2SUc3ZUVBa0hHSVNwQ1Rjajh5MUY3bmw0QmRxS2xyN2NRdElr?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-05-24T05:32:46.000Z",
-      "sourceId": "pharm",
-      "category": "คณะเภสัชศาสตร์",
-      "image": null,
-      "topic": "activity",
       "imageSrc": null
     }
   ]
