@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T00:53:09.836Z",
+  "updatedAt": "2026-10-14T06:47:43.712Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,17 @@
     }
   ],
   "items": [
+    {
+      "title": "ศึกษาศาสตร์ มข. ร่วมภาคีเครือข่ายจัดอบรมผู้กำกับลูกเสือ เสริมทักษะการจัดกิจกรรมและภาวะผู้นำทางการศึกษา",
+      "link": "https://ednet.kku.ac.th/news/21352/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-10-14T03:19:33.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": "assets/news/ff30eff391474360.jpg",
+      "topic": "activity",
+      "imageSrc": "https://ednet.kku.ac.th/wp-content/uploads/2026/10/P1215258-1024x683.jpg"
+    },
     {
       "title": "ศูนย์วิจัยการพัฒนากำลังคนด้านโค้ดดิ้งและพลเมืองดิจิทัล คณะศึกษาศาสตร์ มข. จัดเวที KKU Cybersecurity Clinic รอบชิงชนะเลิศ เชื่อมโยงทักษะไซเบอร์สู่ผู้ประกอบการ SME",
       "link": "https://ednet.kku.ac.th/news/21332/",
@@ -2961,9 +2972,9 @@
       "imageSrc": null
     },
     {
-      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
-      "outlet": "ผู้จัดการออนไลน์",
+      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -2972,9 +2983,9 @@
       "imageSrc": null
     },
     {
-      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
+      "outlet": "ผู้จัดการออนไลน์",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -4652,17 +4663,6 @@
       "category": "คณะเภสัชศาสตร์",
       "image": null,
       "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "#TCAS64 คณะสัตวแพทยศาสตร์ ม.ขอนแก่น เปิดรับสมัครนศ.ป.ตรี รอบที่ 4 (รับตรงอิสระ) ตั้งแต่วันที่ 3-7 มิ.ย. 64 #dek64 #TCASรอบ4 คณะสัตวแพทยศาสตร์ มหาวิทยาลัยขอนแก่น เปิดรับสมัครบุคคลเพื่อคัดเลือกเข้าเป็นนิสิตระดับปริญญาตรี - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5VMVBVbWZtQVZ2SEZ6ZHJRLU44eTd2U2ZJRUU2SENUNGYxVHV6WkpCQ0lWdElSckdKU3dDWmZXU295eW0yb2c?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-05-24T05:31:51.000Z",
-      "sourceId": "vet",
-      "category": "คณะสัตวแพทยศาสตร์",
-      "image": null,
-      "topic": "job",
       "imageSrc": null
     }
   ]
