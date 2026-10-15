@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T22:43:54.465Z",
+  "updatedAt": "2026-10-15T01:57:22.899Z",
   "sources": [
     {
       "id": "med",
@@ -775,7 +775,7 @@
       "title": "เช็กเลย! คณะเภสัชศาสตร์ ม.ขอนแก่น เผยเกณฑ์ TCAS70 ครบทุกรอบ",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5YkZNWkNBUGlxWUVvM0EyZHgzQ1JnVHlRWUVadWt6ZTgzVmlhZFhWdGppWllDWmRmZ05yV1hfVzU1MkVFQzVXbA?oc=5",
       "outlet": "Dek-D.com",
-      "publishedAt": "2026-09-18T09:00:00.000Z",
+      "publishedAt": "2026-09-18T07:00:00.000Z",
       "sourceId": "pharm",
       "category": "คณะเภสัชศาสตร์",
       "image": null,
@@ -2587,10 +2587,10 @@
       "imageSrc": null
     },
     {
-      "title": "วิริยะประกันภัย สนับสนุน “ค่ายผู้นำ 4 จอบอาสาพัฒนา” ครั้งที่ 21 สานพลังเครือข่ายผู้นำนักศึกษาเกษตรศาสตร์ ยกระดับเกษตรท้องถิ่นไทย | สวพ.FM91",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sSGI2QVdmMUQyNzE2c1N5Vmg2ME9HSlpuT010aG9vdXlrWmhTdmZDUmphODYyRDlJeFpPNmYxc29NbHhSTWZzVm1FLWp2MmZGaXFBZnh3?oc=5",
-      "outlet": "LINE TODAY",
-      "publishedAt": "2026-06-17T07:00:00.000Z",
+      "title": "วิริยะประกันภัย สนับสนุน “ค่ายผู้นำ 4 จอบอาสาพัฒนา” ครั้งที่ 21 สานพลังเครือข่ายผู้นำนักศึกษาเกษตรศาสตร์ ยกระดับเกษตรท้องถิ่นไทย",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xTk85TU1RbTZMRlJrSk5pdlBpdnhZWXlwZ2FIa05sV19BcjFyaG9hVVFQZmM3eWpjbG4ySmRXbU9qN1FRZWhVU01tWTBxeVpGMFpr?oc=5",
+      "outlet": "สวพ.FM91",
+      "publishedAt": "2026-06-17T03:05:01.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
       "image": null,
@@ -4226,17 +4226,6 @@
       "imageSrc": null
     },
     {
-      "title": "บัณฑิตวิทยาลัย มหาวิทยาลัยขอนแก่น ครบรอบ 47 ปี จัดพิธีทำบุญเพื่อความเป็นสิริมงคลและรำลึกถึงความเป็นมาของสถาบัน - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0ZGduS19lYUdxdXFTMTJCSTRwVHRMMm1ob29uMVdFVE5LeC1Ob2JQN3NMRnQwaTlCblBwM1RtTnVyN1FfNVRv?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-11-28T08:00:00.000Z",
-      "sourceId": "gs",
-      "category": "บัณฑิตวิทยาลัย",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
       "title": "คณะพยาบาลศาสตร์ มข. จัดอบรมวิชาการเทคนิคการดูแลผู้ป่วยหัวใจและหลอดเลือด รุ่นที่ 22 ยกระดับสมรรถนะพยาบาลสู่มาตรฐานสากล - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBsdlBSd2swTFVSajBLaEdFc0xPRXY0VzdBcUdxRVp5eU1DcUxUc014d01rVVlTMHBXOFh1Njh5UnRfRmNpaGsw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -4245,6 +4234,17 @@
       "category": "คณะพยาบาลศาสตร์",
       "image": null,
       "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "บัณฑิตวิทยาลัย มหาวิทยาลัยขอนแก่น ครบรอบ 47 ปี จัดพิธีทำบุญเพื่อความเป็นสิริมงคลและรำลึกถึงความเป็นมาของสถาบัน - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0ZGduS19lYUdxdXFTMTJCSTRwVHRMMm1ob29uMVdFVE5LeC1Ob2JQN3NMRnQwaTlCblBwM1RtTnVyN1FfNVRv?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-11-28T08:00:00.000Z",
+      "sourceId": "gs",
+      "category": "บัณฑิตวิทยาลัย",
+      "image": null,
+      "topic": "study",
       "imageSrc": null
     },
     {
