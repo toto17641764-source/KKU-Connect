@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T12:53:41.151Z",
+  "updatedAt": "2026-10-15T17:54:51.290Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,17 @@
     }
   ],
   "items": [
+    {
+      "title": "คณะเภสัชศาสตร์ มข. เปิดสวนสมุนไพรเป็น \"ห้องเรียนมีชีวิต\" ต้อนรับนักศึกษาสาธารณสุขชุมชน วิทยาลัยการสาธารณสุขสิรินธร ขอนแก่น เรียนรู้สมุนไพรจากของจริง เชื่อมความรู้สู่การดูแลสุขภาพชุมชน - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBqRXRNNmZqVDFyN25oZXMydFhqRWlNNUNqT3ZabGZkTFlUeXdjZ1lpM2RDQVZCZVJWdGp4RHB2bUxtYzJxOGNv?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-10-15T13:33:47.000Z",
+      "sourceId": "pharm",
+      "category": "คณะเภสัชศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
     {
       "title": "นักศึกษา KKBS รับทุนการศึกษาจากสมาคมตลาดตราสารหนี้ไทย ประจำปี 2569 สนับสนุนโอกาสทางการศึกษาสู่เส้นทางวิชาชีพ",
       "link": "https://kkbs.kku.ac.th/insight-kkbs/33872/",
@@ -2994,9 +3005,9 @@
       "imageSrc": null
     },
     {
-      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
-      "outlet": "ผู้จัดการออนไลน์",
+      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -3005,9 +3016,9 @@
       "imageSrc": null
     },
     {
-      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
+      "outlet": "ผู้จัดการออนไลน์",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -4650,17 +4661,6 @@
       "publishedAt": "2025-05-29T12:37:58.000Z",
       "sourceId": "ph",
       "category": "คณะสาธารณสุขศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะพยาบาลศาสตร์ มข.เปิดบ้านต้อนรับคณะศึกษาดูงานจาก วิทยาลัยพยาบาลบรมราชชนนี อุดรธานี",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1zd0lhYnZxZWxLUXY2all4QXI4eG5MNm0wU25CcnJyMFJGdWh3RzRNZ2lvUEhzZGJNalE0Tnl4RV8wOGNOb1NJ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-05-24T19:57:02.000Z",
-      "sourceId": "nurse",
-      "category": "คณะพยาบาลศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
