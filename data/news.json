@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T08:32:24.686Z",
+  "updatedAt": "2026-10-16T14:22:00.785Z",
   "sources": [
     {
       "id": "med",
@@ -296,6 +296,17 @@
       "category": "คณะเภสัชศาสตร์",
       "image": null,
       "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "คู่มือการปฏิบัติงาน การเบิกจ่ายค่าใช้จ่ายไปปฏิบัติงานภายในราชอาณาจักรเพื่อเข้าร่วมประชุมวิชาการและนำเสนอผลงานวิจัยสำหรับนักศึกษาระดับบัณฑิตศึกษา สาขาวิชาคณิตศาสตร์ คณะวิทยาศาสตร์ มหาวิทยาลัยขอนแก่น",
+      "link": "https://sc.kku.ac.th/wp-content/uploads/2026/10/คู่มือการปฏิบัติงาน-วัชราภรณ์-เขียวสด.pdf#new_tab",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-10-15T09:38:01.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "research",
       "imageSrc": null
     },
     {
@@ -1366,17 +1377,6 @@
       "imageSrc": null
     },
     {
-      "title": "คณะศึกษาศาสตร์ มข. จัดอบรมเชิงปฏิบัติการ “นวัตกรรมบอร์ดเกมเพื่อการเรียนรู้” มุ่งบ่มเพาะนักศึกษาครูสู่การเป็น “Teacher Innovator” - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1tYWRUY1Z5Y19Ecm5NRnY5UlQzWU5FdDlkY3NRNE50TUtGVnU2d1d0bG9fQ3ZlUTRHTFdtNXpHVi0wUmRtdnBn?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-08-24T16:15:48.000Z",
-      "sourceId": "edu",
-      "category": "คณะศึกษาศาสตร์",
-      "image": null,
-      "topic": "research",
-      "imageSrc": null
-    },
-    {
       "title": "เปิดมุมมองอนาคตสายวิทย์ SCi KKU ต้อนรับนักเรียน โรงเรียนขุขันธ์ จ.ศรีสะเกษ",
       "link": "https://sc.kku.ac.th/news/122354/",
       "outlet": "เว็บไซต์คณะ",
@@ -1385,6 +1385,17 @@
       "category": "คณะวิทยาศาสตร์",
       "image": null,
       "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะศึกษาศาสตร์ มข. จัดอบรมเชิงปฏิบัติการ “นวัตกรรมบอร์ดเกมเพื่อการเรียนรู้” มุ่งบ่มเพาะนักศึกษาครูสู่การเป็น “Teacher Innovator” - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1tYWRUY1Z5Y19Ecm5NRnY5UlQzWU5FdDlkY3NRNE50TUtGVnU2d1d0bG9fQ3ZlUTRHTFdtNXpHVi0wUmRtdnBn?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-24T07:00:00.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": null,
+      "topic": "research",
       "imageSrc": null
     },
     {
@@ -3027,9 +3038,9 @@
       "imageSrc": null
     },
     {
-      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
+      "outlet": "ผู้จัดการออนไลน์",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -3038,9 +3049,9 @@
       "imageSrc": null
     },
     {
-      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
-      "outlet": "ผู้จัดการออนไลน์",
+      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -4652,17 +4663,6 @@
       "category": "วิทยาลัยการปกครองท้องถิ่น",
       "image": null,
       "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "เปิดปีการศึกษาใหม่! บัณฑิตวิทยาลัย มข. จัดปฐมนิเทศเสิร์ฟทักษะวิจัย–การใช้ AI เพื่อการศึกษายุคใหม่",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1zNV9pQmRKX2FuMzNaMzE5Q3RvLXRyNjJrR09KT1U1M3FRZTRUTThLYkE1OWFlVjlPM0NSTWFGZndmcmxReE9v?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-06-13T07:00:00.000Z",
-      "sourceId": "gs",
-      "category": "บัณฑิตวิทยาลัย",
-      "image": null,
-      "topic": "research",
       "imageSrc": null
     }
   ]
