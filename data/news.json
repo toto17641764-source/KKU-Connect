@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T22:14:50.407Z",
+  "updatedAt": "2026-10-17T01:42:03.196Z",
   "sources": [
     {
       "id": "med",
@@ -2884,6 +2884,17 @@
       "imageSrc": null
     },
     {
+      "title": "สำนักบริการวิชาการ มข. ติดอาวุธผู้บริหารระดับสูง เจาะลึก EdPEx เกณฑ์ใหม่ ชูโมเดล Social Enterprise ยกระดับองค์กรสู่มาตรฐานสากล - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5pRUxhZ0dHekZjWGZYSHB1SVVhRWRoc2djUE50NHMxLVBvMUI1c3pVVkFrVEp6eWlHQ3piM0hWN2s2ZEhqWkhZ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-05-27T17:15:59.000Z",
+      "sourceId": "gs",
+      "category": "บัณฑิตวิทยาลัย",
+      "image": null,
+      "topic": "study",
+      "imageSrc": null
+    },
+    {
       "title": "มข.เปิดพิกัด! 7 จุดศูนย์อาหารและบริการ ต้อนรับนักศึกษาใหม่ ภาคการศึกษา 2569 อิ่ม ครบ จบ ในมหาวิทยาลัย",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBFRGl1TGd2SDR4ZTVsR21fbG8tQm9Ub0JEczladXFtOHNoRTdJN2ZoN1pXSDN3ZUo2TDRVQ3ZTU0ZSZTRqZnZz?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -4653,17 +4664,6 @@
       "image": "assets/news/5a3c33807a67e7a5.png",
       "topic": "scholarship",
       "imageSrc": "https://apds.kku.ac.th/wp-content/uploads/2025/06/M_717uvtta_GW.png"
-    },
-    {
-      "title": "คณะเภสัชศาสตร์ มข. ต้อนรับอาจารย์และนักศึกษาแลกเปลี่ยนจาก Faculty of Pharmacy, Keio University ประเทศญี่ปุ่น",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9TSXlSbnZDREdyNDBPXzVDMkwtQVN2ODN6YzQ2am1JS3hDZ3BycnV2UzA5VG95MkRaNjdlZFQtVnZTVFZvbU5v?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-06-17T23:05:02.000Z",
-      "sourceId": "pharm",
-      "category": "คณะเภสัชศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
     }
   ]
 }
