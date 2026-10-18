@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T01:38:14.444Z",
+  "updatedAt": "2026-10-18T06:40:07.899Z",
   "sources": [
     {
       "id": "med",
@@ -673,6 +673,17 @@
       "imageSrc": null
     },
     {
+      "title": "คณะวิศวกรรมศาสตร์ มหาวิทยาลัยขอนแก่น ร่วมกับ กลุ่มมิตรผล จัดกิจกรรมศึกษาดูงาน เสริมประสบการณ์จริงด้านวิศวกรรมอุตสาหการ - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA5ZXdWU19OY3ltRVhIT3lkbFFzbDRTNVFsZDlfc01haFNORWU2MWZRV2RnbV9Ecloyb01iNWpRWmFZYW0zUG8w?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-28T07:45:25.000Z",
+      "sourceId": "eng",
+      "category": "คณะวิศวกรรมศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
       "title": "คณะศึกษาศาสตร์ มข. จับมือ มรภ.หมู่บ้านจอมบึง ขับเคลื่อนโครงการ “สานสัมพันธ์ครูรัก(ษ์)ถิ่น” เชื่อมพลังเครือข่ายนักศึกษาครู มุ่งพัฒนานวัตกรรมและสร้างความยั่งยืนสู่ชุมชนท้องถิ่น",
       "link": "https://ednet.kku.ac.th/news/21145/",
       "outlet": "เว็บไซต์คณะ",
@@ -725,17 +736,6 @@
       "category": "คณะเศรษฐศาสตร์",
       "image": null,
       "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะวิศวกรรมศาสตร์ มหาวิทยาลัยขอนแก่น ร่วมกับ กลุ่มมิตรผล จัดกิจกรรมศึกษาดูงาน เสริมประสบการณ์จริงด้านวิศวกรรมอุตสาหการ - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA5ZXdWU19OY3ltRVhIT3lkbFFzbDRTNVFsZDlfc01haFNORWU2MWZRV2RnbV9Ecloyb01iNWpRWmFZYW0zUG8w?oc=5",
-      "outlet": "kku.ac.th",
-      "publishedAt": "2026-09-24T07:00:00.000Z",
-      "sourceId": "eng",
-      "category": "คณะวิศวกรรมศาสตร์",
-      "image": null,
-      "topic": "activity",
       "imageSrc": null
     },
     {
