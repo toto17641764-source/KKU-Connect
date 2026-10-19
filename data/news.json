@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T23:49:08.705Z",
+  "updatedAt": "2026-10-19T01:55:53.802Z",
   "sources": [
     {
       "id": "med",
@@ -618,6 +618,17 @@
       "imageSrc": null
     },
     {
+      "title": "คณะเกษตรศาสตร์ มข. ร่วมกับ สสก.4 ขอนแก่น จัด Open House เปิดบ้านวิชาการงานส่งเสริมการเกษตร ประจำปี 2569 ขับเคลื่อนความร่วมมือด้านการเรียนการสอน วิจัย และส่งเสริมการเกษตร - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9pOU9KbGpVU2xyYkUzdmRiMHc5bzFhMGRCQUIxM2tKSThRU2dJSE5CVzR3WUFOSTdiSVhuYnBWMG9KSUdrYnow?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-29T07:44:28.000Z",
+      "sourceId": "agri",
+      "category": "คณะเกษตรศาสตร์",
+      "image": null,
+      "topic": "research",
+      "imageSrc": null
+    },
+    {
       "title": "คณะเกษตรศาสตร์ มข. ต้อนรับผู้แทนจาก Weihenstephan-Triesdorf University of Applied Sciences เยอรมนี เดินหน้าความร่วมมือทางวิชาการและการแลกเปลี่ยนนักศึกษา - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5TUkhqczR0SzlXMjcwMUhMUjVSUF93WXZTZWJVS3VZOEJCRG1SOFkyRXU3QVBlQmlHMW1BTXBoMUR5U1hVSkZr?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -670,17 +681,6 @@
       "category": "คณะวิศวกรรมศาสตร์",
       "image": null,
       "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะเกษตรศาสตร์ มข. ร่วมกับ สสก.4 ขอนแก่น จัด Open House เปิดบ้านวิชาการงานส่งเสริมการเกษตร ประจำปี 2569 ขับเคลื่อนความร่วมมือด้านการเรียนการสอน วิจัย และส่งเสริมการเกษตร - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9pOU9KbGpVU2xyYkUzdmRiMHc5bzFhMGRCQUIxM2tKSThRU2dJSE5CVzR3WUFOSTdiSVhuYnBWMG9KSUdrYnow?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-09-28T07:00:00.000Z",
-      "sourceId": "agri",
-      "category": "คณะเกษตรศาสตร์",
-      "image": null,
-      "topic": "research",
       "imageSrc": null
     },
     {
