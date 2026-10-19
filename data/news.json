@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T15:02:08.127Z",
+  "updatedAt": "2026-10-19T20:45:08.968Z",
   "sources": [
     {
       "id": "med",
@@ -448,6 +448,17 @@
       "publishedAt": "2026-10-08T01:21:04.000Z",
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "“วิ่งกับนายช่าง มข.”",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNdS1qUU5fRnREM0ZSallRNmFLTDdCdzZRTmlPNFRKUzBrV3A1b0ZXOFhvNnNldDNLUGhOVU9iYU5GdkRLYW0xN19KQVRlaHlVSmZKOW5uT0pYZUg1TDd5MTJUMmFRa1MzaHlibll4aTMwWkVMVW9MRDNNYldCUmVmZGVTTlhRcVRJZWtuRzFxRHR2VE5qOG54MjhqdmhwX3NWVndVcWFzWmhpenJmQUptWURVdS0yd2d5VWc0ZG1NYjlEUzlKNFZHOUZ0dE42bmRfeVBMdjNWdVdTU2pQNjY2QzB1NXJEZ3IzcjdYOVdzX1lRbk9uUVBScmpUdHVKY09LM19TN1FhNXk?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-10-07T18:19:17.000Z",
+      "sourceId": "eng",
+      "category": "คณะวิศวกรรมศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -3060,9 +3071,9 @@
       "imageSrc": null
     },
     {
-      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
-      "outlet": "ผู้จัดการออนไลน์",
+      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -3071,9 +3082,9 @@
       "imageSrc": null
     },
     {
-      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
+      "outlet": "ผู้จัดการออนไลน์",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -4652,17 +4663,6 @@
       "category": "วิทยาลัยการปกครองท้องถิ่น",
       "image": null,
       "topic": "other",
-      "imageSrc": null
-    },
-    {
-      "title": "2 นศ. เภสัชศาสตร์ มข. คว้าแชมป์ระดับชาติ โชว์ 3 นวัตกรรม สุดเจ๋ง เพื่อเภสัชใช้งานจริงในชุมชน",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9LUC1YOVZDamlDQWNvMURtNjdDS2JQcmhIdFJWTThCSmFfVDdKQjJYdEVwZWtHam1sMllkWUhTZHkySEpIbUJF?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-06-24T09:09:28.000Z",
-      "sourceId": "pharm",
-      "category": "คณะเภสัชศาสตร์",
-      "image": null,
-      "topic": "research",
       "imageSrc": null
     }
   ]
