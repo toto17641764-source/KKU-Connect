@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T00:45:29.104Z",
+  "updatedAt": "2026-10-20T06:44:51.926Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,17 @@
   ],
   "items": [
     {
+      "title": "คณะวิทยาศาสตร์ มข. จัดสัมมนาถ่ายทอดแผนปฏิบัติการ กำหนดทิศทางยุทธศาสตร์ 4 ปี ขับเคลื่อนองค์กรสู่อนาคต",
+      "link": "https://sc.kku.ac.th/trainingnews/129984/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-10-20T04:17:38.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
       "title": "สมาคมศิษย์เก่าคณะศึกษาศาสตร์ มข. เชื่อมสายสัมพันธ์คืนสู่เหย้า 2569 มอบรางวัล “ศิษย์เก่าดีเด่น” ผนึกกำลังระดมทุนส่งต่อโอกาสสร้างพลังขับเคลื่อนให้นักศึกษาวิชาชีพครู",
       "link": "https://ednet.kku.ac.th/news/21413/",
       "outlet": "เว็บไซต์คณะ",
@@ -512,8 +523,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9aQ0JWWWpuaTVxSGtoQjhaN2VuVlA1WkNDd2FFWGE2eFdZS0RvOUpXU05MN0x1Vll5OWdKcXJoUmxIb1BEbE13?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-10-05T07:00:00.000Z",
-      "sourceId": "law",
-      "category": "คณะนิติศาสตร์",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
       "image": null,
       "topic": "other",
       "imageSrc": null
@@ -4652,17 +4663,6 @@
       "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "research",
-      "imageSrc": null
-    },
-    {
-      "title": "วิทยาลัยการปกครองท้องถิ่น ม.ขอนแก่น จัด COLA Town Hall Meeting 2025 รับฟังเสียงของนักศึกษาอย่างต่อเนื่อง",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CYjN6LTM4amJpVTdXRnRpYXk2dUZCYkRtVG5NUmEwcFBtS2R3YTdNa0luaFhBYU16UU5ucU1wZHo2cjFGVzUw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-07-02T06:33:34.000Z",
-      "sourceId": "cola",
-      "category": "วิทยาลัยการปกครองท้องถิ่น",
-      "image": null,
-      "topic": "other",
       "imageSrc": null
     }
   ]
