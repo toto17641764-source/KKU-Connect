@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T20:45:08.968Z",
+  "updatedAt": "2026-10-20T00:45:29.104Z",
   "sources": [
     {
       "id": "med",
@@ -512,8 +512,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9aQ0JWWWpuaTVxSGtoQjhaN2VuVlA1WkNDd2FFWGE2eFdZS0RvOUpXU05MN0x1Vll5OWdKcXJoUmxIb1BEbE13?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-10-05T07:00:00.000Z",
-      "sourceId": "kkbs",
-      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "sourceId": "law",
+      "category": "คณะนิติศาสตร์",
       "image": null,
       "topic": "other",
       "imageSrc": null
