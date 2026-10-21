@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T08:54:58.178Z",
+  "updatedAt": "2026-10-21T14:42:59.444Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,17 @@
   ],
   "items": [
     {
+      "title": "นักวิจัยสาขาวิชาชีววิทยา คณะวิทยาศาสตร์ มข. ได้รับรางวัล Most Cited Paper Award 2025 จากวารสาร Environment International สำนักพิมพ์ Elsevier",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1lYXNSdFBubWZQb1dVNndJeWp2SmlEY2ozeTZ3NWw2VzlpdFFSYmF0M21OenNoVzV1OXZzYi14Nl9EVDh1S0Jv?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-10-21T11:08:25.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "research",
+      "imageSrc": null
+    },
+    {
       "title": "คณะวิทยาศาสตร์ มข. จัดสัมมนาถ่ายทอดแผนปฏิบัติการ กำหนดทิศทางยุทธศาสตร์ 4 ปี ขับเคลื่อนองค์กรสู่อนาคต",
       "link": "https://sc.kku.ac.th/trainingnews/129984/",
       "outlet": "เว็บไซต์คณะ",
@@ -286,6 +297,17 @@
       "image": "assets/news/291095132de5a4ac.jpg",
       "topic": "activity",
       "imageSrc": "https://ednet.kku.ac.th/wp-content/uploads/2026/10/EDKKU2026-10-17-คืนสู่เหย้า-ศึกษามข-6-1024x681.jpg"
+    },
+    {
+      "title": "สมเด็จพระกนิษฐาธิราชเจ้า กรมสมเด็จพระเทพรัตนราชสุดาฯ สยามบรมราชกุมารี เสด็จฯ ทอดพระเนตรนิทรรศการโรงงานต้นแบบไบโอไฮเทน คณะเทคโนโลยี มข. ผลงานวิจัยพลังงานสะอาดจากวัสดุเหลือทิ้ง สู่การพัฒนาอย่างยั่งยืน - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE40SWVxV3FjVlptb2hfQTVZWE9DV1lsZG90aDlac1dzb3d4LU15aXdreHN6RGVKYXhtUnMwSVI2b2RrSFEwRXVJ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-10-18T07:00:00.000Z",
+      "sourceId": "tech",
+      "category": "คณะเทคโนโลยี",
+      "image": null,
+      "topic": "research",
+      "imageSrc": null
     },
     {
       "title": "โรงเรียนเตรียมอุดมศึกษา คว้าแชมป์! การแข่งขันตอบปัญหาทางเศรษฐศาสตร์ นานาชาติ ประจำปี 2569 (Economics International Quiz Competition 2026)",
@@ -354,17 +376,6 @@
       "imageSrc": "https://kkbs.kku.ac.th/wp/wp-content/uploads/2026/10/02102026-.-27-1024x682.jpg"
     },
     {
-      "title": "คณบดีคณะเศรษฐศาสตร์ มข. ได้รับเชิญร่วมเวทีเสวนานานาชาติด้านการเติบโตสีเขียวของแอฟริกา ในงาน IMF–World Bank Annual Meetings 2026",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1iZ3phUGdNeS1EdjF1Vjljd29pVjQxSGlreDBhMDEyaXh5QzU4Zlg5V0hXWWkwaFljZ3BpT2VRWUNZQXVSSmlr?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-10-14T08:46:07.000Z",
-      "sourceId": "econ",
-      "category": "คณะเศรษฐศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "ศึกษาศาสตร์ มข. ร่วมภาคีเครือข่ายจัดอบรมผู้กำกับลูกเสือ เสริมทักษะการจัดกิจกรรมและภาวะผู้นำทางการศึกษา",
       "link": "https://ednet.kku.ac.th/news/21352/",
       "outlet": "เว็บไซต์คณะ",
@@ -374,6 +385,17 @@
       "image": "assets/news/ff30eff391474360.jpg",
       "topic": "activity",
       "imageSrc": "https://ednet.kku.ac.th/wp-content/uploads/2026/10/P1215258-1024x683.jpg"
+    },
+    {
+      "title": "คณบดีคณะเศรษฐศาสตร์ มข. ได้รับเชิญร่วมเวทีเสวนานานาชาติด้านการเติบโตสีเขียวของแอฟริกา ในงาน IMF–World Bank Annual Meetings 2026",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1iZ3phUGdNeS1EdjF1Vjljd29pVjQxSGlreDBhMDEyaXh5QzU4Zlg5V0hXWWkwaFljZ3BpT2VRWUNZQXVSSmlr?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-10-13T07:00:00.000Z",
+      "sourceId": "econ",
+      "category": "คณะเศรษฐศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
     },
     {
       "title": "ศูนย์วิจัยการพัฒนากำลังคนด้านโค้ดดิ้งและพลเมืองดิจิทัล คณะศึกษาศาสตร์ มข. จัดเวที KKU Cybersecurity Clinic รอบชิงชนะเลิศ เชื่อมโยงทักษะไซเบอร์สู่ผู้ประกอบการ SME",
@@ -406,17 +428,6 @@
       "category": "คณะวิทยาศาสตร์",
       "image": null,
       "topic": "other",
-      "imageSrc": null
-    },
-    {
-      "title": "นักวิจัยสาขาวิชาชีววิทยา คณะวิทยาศาสตร์ มข. ได้รับรางวัล Most Cited Paper Award 2025 จากวารสาร Environment International สำนักพิมพ์ Elsevier",
-      "link": "https://sc.kku.ac.th/sdg/sdg-2-zero-hunger-%e0%b8%a2%e0%b8%b8%e0%b8%95%e0%b8%b4%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%ab%e0%b8%b4%e0%b8%a7%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%9e%e0%b8%b1%e0%b8%92%e0%b8%99%e0%b8%b2%e0%b9%80/129399/",
-      "outlet": "เว็บไซต์คณะ",
-      "publishedAt": "2026-10-10T06:05:34.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
-      "image": null,
-      "topic": "research",
       "imageSrc": null
     },
     {
@@ -3976,7 +3987,7 @@
       "title": "บัณฑิตวิทยาลัย จัดโครงการพี่ให้น้อง ครั้งที่ 24 ณ โรงเรียนบ้านทุ่มห้วย อำเภอชนบท จังหวัดขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5qNDA5VWE3VGNvbWxsRkp2TTQwZGh6YVRFNkg1b0FjeFcxUjRLTnZLV3liOVlzVWRJNzFWbzBlZmk0Q3hxU0RV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-01-23T08:00:00.000Z",
+      "publishedAt": "2026-01-26T09:56:02.000Z",
       "sourceId": "gs",
       "category": "บัณฑิตวิทยาลัย",
       "image": null,
@@ -3995,23 +4006,23 @@
       "imageSrc": null
     },
     {
+      "title": "โรงเรียนสาธิต ม.ขอนแก่น วิทยาเขตหนองคาย สร้างชื่อ นำนักเรียนผู้ได้รับรางวัล \"เด็กและเยาวชนดีเด่นแห่งชาติ\" ประจำปี 2569 เข้าพบคณบดีคณะสหวิทยาการ รับฟังโอวาทแห่งความภาคภูมิใจ - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuQXdZN0RSSVB3YTFkX0tRSHRLR2hzeVlZVU01dW1ManFRQ1p1RmZMWEdna1k5NXdScUJmbjNvT2pTd2pDQzRF?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-01-20T02:53:18.000Z",
+      "sourceId": "is",
+      "category": "คณะสหวิทยาการ (หนองคาย)",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
       "title": "สาขาวิชาเทคโนโลยีชีวภาพ คณะเทคโนโลยี มข. จุดประกายแรงบันดาลใจนักวิทยาศาสตร์รุ่นใหม่ ผ่านค่าย “Biotech KKU’s Camp 2026”",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JbHZIWHJlaDQ2T2hEc2tfYkZrdDRpdDdBbUhZMnVXQlpnYnhfQmJFREtDekthazR1MzhqVUpTSDdSbXc5QXNj?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-01-17T08:00:00.000Z",
       "sourceId": "tech",
       "category": "คณะเทคโนโลยี",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "โรงเรียนสาธิต ม.ขอนแก่น วิทยาเขตหนองคาย สร้างชื่อ นำนักเรียนผู้ได้รับรางวัล \"เด็กและเยาวชนดีเด่นแห่งชาติ\" ประจำปี 2569 เข้าพบคณบดีคณะสหวิทยาการ รับฟังโอวาทแห่งความภาคภูมิใจ - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuQXdZN0RSSVB3YTFkX0tRSHRLR2hzeVlZVU01dW1ManFRQ1p1RmZMWEdna1k5NXdScUJmbjNvT2pTd2pDQzRF?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-01-16T08:00:00.000Z",
-      "sourceId": "is",
-      "category": "คณะสหวิทยาการ (หนองคาย)",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -4652,17 +4663,6 @@
       "category": "คณะเภสัชศาสตร์",
       "image": null,
       "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "เสิร์ฟแล้ว! “Digital & Creative Art Exhibition 2025” เวทีโชว์ผลงานสุดครีเอทีฟของนักศึกษา มข.",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43V2JnaWRxTVliajF4aGpyTzR6RkNBbkJ2SDBidVY4UWRLbFcyc1JSb0tlSnFubVBwcVVGalozd2dGVmNDcmxF?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-07-13T23:24:53.000Z",
-      "sourceId": "ph",
-      "category": "คณะสาธารณสุขศาสตร์",
-      "image": null,
-      "topic": "other",
       "imageSrc": null
     }
   ]
