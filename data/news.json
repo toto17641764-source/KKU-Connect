@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T19:34:44.077Z",
+  "updatedAt": "2026-10-22T22:48:46.371Z",
   "sources": [
     {
       "id": "med",
@@ -4380,6 +4380,17 @@
       "imageSrc": null
     },
     {
+      "title": "คณะนิติศาสตร์ มข. จัดสัมมนา “Restaulaw” สู่ “มื้ออาหารแห่งอิสรภาพ” เชื่อมธุรกิจ-กฎหมาย-สังคม",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBQUdBcnpOQkY0bWJYQWkwRzVQQ0NobUtpdzlXRHVHeFk4eDZ5Q2MwTDkzU2VaOWctN081N3lBWkpPRWt2QktZ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-11-28T08:00:00.000Z",
+      "sourceId": "law",
+      "category": "คณะนิติศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
       "title": "คณะพยาบาลศาสตร์ มข. จัดอบรมวิชาการเทคนิคการดูแลผู้ป่วยหัวใจและหลอดเลือด รุ่นที่ 22 ยกระดับสมรรถนะพยาบาลสู่มาตรฐานสากล - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBsdlBSd2swTFVSajBLaEdFc0xPRXY0VzdBcUdxRVp5eU1DcUxUc014d01rVVlTMHBXOFh1Njh5UnRfRmNpaGsw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -4399,17 +4410,6 @@
       "category": "บัณฑิตวิทยาลัย",
       "image": null,
       "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะนิติศาสตร์ มข. จัดสัมมนา “Restaulaw” สู่ “มื้ออาหารแห่งอิสรภาพ” เชื่อมธุรกิจ-กฎหมาย-สังคม",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBQUdBcnpOQkY0bWJYQWkwRzVQQ0NobUtpdzlXRHVHeFk4eDZ5Q2MwTDkzU2VaOWctN081N3lBWkpPRWt2QktZ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-11-28T08:00:00.000Z",
-      "sourceId": "law",
-      "category": "คณะนิติศาสตร์",
-      "image": null,
-      "topic": "activity",
       "imageSrc": null
     },
     {
