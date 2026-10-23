@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T22:48:46.371Z",
+  "updatedAt": "2026-10-23T02:05:28.955Z",
   "sources": [
     {
       "id": "med",
@@ -1553,6 +1553,17 @@
       "imageSrc": null
     },
     {
+      "title": "วิทยาลัยการคอมพิวเตอร์ มข. จัดงาน \"Computing Fair & CPKKU Open House ครั้งที่ 4\" เปิดเวทีเยาวชนประลองทักษะดิจิทัล พร้อมให้ความรู้หลักสูตรแห่งอนาคต - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpVlYwclJabHJzZnFOSTJFNFVuMUZWTm9qek5YbDVPb2xpU3lxeElJaU1FaFdub0JxV1JEYnF3WFhaSTBwRDRJ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-18T07:00:00.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
+      "image": null,
+      "topic": "study",
+      "imageSrc": null
+    },
+    {
       "title": "มหาวิทยาลัยขอนแก่นร่วมพิธีถวายราชสักการะ ‘พระบิดาแห่งวิทยาศาสตร์ไทย’ เนื่องในสัปดาห์วิทยาศาสตร์แห่งชาติ ประจำปี 2569 - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5PT2pwRU9iaXlydGZNT3ltbXN0WXQ4VnowVmRMSWw2NVdhVzVOVXFXdEUtTWRKdnQtOXFsbmUwRVpiVzZ5a3I4?oc=5",
       "outlet": "kku.ac.th",
@@ -1605,17 +1616,6 @@
       "category": "คณะเศรษฐศาสตร์",
       "image": null,
       "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "วิทยาลัยการคอมพิวเตอร์ มข. จัดงาน \"Computing Fair & CPKKU Open House ครั้งที่ 4\" เปิดเวทีเยาวชนประลองทักษะดิจิทัล พร้อมให้ความรู้หลักสูตรแห่งอนาคต - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpVlYwclJabHJzZnFOSTJFNFVuMUZWTm9qek5YbDVPb2xpU3lxeElJaU1FaFdub0JxV1JEYnF3WFhaSTBwRDRJ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
-      "sourceId": "cp",
-      "category": "วิทยาลัยการคอมพิวเตอร์",
-      "image": null,
-      "topic": "study",
       "imageSrc": null
     },
     {
