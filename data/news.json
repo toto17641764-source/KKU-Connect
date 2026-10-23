@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T14:29:31.796Z",
+  "updatedAt": "2026-10-23T19:35:05.961Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,17 @@
     }
   ],
   "items": [
+    {
+      "title": "ส่งเสริมสุขภาวะทางใจนักศึกษา จัดกิจกรรมศิลปะ Decoupage ผ่อนคลายความเครียดช่วงสอบปลายภาค มุ่งสร้างระบบนิเวศการเรียนรู้ที่สมบูรณ์",
+      "link": "https://ednet.kku.ac.th/news/21466/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-10-23T16:54:41.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": "assets/news/10b9b7267f093191.jpg",
+      "topic": "study",
+      "imageSrc": "https://ednet.kku.ac.th/wp-content/uploads/2026/10/6b892d8b-b225-40fc-b8c4-829ed34e342f.jpg"
+    },
     {
       "title": "COPA มข. ต้อนรับเอกอัครราชทูตรัสเซีย เปิดเวทีเสวนาความสัมพันธ์เชิงยุทธศาสตร์ไทย–รัสเซีย เสริมบทบาทมหาวิทยาลัยสู่ความร่วมมือระดับนานาชาติ",
       "link": "https://copa.kku.ac.th/3887/",
@@ -1718,17 +1729,6 @@
       "imageSrc": null
     },
     {
-      "title": "มข. จัดใหญ่ \"สัปดาห์วิทยาศาสตร์แห่งชาติ 69\" ชูแนวคิด \"Intelligence Science for a Sustainable Future\" ปลุกพลังขับเคลื่อนอนาคตที่ยั่งยืน เยาวชนตบเท้าร่วมแข่งตอบปัญหากว่า 1,400 ทีม - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9FdS16RXViZVlEbmlpOXdvaUFhdUVOTloxQ1V2VDVSeGVrNnZYeHJiVG4zUk9MalJwams4ZEEyZXdMMnRWS3JN?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-08-11T07:00:00.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
-      "image": null,
-      "topic": "other",
-      "imageSrc": null
-    },
-    {
       "title": "มข. จัดกิจกรรม “ดำนาสร้างสรรค์ ปั้นฝันเกษตรกรรุ่นใหม่” ปลูกฝังเยาวชนรักษ์วิถีเกษตรไทย",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1fOFY3eWY3bGZLenQxTTVraHhUaTlITThwTkhjeWZ1R0RRb0Fhblc0bXlrVURJT1JjaGhsZV9sZnN3RHR1REFN?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1737,6 +1737,17 @@
       "category": "คณะเกษตรศาสตร์",
       "image": null,
       "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "มข. จัดใหญ่ \"สัปดาห์วิทยาศาสตร์แห่งชาติ 69\" ชูแนวคิด \"Intelligence Science for a Sustainable Future\" ปลุกพลังขับเคลื่อนอนาคตที่ยั่งยืน เยาวชนตบเท้าร่วมแข่งตอบปัญหากว่า 1,400 ทีม - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9FdS16RXViZVlEbmlpOXdvaUFhdUVOTloxQ1V2VDVSeGVrNnZYeHJiVG4zUk9MalJwams4ZEEyZXdMMnRWS3JN?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-11T07:00:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "other",
       "imageSrc": null
     },
     {
@@ -3229,8 +3240,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IbDBmZWhDTzE1V1o4NEN4VGRiRkRJVFhpOUZyVDB6WElxV3UtMGJDcUVkUDMyakxuMlBSdkVzM2QyVjBxTUJR?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-05-06T03:24:56.000Z",
-      "sourceId": "med",
-      "category": "คณะแพทยศาสตร์",
+      "sourceId": "dent",
+      "category": "คณะทันตแพทยศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -4652,17 +4663,6 @@
       "category": "คณะเภสัชศาสตร์",
       "image": null,
       "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะสาธารณสุขศาสตร์ มข. จัดโครงการแลกเปลี่ยนนักศึกษา ณ YMUN ประเทศจีน",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBHRGJTMmNBak1XVDU4VVRsZWpsd05MZGJDNnVfVFpxaElxbHYtSjBNdDQ4WnF3am81eTlJUm5sSVhaaUE3Zkw4?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-07-17T06:39:27.000Z",
-      "sourceId": "ph",
-      "category": "คณะสาธารณสุขศาสตร์",
-      "image": null,
-      "topic": "other",
       "imageSrc": null
     }
   ]
