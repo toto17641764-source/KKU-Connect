@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T19:52:30.113Z",
+  "updatedAt": "2026-10-24T22:00:28.473Z",
   "sources": [
     {
       "id": "med",
@@ -3251,8 +3251,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IbDBmZWhDTzE1V1o4NEN4VGRiRkRJVFhpOUZyVDB6WElxV3UtMGJDcUVkUDMyakxuMlBSdkVzM2QyVjBxTUJR?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-05-06T03:24:56.000Z",
-      "sourceId": "dent",
-      "category": "คณะทันตแพทยศาสตร์",
+      "sourceId": "med",
+      "category": "คณะแพทยศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -4325,17 +4325,6 @@
       "imageSrc": null
     },
     {
-      "title": "คณะพยาบาลศาสตร์ มข. จัดพิธีมอบหมวกและเสื้อแก่นักศึกษาพยาบาลชั้นปีที่ 2 ประจำปีการศึกษา 2568",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5EeFVNWW9SakdLNkdGYjFKT3hraW1sbnh5a3VnaTc0NEVlb1RJNG9oejF1RkkxbXlpbGpGTXRyQXBmTllTbjZV?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-12-02T06:25:32.000Z",
-      "sourceId": "nurse",
-      "category": "คณะพยาบาลศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "บัณฑิตวิทยาลัย จัดพิธีทำบุญครบรอบ 47 ปี พร้อมมอบรางวัลเชิดชูเกียรติประจำปี 2568",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE40ZE1UNUF1RHlqQ1UwRDhQMy0xTTJrLUNJVVQ1X3J0YWx0dEd5Z0xiNkFBeVI0YzJtd2txT3FDTUNpSVkzdXNR?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -4399,6 +4388,17 @@
       "category": "บัณฑิตวิทยาลัย",
       "image": null,
       "topic": "study",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะพยาบาลศาสตร์ มข. จัดพิธีมอบหมวกและเสื้อแก่นักศึกษาพยาบาลชั้นปีที่ 2 ประจำปีการศึกษา 2568",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5EeFVNWW9SakdLNkdGYjFKT3hraW1sbnh5a3VnaTc0NEVlb1RJNG9oejF1RkkxbXlpbGpGTXRyQXBmTllTbjZV?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-11-28T08:00:00.000Z",
+      "sourceId": "nurse",
+      "category": "คณะพยาบาลศาสตร์",
+      "image": null,
+      "topic": "activity",
       "imageSrc": null
     },
     {
