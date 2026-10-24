@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T08:26:27.442Z",
+  "updatedAt": "2026-10-24T13:40:37.332Z",
   "sources": [
     {
       "id": "med",
@@ -1729,17 +1729,6 @@
       "imageSrc": null
     },
     {
-      "title": "มข. จัดกิจกรรม “ดำนาสร้างสรรค์ ปั้นฝันเกษตรกรรุ่นใหม่” ปลูกฝังเยาวชนรักษ์วิถีเกษตรไทย",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1fOFY3eWY3bGZLenQxTTVraHhUaTlITThwTkhjeWZ1R0RRb0Fhblc0bXlrVURJT1JjaGhsZV9sZnN3RHR1REFN?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-08-11T07:00:00.000Z",
-      "sourceId": "agri",
-      "category": "คณะเกษตรศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "มข. จัดใหญ่ \"สัปดาห์วิทยาศาสตร์แห่งชาติ 69\" ชูแนวคิด \"Intelligence Science for a Sustainable Future\" ปลุกพลังขับเคลื่อนอนาคตที่ยั่งยืน เยาวชนตบเท้าร่วมแข่งตอบปัญหากว่า 1,400 ทีม - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9FdS16RXViZVlEbmlpOXdvaUFhdUVOTloxQ1V2VDVSeGVrNnZYeHJiVG4zUk9MalJwams4ZEEyZXdMMnRWS3JN?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1748,6 +1737,17 @@
       "category": "คณะวิทยาศาสตร์",
       "image": null,
       "topic": "other",
+      "imageSrc": null
+    },
+    {
+      "title": "มข. จัดกิจกรรม “ดำนาสร้างสรรค์ ปั้นฝันเกษตรกรรุ่นใหม่” ปลูกฝังเยาวชนรักษ์วิถีเกษตรไทย",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1fOFY3eWY3bGZLenQxTTVraHhUaTlITThwTkhjeWZ1R0RRb0Fhblc0bXlrVURJT1JjaGhsZV9sZnN3RHR1REFN?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-11T07:00:00.000Z",
+      "sourceId": "agri",
+      "category": "คณะเกษตรศาสตร์",
+      "image": null,
+      "topic": "activity",
       "imageSrc": null
     },
     {
