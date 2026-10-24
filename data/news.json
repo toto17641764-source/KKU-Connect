@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T22:41:19.113Z",
+  "updatedAt": "2026-10-24T02:04:32.575Z",
   "sources": [
     {
       "id": "med",
@@ -578,8 +578,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9aQ0JWWWpuaTVxSGtoQjhaN2VuVlA1WkNDd2FFWGE2eFdZS0RvOUpXU05MN0x1Vll5OWdKcXJoUmxIb1BEbE13?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-10-05T07:00:00.000Z",
-      "sourceId": "kkbs",
-      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "sourceId": "law",
+      "category": "คณะนิติศาสตร์",
       "image": null,
       "topic": "other",
       "imageSrc": null
@@ -3104,17 +3104,6 @@
       "imageSrc": null
     },
     {
-      "title": "ขอเชิญอาจารย์และบุคลากร มหาวิทยาลัยขอนแก่น เข้าทดสอบความรู้ “ความปลอดภัยทางไซเบอร์” ประจำปี 2569",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPOHRJajI2bU5LWVNUbVNLb0xrQW1PZnR6NTRCN1VRVWFiS2ZRX0xMb3V5ekZDeElENnUzQXhGV2RYVEVDazNRNk9EZ05hZ0VMdmtPRDVwYmhMdUQ2elpoVlRSMHRpVEVWVUZxb2V2ZnFqYW5LNkhhMXZqYTJIUTVwbW85UVZQdzlVTDJ0UkR5TzRPUW80WEZJRWMyYTBJQ2Q1M1hMcGlIQTZwYXg0dzcydXdOckJMLWlGbFBKQ19rNnk4blJiRF9FbWI1R3R1aGMxUDVDVEJubVlCRFg1cTZQS25FWk9RakNjTXZEOUZTZUtIUkRVVkZ3VkxVN0hzaUlHWFFTbnFzd0cybDdWZTBscHZfT3ZzcVVsTUVOVTFCUmVJQ3REd2s2ZmVGYlNIVjZnVGpEYllzU3JBbVBLVHE4SEdkbUxnNmlBeVJHRWpfYw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-05-11T07:00:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
       "title": "ศึกษาศาสตร์ มข. ร่วมสถานศึกษาเครือข่าย เตรียมความพร้อมครูพี่เลี้ยง และอาจารย์นิเทศก์ ก่อนส่งนักศึกษาฝึกปฏิบัติการสอนฯ ประจำปี 2569 - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zVk5UZnNLTmdsd1hwc0Ryc0xWbzdRTWZDTTRPN1pFdFBTMWFlUWdfSWxseEJzdjhlQkF4YzV2VWtILXdwWGNV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -3123,6 +3112,17 @@
       "category": "คณะศึกษาศาสตร์",
       "image": null,
       "topic": "other",
+      "imageSrc": null
+    },
+    {
+      "title": "ขอเชิญอาจารย์และบุคลากร มหาวิทยาลัยขอนแก่น เข้าทดสอบความรู้ “ความปลอดภัยทางไซเบอร์” ประจำปี 2569",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPOHRJajI2bU5LWVNUbVNLb0xrQW1PZnR6NTRCN1VRVWFiS2ZRX0xMb3V5ekZDeElENnUzQXhGV2RYVEVDazNRNk9EZ05hZ0VMdmtPRDVwYmhMdUQ2elpoVlRSMHRpVEVWVUZxb2V2ZnFqYW5LNkhhMXZqYTJIUTVwbW85UVZQdzlVTDJ0UkR5TzRPUW80WEZJRWMyYTBJQ2Q1M1hMcGlIQTZwYXg0dzcydXdOckJMLWlGbFBKQ19rNnk4blJiRF9FbWI1R3R1aGMxUDVDVEJubVlCRFg1cTZQS25FWk9RakNjTXZEOUZTZUtIUkRVVkZ3VkxVN0hzaUlHWFFTbnFzd0cybDdWZTBscHZfT3ZzcVVsTUVOVTFCUmVJQ3REd2s2ZmVGYlNIVjZnVGpEYllzU3JBbVBLVHE4SEdkbUxnNmlBeVJHRWpfYw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-05-11T07:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "study",
       "imageSrc": null
     },
     {
@@ -4094,17 +4094,6 @@
       "imageSrc": null
     },
     {
-      "title": "คณะศิลปกรรมศาสตร์ มข. เปิดเวทีแลกเปลี่ยนดนตรีและการแสดง ไทย–เกาหลี ภายใต้กิจกรรม “SOUND SCENE SYNC”: เชื่อมศาสตร์แห่งดนตรีและการแสดง” - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA1NTNQd1F5c0FleE4tSlJpNDdDNy1PVVpHa2JOZnBYdTcwOWx5RXpmUlhzMmRCSjdrV0p5QnhQaHExY3BuYVpj?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-01-12T07:19:27.000Z",
-      "sourceId": "fa",
-      "category": "คณะศิลปกรรมศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "คณะเทคนิคการแพทย์ มข. ร่วม (NUS) ประเทศสิงคโปร์ จัดโครงการแลกเปลี่ยนนักศึกษา พัฒนานวัตกรรมกายภาพบำบัดเพื่อผู้สูงอายุ - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5jb0tXQnlWWUlBMlA2NFZlZ0FnOW1KcXMwd00wU0E4YUMwdng4LW5TZVBNMjVydE42TzNGUDEyNVBjZ1BCZ1Rv?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -4124,6 +4113,17 @@
       "category": "คณะเทคโนโลยี",
       "image": null,
       "topic": "other",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะศิลปกรรมศาสตร์ มข. เปิดเวทีแลกเปลี่ยนดนตรีและการแสดง ไทย–เกาหลี ภายใต้กิจกรรม “SOUND SCENE SYNC”: เชื่อมศาสตร์แห่งดนตรีและการแสดง” - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA1NTNQd1F5c0FleE4tSlJpNDdDNy1PVVpHa2JOZnBYdTcwOWx5RXpmUlhzMmRCSjdrV0p5QnhQaHExY3BuYVpj?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-01-08T08:00:00.000Z",
+      "sourceId": "fa",
+      "category": "คณะศิลปกรรมศาสตร์",
+      "image": null,
+      "topic": "activity",
       "imageSrc": null
     },
     {
