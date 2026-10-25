@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T17:16:47.978Z",
+  "updatedAt": "2026-10-25T20:02:21.777Z",
   "sources": [
     {
       "id": "med",
@@ -270,8 +270,8 @@
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YdlN0U3VyLUI4Z3lQaVhhZVpnQVE1LVhYTmZ6bDFBb0RjeHYtTWh0SGhsQUxiQWg2a3BTb19hRFlnTEpRT0ZDQnh0Mm5ENm9EVmRsQmJUTVg?oc=5",
       "outlet": "banmuang.co.th",
       "publishedAt": "2026-10-24T13:58:00.000Z",
-      "sourceId": "med",
-      "category": "คณะแพทยศาสตร์",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
       "image": null,
       "topic": "study",
       "imageSrc": null
