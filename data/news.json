@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T14:36:39.640Z",
+  "updatedAt": "2026-10-26T20:46:42.984Z",
   "sources": [
     {
       "id": "med",
@@ -387,17 +387,6 @@
       "imageSrc": "https://fa.kku.ac.th/wp-content/uploads/2026/10/0206-1024x698.jpg"
     },
     {
-      "title": "Night to Remember | 40YEARS VET KKU : Charity Concert คอนเสิร์ตการกุศล คณะสัตวแพทยศาสตร์ ม.ขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdVQ0MTQ5OFctXzNFZTc3dlBJc0swN3BkcDVfcWRSRXNvZENMNTlBVllKV0ZtSF9MczBTQkxnQjB5eEU0NlBMY0hFNklqVjNLbnJSdWRQaDF0aGs?oc=5",
-      "outlet": "CH3Plus.com",
-      "publishedAt": "2026-10-16T04:16:07.000Z",
-      "sourceId": "vet",
-      "category": "คณะสัตวแพทยศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "คณะเภสัชศาสตร์ มข. เปิดสวนสมุนไพรเป็น \"ห้องเรียนมีชีวิต\" ต้อนรับนักศึกษาสาธารณสุขชุมชน วิทยาลัยการสาธารณสุขสิรินธร ขอนแก่น เรียนรู้สมุนไพรจากของจริง เชื่อมความรู้สู่การดูแลสุขภาพชุมชน - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBqRXRNNmZqVDFyN25oZXMydFhqRWlNNUNqT3ZabGZkTFlUeXdjZ1lpM2RDQVZCZVJWdGp4RHB2bUxtYzJxOGNv?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -417,6 +406,17 @@
       "category": "คณะวิทยาศาสตร์",
       "image": null,
       "topic": "research",
+      "imageSrc": null
+    },
+    {
+      "title": "Night to Remember | 40YEARS VET KKU : Charity Concert คอนเสิร์ตการกุศล คณะสัตวแพทยศาสตร์ ม.ขอนแก่น",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdVQ0MTQ5OFctXzNFZTc3dlBJc0swN3BkcDVfcWRSRXNvZENMNTlBVllKV0ZtSF9MczBTQkxnQjB5eEU0NlBMY0hFNklqVjNLbnJSdWRQaDF0aGs?oc=5",
+      "outlet": "ช่อง3",
+      "publishedAt": "2026-10-15T07:00:00.000Z",
+      "sourceId": "vet",
+      "category": "คณะสัตวแพทยศาสตร์",
+      "image": null,
+      "topic": "activity",
       "imageSrc": null
     },
     {
