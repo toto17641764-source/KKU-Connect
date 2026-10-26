@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T01:53:30.320Z",
+  "updatedAt": "2026-10-26T07:07:57.007Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,28 @@
     }
   ],
   "items": [
+    {
+      "title": "หลักสูตรปรัชญาดุษฎีบัณฑิต สาขาวิชาการบริหารการศึกษา คณะศึกษาศาสตร์ มหาวิทยาลัยขอนแก่น เข้าร่วมการประชุมวิชาการและนำเสนอผลงานวิจัยระดับชาติและนานาชาติ และงานบริหารการศึกษาอีสานสัมพันธ์ครั้งที่ 17",
+      "link": "https://ednet.kku.ac.th/news/21472/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-10-26T03:36:36.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": "assets/news/93831e6314498d05.jpg",
+      "topic": "research",
+      "imageSrc": "https://ednet.kku.ac.th/wp-content/uploads/2026/10/857130000_1503346904936074_3296339658830441608_n-1024x576.jpg"
+    },
+    {
+      "title": "โทรโข่งขยายข่าว : มข.โชว์หลักสูตร AI ไทยรัฐ (กรอบบ่าย)",
+      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBFSW01UjJ2N1BHalNhVFhzU1dTVU1xTEQ2YlJwM0VhN3M4T1FYdkJoOWc4cklDRlBCTWQ1OE9B?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-10-26T00:37:42.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "study",
+      "imageSrc": null
+    },
     {
       "title": "มข.ลุยหนองคาย! ติวเข้ม 250 ครูผลิตสื่อ-หลักสูตรตัดวงจร \"มะเร็งท่อน้ำดี\" ในโรงเรียน",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YdlN0U3VyLUI4Z3lQaVhhZVpnQVE1LVhYTmZ6bDFBb0RjeHYtTWh0SGhsQUxiQWg2a3BTb19hRFlnTEpRT0ZDQnh0Mm5ENm9EVmRsQmJUTVg?oc=5",
@@ -1287,17 +1309,6 @@
       "image": null,
       "topic": "activity",
       "imageSrc": null
-    },
-    {
-      "title": "หลักสูตรปรัชญาดุษฎีบัณฑิต สาขาวิชาการบริหารการศึกษา คณะศึกษาศาสตร์ มหาวิทยาลัยขอนแก่น จัดการอบรมเชิงปฏิบัติการ “การบริหารทรัพยากรมนุษย์ในองค์กรทางการศึกษา : ดึงดูด พัฒนา รักษาคนดีและคนเก่ง",
-      "link": "https://ednet.kku.ac.th/news/20813/",
-      "outlet": "เว็บไซต์คณะ",
-      "publishedAt": "2026-09-04T06:54:24.000Z",
-      "sourceId": "edu",
-      "category": "คณะศึกษาศาสตร์",
-      "image": "assets/news/43b6c80198c6ddbf.jpg",
-      "topic": "study",
-      "imageSrc": "https://ednet.kku.ac.th/wp-content/uploads/2026/09/789349761_1455759386361493_2774974220538008466_n-1-1024x576.jpg"
     },
     {
       "title": "นักศึกษาสถิติ หลักสูตร SIDS คว้ารางวัลชมเชย NSC 2026 ชู AI พยากรณ์ความเสี่ยงโรคหัวใจและหลอดเลือด",
@@ -4650,17 +4661,6 @@
       "publishedAt": "2025-09-05T07:00:00.000Z",
       "sourceId": "kku",
       "category": "มข.",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะทันตแพทยศาสตร์ มหาวิทยาลัยขอนแก่น ขอแสดงความยินดี กับ “นักศึกษารางวัลพระราชทาน ระดับอุดมศึกษา” ประจำปีการศึกษา ๒๕๖๗ - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84V3I4dVFJa3ZnYkEyZHNNb0dDU2lWRW5JaGlHVWJBaU9jaDdZRzVTcUhXUDdManZBVW9pOVdDWGt1MXFYUUlr?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-08-28T19:04:12.000Z",
-      "sourceId": "ph",
-      "category": "คณะสาธารณสุขศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
