@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T06:53:39.493Z",
+  "updatedAt": "2026-10-27T13:40:36.689Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,17 @@
   ],
   "items": [
     {
+      "title": "คณะสหวิทยาการ มข. รุกสร้างเครือข่ายความร่วมมือทางวิชาการในจีน มุ่งพัฒนาและประชาสัมพันธ์หลักสูตร ขยายโอกาสการเรียนรู้ระดับนานาชาติ - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1PNW85b2tMX1lBZEoySVdzWUdZanVjanh6R0xJcHl6WjkxUWFsTGxtVWZEc1Rsb0tYQk9xSGVxWnY4cjdEaW9j?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-10-27T09:00:17.000Z",
+      "sourceId": "is",
+      "category": "คณะสหวิทยาการ (หนองคาย)",
+      "image": null,
+      "topic": "study",
+      "imageSrc": null
+    },
+    {
       "title": "นักศึกษานาฏศิลป์ คณะศิลปกรรมศาสตร์ มข. ร่วมแสดงนาฏศิลป์ถวายหน้าพระพักตร์ สมเด็จพระกนิษฐาธิราชเจ้า กรมสมเด็จพระเทพรัตนราชสุดาฯ สยามบรมราชกุมารี",
       "link": "https://fa.kku.ac.th/%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b8%a8%e0%b8%b6%e0%b8%81%e0%b8%a9%e0%b8%b2%e0%b8%99%e0%b8%b2%e0%b8%8f%e0%b8%a8%e0%b8%b4%e0%b8%a5%e0%b8%9b%e0%b9%8c-%e0%b8%84%e0%b8%93%e0%b8%b0%e0%b8%a8%e0%b8%b4%e0%b8%a5/",
       "outlet": "เว็บไซต์คณะ",
@@ -475,6 +486,17 @@
       "imageSrc": null
     },
     {
+      "title": "ขอเชิญผู้มีจิตศรัทธาร่วมเป็นเจ้าภาพ ผ้าป่าสามัคคีคณะแพทยศาสตร์ มหาวิทยาลัยขอนแก่น ประจำปี 2569",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOdEdWVVNzaXJOdWMtV2wzcExfVUlHVVFvQ2oyVlZwSE9YUm5RNzlWb25UOHQ2OVNRV2p1RldKOHFSX1B3ZnhPQlF1WnFab2xOMFh0djRuam9GbDBIWXNmOTJLNWl0NUZ5TzM0MUcyRENPa0E5LXhoVl90RWJBdlMxSHVxWEJoZ3luUk91bmx1Mk1wY0haeS1aa0pNeTdocTBoYkxhaFUtbDI5bGR1MjZ6cllYczhKWklPNVlkQ2FFM0RROVh4Q1cwcm9feTM5eEJqaXdPc2h1UW0zWlVSZnloM2hJM3R1SFZaSFVMUThZY29JM21BLW9yRjFaVnB1SXVZMEFrWWpNeWNWUjd2a1dMekxTb2R3VF9QSzRDWHpXWEh0cUZkaHlFYlp4YVlab1p2N2o2Rjg4aEtSRzVwQl91SnRkdnJ2NWEtbWctM1N1WQ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-10-13T02:59:02.000Z",
+      "sourceId": "med",
+      "category": "คณะแพทยศาสตร์",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
+    },
+    {
       "title": "ศูนย์วิจัยการพัฒนากำลังคนด้านโค้ดดิ้งและพลเมืองดิจิทัล คณะศึกษาศาสตร์ มข. จัดเวที KKU Cybersecurity Clinic รอบชิงชนะเลิศ เชื่อมโยงทักษะไซเบอร์สู่ผู้ประกอบการ SME",
       "link": "https://ednet.kku.ac.th/news/21332/",
       "outlet": "เว็บไซต์คณะ",
@@ -633,8 +655,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9aQ0JWWWpuaTVxSGtoQjhaN2VuVlA1WkNDd2FFWGE2eFdZS0RvOUpXU05MN0x1Vll5OWdKcXJoUmxIb1BEbE13?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-10-05T07:00:00.000Z",
-      "sourceId": "kkbs",
-      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "sourceId": "law",
+      "category": "คณะนิติศาสตร์",
       "image": null,
       "topic": "other",
       "imageSrc": null
@@ -2708,17 +2730,6 @@
       "imageSrc": null
     },
     {
-      "title": "คณะเทคโนโลยี มข. ร่วมงานสัมมนาวันความปลอดภัยอาหารโลก (World Food Safety Day) ของประเทศไทย ประจำปี 2569",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5IeDZjWFpGQWZFR2VlT3BSZmFzWXlfYkVjaW9zQnBYRU5aY1hvdXMxcE5sc09LTWdycjk3UkVyeXQ1elVyY1E0?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-06-22T07:00:00.000Z",
-      "sourceId": "tech",
-      "category": "คณะเทคโนโลยี",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "มหาวิทยาลัยขอนแก่น เปิดรับสมัครนักศึกษาระดับปริญญาตรี เพื่อรับทุนการศึกษา ภาคการศึกษาต้น ปีการศึกษา 2569 ทั้งทุนประเภท ก (ทุนต่อเนื่องจนสำเร็จการศึกษา) และทุนประเภท ข - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CV0lVTk9yN19OeTNCM2VXR3RyM256YmxGWXlIWHMyU2Y5S29sV2I4Q2phNTg0ZmpUUFBVdGpWdmluX0NNRnEw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2727,6 +2738,17 @@
       "category": "มข.",
       "image": null,
       "topic": "scholarship",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะเทคโนโลยี มข. ร่วมงานสัมมนาวันความปลอดภัยอาหารโลก (World Food Safety Day) ของประเทศไทย ประจำปี 2569",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5IeDZjWFpGQWZFR2VlT3BSZmFzWXlfYkVjaW9zQnBYRU5aY1hvdXMxcE5sc09LTWdycjk3UkVyeXQ1elVyY1E0?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-06-22T07:00:00.000Z",
+      "sourceId": "tech",
+      "category": "คณะเทคโนโลยี",
+      "image": null,
+      "topic": "activity",
       "imageSrc": null
     },
     {
@@ -3148,17 +3170,6 @@
       "imageSrc": null
     },
     {
-      "title": "ศึกษาศาสตร์ มข. ร่วมสถานศึกษาเครือข่าย เตรียมความพร้อมครูพี่เลี้ยง และอาจารย์นิเทศก์ ก่อนส่งนักศึกษาฝึกปฏิบัติการสอนฯ ประจำปี 2569 - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zVk5UZnNLTmdsd1hwc0Ryc0xWbzdRTWZDTTRPN1pFdFBTMWFlUWdfSWxseEJzdjhlQkF4YzV2VWtILXdwWGNV?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-05-11T07:00:00.000Z",
-      "sourceId": "edu",
-      "category": "คณะศึกษาศาสตร์",
-      "image": null,
-      "topic": "other",
-      "imageSrc": null
-    },
-    {
       "title": "ขอเชิญอาจารย์และบุคลากร มหาวิทยาลัยขอนแก่น เข้าทดสอบความรู้ “ความปลอดภัยทางไซเบอร์” ประจำปี 2569",
       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPOHRJajI2bU5LWVNUbVNLb0xrQW1PZnR6NTRCN1VRVWFiS2ZRX0xMb3V5ekZDeElENnUzQXhGV2RYVEVDazNRNk9EZ05hZ0VMdmtPRDVwYmhMdUQ2elpoVlRSMHRpVEVWVUZxb2V2ZnFqYW5LNkhhMXZqYTJIUTVwbW85UVZQdzlVTDJ0UkR5TzRPUW80WEZJRWMyYTBJQ2Q1M1hMcGlIQTZwYXg0dzcydXdOckJMLWlGbFBKQ19rNnk4blJiRF9FbWI1R3R1aGMxUDVDVEJubVlCRFg1cTZQS25FWk9RakNjTXZEOUZTZUtIUkRVVkZ3VkxVN0hzaUlHWFFTbnFzd0cybDdWZTBscHZfT3ZzcVVsTUVOVTFCUmVJQ3REd2s2ZmVGYlNIVjZnVGpEYllzU3JBbVBLVHE4SEdkbUxnNmlBeVJHRWpfYw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -3167,6 +3178,17 @@
       "category": "มข.",
       "image": null,
       "topic": "study",
+      "imageSrc": null
+    },
+    {
+      "title": "ศึกษาศาสตร์ มข. ร่วมสถานศึกษาเครือข่าย เตรียมความพร้อมครูพี่เลี้ยง และอาจารย์นิเทศก์ ก่อนส่งนักศึกษาฝึกปฏิบัติการสอนฯ ประจำปี 2569 - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zVk5UZnNLTmdsd1hwc0Ryc0xWbzdRTWZDTTRPN1pFdFBTMWFlUWdfSWxseEJzdjhlQkF4YzV2VWtILXdwWGNV?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-05-11T07:00:00.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": null,
+      "topic": "other",
       "imageSrc": null
     },
     {
@@ -4641,28 +4663,6 @@
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
       "image": null,
       "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "กองสื่อสารองค์กร มข. ร่วมกิจกรรมทำบุญผ้าป่าสามัคคีและใส่บาตร เนื่องในโอกาสครบรอบ 32 ปี วิทยาลัยบัณฑิตศึกษาการจัดการ - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9nVnkxRXNxSkttWFdhc3M2M2RzMnl2dUdmbGhPVmkyTTdXajVIQXQ4Mmo4OHc2ZjZfNWxZTEkzLUJ0X25lZUx3?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-09-09T07:00:00.000Z",
-      "sourceId": "cbs",
-      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "วิทยาลัยการคอมพิวเตอร์ มข. เปิดตัวหลักสูตร “เทคโนโลยีสารสนเทศและนวัตกรรมอัจฉริยะ (ITII)” มุ่งพัฒนาผู้เรียนสู่ผู้สร้างสรรค์นวัตกรรม - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE56YVF4MkFUS2o5clFHcHBINWltMi10WTVlUHpncUhreUI5WFdHOGJnN1UyYXhuYzZGd3hSYXpUWmFtaEdPWjU4?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-09-08T10:20:17.000Z",
-      "sourceId": "cp",
-      "category": "วิทยาลัยการคอมพิวเตอร์",
-      "image": null,
-      "topic": "research",
       "imageSrc": null
     }
   ]
