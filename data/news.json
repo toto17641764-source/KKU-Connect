@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T00:57:08.154Z",
+  "updatedAt": "2026-10-27T06:53:39.493Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,17 @@
   ],
   "items": [
     {
+      "title": "นักศึกษานาฏศิลป์ คณะศิลปกรรมศาสตร์ มข. ร่วมแสดงนาฏศิลป์ถวายหน้าพระพักตร์ สมเด็จพระกนิษฐาธิราชเจ้า กรมสมเด็จพระเทพรัตนราชสุดาฯ สยามบรมราชกุมารี",
+      "link": "https://fa.kku.ac.th/%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b8%a8%e0%b8%b6%e0%b8%81%e0%b8%a9%e0%b8%b2%e0%b8%99%e0%b8%b2%e0%b8%8f%e0%b8%a8%e0%b8%b4%e0%b8%a5%e0%b8%9b%e0%b9%8c-%e0%b8%84%e0%b8%93%e0%b8%b0%e0%b8%a8%e0%b8%b4%e0%b8%a5/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-10-27T02:10:07.000Z",
+      "sourceId": "fa",
+      "category": "คณะศิลปกรรมศาสตร์",
+      "image": "assets/news/67053ab95a271e75.jpg",
+      "topic": "other",
+      "imageSrc": "https://fa.kku.ac.th/wp-content/uploads/2026/10/8cc085bd-6d5b-488b-beef-fe0506433b8d-1024x683.jpg"
+    },
+    {
       "title": "หลักสูตรปรัชญาดุษฎีบัณฑิต สาขาวิชาการบริหารการศึกษา คณะศึกษาศาสตร์ มหาวิทยาลัยขอนแก่น เข้าร่วมการประชุมวิชาการและนำเสนอผลงานวิจัยระดับชาติและนานาชาติ และงานบริหารการศึกษาอีสานสัมพันธ์ครั้งที่ 17",
       "link": "https://ednet.kku.ac.th/news/21472/",
       "outlet": "เว็บไซต์คณะ",
@@ -406,6 +417,17 @@
       "category": "คณะวิทยาศาสตร์",
       "image": null,
       "topic": "research",
+      "imageSrc": null
+    },
+    {
+      "title": "มข. ขอเชิญร่วมเป็นเจ้าภาพทอดถวายกฐินมหาวิทยาลัยขอนแก่น ประจำปี ๒๕๖๙ เพื่อทำนุบำรุงพระพุทธศาสนาและสืบสานประเพณี - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE00aGd4U1VQOTAyeEw3S3hJb25VaHN1QWNwODVaNmVjUU9qSko2U3F3N2hBN3lJRENWbkVlRnRaVTdsM0JpTy00?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-10-15T09:27:04.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "activity",
       "imageSrc": null
     },
     {
@@ -611,8 +633,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9aQ0JWWWpuaTVxSGtoQjhaN2VuVlA1WkNDd2FFWGE2eFdZS0RvOUpXU05MN0x1Vll5OWdKcXJoUmxIb1BEbE13?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-10-05T07:00:00.000Z",
-      "sourceId": "law",
-      "category": "คณะนิติศาสตร์",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
       "image": null,
       "topic": "other",
       "imageSrc": null
@@ -4641,28 +4663,6 @@
       "category": "วิทยาลัยการคอมพิวเตอร์",
       "image": null,
       "topic": "research",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะศิลปกรรมศาสตร์ ขอเชิญชมการแสดง “สากลนคร” มหกรรมการแสดงศิลปวัฒนธรรมที่ทุกคนรอคอย",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE44MmdEbk1wSjd5REo5WGNWMmxaWmh2U1BXb3prVGdxYm02aFBTelhGWjlWdjhfSUxFR0NJekVYQW1zZHRaRkdF?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-09-08T07:21:35.000Z",
-      "sourceId": "fa",
-      "category": "คณะศิลปกรรมศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "สุดประทับใจ KKU Societal Contribution มหกรรมมหาวิทยาลัยขอนแก่นบริการชุมชน ครั้งที่ 5",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hT2N6U1kwbHUwVXpOMzBqNWcxRFZUUzc0d0hualZSNmhXVUtqdDFNU0k1OGVxc0VnWTQwNWJpY2VIbDloeEc0?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-09-05T07:00:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "image": null,
-      "topic": "activity",
       "imageSrc": null
     }
   ]
