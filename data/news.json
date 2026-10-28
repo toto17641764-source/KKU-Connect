@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T23:16:27.239Z",
+  "updatedAt": "2026-10-28T02:40:24.209Z",
   "sources": [
     {
       "id": "med",
@@ -1157,23 +1157,23 @@
       "imageSrc": null
     },
     {
-      "title": "วิทยาลัยการคอมพิวเตอร์ มข. จับมือ OIT ประเทศญี่ปุ่น เปิดเวิร์กชอป PBL พัฒนาเกม เสริมการเรียนรู้และการทำงานข้ามวัฒนธรรม - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9WUU1zWFRIc2lRZTFDYU1FU09rLVh1UXFQOUZWM2RvRlNPd1JJaHhiSXphNE9raUtHRE1GWEJoNDdHal8xTnJN?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-09-11T07:00:00.000Z",
-      "sourceId": "cp",
-      "category": "วิทยาลัยการคอมพิวเตอร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "มนุษยศาสตร์ฯ มข. จัดแข่งขันวิชาการและศิลปวัฒนธรรมภาษาตะวันออก ครั้งที่ 4 เปิดพื้นที่เยาวชนอีสานกว่า 1000 คน ส่งเสริมทักษะภาษาจีน-ญี่ปุ่น-เกาหลี - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5lVHhVdDFhaUR6aGdtUGtyOE1JTUJMZjZfV2dSNUFCU3RRREhuUFBnbEVBcWlWcFpLdU9rcjZhTFhkcjk5SUkw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-09-11T07:00:00.000Z",
       "sourceId": "hs",
       "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "วิทยาลัยการคอมพิวเตอร์ มข. จับมือ OIT ประเทศญี่ปุ่น เปิดเวิร์กชอป PBL พัฒนาเกม เสริมการเรียนรู้และการทำงานข้ามวัฒนธรรม - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9WUU1zWFRIc2lRZTFDYU1FU09rLVh1UXFQOUZWM2RvRlNPd1JJaHhiSXphNE9raUtHRE1GWEJoNDdHal8xTnJN?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-11T07:00:00.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -2730,17 +2730,6 @@
       "imageSrc": null
     },
     {
-      "title": "คณะเทคโนโลยี มข. ร่วมงานสัมมนาวันความปลอดภัยอาหารโลก (World Food Safety Day) ของประเทศไทย ประจำปี 2569",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5IeDZjWFpGQWZFR2VlT3BSZmFzWXlfYkVjaW9zQnBYRU5aY1hvdXMxcE5sc09LTWdycjk3UkVyeXQ1elVyY1E0?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-06-22T07:00:00.000Z",
-      "sourceId": "tech",
-      "category": "คณะเทคโนโลยี",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "มหาวิทยาลัยขอนแก่น เปิดรับสมัครนักศึกษาระดับปริญญาตรี เพื่อรับทุนการศึกษา ภาคการศึกษาต้น ปีการศึกษา 2569 ทั้งทุนประเภท ก (ทุนต่อเนื่องจนสำเร็จการศึกษา) และทุนประเภท ข - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CV0lVTk9yN19OeTNCM2VXR3RyM256YmxGWXlIWHMyU2Y5S29sV2I4Q2phNTg0ZmpUUFBVdGpWdmluX0NNRnEw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2749,6 +2738,17 @@
       "category": "มข.",
       "image": null,
       "topic": "scholarship",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะเทคโนโลยี มข. ร่วมงานสัมมนาวันความปลอดภัยอาหารโลก (World Food Safety Day) ของประเทศไทย ประจำปี 2569",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5IeDZjWFpGQWZFR2VlT3BSZmFzWXlfYkVjaW9zQnBYRU5aY1hvdXMxcE5sc09LTWdycjk3UkVyeXQ1elVyY1E0?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-06-22T07:00:00.000Z",
+      "sourceId": "tech",
+      "category": "คณะเทคโนโลยี",
+      "image": null,
+      "topic": "activity",
       "imageSrc": null
     },
     {
@@ -4105,23 +4105,23 @@
       "imageSrc": null
     },
     {
-      "title": "โรงเรียนสาธิต ม.ขอนแก่น วิทยาเขตหนองคาย สร้างชื่อ นำนักเรียนผู้ได้รับรางวัล \"เด็กและเยาวชนดีเด่นแห่งชาติ\" ประจำปี 2569 เข้าพบคณบดีคณะสหวิทยาการ รับฟังโอวาทแห่งความภาคภูมิใจ - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuQXdZN0RSSVB3YTFkX0tRSHRLR2hzeVlZVU01dW1ManFRQ1p1RmZMWEdna1k5NXdScUJmbjNvT2pTd2pDQzRF?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-01-20T02:53:18.000Z",
-      "sourceId": "is",
-      "category": "คณะสหวิทยาการ (หนองคาย)",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "สาขาวิชาเทคโนโลยีชีวภาพ คณะเทคโนโลยี มข. จุดประกายแรงบันดาลใจนักวิทยาศาสตร์รุ่นใหม่ ผ่านค่าย “Biotech KKU’s Camp 2026”",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JbHZIWHJlaDQ2T2hEc2tfYkZrdDRpdDdBbUhZMnVXQlpnYnhfQmJFREtDekthazR1MzhqVUpTSDdSbXc5QXNj?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-01-17T08:00:00.000Z",
       "sourceId": "tech",
       "category": "คณะเทคโนโลยี",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "โรงเรียนสาธิต ม.ขอนแก่น วิทยาเขตหนองคาย สร้างชื่อ นำนักเรียนผู้ได้รับรางวัล \"เด็กและเยาวชนดีเด่นแห่งชาติ\" ประจำปี 2569 เข้าพบคณบดีคณะสหวิทยาการ รับฟังโอวาทแห่งความภาคภูมิใจ - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuQXdZN0RSSVB3YTFkX0tRSHRLR2hzeVlZVU01dW1ManFRQ1p1RmZMWEdna1k5NXdScUJmbjNvT2pTd2pDQzRF?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-01-16T08:00:00.000Z",
+      "sourceId": "is",
+      "category": "คณะสหวิทยาการ (หนองคาย)",
       "image": null,
       "topic": "activity",
       "imageSrc": null
