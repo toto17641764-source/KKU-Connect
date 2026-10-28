@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T02:40:24.209Z",
+  "updatedAt": "2026-10-28T10:03:55.246Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,17 @@
     }
   ],
   "items": [
+    {
+      "title": "KKBS จัดอบรม “Personal Branding & Communication for Research Scholar” เสริมทักษะการสร้างแบรนด์บุคคลและการสื่อสารความเชี่ยวชาญนักวิจัยสู่โอกาสทางวิชาชีพ",
+      "link": "https://kkbs.kku.ac.th/insight-kkbs/33984/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-10-28T02:54:28.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "image": "assets/news/0990f6dd18fd6b12.jpg",
+      "topic": "research",
+      "imageSrc": "https://kkbs.kku.ac.th/wp/wp-content/uploads/2026/10/27102026-personal-branding-communication-125-1024x682.jpg"
+    },
     {
       "title": "คณะสหวิทยาการ มข. รุกสร้างเครือข่ายความร่วมมือทางวิชาการในจีน มุ่งพัฒนาและประชาสัมพันธ์หลักสูตร ขยายโอกาสการเรียนรู้ระดับนานาชาติ - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1PNW85b2tMX1lBZEoySVdzWUdZanVjanh6R0xJcHl6WjkxUWFsTGxtVWZEc1Rsb0tYQk9xSGVxWnY4cjdEaW9j?oc=5",
@@ -2334,7 +2345,7 @@
       "imageSrc": "https://kkbs.kku.ac.th/wp/wp-content/uploads/2026/07/16072026-kkbs-open-house-2026--319-1024x682.jpg"
     },
     {
-      "title": "คณะเกษตรศาสตร์ มข. ต้อนรับคณะศึกษาดูงานจากมหาวิทยาลัยนครพนม แลกเปลี่ยนแนวทางพัฒนานักศึกษา เสริมสร้างเครือข่ายความร่วมมือ",
+      "title": "คณะเกษตรศาสตร์ มข. ต้อนรับคณะศึกษาดูงานจากมหาวิทยาลัยนครพนม แลกเปลี่ยนแนวทางพัฒนานักศึกษา เสริมสร้างเครือข่ายความร่วมมือ - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9wZ3UxVUYyeE9DbEJaY0hVNHgzeUFFQTFwU2IzU0ptY3VDVWlGQS03aWdyQ0lIWWUyLUdrMng4SDgtakN6dERj?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-07-20T03:17:43.000Z",
@@ -2472,6 +2483,17 @@
       "publishedAt": "2026-07-09T04:55:13.000Z",
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "โรงพยาบาลทันตกรรม คณะทันตแพทยศาสตร์ มข. จัดอบรมการปฐมพยาบาลและฟื้นคืนชีพระดับเบื้องต้น เสริมทักษะรับมือภาวะฉุกเฉิน - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4QWVOMDVCYlRlODgtOTVmOEVGaXY2Ung3alc4QTlsREdLS2FnX1NFMVBrZ19RNDFfaUdtaHJ3TUhaVWNPU1lJ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-07-07T05:18:25.000Z",
+      "sourceId": "dent",
+      "category": "คณะทันตแพทยศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -2730,17 +2752,6 @@
       "imageSrc": null
     },
     {
-      "title": "มหาวิทยาลัยขอนแก่น เปิดรับสมัครนักศึกษาระดับปริญญาตรี เพื่อรับทุนการศึกษา ภาคการศึกษาต้น ปีการศึกษา 2569 ทั้งทุนประเภท ก (ทุนต่อเนื่องจนสำเร็จการศึกษา) และทุนประเภท ข - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CV0lVTk9yN19OeTNCM2VXR3RyM256YmxGWXlIWHMyU2Y5S29sV2I4Q2phNTg0ZmpUUFBVdGpWdmluX0NNRnEw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-06-22T07:00:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "image": null,
-      "topic": "scholarship",
-      "imageSrc": null
-    },
-    {
       "title": "คณะเทคโนโลยี มข. ร่วมงานสัมมนาวันความปลอดภัยอาหารโลก (World Food Safety Day) ของประเทศไทย ประจำปี 2569",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5IeDZjWFpGQWZFR2VlT3BSZmFzWXlfYkVjaW9zQnBYRU5aY1hvdXMxcE5sc09LTWdycjk3UkVyeXQ1elVyY1E0?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2749,6 +2760,17 @@
       "category": "คณะเทคโนโลยี",
       "image": null,
       "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "มหาวิทยาลัยขอนแก่น เปิดรับสมัครนักศึกษาระดับปริญญาตรี เพื่อรับทุนการศึกษา ภาคการศึกษาต้น ปีการศึกษา 2569 ทั้งทุนประเภท ก (ทุนต่อเนื่องจนสำเร็จการศึกษา) และทุนประเภท ข - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CV0lVTk9yN19OeTNCM2VXR3RyM256YmxGWXlIWHMyU2Y5S29sV2I4Q2phNTg0ZmpUUFBVdGpWdmluX0NNRnEw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-06-22T07:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "scholarship",
       "imageSrc": null
     },
     {
@@ -4641,28 +4663,6 @@
       "category": "คณะศิลปกรรมศาสตร์",
       "image": null,
       "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "มหาวิทยาลัยขอนแก่น ยกระดับเครือข่ายพัฒนานักศึกษา สู่เป้าหมายการสร้างอัตลักษณ์บัณฑิตยุคใหม่ “EGGS” KKU Students’Identity",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE13cU03aVJQdzJLZnF5Yy1pekRuYlBmMm1FZzRUcmprcXh1X2RjZG1NeDhuWHd2OXl1UWNURjBCdjRhR015MmE4?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-09-15T05:35:41.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "image": null,
-      "topic": "other",
-      "imageSrc": null
-    },
-    {
-      "title": "มข. จับมือ AIEI ยกระดับ “MBA AI” พัฒนาผู้บริหารยุคดิจิทัล เสริมความแข่งขันภาคธุรกิจอีสาน-อนุภูมิภาคลุ่มน้ำโขง",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE51Q3RDSDV6R1BvVmN5ZDBrMmUxeWJVV1VELV9PNXdvTXpLMFRlQmlqLThKNTBwdDNJajJUMjFySjZVa2pkUUZr?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-09-11T07:00:00.000Z",
-      "sourceId": "cbs",
-      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
-      "image": null,
-      "topic": "activity",
       "imageSrc": null
     }
   ]
