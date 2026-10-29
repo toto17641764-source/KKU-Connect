@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T01:19:19.739Z",
+  "updatedAt": "2026-10-29T07:42:22.541Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,17 @@
     }
   ],
   "items": [
+    {
+      "title": "คณะเทคโนโลยี มข. เปิดค่ายโอลิมปิกวิชาการ วิทยาศาสตร์โลกและอวกาศ (TESO7) ค่าย 1 ประจำปีการศึกษา 2569 มุ่งพัฒนาศักยภาพเยาวชนอีสานสู่เวทีระดับชาติและนานาชาติ - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1IcE5WUk0zcmZ3WjgwNURTWlZtVnFqZEMzTWQ0Q0JmY2NORGdSclc0Tzk4ejM1VUZBSGZwUnY1RnJ1TXBwU29z?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-10-29T04:30:19.000Z",
+      "sourceId": "tech",
+      "category": "คณะเทคโนโลยี",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
     {
       "title": "KKBS จัดอบรม “Personal Branding & Communication for Research Scholar” เสริมทักษะการสร้างแบรนด์บุคคลและการสื่อสารความเชี่ยวชาญนักวิจัยสู่โอกาสทางวิชาชีพ",
       "link": "https://kkbs.kku.ac.th/insight-kkbs/33984/",
@@ -2763,17 +2774,6 @@
       "imageSrc": null
     },
     {
-      "title": "คณะเทคโนโลยี มข. ร่วมงานสัมมนาวันความปลอดภัยอาหารโลก (World Food Safety Day) ของประเทศไทย ประจำปี 2569",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5IeDZjWFpGQWZFR2VlT3BSZmFzWXlfYkVjaW9zQnBYRU5aY1hvdXMxcE5sc09LTWdycjk3UkVyeXQ1elVyY1E0?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-06-22T07:00:00.000Z",
-      "sourceId": "tech",
-      "category": "คณะเทคโนโลยี",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "มหาวิทยาลัยขอนแก่น เปิดรับสมัครนักศึกษาระดับปริญญาตรี เพื่อรับทุนการศึกษา ภาคการศึกษาต้น ปีการศึกษา 2569 ทั้งทุนประเภท ก (ทุนต่อเนื่องจนสำเร็จการศึกษา) และทุนประเภท ข - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CV0lVTk9yN19OeTNCM2VXR3RyM256YmxGWXlIWHMyU2Y5S29sV2I4Q2phNTg0ZmpUUFBVdGpWdmluX0NNRnEw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2782,6 +2782,17 @@
       "category": "มข.",
       "image": null,
       "topic": "scholarship",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะเทคโนโลยี มข. ร่วมงานสัมมนาวันความปลอดภัยอาหารโลก (World Food Safety Day) ของประเทศไทย ประจำปี 2569",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5IeDZjWFpGQWZFR2VlT3BSZmFzWXlfYkVjaW9zQnBYRU5aY1hvdXMxcE5sc09LTWdycjk3UkVyeXQ1elVyY1E0?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-06-22T07:00:00.000Z",
+      "sourceId": "tech",
+      "category": "คณะเทคโนโลยี",
+      "image": null,
+      "topic": "activity",
       "imageSrc": null
     },
     {
@@ -4650,17 +4661,6 @@
       "publishedAt": "2025-10-09T10:34:45.000Z",
       "sourceId": "is",
       "category": "คณะสหวิทยาการ (หนองคาย)",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะกรรมการสภามหาวิทยาลัยขอนแก่น พร้อมผู้บริหารคณะเทคโนโลยี มข. เยี่ยมชมและหารือความร่วมมือทางวิชาการ ณ International Center for Biotechnolog, the University of Osaka ประเทศญี่ปุ่น - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBLRlUxX1Qtb3l6TElfTTFKR1pSR0JuTnYtODNUd19CaFF3R0NKdURsSjF2WTNTTjRUcU9id0ppcTZaZVZLMTcw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-10-02T07:00:00.000Z",
-      "sourceId": "tech",
-      "category": "คณะเทคโนโลยี",
       "image": null,
       "topic": "activity",
       "imageSrc": null
