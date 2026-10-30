@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T07:47:20.727Z",
+  "updatedAt": "2026-10-30T14:37:22.067Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,28 @@
     }
   ],
   "items": [
+    {
+      "title": "คณะวิศวกรรมศาสตร์ มข. เชิดชูเกียรตินักศึกษาต้นแบบ มอบรางวัล “ศรีเกียร์มอดินแดง” และ “เกียร์มอดินแดง” ประจำปีการศึกษา 2569 - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8xNFZZeEhpY1A3TEVpbXBtSVZUQTNTOUJzcFVGSFhJQmViOWVwdXlObXdpTGhOdS13dEd4VElMMzgyVFlQejRv?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-10-30T08:49:46.000Z",
+      "sourceId": "eng",
+      "category": "คณะวิศวกรรมศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะวิทยาศาสตร์ มข. ปฐมนิเทศนักศึกษากว่า 100 คน เตรียมความพร้อมก่อนออกปฏิบัติงานสหกิจศึกษา",
+      "link": "https://sc.kku.ac.th/trainingnews/130704/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-10-30T07:47:22.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "job",
+      "imageSrc": null
+    },
     {
       "title": "สุดภาคภูมิใจ! คณะวิศวกรรมศาสตร์ มข. นำ 4 หลักสูตรคว้ามาตรฐานสากล ABET (จากเพียง 27 หลักสูตรทั่วประเทศ)",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1PUnpJVmp3RFo1VlBZSnZiV0dJdzdPdEk0QTRHZ0tFZnprOTVCZnNnWVJmNEU4LUdQZTlia18xMWFCRjRfNm93?oc=5",
@@ -4641,28 +4663,6 @@
       "category": "คณะสหวิทยาการ (หนองคาย)",
       "image": null,
       "topic": "other",
-      "imageSrc": null
-    },
-    {
-      "title": "มข. – ศูนย์ GFGL ลงนาม MOU เปิดหลักสูตรผู้บริหารธุรกิจเวลเนส รุ่น 2 ขับเคลื่อนเศรษฐกิจสุขภาพ ยกระดับไทยสู่ศูนย์กลางสุขภาพเอเชีย - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9RX3o1V2E0VUJRbkh1WFZ6dFNkTXYtQ1l1bk93alFsWGQxejNRZmp1ME9ESDZKMzQ1WGJ6RXp0MEVBcnRmWGlz?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-11-05T08:00:00.000Z",
-      "sourceId": "cbs",
-      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "นักศึกษาวิทยาลัยการคอมพิวเตอร์ มข. คว้าชัย Lifting Risk Analysis รางวัลนวัตกรรมปัญญาประดิษฐ์ยอดเยี่ยม งาน Super AI Engineer",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBNTkt5eVJDZ005X2pWRUJfUFZaSXFzRGVmUEc1TngxaW91aDQ5QmR2U1dvSXBLcmVZREhKcUNOYUVLZWxBeVlF?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-11-05T03:04:17.000Z",
-      "sourceId": "cp",
-      "category": "วิทยาลัยการคอมพิวเตอร์",
-      "image": null,
-      "topic": "research",
       "imageSrc": null
     }
   ]
