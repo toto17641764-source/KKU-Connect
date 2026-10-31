@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T20:12:39.616Z",
+  "updatedAt": "2026-10-31T01:07:25.693Z",
   "sources": [
     {
       "id": "med",
@@ -299,6 +299,17 @@
       "imageSrc": null
     },
     {
+      "title": "Night to Remember | 40YEARS VET KKU : Charity Concert คอนเสิร์ตการกุศล คณะสัตวแพทยศาสตร์ ม.ขอนแก่น",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93b1l6Q1Vpd2tCTDh3VHE4NE12Q0UzSnpWaFo1ZmRzTi1kaGcwZTUtbXBqUUdBVmhZSlZxTk5GZzRGWGpkQmFNNFF5bVVRS3N6V09RNFJCN1dTdHpPeHc?oc=5",
+      "outlet": "ช่อง3",
+      "publishedAt": "2026-10-29T10:03:28.000Z",
+      "sourceId": "vet",
+      "category": "คณะสัตวแพทยศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
       "title": "KKBS จัดอบรม “Personal Branding & Communication for Research Scholar” เสริมทักษะการสร้างแบรนด์บุคคลและการสื่อสารความเชี่ยวชาญนักวิจัยสู่โอกาสทางวิชาชีพ",
       "link": "https://kkbs.kku.ac.th/insight-kkbs/33984/",
       "outlet": "เว็บไซต์คณะ",
@@ -492,17 +503,6 @@
       "publishedAt": "2026-10-15T09:27:04.000Z",
       "sourceId": "kku",
       "category": "มข.",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "Night to Remember | 40YEARS VET KKU : Charity Concert คอนเสิร์ตการกุศล คณะสัตวแพทยศาสตร์ ม.ขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdVQ0MTQ5OFctXzNFZTc3dlBJc0swN3BkcDVfcWRSRXNvZENMNTlBVllKV0ZtSF9MczBTQkxnQjB5eEU0NlBMY0hFNklqVjNLbnJSdWRQaDF0aGs?oc=5",
-      "outlet": "CH3Plus.com",
-      "publishedAt": "2026-10-15T07:00:00.000Z",
-      "sourceId": "vet",
-      "category": "คณะสัตวแพทยศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
