@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T01:07:25.693Z",
+  "updatedAt": "2026-10-31T07:35:35.233Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,17 @@
   ],
   "items": [
     {
+      "title": "ไขความลับ DNA นักเรียนกัลยาณวัตรเรียนรู้ชีวเคมีผ่าน LAB จริงที่คณะวิทยาศาสตร์ มข.",
+      "link": "https://sc.kku.ac.th/trainingnews/stdlab/130803/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-10-31T06:33:36.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
+    },
+    {
       "title": "คณะวิศวกรรมศาสตร์ มข. เชิดชูเกียรตินักศึกษาต้นแบบ มอบรางวัล “ศรีเกียร์มอดินแดง” และ “เกียร์มอดินแดง” ประจำปีการศึกษา 2569 - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8xNFZZeEhpY1A3TEVpbXBtSVZUQTNTOUJzcFVGSFhJQmViOWVwdXlObXdpTGhOdS13dEd4VElMMzgyVFlQejRv?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -296,17 +307,6 @@
       "category": "คณะวิศวกรรมศาสตร์",
       "image": null,
       "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "Night to Remember | 40YEARS VET KKU : Charity Concert คอนเสิร์ตการกุศล คณะสัตวแพทยศาสตร์ ม.ขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93b1l6Q1Vpd2tCTDh3VHE4NE12Q0UzSnpWaFo1ZmRzTi1kaGcwZTUtbXBqUUdBVmhZSlZxTk5GZzRGWGpkQmFNNFF5bVVRS3N6V09RNFJCN1dTdHpPeHc?oc=5",
-      "outlet": "ช่อง3",
-      "publishedAt": "2026-10-29T10:03:28.000Z",
-      "sourceId": "vet",
-      "category": "คณะสัตวแพทยศาสตร์",
-      "image": null,
-      "topic": "activity",
       "imageSrc": null
     },
     {
@@ -503,6 +503,17 @@
       "publishedAt": "2026-10-15T09:27:04.000Z",
       "sourceId": "kku",
       "category": "มข.",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "Night to Remember | 40YEARS VET KKU : Charity Concert คอนเสิร์ตการกุศล คณะสัตวแพทยศาสตร์ ม.ขอนแก่น",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdVQ0MTQ5OFctXzNFZTc3dlBJc0swN3BkcDVfcWRSRXNvZENMNTlBVllKV0ZtSF9MczBTQkxnQjB5eEU0NlBMY0hFNklqVjNLbnJSdWRQaDF0aGs?oc=5",
+      "outlet": "CH3Plus.com",
+      "publishedAt": "2026-10-15T07:00:00.000Z",
+      "sourceId": "vet",
+      "category": "คณะสัตวแพทยศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -4652,17 +4663,6 @@
       "category": "คณะพยาบาลศาสตร์",
       "image": null,
       "topic": "research",
-      "imageSrc": null
-    },
-    {
-      "title": "นศ.คณะสหวิทยาการ ม.ขอนแก่น สร้างชื่อ ได้รับคัดเลือกเป็น “ยุวทูตส่งเสริมวัฒนธรรมนานาชาติ 2025”",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBhNVF3bmtsSG1EQVdkWmh1TnNicTJLWEJlMUdsTmZ3ZzRVSjBJektXeEdteDBuRzhaQXpBcUxDQTR1dFFZeHdN?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-11-08T08:00:00.000Z",
-      "sourceId": "is",
-      "category": "คณะสหวิทยาการ (หนองคาย)",
-      "image": null,
-      "topic": "other",
       "imageSrc": null
     }
   ]
