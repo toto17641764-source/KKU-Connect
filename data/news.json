@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T01:04:13.822Z",
+  "updatedAt": "2026-11-02T08:28:01.201Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,17 @@
   ],
   "items": [
     {
+      "title": "KKBS ร่วมกับ UD CLINIC จัดเวทีการแข่งขันออกแบบประสบการณ์ความงามจากโจทย์ธุรกิจจริง ภายใต้แนวคิด “REIMAGINE ISAN AESTHETIC”",
+      "link": "https://kkbs.kku.ac.th/insight-kkbs/33999/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-11-02T04:15:03.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "image": "assets/news/78337c5aa5b06ddf.jpg",
+      "topic": "activity",
+      "imageSrc": "https://kkbs.kku.ac.th/wp/wp-content/uploads/2026/11/29102026-kkbs-x-ud-clinic-75-1024x682.jpg"
+    },
+    {
       "title": "ไขความลับ DNA นักเรียนกัลยาณวัตรเรียนรู้ชีวเคมีผ่าน LAB จริงที่คณะวิทยาศาสตร์ มข.",
       "link": "https://sc.kku.ac.th/trainingnews/stdlab/130803/",
       "outlet": "เว็บไซต์คณะ",
@@ -307,17 +318,6 @@
       "category": "คณะวิศวกรรมศาสตร์",
       "image": null,
       "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "Night to Remember | 40YEARS VET KKU : Charity Concert คอนเสิร์ตการกุศล คณะสัตวแพทยศาสตร์ ม.ขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93b1l6Q1Vpd2tCTDh3VHE4NE12Q0UzSnpWaFo1ZmRzTi1kaGcwZTUtbXBqUUdBVmhZSlZxTk5GZzRGWGpkQmFNNFF5bVVRS3N6V09RNFJCN1dTdHpPeHc?oc=5",
-      "outlet": "ช่อง3",
-      "publishedAt": "2026-10-29T10:03:28.000Z",
-      "sourceId": "vet",
-      "category": "คณะสัตวแพทยศาสตร์",
-      "image": null,
-      "topic": "activity",
       "imageSrc": null
     },
     {
@@ -514,6 +514,17 @@
       "publishedAt": "2026-10-15T09:27:04.000Z",
       "sourceId": "kku",
       "category": "มข.",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "Night to Remember | 40YEARS VET KKU : Charity Concert คอนเสิร์ตการกุศล คณะสัตวแพทยศาสตร์ ม.ขอนแก่น",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdVQ0MTQ5OFctXzNFZTc3dlBJc0swN3BkcDVfcWRSRXNvZENMNTlBVllKV0ZtSF9MczBTQkxnQjB5eEU0NlBMY0hFNklqVjNLbnJSdWRQaDF0aGs?oc=5",
+      "outlet": "CH3Plus.com",
+      "publishedAt": "2026-10-15T07:00:00.000Z",
+      "sourceId": "vet",
+      "category": "คณะสัตวแพทยศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -728,6 +739,17 @@
       "imageSrc": null
     },
     {
+      "title": "RIGHT LAW, BRIGHT MARKETING MarTech × IP Challenge 2026 มหกรรมแสดงผลงานการบูรณาการวิชาการจากคณะบริหารธุรกิจและการบัญชี และคณะนิติศาสตร์ มหาวิทยาลัยขอนแก่น",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNdElPRnFVVUZtQm91dWs1cWFEbE1pNTRBc3lmTG1TWUhid1VmTHNjNnRmcGtBYldsR2pIa1FFaXFkelV6WGtwYUVHbm81WjlJWHgtcmZYLWs2eWZvMGdfMV9wWWFOWTg4Zm5hSENNeGE?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-10-05T07:00:00.000Z",
+      "sourceId": "law",
+      "category": "คณะนิติศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
       "title": "KKBS ร่วมกับ คณะนิติศาสตร์ มข. จัดเวที MarTech × IP Challenge เปิดโจทย์ธุรกิจจริงให้นักศึกษา พัฒนาแผนการตลาดภายใต้กรอบกฎหมาย",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9aQ0JWWWpuaTVxSGtoQjhaN2VuVlA1WkNDd2FFWGE2eFdZS0RvOUpXU05MN0x1Vll5OWdKcXJoUmxIb1BEbE13?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -813,17 +835,6 @@
       "category": "คณะวิศวกรรมศาสตร์",
       "image": null,
       "topic": "job",
-      "imageSrc": null
-    },
-    {
-      "title": "RIGHT LAW, BRIGHT MARKETING MarTech × IP Challenge 2026 มหกรรมแสดงผลงานการบูรณาการวิชาการจากคณะบริหารธุรกิจและการบัญชี และคณะนิติศาสตร์ มหาวิทยาลัยขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNdElPRnFVVUZtQm91dWs1cWFEbE1pNTRBc3lmTG1TWUhid1VmTHNjNnRmcGtBYldsR2pIa1FFaXFkelV6WGtwYUVHbm81WjlJWHgtcmZYLWs2eWZvMGdfMV9wWWFOWTg4Zm5hSENNeGE?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
-      "publishedAt": "2026-09-30T17:00:00.000Z",
-      "sourceId": "law",
-      "category": "คณะนิติศาสตร์",
-      "image": null,
-      "topic": "activity",
       "imageSrc": null
     },
     {
@@ -4652,17 +4663,6 @@
       "category": "คณะเภสัชศาสตร์",
       "image": null,
       "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "นักศึกษาพยาบาล มข. สุดเจ๋ง! คว้าแชมป์ระดับประเทศ AmHealthHack 2025 ชูนวัตกรรม \"Grow-up\" สร้างสะพานโอกาส ลดการตีตราให้ผู้ผ่านการบำบัด - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5iUXVFSmZnSUlPSm80eExRZ3FYMUJBZ1lHSUhxa0ZCMjNzMWZOc2c3a1lDUWJaVjYwWkhjdzNxTVpDWWw1a2JV?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-11-13T11:35:47.000Z",
-      "sourceId": "nurse",
-      "category": "คณะพยาบาลศาสตร์",
-      "image": null,
-      "topic": "research",
       "imageSrc": null
     }
   ]
