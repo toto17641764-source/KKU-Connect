@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T08:28:01.201Z",
+  "updatedAt": "2026-11-02T19:50:56.025Z",
   "sources": [
     {
       "id": "med",
@@ -266,7 +266,7 @@
   ],
   "items": [
     {
-      "title": "KKBS ร่วมกับ UD CLINIC จัดเวทีการแข่งขันออกแบบประสบการณ์ความงามจากโจทย์ธุรกิจจริง ภายใต้แนวคิด “REIMAGINE ISAN AESTHETIC”",
+      "title": "KKBS ร่วมกับ UD CLINIC จัดเวทีแข่งขันออกแบบบริการดิจิทัลด้านความงามจากโจทย์ธุรกิจจริง ภายใต้แนวคิด “REIMAGINE ISAN AESTHETIC”",
       "link": "https://kkbs.kku.ac.th/insight-kkbs/33999/",
       "outlet": "เว็บไซต์คณะ",
       "publishedAt": "2026-11-02T04:15:03.000Z",
@@ -318,6 +318,17 @@
       "category": "คณะวิศวกรรมศาสตร์",
       "image": null,
       "topic": "study",
+      "imageSrc": null
+    },
+    {
+      "title": "Night to Remember | 40YEARS VET KKU : Charity Concert คอนเสิร์ตการกุศล คณะสัตวแพทยศาสตร์ ม.ขอนแก่น",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93b1l6Q1Vpd2tCTDh3VHE4NE12Q0UzSnpWaFo1ZmRzTi1kaGcwZTUtbXBqUUdBVmhZSlZxTk5GZzRGWGpkQmFNNFF5bVVRS3N6V09RNFJCN1dTdHpPeHc?oc=5",
+      "outlet": "ช่อง3",
+      "publishedAt": "2026-10-29T10:03:28.000Z",
+      "sourceId": "vet",
+      "category": "คณะสัตวแพทยศาสตร์",
+      "image": null,
+      "topic": "activity",
       "imageSrc": null
     },
     {
@@ -514,17 +525,6 @@
       "publishedAt": "2026-10-15T09:27:04.000Z",
       "sourceId": "kku",
       "category": "มข.",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "Night to Remember | 40YEARS VET KKU : Charity Concert คอนเสิร์ตการกุศล คณะสัตวแพทยศาสตร์ ม.ขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdVQ0MTQ5OFctXzNFZTc3dlBJc0swN3BkcDVfcWRSRXNvZENMNTlBVllKV0ZtSF9MczBTQkxnQjB5eEU0NlBMY0hFNklqVjNLbnJSdWRQaDF0aGs?oc=5",
-      "outlet": "CH3Plus.com",
-      "publishedAt": "2026-10-15T07:00:00.000Z",
-      "sourceId": "vet",
-      "category": "คณะสัตวแพทยศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -1556,7 +1556,7 @@
       "title": "คณะศึกษาศาสตร์ มข. จัดอบรมเชิงปฏิบัติการ “AI กับการออกแบบการเรียนรู้: สร้างโครงงาน STEM และบูรณาการการเรียนรู้สำหรับครูแห่งอนาคต” มุ่งเสริมทักษะนวัตกรรมสู่ศตวรรษที่ 21 - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5RR0FaRk1mQWp0YjROaU9JUzY4ejA2STJYb3F5VldXendyZ01qQjh0Y01zU0F3clpGZGtnbE50dm9mdlpMWkx3?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-08-31T06:01:39.000Z",
+      "publishedAt": "2026-08-31T09:19:45.000Z",
       "sourceId": "edu",
       "category": "คณะศึกษาศาสตร์",
       "image": null,
