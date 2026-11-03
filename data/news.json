@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T08:41:14.112Z",
+  "updatedAt": "2026-11-03T17:23:41.150Z",
   "sources": [
     {
       "id": "med",
@@ -297,6 +297,17 @@
       "image": "assets/news/78337c5aa5b06ddf.jpg",
       "topic": "activity",
       "imageSrc": "https://kkbs.kku.ac.th/wp/wp-content/uploads/2026/11/29102026-kkbs-x-ud-clinic-75-1024x682.jpg"
+    },
+    {
+      "title": "อาลัย นักศึกษา ม.ดัง จากไปอย่างไม่มีวันกลับ | มุมข่าว",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0ekdPMTF4Yk9FVVlVeXFCSGJIXzdETFVQZGpsYzRTYUdBNTl3U3R5elJuRmxhMERrZG9MQkY4NXJxMFR2N0pGX2RrakxEYm80N2s4ZFpR?oc=5",
+      "outlet": "LINE TODAY",
+      "publishedAt": "2026-11-01T03:43:29.000Z",
+      "sourceId": "eng",
+      "category": "คณะวิศวกรรมศาสตร์",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
     },
     {
       "title": "ไขความลับ DNA นักเรียนกัลยาณวัตรเรียนรู้ชีวเคมีผ่าน LAB จริงที่คณะวิทยาศาสตร์ มข.",
@@ -3302,17 +3313,6 @@
       "imageSrc": null
     },
     {
-      "title": "ศึกษาศาสตร์ มข. ร่วมสถานศึกษาเครือข่าย เตรียมความพร้อมครูพี่เลี้ยง และอาจารย์นิเทศก์ ก่อนส่งนักศึกษาฝึกปฏิบัติการสอนฯ ประจำปี 2569 - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zVk5UZnNLTmdsd1hwc0Ryc0xWbzdRTWZDTTRPN1pFdFBTMWFlUWdfSWxseEJzdjhlQkF4YzV2VWtILXdwWGNV?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-05-11T07:00:00.000Z",
-      "sourceId": "edu",
-      "category": "คณะศึกษาศาสตร์",
-      "image": null,
-      "topic": "other",
-      "imageSrc": null
-    },
-    {
       "title": "ขอเชิญอาจารย์และบุคลากร มหาวิทยาลัยขอนแก่น เข้าทดสอบความรู้ “ความปลอดภัยทางไซเบอร์” ประจำปี 2569",
       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPOHRJajI2bU5LWVNUbVNLb0xrQW1PZnR6NTRCN1VRVWFiS2ZRX0xMb3V5ekZDeElENnUzQXhGV2RYVEVDazNRNk9EZ05hZ0VMdmtPRDVwYmhMdUQ2elpoVlRSMHRpVEVWVUZxb2V2ZnFqYW5LNkhhMXZqYTJIUTVwbW85UVZQdzlVTDJ0UkR5TzRPUW80WEZJRWMyYTBJQ2Q1M1hMcGlIQTZwYXg0dzcydXdOckJMLWlGbFBKQ19rNnk4blJiRF9FbWI1R3R1aGMxUDVDVEJubVlCRFg1cTZQS25FWk9RakNjTXZEOUZTZUtIUkRVVkZ3VkxVN0hzaUlHWFFTbnFzd0cybDdWZTBscHZfT3ZzcVVsTUVOVTFCUmVJQ3REd2s2ZmVGYlNIVjZnVGpEYllzU3JBbVBLVHE4SEdkbUxnNmlBeVJHRWpfYw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -3321,6 +3321,17 @@
       "category": "มข.",
       "image": null,
       "topic": "study",
+      "imageSrc": null
+    },
+    {
+      "title": "ศึกษาศาสตร์ มข. ร่วมสถานศึกษาเครือข่าย เตรียมความพร้อมครูพี่เลี้ยง และอาจารย์นิเทศก์ ก่อนส่งนักศึกษาฝึกปฏิบัติการสอนฯ ประจำปี 2569 - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zVk5UZnNLTmdsd1hwc0Ryc0xWbzdRTWZDTTRPN1pFdFBTMWFlUWdfSWxseEJzdjhlQkF4YzV2VWtILXdwWGNV?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-05-11T07:00:00.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": null,
+      "topic": "other",
       "imageSrc": null
     },
     {
@@ -4652,17 +4663,6 @@
       "category": "บัณฑิตวิทยาลัย",
       "image": null,
       "topic": "research",
-      "imageSrc": null
-    },
-    {
-      "title": "เรียนต่อ มข. KKU Insight Ep.24 วิทยาลัยบัณฑิตศึกษาการจัดการ(MBA) มหาวิทยาลัยขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9aT3RNSlprZ1JEdjBKZ05ua0xydFZuWHBuWFZ3RUp3VzlWTWNhcm43NURNdE8xSk5yZTJhcnFWVzlLY3N0dzVF?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-11-24T08:58:00.000Z",
-      "sourceId": "cbs",
-      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
-      "image": null,
-      "topic": "other",
       "imageSrc": null
     }
   ]
