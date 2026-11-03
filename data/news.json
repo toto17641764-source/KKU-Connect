@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T17:23:41.150Z",
+  "updatedAt": "2026-11-03T22:36:23.562Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,28 @@
   ],
   "items": [
     {
+      "title": "คณะแพทยศาสตร์ มข. เปิดรับ 3 ตำแหน่ง วุฒิ ม.6–ป.ตรี เงินเดือน 10,520–20,000 บาท",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOFMtUmFVYW9uNHpLV1hlcHkxQ29DalRCRzRLaGRueXlwSHRPSkVMcHNTcUlXbmJ4OUEtb2UzS0JfM3p0a081Wng3VW9SRFhDTndwa3RYaEtxWDRURnd0Zk1iYU82bmtjUkduQ0E3WXI1bjRlUGctUzZSZDZpUFd6LUZVLW9NUQ?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-11-03T18:18:40.000Z",
+      "sourceId": "med",
+      "category": "คณะแพทยศาสตร์",
+      "image": null,
+      "topic": "study",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะเกษตรศาสตร์ มข. จัดอบรมนานาชาติ “Climate-Smart Animal Production” ถ่ายทอดองค์ความรู้และนวัตกรรมการผลิตสัตว์อย่างยั่งยืน สู่เศรษฐกิจอาหารแห่งอนาคต - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5FbERFNVdvc0xRU01nZ1hNQ2RMLUh5T2VVdm5yQWhZQW95M1lWd1c2bHlYaHlMVzZDYWZDdlVrckRueVRvSnBJ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-03T09:02:07.000Z",
+      "sourceId": "agri",
+      "category": "คณะเกษตรศาสตร์",
+      "image": null,
+      "topic": "research",
+      "imageSrc": null
+    },
+    {
       "title": "คณะศึกษาศาสตร์ มข. ต้อนรับ คณะศึกษาศาสตร์ มศว. แลกเปลี่ยนเรียนรู้การบริหารจัดการองค์กรตามเกณฑ์ EdPEx 300 มุ่งขับเคลื่อนนวัตกรรมการศึกษาและบ่มเพาะสมรรถนะครูแห่งอนาคต",
       "link": "https://ednet.kku.ac.th/news/21518/",
       "outlet": "เว็บไซต์คณะ",
@@ -303,8 +325,8 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0ekdPMTF4Yk9FVVlVeXFCSGJIXzdETFVQZGpsYzRTYUdBNTl3U3R5elJuRmxhMERrZG9MQkY4NXJxMFR2N0pGX2RrakxEYm80N2s4ZFpR?oc=5",
       "outlet": "LINE TODAY",
       "publishedAt": "2026-11-01T03:43:29.000Z",
-      "sourceId": "eng",
-      "category": "คณะวิศวกรรมศาสตร์",
+      "sourceId": "kku",
+      "category": "มข.",
       "image": null,
       "topic": "other",
       "imageSrc": null
@@ -3313,17 +3335,6 @@
       "imageSrc": null
     },
     {
-      "title": "ขอเชิญอาจารย์และบุคลากร มหาวิทยาลัยขอนแก่น เข้าทดสอบความรู้ “ความปลอดภัยทางไซเบอร์” ประจำปี 2569",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPOHRJajI2bU5LWVNUbVNLb0xrQW1PZnR6NTRCN1VRVWFiS2ZRX0xMb3V5ekZDeElENnUzQXhGV2RYVEVDazNRNk9EZ05hZ0VMdmtPRDVwYmhMdUQ2elpoVlRSMHRpVEVWVUZxb2V2ZnFqYW5LNkhhMXZqYTJIUTVwbW85UVZQdzlVTDJ0UkR5TzRPUW80WEZJRWMyYTBJQ2Q1M1hMcGlIQTZwYXg0dzcydXdOckJMLWlGbFBKQ19rNnk4blJiRF9FbWI1R3R1aGMxUDVDVEJubVlCRFg1cTZQS25FWk9RakNjTXZEOUZTZUtIUkRVVkZ3VkxVN0hzaUlHWFFTbnFzd0cybDdWZTBscHZfT3ZzcVVsTUVOVTFCUmVJQ3REd2s2ZmVGYlNIVjZnVGpEYllzU3JBbVBLVHE4SEdkbUxnNmlBeVJHRWpfYw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-05-11T07:00:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
       "title": "ศึกษาศาสตร์ มข. ร่วมสถานศึกษาเครือข่าย เตรียมความพร้อมครูพี่เลี้ยง และอาจารย์นิเทศก์ ก่อนส่งนักศึกษาฝึกปฏิบัติการสอนฯ ประจำปี 2569 - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zVk5UZnNLTmdsd1hwc0Ryc0xWbzdRTWZDTTRPN1pFdFBTMWFlUWdfSWxseEJzdjhlQkF4YzV2VWtILXdwWGNV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -3332,6 +3343,17 @@
       "category": "คณะศึกษาศาสตร์",
       "image": null,
       "topic": "other",
+      "imageSrc": null
+    },
+    {
+      "title": "ขอเชิญอาจารย์และบุคลากร มหาวิทยาลัยขอนแก่น เข้าทดสอบความรู้ “ความปลอดภัยทางไซเบอร์” ประจำปี 2569",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPOHRJajI2bU5LWVNUbVNLb0xrQW1PZnR6NTRCN1VRVWFiS2ZRX0xMb3V5ekZDeElENnUzQXhGV2RYVEVDazNRNk9EZ05hZ0VMdmtPRDVwYmhMdUQ2elpoVlRSMHRpVEVWVUZxb2V2ZnFqYW5LNkhhMXZqYTJIUTVwbW85UVZQdzlVTDJ0UkR5TzRPUW80WEZJRWMyYTBJQ2Q1M1hMcGlIQTZwYXg0dzcydXdOckJMLWlGbFBKQ19rNnk4blJiRF9FbWI1R3R1aGMxUDVDVEJubVlCRFg1cTZQS25FWk9RakNjTXZEOUZTZUtIUkRVVkZ3VkxVN0hzaUlHWFFTbnFzd0cybDdWZTBscHZfT3ZzcVVsTUVOVTFCUmVJQ3REd2s2ZmVGYlNIVjZnVGpEYllzU3JBbVBLVHE4SEdkbUxnNmlBeVJHRWpfYw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-05-11T07:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "study",
       "imageSrc": null
     },
     {
@@ -4641,28 +4663,6 @@
       "category": "คณะพยาบาลศาสตร์",
       "image": null,
       "topic": "other",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะพยาบาลศาสตร์ มข. จัดอบรม “การใช้ AI เพื่อการจัดการเรียนการสอนและการพัฒนางานให้มีประสิทธิภาพสูงสุด”",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1TUVEwSGpSbEQyYlBmX1diYWNnQzFFSlBZdDRJblFENXkzUFVVbW53aUlCc0MxdmladTRNRDJGN2NDR1RHck1z?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-11-25T08:00:00.000Z",
-      "sourceId": "nurse",
-      "category": "คณะพยาบาลศาสตร์",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "บัณฑิตวิทยาลัย เยี่ยมชมและหารือความร่วมมือทางวิชาการ วิจัยระดับนานาชาติกับ College of Medicine, Chang Gung University ไต้หวัน",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ldXVwNDYzSmhSUmQzWDB2TkJCNmxqOE9nT1NJdHE0VmRFTVNqRVNRMm1qRXc1R3Y5dm9VMVZZM0FIc1o0WFI4?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-11-25T07:48:33.000Z",
-      "sourceId": "gs",
-      "category": "บัณฑิตวิทยาลัย",
-      "image": null,
-      "topic": "research",
       "imageSrc": null
     }
   ]
