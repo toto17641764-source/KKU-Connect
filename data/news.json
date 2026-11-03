@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T01:53:21.849Z",
+  "updatedAt": "2026-11-03T08:41:14.112Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,28 @@
     }
   ],
   "items": [
+    {
+      "title": "คณะศึกษาศาสตร์ มข. ต้อนรับ คณะศึกษาศาสตร์ มศว. แลกเปลี่ยนเรียนรู้การบริหารจัดการองค์กรตามเกณฑ์ EdPEx 300 มุ่งขับเคลื่อนนวัตกรรมการศึกษาและบ่มเพาะสมรรถนะครูแห่งอนาคต",
+      "link": "https://ednet.kku.ac.th/news/21518/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-11-03T04:12:25.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": "assets/news/f0cb93fc0dc0faa5.jpg",
+      "topic": "research",
+      "imageSrc": "https://ednet.kku.ac.th/wp-content/uploads/2026/11/EDKKU-1907.jpg"
+    },
+    {
+      "title": "ส่งต่อคุณค่าศิลปะสู่การเรียนรู้ ศูนย์ฝึกอบรมตำรวจภูธรภาค 4 รับมอบผลงานศิลปะเพื่อใช้ประกอบการฝึกอบรม",
+      "link": "https://fa.kku.ac.th/%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%84%e0%b9%88%e0%b8%b2%e0%b8%a8%e0%b8%b4%e0%b8%a5%e0%b8%9b%e0%b8%b0%e0%b8%aa%e0%b8%b9%e0%b9%88%e0%b8%81%e0%b8%b2/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-11-03T02:56:03.000Z",
+      "sourceId": "fa",
+      "category": "คณะศิลปกรรมศาสตร์",
+      "image": "assets/news/7c734e9c11e3dfd1.jpg",
+      "topic": "activity",
+      "imageSrc": "https://fa.kku.ac.th/wp-content/uploads/2026/11/IMG_7936-1024x575.jpg"
+    },
     {
       "title": "KKBS ร่วมกับ UD CLINIC จัดเวทีแข่งขันออกแบบบริการดิจิทัลด้านความงามจากโจทย์ธุรกิจจริง ภายใต้แนวคิด “REIMAGINE ISAN AESTHETIC”",
       "link": "https://kkbs.kku.ac.th/insight-kkbs/33999/",
@@ -542,14 +564,14 @@
     },
     {
       "title": "ศึกษาศาสตร์ มข. ร่วมภาคีเครือข่ายจัดอบรมผู้กำกับลูกเสือ เสริมทักษะการจัดกิจกรรมและภาวะผู้นำทางการศึกษา",
-      "link": "https://ednet.kku.ac.th/news/21352/",
-      "outlet": "เว็บไซต์คณะ",
-      "publishedAt": "2026-10-14T03:19:33.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ZMkRTdGU1ejFjaDNsQmd6V2Z1alNTR2hmdkR4UUtCNEpaYmpXSHpYZnVRUXFhZ2g5YWI1Yll4cW5jXzR5TjhV?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-10-14T08:46:07.000Z",
       "sourceId": "edu",
       "category": "คณะศึกษาศาสตร์",
-      "image": "assets/news/ff30eff391474360.jpg",
+      "image": null,
       "topic": "activity",
-      "imageSrc": "https://ednet.kku.ac.th/wp-content/uploads/2026/10/P1215258-1024x683.jpg"
+      "imageSrc": null
     },
     {
       "title": "มาแล้ว! ม.ขอนแก่น เปิดรับสมัครสอบ \"วิชาเฉพาะ\" 14 - 18 ต.ค. นี้ ใช้ยื่น Quota70",
@@ -4175,8 +4197,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9GZ2RuWWtvaHoydVc5amtZWFpmbFFsU2xmWWVjZGV0MUdSSXNTRnBOU0JNWU9VMnlzLUxlaWpreTJ5WUt6YWdN?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-02-02T08:00:00.000Z",
-      "sourceId": "fa",
-      "category": "คณะศิลปกรรมศาสตร์",
+      "sourceId": "arch",
+      "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -4641,28 +4663,6 @@
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
       "image": null,
       "topic": "other",
-      "imageSrc": null
-    },
-    {
-      "title": "นศ. คณะเศรษฐศาสตร์ มข. คว้ารางวัลโครงการเส้นทางสู่นวัตวณิชย์ ครั้งที่ 13 ระดับภูมิภาค",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5INlhRdC1nUG12UVZqcWJjSmllSFNuUEpFVVFLMldUR1pxTmhFSEQxME96alVxWjNGamFWQkEwTkMyR1J4RUZn?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-11-15T08:00:00.000Z",
-      "sourceId": "pharm",
-      "category": "คณะเภสัชศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "นศ.มข. คว้า 2 รางวัล โครงการเส้นทางสู่นวัตวณิชย์ ครั้งที่ 13 ระดับภูมิภาค คว้าตั๋วสู่รอบระดับประเทศ!",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9oS3NwbnZhaThZYlI4OU04elJmZlVrTWZCVnVFeVZzRTg0ZlRQWGUxSy1VRlZRTDA2c3BLRWlpanlseVBuQjZV?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-11-15T08:00:00.000Z",
-      "sourceId": "pharm",
-      "category": "คณะเภสัชศาสตร์",
-      "image": null,
-      "topic": "activity",
       "imageSrc": null
     }
   ]
