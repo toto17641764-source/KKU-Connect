@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T03:26:58.942Z",
+  "updatedAt": "2026-11-04T11:38:41.712Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,17 @@
     }
   ],
   "items": [
+    {
+      "title": "ขอเชิญบุคลากรและนักศึกษา มหาวิทยาลัยขอนแก่น ร่วมแสดงพลังแห่งศรัทธาในงานรำบวงสรวง 10 สิ่งศักดิ์สิทธิ์คู่เมืองขอนแก่น 229 ปี - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQRjhfTjRLVlBPMkpMNHdONXJDNjdkNWdrR3RDT25WT2NDM0tzeG01aGgxTHFqRU1aeVZidnFnc3B6eUJseWdZaWxyUlhhVjRMY0VSUTdkOUhKeWo3WFJHS2VUMDdfZy01aEt4bXIzMFlxWkJHaVBzQkJydlFyWmF5WnBxb1RiTXVmUFVGbkFRQ0JyeDNKdGgtbE9BbFBTLW9WR1k0a3hoSndUc1lPTndrek9aTkdpYnRYdkhVSHExTTR5dVRQdGdhNzUxV0VERlhsa3JWRVBYZnlRNFVxeHFONDk2TERpMUhDd0tsTmZWRTZjcXNCOUdpVldza09oRXdRMFIyQnQxZnM0blZJeThhWC0zNWxuZnl3aDZOUnlJNlZoVkhzaEZqNC1pUjdNX3p3TU5pM1QxTm01bGdoeTh5czFQMXdCbW1nLVRmWlBWcw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-04T09:33:49.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
+    },
     {
       "title": "คณะแพทยศาสตร์ มข. เปิดรับ 3 ตำแหน่ง วุฒิ ม.6–ป.ตรี เงินเดือน 10,520–20,000 บาท",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOFMtUmFVYW9uNHpLV1hlcHkxQ29DalRCRzRLaGRueXlwSHRPSkVMcHNTcUlXbmJ4OUEtb2UzS0JfM3p0a081Wng3VW9SRFhDTndwa3RYaEtxWDRURnd0Zk1iYU82bmtjUkduQ0E3WXI1bjRlUGctUzZSZDZpUFd6LUZVLW9NUQ?oc=5",
@@ -2895,17 +2906,6 @@
       "imageSrc": null
     },
     {
-      "title": "คณะเทคโนโลยี มข. ร่วมงานสัมมนาวันความปลอดภัยอาหารโลก (World Food Safety Day) ของประเทศไทย ประจำปี 2569",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5IeDZjWFpGQWZFR2VlT3BSZmFzWXlfYkVjaW9zQnBYRU5aY1hvdXMxcE5sc09LTWdycjk3UkVyeXQ1elVyY1E0?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-06-22T07:00:00.000Z",
-      "sourceId": "tech",
-      "category": "คณะเทคโนโลยี",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "มหาวิทยาลัยขอนแก่น เปิดรับสมัครนักศึกษาระดับปริญญาตรี เพื่อรับทุนการศึกษา ภาคการศึกษาต้น ปีการศึกษา 2569 ทั้งทุนประเภท ก (ทุนต่อเนื่องจนสำเร็จการศึกษา) และทุนประเภท ข - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CV0lVTk9yN19OeTNCM2VXR3RyM256YmxGWXlIWHMyU2Y5S29sV2I4Q2phNTg0ZmpUUFBVdGpWdmluX0NNRnEw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2914,6 +2914,17 @@
       "category": "มข.",
       "image": null,
       "topic": "scholarship",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะเทคโนโลยี มข. ร่วมงานสัมมนาวันความปลอดภัยอาหารโลก (World Food Safety Day) ของประเทศไทย ประจำปี 2569",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5IeDZjWFpGQWZFR2VlT3BSZmFzWXlfYkVjaW9zQnBYRU5aY1hvdXMxcE5sc09LTWdycjk3UkVyeXQ1elVyY1E0?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-06-22T07:00:00.000Z",
+      "sourceId": "tech",
+      "category": "คณะเทคโนโลยี",
+      "image": null,
+      "topic": "activity",
       "imageSrc": null
     },
     {
@@ -4131,8 +4142,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtSkh5NlhxellpZm16YS1SLXp2V01SMHBrNG1Pc2VqUTI0VkIyNUtYWWljRjlpLTFYdjAwaERfdk5ZSzRoYzJN?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-02-17T05:36:05.000Z",
-      "sourceId": "vet",
-      "category": "คณะสัตวแพทยศาสตร์",
+      "sourceId": "med",
+      "category": "คณะแพทยศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -4652,17 +4663,6 @@
       "category": "บัณฑิตวิทยาลัย",
       "image": null,
       "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะพยาบาลศาสตร์ ม.ขอนแก่น เสริมสร้างความสัมพันธ์กับโรงพยาบาลจิตเวชขอนแก่นราชนครินทร์ เตรียมความพร้อมการฝึกปฏิบัติงานนักศึกษาพยาบาลฯ - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1LOFdQcWVNNE5mVENBbmpsQ2tMQjdYME1mTjFEaVNqR2tldG94cHp6a2tNVzZKcl9XRmk4bWoyYU93blR0LWhj?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-11-25T08:00:00.000Z",
-      "sourceId": "nurse",
-      "category": "คณะพยาบาลศาสตร์",
-      "image": null,
-      "topic": "other",
       "imageSrc": null
     }
   ]
