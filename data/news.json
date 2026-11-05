@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T08:37:55.087Z",
+  "updatedAt": "2026-11-05T17:42:18.268Z",
   "sources": [
     {
       "id": "med",
@@ -330,6 +330,17 @@
       "image": "assets/news/7c734e9c11e3dfd1.jpg",
       "topic": "activity",
       "imageSrc": "https://fa.kku.ac.th/wp-content/uploads/2026/11/IMG_7936-1024x575.jpg"
+    },
+    {
+      "title": "กงสุลใหญ่ขอนแก่นนำนักศึกษา 5 มหาวิทยาลัยในอีสานดูงาน 3 ธุรกิจใหญ่จากจีน “เหมืองโพแทช–รถไฟไฮสปีด–EV BYD” ย้ำแนวคิดทุนจีน“อยู่ไทย เพื่อไทย”",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1T1RWOHVuVE40dklOVWh6MWlxYjdRcDhuZHRWdk5rbVFuSzVoX01NUnhuSzJ2Q25GdXRfeUlCTUd2TTBoSHdRb0Nkb2tjRUdhcEtKZ1VMZ3U3b2U0?oc=5",
+      "outlet": "ผู้จัดการออนไลน์",
+      "publishedAt": "2026-11-02T05:43:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
     },
     {
       "title": "KKBS ร่วมกับ UD CLINIC จัดเวทีแข่งขันออกแบบบริการดิจิทัลด้านความงามจากโจทย์ธุรกิจจริง ภายใต้แนวคิด “REIMAGINE ISAN AESTHETIC”",
@@ -4611,17 +4622,6 @@
       "imageSrc": null
     },
     {
-      "title": "มหาวิทยาลัยขอนแก่นร่วมขับเคลื่อน SDGs โชว์ผลงานในงานเทศกาลไหมนานาชาติ ประเพณีผูกเสี่ยว งานกาชาดจังหวัดขอนแก่น 2568 - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1TT2JUTmNwbW1NdF9raVF4ck5fQU12VUxDZGN5U1dIUlEyUkNMckQxRWVaNDRjVDBwTzkybGhzY01hdFBBT3ZF?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-11-29T08:00:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "มหาวิทยาลัยขอนแก่นส่งมอบเครื่องมือ Program Benchmark System ให้ สปอว. เพื่อยกระดับมาตรฐานหลักสูตรบัณฑิตศึกษา",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xU3pNRXBoM2p6a0RZdVp1NC1sU1FGX1J0RDhGeEYxMFllUG1VTVl0WHA0eTdoSVBCQ1k2V1VERW83S3pHR2Zv?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -4630,6 +4630,17 @@
       "category": "บัณฑิตวิทยาลัย",
       "image": null,
       "topic": "study",
+      "imageSrc": null
+    },
+    {
+      "title": "มหาวิทยาลัยขอนแก่นร่วมขับเคลื่อน SDGs โชว์ผลงานในงานเทศกาลไหมนานาชาติ ประเพณีผูกเสี่ยว งานกาชาดจังหวัดขอนแก่น 2568 - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1TT2JUTmNwbW1NdF9raVF4ck5fQU12VUxDZGN5U1dIUlEyUkNMckQxRWVaNDRjVDBwTzkybGhzY01hdFBBT3ZF?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2025-11-29T08:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "activity",
       "imageSrc": null
     },
     {
@@ -4650,17 +4661,6 @@
       "publishedAt": "2025-11-28T08:00:00.000Z",
       "sourceId": "law",
       "category": "คณะนิติศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะพยาบาลศาสตร์ มข. จัดอบรมวิชาการเทคนิคการดูแลผู้ป่วยหัวใจและหลอดเลือด รุ่นที่ 22 ยกระดับสมรรถนะพยาบาลสู่มาตรฐานสากล - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBsdlBSd2swTFVSajBLaEdFc0xPRXY0VzdBcUdxRVp5eU1DcUxUc014d01rVVlTMHBXOFh1Njh5UnRfRmNpaGsw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-11-28T08:00:00.000Z",
-      "sourceId": "nurse",
-      "category": "คณะพยาบาลศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
