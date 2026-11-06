@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T11:38:17.157Z",
+  "updatedAt": "2026-11-06T18:33:13.769Z",
   "sources": [
     {
       "id": "med",
@@ -376,17 +376,6 @@
       "imageSrc": "https://kkbs.kku.ac.th/wp/wp-content/uploads/2026/11/29102026-kkbs-x-ud-clinic-75-1024x682.jpg"
     },
     {
-      "title": "Night to Remember | 40YEARS VET KKU : Charity Concert คอนเสิร์ตการกุศล คณะสัตวแพทยศาสตร์ ม.ขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93b1l6Q1Vpd2tCTDh3VHE4NE12Q0UzSnpWaFo1ZmRzTi1kaGcwZTUtbXBqUUdBVmhZSlZxTk5GZzRGWGpkQmFNNFF5bVVRS3N6V09RNFJCN1dTdHpPeHc?oc=5",
-      "outlet": "ช่อง3",
-      "publishedAt": "2026-11-01T07:00:00.000Z",
-      "sourceId": "vet",
-      "category": "คณะสัตวแพทยศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "อาลัย นักศึกษา ม.ดัง จากไปอย่างไม่มีวันกลับ | มุมข่าว",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0ekdPMTF4Yk9FVVlVeXFCSGJIXzdETFVQZGpsYzRTYUdBNTl3U3R5elJuRmxhMERrZG9MQkY4NXJxMFR2N0pGX2RrakxEYm80N2s4ZFpR?oc=5",
       "outlet": "LINE TODAY",
@@ -635,6 +624,17 @@
       "publishedAt": "2026-10-15T09:27:04.000Z",
       "sourceId": "kku",
       "category": "มข.",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "Night to Remember | 40YEARS VET KKU : Charity Concert คอนเสิร์ตการกุศล คณะสัตวแพทยศาสตร์ ม.ขอนแก่น",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdVQ0MTQ5OFctXzNFZTc3dlBJc0swN3BkcDVfcWRSRXNvZENMNTlBVllKV0ZtSF9MczBTQkxnQjB5eEU0NlBMY0hFNklqVjNLbnJSdWRQaDF0aGs?oc=5",
+      "outlet": "CH3Plus.com",
+      "publishedAt": "2026-10-15T07:00:00.000Z",
+      "sourceId": "vet",
+      "category": "คณะสัตวแพทยศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -3423,9 +3423,9 @@
       "imageSrc": null
     },
     {
-      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
-      "outlet": "ผู้จัดการออนไลน์",
+      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -3434,9 +3434,9 @@
       "imageSrc": null
     },
     {
-      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
+      "outlet": "ผู้จัดการออนไลน์",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -4281,23 +4281,23 @@
       "imageSrc": null
     },
     {
-      "title": "คณะศิลปกรรมศาสตร์ มข.ร่วมเป็นเจ้าภาพประชุมสัมมนาเครือข่ายสถาบันอุดมศึกษาทางด้านสถาปัตยกรรม ศิลปกรรมและการออกแบบ สู่ความเป็นเลิศทางวิชาการ - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9GZ2RuWWtvaHoydVc5amtZWFpmbFFsU2xmWWVjZGV0MUdSSXNTRnBOU0JNWU9VMnlzLUxlaWpreTJ5WUt6YWdN?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-02-02T08:00:00.000Z",
-      "sourceId": "arch",
-      "category": "คณะสถาปัตยกรรมศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "นิติฯ มข. ผนึกพลัง 5 องค์กร จัดสัมมนาวิชาการพื้นที่ชุ่มน้ำ เนื่องในวันพื้นที่ชุ่มน้ำโลก ประจำปี 2569",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9uWGt2RHM0SHRWSW4wQTV3ZTl5ZVBHd05nd1ZsSTgxYl9qRXRIMW5hVTVxeUNOb0FleGRnZzZIczB4VWN4dkJJ?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-02-02T08:00:00.000Z",
       "sourceId": "law",
       "category": "คณะนิติศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะศิลปกรรมศาสตร์ มข.ร่วมเป็นเจ้าภาพประชุมสัมมนาเครือข่ายสถาบันอุดมศึกษาทางด้านสถาปัตยกรรม ศิลปกรรมและการออกแบบ สู่ความเป็นเลิศทางวิชาการ - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9GZ2RuWWtvaHoydVc5amtZWFpmbFFsU2xmWWVjZGV0MUdSSXNTRnBOU0JNWU9VMnlzLUxlaWpreTJ5WUt6YWdN?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-02-02T08:00:00.000Z",
+      "sourceId": "arch",
+      "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
