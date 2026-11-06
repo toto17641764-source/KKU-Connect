@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T22:56:46.791Z",
+  "updatedAt": "2026-11-06T03:46:53.539Z",
   "sources": [
     {
       "id": "med",
@@ -1003,6 +1003,17 @@
       "imageSrc": null
     },
     {
+      "title": "ศึกษาศาสตร์ มข. จับมือ มรภ.หมู่บ้านจอมบึง ขับเคลื่อนโครงการ “สานสัมพันธ์ครูรัก(ษ์)ถิ่น” เชื่อมพลังเครือข่ายนักศึกษาครู มุ่งพัฒนานวัตกรรมและสร้างความยั่งยืนสู่ชุมชนท้องถิ่น - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE94cHBSVS1kZmlEV2ExREFBaEVqMF9VVGk5T0dRMVlGbElXbDJUZ3k0UUxzN0dLRVdCQnBNSF9xNHBuZGVVMUJj?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-09-28T09:19:56.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": null,
+      "topic": "research",
+      "imageSrc": null
+    },
+    {
       "title": "คณะเภสัชศาสตร์ มข. สร้างพื้นที่แห่งการพบกันระหว่างอาจารย์และนักศึกษา เดินหน้าดูแลอย่างรอบด้าน พร้อมเสริมระบบให้คำปรึกษา “พื้นที่คนฟัง” - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ENFBxYUl6Yk5oTFhKSkh1b090UWxNeFRmbHFaUFlKS1BHMkY1SWQ0NE9mT2ZTZzBDUk5vZ3BPUDAtdHp0aFNz?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1067,17 +1078,6 @@
       "image": "assets/news/2e3676c15ddd1510.webp",
       "topic": "job",
       "imageSrc": "https://copa.kku.ac.th/wp-content/uploads/2026/09/ขยายรับสมัครอาจารย์-1-819x1024.webp"
-    },
-    {
-      "title": "ศึกษาศาสตร์ มข. จับมือ มรภ.หมู่บ้านจอมบึง ขับเคลื่อนโครงการ “สานสัมพันธ์ครูรัก(ษ์)ถิ่น” เชื่อมพลังเครือข่ายนักศึกษาครู มุ่งพัฒนานวัตกรรมและสร้างความยั่งยืนสู่ชุมชนท้องถิ่น - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE94cHBSVS1kZmlEV2ExREFBaEVqMF9VVGk5T0dRMVlGbElXbDJUZ3k0UUxzN0dLRVdCQnBNSF9xNHBuZGVVMUJj?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-09-25T07:00:00.000Z",
-      "sourceId": "edu",
-      "category": "คณะศึกษาศาสตร์",
-      "image": null,
-      "topic": "research",
-      "imageSrc": null
     },
     {
       "title": "คณะเศรษฐศาสตร์ มข. เปิดรับสมัครนักศึกษาระดับปริญญาตรี รอบที่ 1 Portfolio ประจำปีการศึกษา 2570",
@@ -3401,9 +3401,9 @@
       "imageSrc": null
     },
     {
-      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
+      "outlet": "ผู้จัดการออนไลน์",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -3412,9 +3412,9 @@
       "imageSrc": null
     },
     {
-      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
-      "outlet": "ผู้จัดการออนไลน์",
+      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -4021,8 +4021,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5KdTRVNV9JUU4telJFN3RrWkp0LWRuOU5KaGNiMkczQ3dKd0Y5T3pua1B0bnlJTnotVGxuUzkyUG4yMHVJUlVz?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-03-09T08:45:32.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
+      "sourceId": "med",
+      "category": "คณะแพทยศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
