@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T03:20:30.261Z",
+  "updatedAt": "2026-11-07T10:43:49.118Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,17 @@
   ],
   "items": [
     {
+      "title": "เมืองมหาวิทยาลัย: รายจ่ายนักศึกษาเชื่อมเศรษฐกิจขอนแก่นอย่างไร",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RY2R1ZVU2ZmdUSW9wV3JQb21wUGlkNG9ybnlFVTk4MFVqeDdHSUZhZUpPSlg0QWVTZ1NWWkV6MkREbzBOMkVCSDZZZ1g0NUYxbXVtWg?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-11-07T10:26:09.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
+    },
+    {
       "title": "COPA KKU เสริมทักษะนักศึกษาสู่โลกการทำงานยุค AI ผ่าน English Academic Bootcamp ร่วมเรียนรู้กับวิทยากรจากเวียดนาม",
       "link": "https://copa.kku.ac.th/3932/",
       "outlet": "เว็บไซต์คณะ",
@@ -380,8 +391,8 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0ekdPMTF4Yk9FVVlVeXFCSGJIXzdETFVQZGpsYzRTYUdBNTl3U3R5elJuRmxhMERrZG9MQkY4NXJxMFR2N0pGX2RrakxEYm80N2s4ZFpR?oc=5",
       "outlet": "LINE TODAY",
       "publishedAt": "2026-11-01T03:43:29.000Z",
-      "sourceId": "eng",
-      "category": "คณะวิศวกรรมศาสตร์",
+      "sourceId": "kku",
+      "category": "มข.",
       "image": null,
       "topic": "other",
       "imageSrc": null
@@ -3390,17 +3401,6 @@
       "imageSrc": null
     },
     {
-      "title": "ศึกษาศาสตร์ มข. ร่วมสถานศึกษาเครือข่าย เตรียมความพร้อมครูพี่เลี้ยง และอาจารย์นิเทศก์ ก่อนส่งนักศึกษาฝึกปฏิบัติการสอนฯ ประจำปี 2569 - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zVk5UZnNLTmdsd1hwc0Ryc0xWbzdRTWZDTTRPN1pFdFBTMWFlUWdfSWxseEJzdjhlQkF4YzV2VWtILXdwWGNV?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-05-11T07:00:00.000Z",
-      "sourceId": "edu",
-      "category": "คณะศึกษาศาสตร์",
-      "image": null,
-      "topic": "other",
-      "imageSrc": null
-    },
-    {
       "title": "ขอเชิญอาจารย์และบุคลากร มหาวิทยาลัยขอนแก่น เข้าทดสอบความรู้ “ความปลอดภัยทางไซเบอร์” ประจำปี 2569",
       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPOHRJajI2bU5LWVNUbVNLb0xrQW1PZnR6NTRCN1VRVWFiS2ZRX0xMb3V5ekZDeElENnUzQXhGV2RYVEVDazNRNk9EZ05hZ0VMdmtPRDVwYmhMdUQ2elpoVlRSMHRpVEVWVUZxb2V2ZnFqYW5LNkhhMXZqYTJIUTVwbW85UVZQdzlVTDJ0UkR5TzRPUW80WEZJRWMyYTBJQ2Q1M1hMcGlIQTZwYXg0dzcydXdOckJMLWlGbFBKQ19rNnk4blJiRF9FbWI1R3R1aGMxUDVDVEJubVlCRFg1cTZQS25FWk9RakNjTXZEOUZTZUtIUkRVVkZ3VkxVN0hzaUlHWFFTbnFzd0cybDdWZTBscHZfT3ZzcVVsTUVOVTFCUmVJQ3REd2s2ZmVGYlNIVjZnVGpEYllzU3JBbVBLVHE4SEdkbUxnNmlBeVJHRWpfYw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -3409,6 +3409,17 @@
       "category": "มข.",
       "image": null,
       "topic": "study",
+      "imageSrc": null
+    },
+    {
+      "title": "ศึกษาศาสตร์ มข. ร่วมสถานศึกษาเครือข่าย เตรียมความพร้อมครูพี่เลี้ยง และอาจารย์นิเทศก์ ก่อนส่งนักศึกษาฝึกปฏิบัติการสอนฯ ประจำปี 2569 - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zVk5UZnNLTmdsd1hwc0Ryc0xWbzdRTWZDTTRPN1pFdFBTMWFlUWdfSWxseEJzdjhlQkF4YzV2VWtILXdwWGNV?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-05-11T07:00:00.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": null,
+      "topic": "other",
       "imageSrc": null
     },
     {
@@ -4652,17 +4663,6 @@
       "category": "บัณฑิตวิทยาลัย",
       "image": null,
       "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "มหาวิทยาลัยขอนแก่นร่วมขับเคลื่อน SDGs โชว์ผลงานในงานเทศกาลไหมนานาชาติ ประเพณีผูกเสี่ยว งานกาชาดจังหวัดขอนแก่น 2568 - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1TT2JUTmNwbW1NdF9raVF4ck5fQU12VUxDZGN5U1dIUlEyUkNMckQxRWVaNDRjVDBwTzkybGhzY01hdFBBT3ZF?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-11-29T08:00:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "image": null,
-      "topic": "activity",
       "imageSrc": null
     }
   ]
