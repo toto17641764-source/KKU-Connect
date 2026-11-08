@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T21:07:10.190Z",
+  "updatedAt": "2026-11-08T00:56:43.615Z",
   "sources": [
     {
       "id": "med",
@@ -642,7 +642,7 @@
     {
       "title": "Night to Remember | 40YEARS VET KKU : Charity Concert คอนเสิร์ตการกุศล คณะสัตวแพทยศาสตร์ ม.ขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrdVQ0MTQ5OFctXzNFZTc3dlBJc0swN3BkcDVfcWRSRXNvZENMNTlBVllKV0ZtSF9MczBTQkxnQjB5eEU0NlBMY0hFNklqVjNLbnJSdWRQaDF0aGs?oc=5",
-      "outlet": "CH3Plus.com",
+      "outlet": "ช่อง3",
       "publishedAt": "2026-10-15T07:00:00.000Z",
       "sourceId": "vet",
       "category": "คณะสัตวแพทยศาสตร์",
@@ -2961,17 +2961,6 @@
       "imageSrc": null
     },
     {
-      "title": "มหาวิทยาลัยขอนแก่น เปิดรับสมัครนักศึกษาระดับปริญญาตรี เพื่อรับทุนการศึกษา ภาคการศึกษาต้น ปีการศึกษา 2569 ทั้งทุนประเภท ก (ทุนต่อเนื่องจนสำเร็จการศึกษา) และทุนประเภท ข - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CV0lVTk9yN19OeTNCM2VXR3RyM256YmxGWXlIWHMyU2Y5S29sV2I4Q2phNTg0ZmpUUFBVdGpWdmluX0NNRnEw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-06-22T07:00:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "image": null,
-      "topic": "scholarship",
-      "imageSrc": null
-    },
-    {
       "title": "คณะเทคโนโลยี มข. ร่วมงานสัมมนาวันความปลอดภัยอาหารโลก (World Food Safety Day) ของประเทศไทย ประจำปี 2569",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5IeDZjWFpGQWZFR2VlT3BSZmFzWXlfYkVjaW9zQnBYRU5aY1hvdXMxcE5sc09LTWdycjk3UkVyeXQ1elVyY1E0?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2980,6 +2969,17 @@
       "category": "คณะเทคโนโลยี",
       "image": null,
       "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "มหาวิทยาลัยขอนแก่น เปิดรับสมัครนักศึกษาระดับปริญญาตรี เพื่อรับทุนการศึกษา ภาคการศึกษาต้น ปีการศึกษา 2569 ทั้งทุนประเภท ก (ทุนต่อเนื่องจนสำเร็จการศึกษา) และทุนประเภท ข - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CV0lVTk9yN19OeTNCM2VXR3RyM256YmxGWXlIWHMyU2Y5S29sV2I4Q2phNTg0ZmpUUFBVdGpWdmluX0NNRnEw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-06-22T07:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "scholarship",
       "imageSrc": null
     },
     {
