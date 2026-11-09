@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T21:23:44.875Z",
+  "updatedAt": "2026-11-09T01:15:20.101Z",
   "sources": [
     {
       "id": "med",
@@ -912,6 +912,17 @@
       "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "other",
+      "imageSrc": null
+    },
+    {
+      "title": "ชมฟรี! Abstract Art Exhibition 2026 นิทรรศการศิลปะนามธรรม มข.",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HSTVoRkViX213cFRKbFItbGJHcXBBWGpoYkROTkZGRkRsN2gyS0JYV1ZSNGRzalJiTFRsYlE2NW9nVFEwaV9qVEFMOURqVW9wSHlKS1g4bEZtSThzM3hCWngzMlRaMm9oaUpZSGtVeDZTMndLZW5KWg?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-10-03T07:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "activity",
       "imageSrc": null
     },
     {
@@ -4652,17 +4663,6 @@
       "category": "บัณฑิตวิทยาลัย",
       "image": null,
       "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "ขอเชิญชมแปลงกังหันดอกไม้ สวยๆ ของน้อง ๆ นักศึกษาชุมนุมเกษตรเรียนรู้ มข.",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQQm5QSUJ0WUUwcFFTeTMybUt1dmp3OUJGN2ZVV0NuaXNxSElKeWtLeDlhZkJOWGxoTE5iWU5JUTRTQ29vMXZhTjZ1cGRIUVpJanZpTU05eEIySzdOQnRZTVdLU0NURW9Oem5JOGpmYU9qVHJnSlVpSEdsd282aFBpU2JGU202MnpBWHZRaDc0SS1nUzRSQ1FWU2lpREFNa21aUHBqSERYM2JVVkxJMG80UlBnY3JJbHFaY1A1Z05LQWFrekNnTkhodGNpUEVIcVJVbFZQbXZqLWczZGJXTkNBamtkZUI1eDN6NEtkbUswMUdJaW1iRzFiSXI3NUtGWlJsYWw2VDRlTzJBNXQ3WGlhc21xVEpFZXNSLVhhc1QtaUlMbDhfZ1ZYekdkeXN5RHVTRV96SmJRZll0RXBybklXWEcyU3FqWmQzV0t4Rnh4OF8?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-12-01T08:00:00.000Z",
-      "sourceId": "agri",
-      "category": "คณะเกษตรศาสตร์",
-      "image": null,
-      "topic": "other",
       "imageSrc": null
     }
   ]
