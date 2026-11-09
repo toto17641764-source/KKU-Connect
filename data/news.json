@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T08:44:55.272Z",
+  "updatedAt": "2026-11-09T20:13:10.158Z",
   "sources": [
     {
       "id": "med",
@@ -266,7 +266,62 @@
   ],
   "items": [
     {
-      "title": "เก้า นพเก้า นำทีมดารา วิ่งการกุศล ส่งต่อน้ำใจ มอบ 2 ล้าน รพ.ศรีนครินทร์ และ มข.",
+      "title": "‘เนสกาแฟ เรดคัพ’ รวมพลังนักวิ่งมากกว่า 4,000 คนในงาน “เนสกาแฟ รัน ขอนแก่น 2026”",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2WUZIS1V2OXN2V01pdGh2Z3JiejljWWJOZThaWEJXYnFwT0t0ZGRoTGJ5dENLWEVyWTAzRWhQZjR4Q3g3bkVPNUlIRnRGUDl1WjljUFl1a0dqV3RncllTZjBSV04?oc=5",
+      "outlet": "banmuang.co.th",
+      "publishedAt": "2026-11-09T14:15:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะเภสัชศาสตร์ มข. ร่วมจัด APOPA Workshop เสริมบทบาทเภสัชกรด้านการดูแลผู้ป่วยมะเร็งที่บ้าน การดูแลตนเอง และการป้องกันภาวะแทรกซ้อน - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBRb2xpbm54ckw3ZHVhNXJaeDJhdWsyTFJTMDVSeEJkQjlrdWo3NDlZbmZCVS11MkNVMDJyM3hMY3RweXNkZ2NN?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-09T09:44:26.000Z",
+      "sourceId": "pharm",
+      "category": "คณะเภสัชศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "บัณฑิตวิทยาลัย ม.ขอนแก่น ศึกษาดูงานจุฬาฯ แลกเปลี่ยนแนวปฏิบัติบริหารหลักสูตรสหศาสตร์ เชื่อมโยงงานวิจัย สร้างเครือข่ายสู่ความเป็นเลิศ - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE50U2hiUFQzeWhrWGlaMUQtWW91bGpCTUFveGVUaV9jaEMxRHpoaGlGbHJMOS1qSlpLTHJHZzd6cTEzQnBnZlhB?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-09T09:44:24.000Z",
+      "sourceId": "gs",
+      "category": "บัณฑิตวิทยาลัย",
+      "image": null,
+      "topic": "research",
+      "imageSrc": null
+    },
+    {
+      "title": "บัณฑิตวิทยาลัย มข. จับมือ สำนักงาน ก.พ.ร. จัดกิจกรรม “เปิดบ้าน นปร.” รุ่นที่ 19 ครั้งแรกในภูมิภาค ปั้นผู้นำการเปลี่ยนแปลงภาครัฐรุ่นใหม่ - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBlNmI0RjJNRGU2ZFMxUENzYngxYUtJdTl6RWVnS3FVSWNBMDllOVpaYXVqdmpZUVJQMjBZZlVWY1NjY21YMVNJ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-09T09:44:05.000Z",
+      "sourceId": "gs",
+      "category": "บัณฑิตวิทยาลัย",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "เนสกาแฟ เรดคัพปลื้ม! ความสำเร็จ \"เนสกาแฟ รัน ขอนแก่น 2026\" คอกาแฟสายวิ่งร่วมงานกว่า 4,000 คน",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCOVh2NzZOdWdmeU9DeEtwWU1DN0p0TU0teTRwMmw1VkhlcVZYemR0SS1qQVAwaDRHaFpUdEFmOEtkSWY3ZnBhYkJfUjZKcDUz?oc=5",
+      "outlet": "ThaiPR.NET",
+      "publishedAt": "2026-11-09T08:47:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "เก้า นพเก้า นำทีมดารา วิ่งการกุศล ส่งต่อน้ำใจ มอบ 2 ล้าน รพ.ศรีนครินทร์ และ มข. | Khaosod",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pN2xOUEJ0d19DQmNqWlNYZEQ3ZUJjbUlzbDBwRzZEUmUyOWk2VVRkaWtwSTl4b0hOcU01amZad3AtU3hKVkFMUm1CN2NMaVBFUHRoelpn?oc=5",
       "outlet": "LINE TODAY",
       "publishedAt": "2026-11-09T08:19:04.000Z",
@@ -277,10 +332,10 @@
       "imageSrc": null
     },
     {
-      "title": "‘เนสกาแฟ เรดคัพ’ ปลื้ม! คนแห่ร่วมงานวิ่งขอนแก่นกว่า 4,000 มอบ 2 ล้านหนุนรพ.-ทุนการศึกษา | The Bangkok Insight",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQd0t6TGliLS0xclVGZzRERGJsN3M3SkRJU2tOM0s3TVk3aDFzS0ZYSkhNMEtGSnZEV3p1elF0UjRNN2lUNllkNmk0Wjc1NVp5Yy03Mmd3?oc=5",
-      "outlet": "LINE TODAY",
-      "publishedAt": "2026-11-09T08:14:10.000Z",
+      "title": "‘เนสกาแฟ เรดคัพ’ ปลื้ม! คนแห่ร่วมงานวิ่งขอนแก่นกว่า 4,000 มอบ 2 ล้านหนุนรพ.-ทุนการศึกษา",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hTjdfOEJjRFFGcDlKcm9IMGpIS1FQX29jTEliWUh6dmlCYTc2ejNkOGFOVjBRX2FXTml6WWNZajVIbk1qeEs0blpVQ2xBcW12X2IwYkE5UDJ5UDJUbjlRS0VjeVNpVWM?oc=5",
+      "outlet": "The Bangkok Insight",
+      "publishedAt": "2026-11-09T08:05:23.000Z",
       "sourceId": "kku",
       "category": "มข.",
       "image": null,
@@ -318,6 +373,17 @@
       "category": "มข.",
       "image": null,
       "topic": "other",
+      "imageSrc": null
+    },
+    {
+      "title": "บัณฑิตวิทยาลัย มข. จัดงานปฐมนิเทศนักศึกษาใหม่ หลักสูตรสาขาวิชาร่วม ประจำภาคปลาย ปีการศึกษา 2569 เตรียมความพร้อมสู่ก้าวใหม่แห่งการเรียนรู้ - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5teEc2Rk9wMng1NVhsMkx6d3l5RXNyQnkwdU1CdktDQk0tdDdkQ3dvSVptRnBzdEduaTlTTXhsdlpOVXVBNmww?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "sourceId": "gs",
+      "category": "บัณฑิตวิทยาลัย",
+      "image": null,
+      "topic": "study",
       "imageSrc": null
     },
     {
@@ -4597,72 +4663,6 @@
       "category": "วิทยาลัยการคอมพิวเตอร์",
       "image": null,
       "topic": "job",
-      "imageSrc": null
-    },
-    {
-      "title": "วิทยาลัยนานาชาติ มข. จัดงานราตรีบัณฑิต “Proud to be KKUIC Night 2023” เฉลิมฉลองการจบการศึกษาให้กับนักศึกษา KKUIC ชั้นปีที่ 4",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5mRXlPR2g1WU9iZEp0NkRoc29MX3pJdGNPcnk0enNQVEltUTJocjNBNGZYa1V6QndjTTRQdnVTWklqRWdfOUxR?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-12-22T15:57:01.000Z",
-      "sourceId": "ic",
-      "category": "วิทยาลัยนานาชาติ",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะสถาปัตยกรรมศาสตร์ มข. ทูลเกล้าฯ ถวายผ้าทอลายสวนดอกไม้แห่งพระเมตตา แด่สมเด็จพระกนิษฐาธิราชเจ้าฯ และขอแสดงความยินดีกับผู้สำเร็จการศึกษา ประจำปี พ.ศ. 2568 - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5kT1pvXzFSckNsZ29wMHhjZ0R0WXNQdUZXcTNzdTVhbG9vV0ZSTVBiNmttb0phR1hfNFFyMC1oTDl6aDJBZW1z?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-12-20T07:35:18.000Z",
-      "sourceId": "arch",
-      "category": "คณะสถาปัตยกรรมศาสตร์",
-      "image": null,
-      "topic": "other",
-      "imageSrc": null
-    },
-    {
-      "title": "มหาวิทยาลัยขอนแก่น ร่วมกับวิทยาลัยนานาชาติ จัดพิธีมอบทุนการศึกษาโครงการแลกเปลี่ยนไทย–เวียดนาม ณ FPT University ส่งเสริมนักศึกษาสู่เวทีนานาชาติ - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9laEhkWVFrNG9VUUI1RVM4MXdocUR0ek9YQ0FhTG1MMHRCVFEySzVPbGVqU0F4VnhwWk02ZWZyRkFEN1VHVmhF?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-12-17T08:00:00.000Z",
-      "sourceId": "ic",
-      "category": "วิทยาลัยนานาชาติ",
-      "image": null,
-      "topic": "scholarship",
-      "imageSrc": null
-    },
-    {
-      "title": "\"ครามแห่งศรัทธา งามแห่งพระบารมี\" มข. รังสรรค์ศิลปวัฒนธรรมเทิดพระเกียรติพระพันปีหลวง ในพิธีพระราชทานปริญญาบัตร 2568 - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1PenZsM3YxSzZnZEtSTGhlbmhRQkdXQTVDdlVDTVBXbjJxVGlhb29HWm9yTEx0TkdkNUdlVEdPMTFvbkhHNjJz?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-12-17T07:43:56.000Z",
-      "sourceId": "fa",
-      "category": "คณะศิลปกรรมศาสตร์",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "นศ.นิติฯ มข. ถูกปฏิเสธพื้นที่จัดงานเสวนาวันรัฐธรรมนูญ 2 ครั้ง ก่อนย้ายไปที่อื่น- ย้ำมหาวิทยาลัยควรเป็นที่เสรีภาพทางวิชาการ",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLbmxPMWF3YTk3cG5OUTNRbU9NSlZoSlNxT1YwQVpJRVlMT0dWQzJhbWFOdWhEcHBJUjl1WmUwa19hM3I3ZFoySjN6Zw?oc=5",
-      "outlet": "ศูนย์ทนายความเพื่อสิทธิมนุษยชน",
-      "publishedAt": "2025-12-10T08:00:00.000Z",
-      "sourceId": "law",
-      "category": "คณะนิติศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "ศูนย์หัวใจสิริกิติ์ ภาคตะวันออกเฉียงเหนือ คณะแพทยศาสตร์ มหาวิทยาลัยขอนแก่น จัดอบรมเชิงปฏิบัติการ “Advance Arch Management with Frozen Elephant Trunk Surgery” - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQUHhZYjZPVVl3SjBrQ2lJbGxBM1JLbTJvVXB2ejFndGpPRnpLQjBDNzZGWUZPZF9hVE9sY0toMW1nbE1zODlSTzc3RE9vN040VkdGVHVvX1pmMkkxcERrLUpFd2ZSdGMxVl9JdVljckJYY3JFQml1amlBMW1JQVVCT3h5dVg5T2VDLWt2bUw2Tjg2MXFlY2hid1BmeGZvam1TQ05SSG00Z3g4NUpJZjFxeXYyYWgtNDNWRy1HT212ZG5GeXJBTnhzMkJTRFcydC1DUkRQS3cwNTA2RFAycl93Vm1Jdk85N0loYW9DZm50NjllMG1KQUxTbS1jR0lFLWZCdGFRSjgyMU1HOWxnNGFtMk5qX2JzS2tNS282R0w4RDMwMG5RSEJNVmQ0eW94dmtKVkV6WmVObHpaU3U3Mllyd2Vic29fWGREekp3Um9yM0w?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-12-04T08:00:00.000Z",
-      "sourceId": "med",
-      "category": "คณะแพทยศาสตร์",
-      "image": null,
-      "topic": "activity",
       "imageSrc": null
     }
   ]
