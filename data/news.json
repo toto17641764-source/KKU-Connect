@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:53:07.773Z",
+  "updatedAt": "2026-11-10T18:56:07.402Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,17 @@
   ],
   "items": [
     {
+      "title": "เก้า นพเก้า นำทีมดารา วิ่งการกุศล ส่งต่อน้ำใจ มอบ 2 ล้าน รพ.ศรีนครินทร์ และ มข. | Khaosod",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pN2xOUEJ0d19DQmNqWlNYZEQ3ZUJjbUlzbDBwRzZEUmUyOWk2VVRkaWtwSTl4b0hOcU01amZad3AtU3hKVkFMUm1CN2NMaVBFUHRoelpn?oc=5",
+      "outlet": "LINE TODAY",
+      "publishedAt": "2026-11-10T12:51:21.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
       "title": "คณะวิทยาศาสตร์ มข. ต้อนรับนักเรียนห้องเรียน พสวท. โรงเรียนแก่นนครวิทยาลัย เปิดประสบการณ์เรียนรู้ผ่านห้องปฏิบัติการ 6 สาขาวิชา",
       "link": "https://sc.kku.ac.th/news/131469/",
       "outlet": "เว็บไซต์คณะ",
@@ -303,8 +314,8 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jQ3pTQmxmeW9JNW5MSDJyLXFFcFo2ZEYyQy1PbGI1NVZ0OVBqLXhyS2dJSUNmX3JGM1lpcFJjVExjajdsMFRKUXEwbGpJMzNCWXc?oc=5",
       "outlet": "workpointtoday.com",
       "publishedAt": "2026-11-10T10:04:58.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
+      "sourceId": "med",
+      "category": "คณะแพทยศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -457,17 +468,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCOVh2NzZOdWdmeU9DeEtwWU1DN0p0TU0teTRwMmw1VkhlcVZYemR0SS1qQVAwaDRHaFpUdEFmOEtkSWY3ZnBhYkJfUjZKcDUz?oc=5",
       "outlet": "ThaiPR.NET",
       "publishedAt": "2026-11-09T08:47:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "เก้า นพเก้า นำทีมดารา วิ่งการกุศล ส่งต่อน้ำใจ มอบ 2 ล้าน รพ.ศรีนครินทร์ และ มข. | Khaosod",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pN2xOUEJ0d19DQmNqWlNYZEQ3ZUJjbUlzbDBwRzZEUmUyOWk2VVRkaWtwSTl4b0hOcU01amZad3AtU3hKVkFMUm1CN2NMaVBFUHRoelpn?oc=5",
-      "outlet": "LINE TODAY",
-      "publishedAt": "2026-11-09T08:19:04.000Z",
       "sourceId": "kku",
       "category": "มข.",
       "image": null,
