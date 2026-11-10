@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T20:13:10.158Z",
+  "updatedAt": "2026-11-10T03:51:17.253Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,39 @@
     }
   ],
   "items": [
+    {
+      "title": "นักศึกษา KKBS คว้ารางวัล Popular Vote จากเวที JUMP Thailand Hackathon 2026 ด้วยผลงานนวัตกรรม “LearnLy” แพลตฟอร์ม AI ผู้ช่วยครูตรวจการบ้านสุดล้ำ",
+      "link": "https://kkbs.kku.ac.th/insight-kkbs/34033/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-11-10T03:43:26.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "image": "assets/news/aa875b5917a1c185.jpg",
+      "topic": "research",
+      "imageSrc": "https://kkbs.kku.ac.th/wp/wp-content/uploads/2026/11/801164606-1373767994931347-6302681687947398907-n-1024x1024.jpg"
+    },
+    {
+      "title": "ขอนแก่นเตรียมจัดลอยกระทงนานาชาติ สีฐานเฟสติวัล 2569 กว่า 37 กิจกรรม",
+      "link": "https://news.google.com/rss/articles/CBMi_AVBVV95cUxNdi1tWDRJT0RHa0Z1QkF0U3V2MWdULTdzcGVhWVFxZW9NWHZ5WDJPeGhQN1pwTFBwZE5mQUFiX0JvcVNydmllY3B0VjFyMElzRTMxaDYzZHMxNjcwNjJFa2QwRW9LR2pvR2JlYXpSQXlnV0lDenBVeUs3RThlNElhdnF4VmUxOHk5cHdnZDhEaXJ5RlM4VFRkTlJmdDVtdURvTXV6aTF3RzdqdmNjaDV5ai1CMERpOUlLQktYRnNnc3NjWW5kR1QzY3VHLUdGMDNTdkZweWtQVmh1Q19ia3NiTVFQYi1HVWoxRHltWnZtTGN5NEFfRG9oV3VzdjNZeWpiRWU5d2IzaVQtbWdtd1RxOTZiVmtqZkRjQm5zU2NucGY5YzROdVBjdTZydG15OVZtWVV1UFJ5MnZnQjFuVFFIUjBDSmZmdEx2SXRJUERzUnNKcVJKdkcwSkhYcjlWN285QVlkREF6emlfQlNyM3VMY0VBTUdoVl9uRjYyTHd0NTUtS1hSaVh6QW55TGRqc3BrSjVzSV9aSERWSkh5MC15cTRHY1BmdklSeTVyY2FsM2VCVTEtMjZQZ2pfYWpwVmtxRUVqR2lDTnZaSGJwNjNmY1l4LVRuU3lBSVgxTUN2TmpITkZKYlRjekJBWDBnR0szOUhjT2ZRVmZvc01sWmh5Rmw0YkVpNWhnaUpOeVAtZEMtdnJ0YmNINHNOTXU5VDFWRm1lQ2FNaFg1UTNlUnFlOUFRdmkxaUFNNURQekhHNERFUEFwdmU3WjU2S3R0ZEtyMlpIaEZWcWYwLTVfVnEyYVlvN0xQajBYbklUNTkyODFPeUU2VEdCYmoyQlhEbG8zeGNhNUtQT0UyVVI5c0R6eHBuWWdGaXhWbjduaGJ6NW1xUUxJbG1YV3hnQzNaY241YjVSMnMwaFc1RG1nUVg5MWlmRjVzaURVYzktVDl4TUNRZE41WG85Z3NjRUMtUEg4UG5YSlFfQ1M5Vlc3bkxtd29naWJVYXRnbDVVbw?oc=5",
+      "outlet": "ททบ. 5",
+      "publishedAt": "2026-11-10T02:34:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "นศ.ปี 1 มข. พบช่องโหว่ XSS ในระบบ NASA แจ้งผ่าน VDP ก่อนรับหนังสือขอบคุณ",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ONmhiTFRfSHF4R1hQelpKT2VGRXhycnhkMktGVHYtaENVbVhpZWlHVXJMR3NheTc2R3VoMTdWNHdUb2M0M003NVdFX0RHMVNET2VlRg?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-11-10T01:56:32.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "announce",
+      "imageSrc": null
+    },
     {
       "title": "‘เนสกาแฟ เรดคัพ’ รวมพลังนักวิ่งมากกว่า 4,000 คนในงาน “เนสกาแฟ รัน ขอนแก่น 2026”",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2WUZIS1V2OXN2V01pdGh2Z3JiejljWWJOZThaWEJXYnFwT0t0ZGRoTGJ5dENLWEVyWTAzRWhQZjR4Q3g3bkVPNUlIRnRGUDl1WjljUFl1a0dqV3RncllTZjBSV04?oc=5",
@@ -3555,9 +3588,9 @@
       "imageSrc": null
     },
     {
-      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
-      "outlet": "ผู้จัดการออนไลน์",
+      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -3566,9 +3599,9 @@
       "imageSrc": null
     },
     {
-      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
+      "outlet": "ผู้จัดการออนไลน์",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -4630,39 +4663,6 @@
       "category": "คณะเทคนิคการแพทย์",
       "image": null,
       "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "ศูนย์ความเป็นเลิศด้านการพัฒนาเด็กปฐมวัย คณะพยาบาลศาสตร์ มหาวิทยาลัยขอนแก่น จัดกิจกรรมกีฬาสี ประจำปีการศึกษา 2568 เสริมสร้างพัฒนาการเด็กและสานสัมพันธ์ผู้ปกครอง - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1VTkhYUWZsSTJZbi11dHJ3Y2RWR0tPanl4SUFUWEMyUjRPRWZHT292NlZfdWUzZGZTMDRaUUtVcGNzTFNJZzJR?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-12-25T06:09:50.000Z",
-      "sourceId": "nurse",
-      "category": "คณะพยาบาลศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "ศึกษาศาสตร์ มข. เปิดบ้านต้อนรับนักล่าฝันทั่วประเทศใน “ค่ายสานฝันฉันอยากเป็นครู ครั้งที่ 22” มุ่งบ่มจิตวิญญาณครู พัฒนาสังคมยั่งยืน - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9WNzFMT29NbDFyN1EyTjN2WEx3aW1xZ01FeExPNG5ZeUJ2M0M0RzA0cEl0Q3JFSHFVR21WQlZmQWVicmNTcmFn?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-12-24T08:00:00.000Z",
-      "sourceId": "edu",
-      "category": "คณะศึกษาศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "วิทยาลัยการคอมพิวเตอร์ มข. จับมือ EIU เวียดนาม เปิดโอกาสฝึกงานนานาชาติ-วิจัยร่วมเชื่อมโยงอุตสาหกรรม",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1yS0VfVjlKaU1zb3hwNDUzUG9sYUhZcFlFVS03bUs3b1Z4cWIzbHktOGw2WG5xY185ejRyQkRGQ1BnYzJseHFR?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2025-12-23T08:00:00.000Z",
-      "sourceId": "cp",
-      "category": "วิทยาลัยการคอมพิวเตอร์",
-      "image": null,
-      "topic": "job",
       "imageSrc": null
     }
   ]
