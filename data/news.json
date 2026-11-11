@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T08:29:21.421Z",
+  "updatedAt": "2026-11-11T17:30:06.372Z",
   "sources": [
     {
       "id": "med",
@@ -288,6 +288,39 @@
       "imageSrc": null
     },
     {
+      "title": "NASA ส่งหนังสือขอบคุณ \"นักศึกษาปี 1\" ม.ขอนแก่น หลังพบช่องโหว่เปิดโอกาสแฮกเกอร์โจมตีไม่ซํ้าใคร",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HcnotSkRQMWlzSHZHeC0yY0JOS3N2bmU1eDhTbnBUdFVpeWM4RTZhdmR2R21LeG1FN1hfanRiNk5yLWNNRm8zZUF6cWFmSVZCVEQw?oc=5",
+      "outlet": "เดลินิวส์",
+      "publishedAt": "2026-11-11T05:46:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
+    },
+    {
+      "title": "นศ.ปี 1 ม.ขอนแก่น โชว์หนังสือขอบคุณจาก NASA หลังตรวจพบช่องโหว่ระบบสารสนเทศ",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rSkVUbnBTR0tJZzBxdnVBZ2VobUw3aFh2QXRBY2U0SE5HM18tRGIzWFloVU1RSmZpUmVtY08wNndCbks5eFM1NzNEeHRvcEprTVFsd2llQ2Y5MkE?oc=5",
+      "outlet": "Thaipost.net",
+      "publishedAt": "2026-11-11T05:19:10.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
+    },
+    {
+      "title": "เด็กไทยไม่ธรรมดา! นักศึกษาปี 1 ม.ขอนแก่น ค้นพบช่องโหว่ไซเบอร์ NASA จนได้รับหนังสือขอบคุณอย่างเป็นทางการจากองค์กรระดับโลก | tvpoolonline.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXTDRQbHlvZW0wdl9TTFZfY09KWFJ5c3NXV0xIa09tSkQwVmxhR2FLWjluQ2hDRFVuT09na2ZZNDFzd1pXay1vMmJEeXYtSlBjeXBPVXpLTXl3Ylo5UTVvckxwV3NldXl1MGdWNXN3S3dqQXhTNmVN?oc=5",
+      "outlet": "LINE TODAY",
+      "publishedAt": "2026-11-11T05:12:26.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
+      "image": null,
+      "topic": "research",
+      "imageSrc": null
+    },
+    {
       "title": "เด็กไทยดังระดับโลก!! เปิดใจ \"นศ.ปี 1 หลักสูตรความมั่นคงไซบอร์\" มหาวิทยาลัยขอนแก่น \"NASA\" ทำหนังสือขอบคุณ แจ้งพบช่องโหว่ระบบสารสนเทศ XSS เร่งแก้ไขป้องกันก่อนโดนโจมตี!??",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RSl93QnlJSTB4XzU4cnJZajFqVHFRMk1DYkdObGJtX0dkaW1OR2tSY2FieDBTZlZMUzBHMU9aVW1wN2gxb0pQVUV4ZHZoZXc?oc=5",
       "outlet": "topnews.co.th",
@@ -307,17 +340,6 @@
       "category": "วิทยาลัยการคอมพิวเตอร์",
       "image": null,
       "topic": "other",
-      "imageSrc": null
-    },
-    {
-      "title": "เด็กไทยไม่ธรรมดา! นักศึกษาปี 1 ม.ขอนแก่น ค้นพบช่องโหว่ไซเบอร์ NASA จนได้รับหนังสือขอบคุณอย่างเป็นทางการจากองค์กรระดับโลก | tvpoolonline.com",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nUk9TVW1kNzF2VGh0TTBFTlRmNEtQYU1Qa1BQMW9WV0xIVkZjWG5nOXVaZi16U0RERlkyZEpGUXpCaGNfVGtSSWNDR2pLOEExSmJkeW5B?oc=5",
-      "outlet": "LINE TODAY",
-      "publishedAt": "2026-11-11T02:48:49.000Z",
-      "sourceId": "cp",
-      "category": "วิทยาลัยการคอมพิวเตอร์",
-      "image": null,
-      "topic": "research",
       "imageSrc": null
     },
     {
@@ -4639,28 +4661,6 @@
       "publishedAt": "2026-02-04T06:22:21.000Z",
       "sourceId": "dent",
       "category": "คณะทันตแพทยศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "นิติฯ มข. ผนึกพลัง 5 องค์กร จัดสัมมนาวิชาการพื้นที่ชุ่มน้ำ เนื่องในวันพื้นที่ชุ่มน้ำโลก ประจำปี 2569",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9uWGt2RHM0SHRWSW4wQTV3ZTl5ZVBHd05nd1ZsSTgxYl9qRXRIMW5hVTVxeUNOb0FleGRnZzZIczB4VWN4dkJJ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-02-02T08:00:00.000Z",
-      "sourceId": "law",
-      "category": "คณะนิติศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะศิลปกรรมศาสตร์ มข.ร่วมเป็นเจ้าภาพประชุมสัมมนาเครือข่ายสถาบันอุดมศึกษาทางด้านสถาปัตยกรรม ศิลปกรรมและการออกแบบ สู่ความเป็นเลิศทางวิชาการ - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9GZ2RuWWtvaHoydVc5amtZWFpmbFFsU2xmWWVjZGV0MUdSSXNTRnBOU0JNWU9VMnlzLUxlaWpreTJ5WUt6YWdN?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-02-02T08:00:00.000Z",
-      "sourceId": "arch",
-      "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
