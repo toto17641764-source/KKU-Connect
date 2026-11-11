@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T18:56:07.402Z",
+  "updatedAt": "2026-11-11T00:16:44.925Z",
   "sources": [
     {
       "id": "med",
@@ -347,8 +347,8 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LSVMtOFRpZ1J5S29EVlVIZHQ3LXh4azdwX2tja1ZoX1BpZTJpU21KZlZOdlpDMjhUY1k0MFJpZEF2LWlMLVFwalcxa2Q4akRPM3NsSkJn?oc=5",
       "outlet": "LINE TODAY",
       "publishedAt": "2026-11-10T09:33:33.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
       "image": null,
       "topic": "announce",
       "imageSrc": null
