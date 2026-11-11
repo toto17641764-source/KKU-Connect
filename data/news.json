@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T00:16:44.925Z",
+  "updatedAt": "2026-11-11T08:29:21.421Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,72 @@
     }
   ],
   "items": [
+    {
+      "title": "คณะศึกษาศาสตร์ มข. หารือ The University of Queensland เปิดโอกาสพัฒนาหลักสูตรสองปริญญา สาขาการสอนหลักสูตรนานาชาติ",
+      "link": "https://ednet.kku.ac.th/news/21598/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-11-11T08:25:22.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": "assets/news/cad2966f67261ab8.jpg",
+      "topic": "study",
+      "imageSrc": "https://ednet.kku.ac.th/wp-content/uploads/2026/11/902208088_1153849763800610_6532215533134474441_n-1024x682.jpeg"
+    },
+    {
+      "title": "เก้า นพเก้า นำทีมคนดังร่วมงาน NESCAFÉ RUN ขอนแก่น 2026 พร้อมมอบเงิน 2 ล้านบาท สนับสนุนโรงพยาบาลและทุนการศึกษา",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oWlBIT1IwTXhKNXdPU2VHRlhxQ1hicE9WOFdVZWkxa2tqczlySnJ5dXhuV0JrdFU5SjBBelpMRS1EbTdqQ0lFZm4xSTlJaUpzMzlvN3VCV2dLR25GazBpZ2NhaUFjYnc?oc=5",
+      "outlet": "spacebar.th",
+      "publishedAt": "2026-11-11T06:12:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "scholarship",
+      "imageSrc": null
+    },
+    {
+      "title": "เด็กไทยดังระดับโลก!! เปิดใจ \"นศ.ปี 1 หลักสูตรความมั่นคงไซบอร์\" มหาวิทยาลัยขอนแก่น \"NASA\" ทำหนังสือขอบคุณ แจ้งพบช่องโหว่ระบบสารสนเทศ XSS เร่งแก้ไขป้องกันก่อนโดนโจมตี!??",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RSl93QnlJSTB4XzU4cnJZajFqVHFRMk1DYkdObGJtX0dkaW1OR2tSY2FieDBTZlZMUzBHMU9aVW1wN2gxb0pQVUV4ZHZoZXc?oc=5",
+      "outlet": "topnews.co.th",
+      "publishedAt": "2026-11-11T05:07:36.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
+      "image": null,
+      "topic": "study",
+      "imageSrc": null
+    },
+    {
+      "title": "เปิดใจ นศ.มข.วัย 25 ปี ใช้ 1 เดือนค้นช่องโหว่ NASA จนได้รับหนังสือขอบคุณ",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhOFBPSUJXRDdrZ0cxQ3FEb1NwSVF3MzloWGVWTjZEUUZwLWhGcmR2NzBBZTc1bFlMay1DTzBEVGd2STJuWXNYczAxenRfbXpzM3dTYg?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-11-11T02:57:13.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
+    },
+    {
+      "title": "เด็กไทยไม่ธรรมดา! นักศึกษาปี 1 ม.ขอนแก่น ค้นพบช่องโหว่ไซเบอร์ NASA จนได้รับหนังสือขอบคุณอย่างเป็นทางการจากองค์กรระดับโลก | tvpoolonline.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nUk9TVW1kNzF2VGh0TTBFTlRmNEtQYU1Qa1BQMW9WV0xIVkZjWG5nOXVaZi16U0RERlkyZEpGUXpCaGNfVGtSSWNDR2pLOEExSmJkeW5B?oc=5",
+      "outlet": "LINE TODAY",
+      "publishedAt": "2026-11-11T02:48:49.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
+      "image": null,
+      "topic": "research",
+      "imageSrc": null
+    },
+    {
+      "title": "นักศึกษาปี 1 จากมหาวิทยาลัยขอนแก่น ได้รับหนังสือขอบคุณจาก NASA หลังค้นพบและแจ้งช่องโหว่ทางไซเบอร์ อ่านต่อคลิก >>> https://www.fm91bkk.com/newsarticle/81837 #NASA #มหาวิทยาลัยขอนแก่น #ข่าวสวพFM91",
+      "link": "https://news.google.com/rss/articles/CBMixwdBVV95cUxQZlE5YmxOTUNwU2NQSTRXc1lyaG1FMEFrYk80NVJNU3lWYTRReF8yT3BTOUFBOXAzekhXYTRqdmJVejdIR1ZfVGpHbTVHOEM4cXVQQ2N5ZVlFUlBZYm1FWHVlUE01MXRaMW9LTlNidGtiWlZTaWR4SGJST04zLS0xWFR6TFpkVlAtWFk5MWpMVFVtSTNOazBuOEhOWlZ2U3FNbTEwaG9jTVFRNDRrS1Fxc2FxQTVNOVFGTXhOdTV5T3UzdXM1TF9jM2ozQVZkanZyTjd4LWU0UVFOTG1udnoyX0x3ZGlOaWdwQkh1SFEwcFhJQWNfQ2c3NjQtV3Z1amRIdWpJMDRGbzJ4RWNZOGJCN2tBaDdGN01vVzZ3U2tVcjZVLTh5QTNnaVpnNVNkcjVESjZ6dUJScXpDejBEYzlJeG5PYUV5TFVBWWx5bkN5VDZkeHdGZDhLQU1PdEtyVmhpT095TnNlTUx0cTFKa3U2eFJWMU8yY3MwT3dXQ08yUGc2U1VwN280Ql9YRGpWTVllNmx4OEU3dXJmTTFNeko5TWprTnVhajBwNW9ISmtlTTVnRGp1VWVTYWJhWDB3al9rMjVySXBha1VIMENOdGpPT2lUSFhYSmszVUJiYk5xRXEwRXNINEtQVUlzcERtOVQ0RGc3NWJhdERJU2Z5eFBmOFRNTnJubFJQRG81RU1TNE5QNW4zc1Q2OXB5SXY2OXRkMFo3OE1wXzNxOGN4TURmVFdsLWJRRW1vUUFxMEVhSkQ5dnZUd0N2Q3c3REVaVGY3d3FYdmFUQ0tqUFdNYmNrUkc0MFRObXVjYWpQZHYxUDVubW12ZklleEhYbmpSUU5oU0YzZFdTZ1YzZTJ4aUM0Y3Rqbm9MSmRQanJzaDUwemU5Z2VsakxmbnFBdURMNDVIcTNfYnR3eng3dzdpOXVYQzlwbFl0RW5vcjYxR2J2dVdHdk81LWxpb2Z4SjlPOVZjeXZ1Yjk5TDhobU4xWHpBZXNiUE5ZenVObXVhU0JUZ1BjRDVlQm9vVy14Z29qZWxZeTlWMzN6Z0NqSVpvQ3F1bm1BdmxaZDNpUm5SM1djUFUtMkdyYzQxelhQQ1NGZTRQNmdNa2Q5Y29GUFdiRFRlM1RISUlqa3J1STVuQ3V2QVQwLTZTNzJRQk5nUXM5UVNSOTBvNWU5Xy1GRk5TcHptNWtnbnlYblFqZGY2LVpMczFLVFFZaHM2eTJhMTlMRUlYTXdBVUdpRDFIYzVidHdtRW5qNjZ2VkJDS2lUbHowa0NDZmJ4MGZR?oc=5",
+      "outlet": "Facebook",
+      "publishedAt": "2026-11-11T01:35:19.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "research",
+      "imageSrc": null
+    },
     {
       "title": "เก้า นพเก้า นำทีมดารา วิ่งการกุศล ส่งต่อน้ำใจ มอบ 2 ล้าน รพ.ศรีนครินทร์ และ มข. | Khaosod",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pN2xOUEJ0d19DQmNqWlNYZEQ3ZUJjbUlzbDBwRzZEUmUyOWk2VVRkaWtwSTl4b0hOcU01amZad3AtU3hKVkFMUm1CN2NMaVBFUHRoelpn?oc=5",
@@ -4597,72 +4663,6 @@
       "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "บัณฑิตวิทยาลัย จัดโครงการพี่ให้น้อง ครั้งที่ 24 ณ โรงเรียนบ้านทุ่มห้วย อำเภอชนบท จังหวัดขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5qNDA5VWE3VGNvbWxsRkp2TTQwZGh6YVRFNkg1b0FjeFcxUjRLTnZLV3liOVlzVWRJNzFWbzBlZmk0Q3hxU0RV?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-01-23T08:00:00.000Z",
-      "sourceId": "gs",
-      "category": "บัณฑิตวิทยาลัย",
-      "image": null,
-      "topic": "other",
-      "imageSrc": null
-    },
-    {
-      "title": "ศูนย์หัวใจสิริกิติ์ฯคณะแพทยศาสตร์มหาวิทยาลัยขอนแก่น ร่วมกับภาคเอกชน จัดอบรมเชิงปฏิบัติการระดับนานาชาติ ATAE 2026",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPQU1sTEt2VDg4UXhWcXpSVVhCRGFyWkVXYU1SOVYtXzQ1czVlakJhNjE4NDZtYVRDd2xVbFFUNzY3dW9QYkFucUw1OEZlaGZQRE9XZmhaa1Q4LTRzYXBlQ0V5REdMNzZhWHA0a2RqU0prdDJMNWhxS0hNOFI5Zi0ybjAwUTRtempYcHZGZzZ6YS1hZW5fYXdYSkVhTWVUd203WXFXVnJwUk9wM3N1LW0tV1lYaEdvaW1rSW5PamM3aHpLT0pmVm5LeW1SQWRlVXFjTUI1SUcybGpPM1pkdGNWWVFKQjFWVWh5YUIxYS0yOWtnbHlkbjZLMzR3bzJzcFBURDFuZWNVSElKdUFwcjBFVjhmbGYzN0FlcXFPb0RJNjV5RDRzM1Y5d1I5WlBGR3RnRk1jWEprendMXy05VmI4dDZhdXFGMUxTNGtfMWdOUQ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-01-21T08:00:00.000Z",
-      "sourceId": "med",
-      "category": "คณะแพทยศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "สาขาวิชาเทคโนโลยีชีวภาพ คณะเทคโนโลยี มข. จุดประกายแรงบันดาลใจนักวิทยาศาสตร์รุ่นใหม่ ผ่านค่าย “Biotech KKU’s Camp 2026”",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JbHZIWHJlaDQ2T2hEc2tfYkZrdDRpdDdBbUhZMnVXQlpnYnhfQmJFREtDekthazR1MzhqVUpTSDdSbXc5QXNj?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-01-17T08:00:00.000Z",
-      "sourceId": "tech",
-      "category": "คณะเทคโนโลยี",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "โรงเรียนสาธิต ม.ขอนแก่น วิทยาเขตหนองคาย สร้างชื่อ นำนักเรียนผู้ได้รับรางวัล \"เด็กและเยาวชนดีเด่นแห่งชาติ\" ประจำปี 2569 เข้าพบคณบดีคณะสหวิทยาการ รับฟังโอวาทแห่งความภาคภูมิใจ - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBuQXdZN0RSSVB3YTFkX0tRSHRLR2hzeVlZVU01dW1ManFRQ1p1RmZMWEdna1k5NXdScUJmbjNvT2pTd2pDQzRF?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-01-16T08:00:00.000Z",
-      "sourceId": "is",
-      "category": "คณะสหวิทยาการ (หนองคาย)",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะเกษตรศาสตร์ มข. ติวเข้มทักษะเสียงตามสาย กองสื่อสารองค์กร ส่งบุคลากรให้ความรู้ ปั้นนักศึกษาประชาสัมพันธ์ พร้อมลุยงานวันเกษตรภาคอีสาน 2569 - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA5QTA3TEszeXQwdHducDZGMzdyTDk3Q3djQzlvR0tvMzg2YzlDU2RjQlkxVHdyMTNCRnluWEs4cjNfdVRrcHc0?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-01-15T08:00:00.000Z",
-      "sourceId": "agri",
-      "category": "คณะเกษตรศาสตร์",
-      "image": null,
-      "topic": "other",
-      "imageSrc": null
-    },
-    {
-      "title": "ประกาศรับสมัคร “นักเรียนผู้ช่วยทันตแพทย์” คณะทันตแพทยศาสตร์ มหาวิทยาลัยขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE80X0p5S0ZrNnVpcUI3b0FSQ0tnTWd2LXFndW5MTkJKRkpMaFdCbGJrYTZILVNxbENNYVhVRDZZc2ZzeUxVTk1N?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-01-15T08:00:00.000Z",
-      "sourceId": "dent",
-      "category": "คณะทันตแพทยศาสตร์",
-      "image": null,
-      "topic": "announce",
       "imageSrc": null
     }
   ]
