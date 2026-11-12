@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T23:44:37.607Z",
+  "updatedAt": "2026-11-12T04:27:47.457Z",
   "sources": [
     {
       "id": "med",
@@ -695,17 +695,6 @@
       "imageSrc": null
     },
     {
-      "title": "คณะศึกษาศาสตร์ มข. ต้อนรับ คณะศึกษาศาสตร์ มศว. แลกเปลี่ยนเรียนรู้การบริหารจัดการองค์กรตามเกณฑ์ EdPEx 300 มุ่งขับเคลื่อนนวัตกรรมการศึกษาและบ่มเพาะสมรรถนะครูแห่งอนาคต",
-      "link": "https://ednet.kku.ac.th/news/21518/",
-      "outlet": "เว็บไซต์คณะ",
-      "publishedAt": "2026-11-03T04:12:25.000Z",
-      "sourceId": "edu",
-      "category": "คณะศึกษาศาสตร์",
-      "image": "assets/news/f0cb93fc0dc0faa5.jpg",
-      "topic": "research",
-      "imageSrc": "https://ednet.kku.ac.th/wp-content/uploads/2026/11/EDKKU-1907.jpg"
-    },
-    {
       "title": "ส่งต่อคุณค่าศิลปะสู่การเรียนรู้ ศูนย์ฝึกอบรมตำรวจภูธรภาค 4 รับมอบผลงานศิลปะเพื่อใช้ประกอบการฝึกอบรม",
       "link": "https://fa.kku.ac.th/%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%84%e0%b9%88%e0%b8%b2%e0%b8%a8%e0%b8%b4%e0%b8%a5%e0%b8%9b%e0%b8%b0%e0%b8%aa%e0%b8%b9%e0%b9%88%e0%b8%81%e0%b8%b2/",
       "outlet": "เว็บไซต์คณะ",
@@ -715,6 +704,17 @@
       "image": "assets/news/7c734e9c11e3dfd1.jpg",
       "topic": "activity",
       "imageSrc": "https://fa.kku.ac.th/wp-content/uploads/2026/11/IMG_7936-1024x575.jpg"
+    },
+    {
+      "title": "คณะศึกษาศาสตร์ มข. ต้อนรับ คณะศึกษาศาสตร์ มศว. แลกเปลี่ยนเรียนรู้การบริหารจัดการองค์กรตามเกณฑ์ EdPEx 300 มุ่งขับเคลื่อนนวัตกรรมการศึกษาและบ่มเพาะสมรรถนะครูแห่งอนาคต - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5iMEJiR0hXZ0xibG43QjVNclhpS2xVM0U3OElMVUhteE9ONEktV0JxS3FhVUxtQTRHVDV3UFVzQnhVMlVwT3pJ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-02T08:00:00.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": null,
+      "topic": "research",
+      "imageSrc": null
     },
     {
       "title": "กงสุลใหญ่ขอนแก่นนำนักศึกษา 5 มหาวิทยาลัยในอีสานดูงาน 3 ธุรกิจใหญ่จากจีน “เหมืองโพแทช–รถไฟไฮสปีด–EV BYD” ย้ำแนวคิดทุนจีน“อยู่ไทย เพื่อไทย”",
