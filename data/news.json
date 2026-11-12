@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T14:02:39.548Z",
+  "updatedAt": "2026-11-12T21:56:31.712Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,17 @@
   ],
   "items": [
     {
+      "title": "เด็กไทยไม่ธรรมดา! นักศึกษาปี 1 ม.ขอนแก่น ค้นพบช่องโหว่ไซเบอร์ NASA จนได้รับหนังสือขอบคุณอย่างเป็นทางการจากองค์กรระดับโลก | tvpoolonline.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nUk9TVW1kNzF2VGh0TTBFTlRmNEtQYU1Qa1BQMW9WV0xIVkZjWG5nOXVaZi16U0RERlkyZEpGUXpCaGNfVGtSSWNDR2pLOEExSmJkeW5B?oc=5",
+      "outlet": "LINE TODAY",
+      "publishedAt": "2026-11-12T20:18:22.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
+      "image": null,
+      "topic": "research",
+      "imageSrc": null
+    },
+    {
       "title": "สาขาวิชาสถิติ คณะวิทยาศาสตร์ มข. จัดค่าย DATAHUB CAMP 2026 เสริมทักษะวิเคราะห์ข้อมูลให้นักเรียนขอนแก่นวิทยายน",
       "link": "https://sc.kku.ac.th/trainingnews/131817/",
       "outlet": "เว็บไซต์คณะ",
@@ -362,17 +373,6 @@
       "category": "วิทยาลัยการคอมพิวเตอร์",
       "image": null,
       "topic": "other",
-      "imageSrc": null
-    },
-    {
-      "title": "เด็กไทยไม่ธรรมดา! นักศึกษาปี 1 ม.ขอนแก่น ค้นพบช่องโหว่ไซเบอร์ NASA จนได้รับหนังสือขอบคุณอย่างเป็นทางการจากองค์กรระดับโลก | tvpoolonline.com",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nUk9TVW1kNzF2VGh0TTBFTlRmNEtQYU1Qa1BQMW9WV0xIVkZjWG5nOXVaZi16U0RERlkyZEpGUXpCaGNfVGtSSWNDR2pLOEExSmJkeW5B?oc=5",
-      "outlet": "LINE TODAY",
-      "publishedAt": "2026-11-11T02:48:49.000Z",
-      "sourceId": "cp",
-      "category": "วิทยาลัยการคอมพิวเตอร์",
-      "image": null,
-      "topic": "research",
       "imageSrc": null
     },
     {
@@ -734,7 +734,7 @@
       "publishedAt": "2026-11-03T04:12:25.000Z",
       "sourceId": "edu",
       "category": "คณะศึกษาศาสตร์",
-      "image": "https://ednet.kku.ac.th/wp-content/uploads/2026/11/EDKKU-1907.jpg",
+      "image": "assets/news/f0cb93fc0dc0faa5.jpg",
       "topic": "research",
       "imageSrc": "https://ednet.kku.ac.th/wp-content/uploads/2026/11/EDKKU-1907.jpg"
     },
