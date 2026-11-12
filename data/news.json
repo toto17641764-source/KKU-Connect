@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T04:27:47.457Z",
+  "updatedAt": "2026-11-12T14:02:39.548Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,39 @@
   ],
   "items": [
     {
+      "title": "สาขาวิชาสถิติ คณะวิทยาศาสตร์ มข. จัดค่าย DATAHUB CAMP 2026 เสริมทักษะวิเคราะห์ข้อมูลให้นักเรียนขอนแก่นวิทยายน",
+      "link": "https://sc.kku.ac.th/trainingnews/131817/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-11-12T09:21:39.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "ยศชนันเยี่ยมนักศึกษา ม. ขอนแก่น ชั้นปีที่ 1 ผู้พบช่องโหว่ระบบ NASA เตรียมผลักดันนักวิจัยไซเบอร์ไทย",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50OUlnWE0tOW0tWmdxS2txZ1RHdVlFdkNCR0htRUZxWGJFckZzYTBQT3N1UkFzNVY5cWVNRDN3SHNUN0k4TWk0RXBUcnJlUFM1TVE?oc=5",
+      "outlet": "TNN Thailand",
+      "publishedAt": "2026-11-12T07:17:29.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "research",
+      "imageSrc": null
+    },
+    {
+      "title": "ยศชนัน พบ ‘ปอนด์’ นศ.มข. หลัง NASA ส่งหนังสือขอบคุณ อว. เตรียมเชื่อมแบงก์–มหาวิทยาลัยฝึกคนไซเบอร์",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fckpReVlCVlJwc21hLUNKTml4LUlPMU0tQlZJMHZ2azR2VGFObmthUzJNSWg3U1QwR0xNb0xNOFhTNEVmVUlUOUU0V0ktZ3pfLWcxRA?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-11-12T05:13:51.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
+    },
+    {
       "title": "คณะศึกษาศาสตร์ มข. หารือ The University of Queensland เปิดโอกาสพัฒนาหลักสูตรสองปริญญา สาขาการสอนหลักสูตรนานาชาติ",
       "link": "https://ednet.kku.ac.th/news/21598/",
       "outlet": "เว็บไซต์คณะ",
@@ -310,17 +343,6 @@
       "imageSrc": null
     },
     {
-      "title": "เด็กไทยไม่ธรรมดา! นักศึกษาปี 1 ม.ขอนแก่น ค้นพบช่องโหว่ไซเบอร์ NASA จนได้รับหนังสือขอบคุณอย่างเป็นทางการจากองค์กรระดับโลก | tvpoolonline.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXTDRQbHlvZW0wdl9TTFZfY09KWFJ5c3NXV0xIa09tSkQwVmxhR2FLWjluQ2hDRFVuT09na2ZZNDFzd1pXay1vMmJEeXYtSlBjeXBPVXpLTXl3Ylo5UTVvckxwV3NldXl1MGdWNXN3S3dqQXhTNmVN?oc=5",
-      "outlet": "LINE TODAY",
-      "publishedAt": "2026-11-11T05:12:26.000Z",
-      "sourceId": "cp",
-      "category": "วิทยาลัยการคอมพิวเตอร์",
-      "image": null,
-      "topic": "research",
-      "imageSrc": null
-    },
-    {
       "title": "เด็กไทยดังระดับโลก!! เปิดใจ \"นศ.ปี 1 หลักสูตรความมั่นคงไซบอร์\" มหาวิทยาลัยขอนแก่น \"NASA\" ทำหนังสือขอบคุณ แจ้งพบช่องโหว่ระบบสารสนเทศ XSS เร่งแก้ไขป้องกันก่อนโดนโจมตี!??",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RSl93QnlJSTB4XzU4cnJZajFqVHFRMk1DYkdObGJtX0dkaW1OR2tSY2FieDBTZlZMUzBHMU9aVW1wN2gxb0pQVUV4ZHZoZXc?oc=5",
       "outlet": "topnews.co.th",
@@ -340,6 +362,17 @@
       "category": "วิทยาลัยการคอมพิวเตอร์",
       "image": null,
       "topic": "other",
+      "imageSrc": null
+    },
+    {
+      "title": "เด็กไทยไม่ธรรมดา! นักศึกษาปี 1 ม.ขอนแก่น ค้นพบช่องโหว่ไซเบอร์ NASA จนได้รับหนังสือขอบคุณอย่างเป็นทางการจากองค์กรระดับโลก | tvpoolonline.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nUk9TVW1kNzF2VGh0TTBFTlRmNEtQYU1Qa1BQMW9WV0xIVkZjWG5nOXVaZi16U0RERlkyZEpGUXpCaGNfVGtSSWNDR2pLOEExSmJkeW5B?oc=5",
+      "outlet": "LINE TODAY",
+      "publishedAt": "2026-11-11T02:48:49.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
+      "image": null,
+      "topic": "research",
       "imageSrc": null
     },
     {
@@ -431,17 +464,6 @@
       "imageSrc": null
     },
     {
-      "title": "ชื่นชม นศ.ปี1 ม.ขอนแก่น พบช่องโหว่ XSS ในระบบ NASA แจ้งผ่าน VDP ก่อนได้รับหนังสือขอบคุณ | Khaosod",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LSVMtOFRpZ1J5S29EVlVIZHQ3LXh4azdwX2tja1ZoX1BpZTJpU21KZlZOdlpDMjhUY1k0MFJpZEF2LWlMLVFwalcxa2Q4akRPM3NsSkJn?oc=5",
-      "outlet": "LINE TODAY",
-      "publishedAt": "2026-11-10T09:33:33.000Z",
-      "sourceId": "cp",
-      "category": "วิทยาลัยการคอมพิวเตอร์",
-      "image": null,
-      "topic": "announce",
-      "imageSrc": null
-    },
-    {
       "title": "นศ. มข. ปี 1 ตรวจพบช่องโหว่เว็บ NASA รับหนังสือขอบคุณทางการ",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Ub0FtbDJ1ZGlqZS0tUTNiQ1ZrNVA2ZVUtQlY2S1FwcERuTHdFd0dveDAyc3g0U2xZazlJbDJBLWY0Mmt6Tk9pT29tcXNIZm9G?oc=5",
       "outlet": "TNN Thailand",
@@ -450,6 +472,17 @@
       "category": "มข.",
       "image": null,
       "topic": "other",
+      "imageSrc": null
+    },
+    {
+      "title": "ชื่นชม นศ.ปี1 ม.ขอนแก่น พบช่องโหว่ XSS ในระบบ NASA แจ้งผ่าน VDP ก่อนได้รับหนังสือขอบคุณ",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Fd0Fwb3RKTTB0aURnM0ljQWtpUUpnaTRIZnJMT2ZsTkxTV01HVWp0dkNSQnh2b3drTHZVNjd3NW5qT3BKbWYyWTB5RVZLYVpCcTlPZjh2ZEk5VXk4Q19wb1MwODkzZw?oc=5",
+      "outlet": "ข่าวสด",
+      "publishedAt": "2026-11-10T09:23:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "announce",
       "imageSrc": null
     },
     {
@@ -695,6 +728,17 @@
       "imageSrc": null
     },
     {
+      "title": "คณะศึกษาศาสตร์ มข. ต้อนรับ คณะศึกษาศาสตร์ มศว. แลกเปลี่ยนเรียนรู้การบริหารจัดการองค์กรตามเกณฑ์ EdPEx 300 มุ่งขับเคลื่อนนวัตกรรมการศึกษาและบ่มเพาะสมรรถนะครูแห่งอนาคต",
+      "link": "https://ednet.kku.ac.th/news/21518/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-11-03T04:12:25.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": "https://ednet.kku.ac.th/wp-content/uploads/2026/11/EDKKU-1907.jpg",
+      "topic": "research",
+      "imageSrc": "https://ednet.kku.ac.th/wp-content/uploads/2026/11/EDKKU-1907.jpg"
+    },
+    {
       "title": "ส่งต่อคุณค่าศิลปะสู่การเรียนรู้ ศูนย์ฝึกอบรมตำรวจภูธรภาค 4 รับมอบผลงานศิลปะเพื่อใช้ประกอบการฝึกอบรม",
       "link": "https://fa.kku.ac.th/%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%84%e0%b9%88%e0%b8%b2%e0%b8%a8%e0%b8%b4%e0%b8%a5%e0%b8%9b%e0%b8%b0%e0%b8%aa%e0%b8%b9%e0%b9%88%e0%b8%81%e0%b8%b2/",
       "outlet": "เว็บไซต์คณะ",
@@ -704,17 +748,6 @@
       "image": "assets/news/7c734e9c11e3dfd1.jpg",
       "topic": "activity",
       "imageSrc": "https://fa.kku.ac.th/wp-content/uploads/2026/11/IMG_7936-1024x575.jpg"
-    },
-    {
-      "title": "คณะศึกษาศาสตร์ มข. ต้อนรับ คณะศึกษาศาสตร์ มศว. แลกเปลี่ยนเรียนรู้การบริหารจัดการองค์กรตามเกณฑ์ EdPEx 300 มุ่งขับเคลื่อนนวัตกรรมการศึกษาและบ่มเพาะสมรรถนะครูแห่งอนาคต - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5iMEJiR0hXZ0xibG43QjVNclhpS2xVM0U3OElMVUhteE9ONEktV0JxS3FhVUxtQTRHVDV3UFVzQnhVMlVwT3pJ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-11-02T08:00:00.000Z",
-      "sourceId": "edu",
-      "category": "คณะศึกษาศาสตร์",
-      "image": null,
-      "topic": "research",
-      "imageSrc": null
     },
     {
       "title": "กงสุลใหญ่ขอนแก่นนำนักศึกษา 5 มหาวิทยาลัยในอีสานดูงาน 3 ธุรกิจใหญ่จากจีน “เหมืองโพแทช–รถไฟไฮสปีด–EV BYD” ย้ำแนวคิดทุนจีน“อยู่ไทย เพื่อไทย”",
@@ -1212,6 +1245,17 @@
       "imageSrc": null
     },
     {
+      "title": "KKBS ร่วมกับ คณะนิติศาสตร์ มข. จัดเวที MarTech × IP Challenge เปิดโจทย์ธุรกิจจริงให้นักศึกษา พัฒนาแผนการตลาดภายใต้กรอบกฎหมาย",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9aQ0JWWWpuaTVxSGtoQjhaN2VuVlA1WkNDd2FFWGE2eFdZS0RvOUpXU05MN0x1Vll5OWdKcXJoUmxIb1BEbE13?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-10-05T07:00:00.000Z",
+      "sourceId": "law",
+      "category": "คณะนิติศาสตร์",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
+    },
+    {
       "title": "RIGHT LAW, BRIGHT MARKETING MarTech × IP Challenge 2026 มหกรรมแสดงผลงานการบูรณาการวิชาการจากคณะบริหารธุรกิจและการบัญชี และคณะนิติศาสตร์ มหาวิทยาลัยขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNdElPRnFVVUZtQm91dWs1cWFEbE1pNTRBc3lmTG1TWUhid1VmTHNjNnRmcGtBYldsR2pIa1FFaXFkelV6WGtwYUVHbm81WjlJWHgtcmZYLWs2eWZvMGdfMV9wWWFOWTg4Zm5hSENNeGE?oc=5",
       "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
@@ -1220,17 +1264,6 @@
       "category": "คณะนิติศาสตร์",
       "image": null,
       "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "KKBS ร่วมกับ คณะนิติศาสตร์ มข. จัดเวที MarTech × IP Challenge เปิดโจทย์ธุรกิจจริงให้นักศึกษา พัฒนาแผนการตลาดภายใต้กรอบกฎหมาย",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9aQ0JWWWpuaTVxSGtoQjhaN2VuVlA1WkNDd2FFWGE2eFdZS0RvOUpXU05MN0x1Vll5OWdKcXJoUmxIb1BEbE13?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-10-05T07:00:00.000Z",
-      "sourceId": "kkbs",
-      "category": "คณะบริหารธุรกิจและการบัญชี",
-      "image": null,
-      "topic": "other",
       "imageSrc": null
     },
     {
@@ -3522,17 +3555,6 @@
       "imageSrc": null
     },
     {
-      "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
-      "outlet": "Matichon Online",
-      "publishedAt": "2026-06-06T07:00:00.000Z",
-      "sourceId": "cbs",
-      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
       "title": "MBA มข. จับมือ GFGL เปิดหลักสูตร WVP 2026 ปั้นผู้นำธุรกิจเวลเนส ขับเคลื่อนเศรษฐกิจสุขภาพด้วย AI และนวัตกรรม",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OODRIWWtCU3ZYSG05V3NoM0hRd21uOEh3a0d2QzhTUHdtbHMzQmstUW14SkJxWk56RkdUYjdEZjlDMzF6M1U1dWVuYlBtWTkzTHpQUQ?oc=5",
       "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
@@ -3541,6 +3563,17 @@
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
       "image": null,
       "topic": "research",
+      "imageSrc": null
+    },
+    {
+      "title": "MBA KKU จับมือ GFGL เปิดหลักสูตร “WVP 2026” ปั้นผู้นำธุรกิจเวลเนสรุ่นใหม่",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZkEwcHBpUnlPNVdFMWhRMFJYdzNOaHJQZUQ0Vk5WMGd5WUtaVFBkM3JFU1VndW5JSVdyVHZNd1V1VU1UOXpaa2dCdHltdU16YnhRemxyUUdnZw?oc=5",
+      "outlet": "Matichon Online",
+      "publishedAt": "2026-06-06T07:00:00.000Z",
+      "sourceId": "cbs",
+      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
+      "image": null,
+      "topic": "study",
       "imageSrc": null
     },
     {
@@ -3797,9 +3830,9 @@
       "imageSrc": null
     },
     {
-      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
+      "outlet": "ผู้จัดการออนไลน์",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -3808,9 +3841,9 @@
       "imageSrc": null
     },
     {
-      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
-      "outlet": "ผู้จัดการออนไลน์",
+      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -4630,39 +4663,6 @@
       "category": "คณะแพทยศาสตร์",
       "image": null,
       "topic": "other",
-      "imageSrc": null
-    },
-    {
-      "title": "บัณฑิตวิทยาลัย มข. เปิดบ้านต้อนรับคณะศึกษาดูงานจากจุฬาฯ แลกเปลี่ยนแนวคิดบริหารบัณฑิตศึกษาสู่ความเป็นเลิศ",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBQN3UyZ0VKeDRsU0I3V2t2eFNxY3lVc1hibGpON0tkSWR6QVNVdVFpVDZxNnNDNENDeHFkeS0yWnlHOGhqTWx3?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-02-06T08:00:00.000Z",
-      "sourceId": "gs",
-      "category": "บัณฑิตวิทยาลัย",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "นักศึกษามหาวิทยาลัยขอนแก่นคว้าชัยระดับภูมิภาค เวที UBI Alpha Business Contest 2026 ประเภทธุรกิจ Future Food",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9VYnBxN0VKUDRXZHBnb2J3RUk5LXdpYmlPQ1FzNzh3NndWbTFMQmRIU3RDZEtSUnRNRVVlaENoLXdRUDBSN0Rj?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-02-05T09:53:11.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "โรงพยาบาลทันตกรรม คณะทันตแพทยศาสตร์ มหาวิทยาลัยขอนแก่น จัดโครงการประกวดผลงานพัฒนาคุณภาพ (Best Practices) “ปั้นดาว ปีที่ 4” ประจำปี 2569 - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE56eWtCVC1oSVVjMkY2S195SGEwTThDWjY4Z09JQkVuNVZoUUlpajhYSHlZbEw0V0xlMHAtYnczdWlVR2tVM2ZV?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-02-04T06:22:21.000Z",
-      "sourceId": "dent",
-      "category": "คณะทันตแพทยศาสตร์",
-      "image": null,
-      "topic": "activity",
       "imageSrc": null
     }
   ]
