@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T00:30:02.114Z",
+  "updatedAt": "2026-11-14T08:10:18.341Z",
   "sources": [
     {
       "id": "med",
@@ -354,6 +354,17 @@
       "imageSrc": null
     },
     {
+      "title": "จากห้องเรียนสู่เวทีโลก: เมื่อความอยากรู้ของนักศึกษา มข. ปี 1 กลายเป็นพลังปกป้องความปลอดภัยไซเบอร์ระดับ NASA",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBtSEhadE9MUHVPZGgxMmNJeTZHdW12TFJUVDVxOE5MSlNMZ2ZQRXNRVlRBMl9WOHo5aVAyNENWMkVEVG5yOG40?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-12T06:32:44.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
+    },
+    {
       "title": "ยศชนัน พบ ‘ปอนด์’ นศ.มข. หลัง NASA ส่งหนังสือขอบคุณ อว. เตรียมเชื่อมแบงก์–มหาวิทยาลัยฝึกคนไซเบอร์",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fckpReVlCVlJwc21hLUNKTml4LUlPMU0tQlZJMHZ2azR2VGFObmthUzJNSWg3U1QwR0xNb0xNOFhTNEVmVUlUOUU0V0ktZ3pfLWcxRA?oc=5",
       "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
@@ -362,6 +373,17 @@
       "category": "มข.",
       "image": null,
       "topic": "other",
+      "imageSrc": null
+    },
+    {
+      "title": "แสงสุดท้ายกับสายน้ำแห่งชีวิต’ พา นศ.ศึกษาศาสตร์ มข. คว้ารางวัลที่ 2 ภาพถ่ายระดับประเทศ สะท้อนวิถีคนคู่ธรรมชาติ”",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0zQkxVM3Jia2tfZVFtbWRBQmZzYW9uYnI1UVR6a2NveEtibDgwMUhDSDVxLUJTTE9BWV83Y1RiODJoV1RvRXpR?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-12T05:11:34.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": null,
+      "topic": "activity",
       "imageSrc": null
     },
     {
@@ -374,6 +396,50 @@
       "image": "assets/news/cad2966f67261ab8.jpg",
       "topic": "study",
       "imageSrc": "https://ednet.kku.ac.th/wp-content/uploads/2026/11/902208088_1153849763800610_6532215533134474441_n-1024x682.jpeg"
+    },
+    {
+      "title": "นักศึกษา มข. สร้างนวัตกรรม “LearnLy” AI ผู้ช่วยครูตรวจการบ้านและวิเคราะห์การเรียนรู้ คว้ารางวัล Popular Vote จากเวที JUMP Thailand Hackathon 2026",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE00V1hINmV6MFcwMDBFVEhkOG9hZV9vNTc5b2ZsMXFMblJXMUdMbzdhMFFGbXpVMTVIdzcxZ3ZzNmd4VHh0QmFR?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-11T08:08:19.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "image": null,
+      "topic": "research",
+      "imageSrc": null
+    },
+    {
+      "title": "สาขาวิชาเทคโนโลยีธรณี คณะเทคโนโลยี มข. สร้างความร่วมมือใหม่ด้านวิจัยธรณีเทคนิคและหลักสูตรนานาชาติกับ Feng Chia University ไต้หวัน - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAzSE0xcFFoc0c4UWdDVGdObXRjOXdfbGlmRDZHLWVyYzRXejZPUjhrMkxwaUdJdEo0ZHBXNVVyQnJYT1dsMW1R?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-11T08:00:00.000Z",
+      "sourceId": "tech",
+      "category": "คณะเทคโนโลยี",
+      "image": null,
+      "topic": "research",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะเทคโนโลยี มข. หารือความร่วมมือด้านการฝึกงาน การวิจัย และการแลกเปลี่ยนนักศึกษากับ NPUST ไต้หวัน เสริมความเข้มแข็งหลักสูตร Culinary Science and Technology - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5KRXppWFN0NXdTdmlaNUFQeENEVUVnWGhKVnFIQ2Q2V1FBZHdnY2c3ZU9teG81R0pWWHE1MUxNNlBEdFJlUjJz?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-11T08:00:00.000Z",
+      "sourceId": "tech",
+      "category": "คณะเทคโนโลยี",
+      "image": null,
+      "topic": "job",
+      "imageSrc": null
+    },
+    {
+      "title": "นักศึกษา มข. พบช่องโหว่ระบบ NASA ได้รับหนังสือขอบคุณหลังแจ้งช่องโหว่ไซเบอร์ XSS",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4tM3NnUEQ1OXZRSDVUZ21uTVZBU0g3djI5elNKcHZwRUgzUmdwQzdNRnNQT0hOcTV6SG03VEZwd19VR196UFZ3?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-11T08:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "announce",
+      "imageSrc": null
     },
     {
       "title": "เก้า นพเก้า นำทีมคนดังร่วมงาน NESCAFÉ RUN ขอนแก่น 2026 พร้อมมอบเงิน 2 ล้านบาท สนับสนุนโรงพยาบาลและทุนการศึกษา",
@@ -424,8 +490,8 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhOFBPSUJXRDdrZ0cxQ3FEb1NwSVF3MzloWGVWTjZEUUZwLWhGcmR2NzBBZTc1bFlMay1DTzBEVGd2STJuWXNYczAxenRfbXpzM3dTYg?oc=5",
       "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-11-11T02:57:13.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
       "image": null,
       "topic": "other",
       "imageSrc": null
@@ -450,6 +516,17 @@
       "category": "คณะวิทยาศาสตร์",
       "image": null,
       "topic": "research",
+      "imageSrc": null
+    },
+    {
+      "title": "IAD มข. จัดกิจกรรม NIH Day 2026 @ KKU",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1LcHd6aWgzN0JucmFUZ29Dd3VqY2pWWDh4M0xKT0E4QkpQeTZfWGgxRmZjWW1YYjVCXzM3OThSb1FvX1VNNVQ4?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-10T17:20:20.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "activity",
       "imageSrc": null
     },
     {
@@ -479,8 +556,8 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GRlE1SEpTak5vVEh1eHlQSS14ZWRLSHUwZWlqT21aSWZIZDRTeE9lV0F3Y3RPN1hHVU56UzI2RUNZVXRPMFptbjA0N1VhalJCdlJJbkJqNHB4Zw?oc=5",
       "outlet": "Thansettakij",
       "publishedAt": "2026-11-10T10:50:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
       "image": null,
       "topic": "other",
       "imageSrc": null
@@ -505,17 +582,6 @@
       "category": "คณะแพทยศาสตร์",
       "image": null,
       "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะเทคโนโลยี มข. หารือความร่วมมือด้านการฝึกงาน การวิจัย และการแลกเปลี่ยนนักศึกษากับ NPUST ไต้หวัน เสริมความเข้มแข็งหลักสูตร Culinary Science and Technology - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5KRXppWFN0NXdTdmlaNUFQeENEVUVnWGhKVnFIQ2Q2V1FBZHdnY2c3ZU9teG81R0pWWHE1MUxNNlBEdFJlUjJz?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-11-10T09:50:37.000Z",
-      "sourceId": "tech",
-      "category": "คณะเทคโนโลยี",
-      "image": null,
-      "topic": "job",
       "imageSrc": null
     },
     {
@@ -673,6 +739,17 @@
       "imageSrc": null
     },
     {
+      "title": "มหาวิทยาลัยขอนแก่น ส่งเสริมคุณธรรมและจริยธรรมบุคลากร ผ่านกิจกรรมสวดมนต์ นั่งสมาธิ และเจริญภาวนา ประจำเดือนพฤศจิกายน 69 - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9kNTYwX09jQ0NtcnA5V3RsYXNQZUw5Nm5uTzI5YTlrYUZOSkZEc01aWGpYNHQ5ODVBOHdjWmIzbG1QUmZtRy1J?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-09T08:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
       "title": "คณะเทคโนโลยี มหาวิทยาลัยขอนแก่น เปิดรับสมัครแล้ว ผู้ประกอบการร้านค้าอาหารและเครื่องดื่ม ร่วมเป็นส่วนหนึ่งของงาน “ขอนแก่นมาราธอนนานาชาติ 2027” (KKIM 2027) “รันข้ามยุค ปลุกความม่วน” - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE40VzRWalJ2LWMwdmNUa0pMT3BkSW15djlYQnhqdXp3bGI1cUZEcVVjanRYWUVwYXEzejRTdEtIdU5EM2RtZE5B?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -703,17 +780,6 @@
       "category": "มข.",
       "image": null,
       "topic": "other",
-      "imageSrc": null
-    },
-    {
-      "title": "สาขาวิชาเทคโนโลยีธรณี คณะเทคโนโลยี มข. สร้างความร่วมมือใหม่ด้านวิจัยธรณีเทคนิคและหลักสูตรนานาชาติกับ Feng Chia University ไต้หวัน - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAzSE0xcFFoc0c4UWdDVGdObXRjOXdfbGlmRDZHLWVyYzRXejZPUjhrMkxwaUdJdEo0ZHBXNVVyQnJYT1dsMW1R?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-11-06T08:00:00.000Z",
-      "sourceId": "tech",
-      "category": "คณะเทคโนโลยี",
-      "image": null,
-      "topic": "research",
       "imageSrc": null
     },
     {
@@ -4597,72 +4663,6 @@
       "category": "คณะพยาบาลศาสตร์",
       "topic": "activity",
       "image": null,
-      "imageSrc": null
-    },
-    {
-      "title": "พลังคนรุ่นใหม่! ทีมนักศึกษาพยาบาล ม.ขอนแก่น คว้าโล่ \"Youth Change Maker\" จากเวทีรณรงค์ต้านภัยบุหรี่ เตรียมพร้อมเป็นผู้นำ GEN Z สู่สังคมไร้ควัน - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAybXlzVmVhYTk4Z2xRYTR2a1FLTVJpejFrc25XaHNKQ29LdlFMS2ljVHNuTF9RXzAyVFViTWs2YVRWUnFqUkZN?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-02-25T11:51:50.000Z",
-      "sourceId": "nurse",
-      "category": "คณะพยาบาลศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะพยาบาลศาสตร์ ม.ขอนแก่น จัดพิธีมอบขีดหมวกและเข็มสถาบัน ประจำปีการศึกษา 2568 สร้างบัณฑิตพยาบาลรุ่นใหม่สู่วิชาชีพ - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0weHNBdFBpOG12VldYNHk0U3YxRXo1OXktcUJweXJmbDdQUXlnTG1lSW5mY2JidUZQd2xIOVVORmlvelVRZ1c4?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-02-23T05:47:54.000Z",
-      "sourceId": "nurse",
-      "category": "คณะพยาบาลศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "ตัวแทนนศ.นิติฯ มข. คว้าแชมป์ “Lawyers TED Talk” ครั้งแรก สร้างชื่อเสียงให้คณะบนเวทีระดับชาติ",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBKUDNfaUNyQkhoeXVNQmJ0LW5XU3RDdGE5QVhaaWVBdTdVbDdPZ05BZ0Y2Z3lPeTU4amdaLUlRZUhETmh5RFg4?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-02-23T02:51:48.000Z",
-      "sourceId": "law",
-      "category": "คณะนิติศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "นักศึกษาคณะมนุษยศาสตร์และสังคมศาสตร์ มข. จัดค่ายมนุษย์-สังคม ครั้งที่ 10 เปิดพื้นที่เรียนรู้บ้านดุง สัมผัสวิถีแม่น้ำสงคราม - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBQWnZsaGNmZG1EeWRsVlRCbkZtYXM5WDc0eF9PamN3cFZMb3o4U1Npb1RTdlBlYzNZRm9uTzdQMWRXX1FiVnNV?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-02-20T06:32:00.000Z",
-      "sourceId": "hs",
-      "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "“หลักสูตรอบรมขั้นพื้นฐาน การบริหารความเสี่ยงด้านกฎหมายสำหรับผู้ประกอบการวิชาชีพแพทย์ (Legal Risk Management for Healthcare Professionals)”",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5pTC1YSjVEalJoclZiM2s2ejlvNXZ1eW52Z0tNMmlwTERJbmhQczkxY2lwSGN2dHR2eUw0Wi1FWjBTY3lLdk1J?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-02-18T09:40:57.000Z",
-      "sourceId": "law",
-      "category": "คณะนิติศาสตร์",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "บัณฑิตวิทยาลัย จัดงาน “ครอบครัวจีน-ไทย เฉลิมฉลองปีแห่งจีน” “China-Thailand Family, Celebrating the Year of China Together”",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE05d1RxNUVNVjNDMHFhNVdTWTVtWV9KZkYzVURJRUlFSnlfYzk2dVpJMF9QQ0pBcXdFY3RxX1JqSFhOVFhRUWxz?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-02-17T08:27:03.000Z",
-      "sourceId": "gs",
-      "category": "บัณฑิตวิทยาลัย",
-      "image": null,
-      "topic": "activity",
       "imageSrc": null
     }
   ]
