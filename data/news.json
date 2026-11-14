@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T18:49:25.832Z",
+  "updatedAt": "2026-11-14T00:30:02.114Z",
   "sources": [
     {
       "id": "med",
@@ -424,8 +424,8 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhOFBPSUJXRDdrZ0cxQ3FEb1NwSVF3MzloWGVWTjZEUUZwLWhGcmR2NzBBZTc1bFlMay1DTzBEVGd2STJuWXNYczAxenRfbXpzM3dTYg?oc=5",
       "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-11-11T02:57:13.000Z",
-      "sourceId": "cp",
-      "category": "วิทยาลัยการคอมพิวเตอร์",
+      "sourceId": "kku",
+      "category": "มข.",
       "image": null,
       "topic": "other",
       "imageSrc": null
@@ -479,8 +479,8 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GRlE1SEpTak5vVEh1eHlQSS14ZWRLSHUwZWlqT21aSWZIZDRTeE9lV0F3Y3RPN1hHVU56UzI2RUNZVXRPMFptbjA0N1VhalJCdlJJbkJqNHB4Zw?oc=5",
       "outlet": "Thansettakij",
       "publishedAt": "2026-11-10T10:50:00.000Z",
-      "sourceId": "cp",
-      "category": "วิทยาลัยการคอมพิวเตอร์",
+      "sourceId": "kku",
+      "category": "มข.",
       "image": null,
       "topic": "other",
       "imageSrc": null
