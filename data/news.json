@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T08:29:43.562Z",
+  "updatedAt": "2026-11-15T16:39:40.531Z",
   "sources": [
     {
       "id": "med",
@@ -268,7 +268,7 @@
     {
       "title": "“เนสกาแฟ รัน ขอนแก่น 2026” รวมพลังนักวิ่ง และเงินสนับสนุนรวม 2 ล้านบาท ให้แก่ รพ.ศรีนครินทร์ และ ม.ขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CR19jWmVWbkhRZEU3b1R4Vi1VZzJndF9JTkNVM3RJVV9uMzBaLWNOV3l3MDRfT2p1dUFvaVVQTlRQRGhfOVZER0M4M25LSVF5WVozeTNET01Fd3lwYVRuSnBCMS1Ga1FNdHc?oc=5",
-      "outlet": "MGR Online",
+      "outlet": "ผู้จัดการออนไลน์",
       "publishedAt": "2026-11-14T12:50:00.000Z",
       "sourceId": "kku",
       "category": "มข.",
@@ -431,17 +431,6 @@
       "imageSrc": null
     },
     {
-      "title": "คณะเทคโนโลยี มข. หารือความร่วมมือด้านการฝึกงาน การวิจัย และการแลกเปลี่ยนนักศึกษากับ NPUST ไต้หวัน เสริมความเข้มแข็งหลักสูตร Culinary Science and Technology - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5KRXppWFN0NXdTdmlaNUFQeENEVUVnWGhKVnFIQ2Q2V1FBZHdnY2c3ZU9teG81R0pWWHE1MUxNNlBEdFJlUjJz?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-11-11T08:00:00.000Z",
-      "sourceId": "tech",
-      "category": "คณะเทคโนโลยี",
-      "image": null,
-      "topic": "job",
-      "imageSrc": null
-    },
-    {
       "title": "นักศึกษา มข. พบช่องโหว่ระบบ NASA ได้รับหนังสือขอบคุณหลังแจ้งช่องโหว่ไซเบอร์ XSS",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4tM3NnUEQ1OXZRSDVUZ21uTVZBU0g3djI5elNKcHZwRUgzUmdwQzdNRnNQT0hOcTV6SG03VEZwd19VR196UFZ3?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -450,6 +439,17 @@
       "category": "มข.",
       "image": null,
       "topic": "announce",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะเทคโนโลยี มข. หารือความร่วมมือด้านการฝึกงาน การวิจัย และการแลกเปลี่ยนนักศึกษากับ NPUST ไต้หวัน เสริมความเข้มแข็งหลักสูตร Culinary Science and Technology - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5KRXppWFN0NXdTdmlaNUFQeENEVUVnWGhKVnFIQ2Q2V1FBZHdnY2c3ZU9teG81R0pWWHE1MUxNNlBEdFJlUjJz?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-11T08:00:00.000Z",
+      "sourceId": "tech",
+      "category": "คณะเทคโนโลยี",
+      "image": null,
+      "topic": "job",
       "imageSrc": null
     },
     {
