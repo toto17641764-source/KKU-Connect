@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T03:19:45.589Z",
+  "updatedAt": "2026-11-16T12:08:06.655Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,39 @@
     }
   ],
   "items": [
+    {
+      "title": "นักศึกษา KKBS คว้ารางวัลชมเชย จากเวทีประกวดแผนการตลาดระดับประเทศ J-MAT AWARD ครั้งที่ 35",
+      "link": "https://kkbs.kku.ac.th/insight-kkbs/34099/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-11-16T08:18:58.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "image": "assets/news/de62c080a92b890e.jpg",
+      "topic": "activity",
+      "imageSrc": "https://kkbs.kku.ac.th/wp-content/uploads/2026/11/j-mat-award-35-3-1024x683.jpg"
+    },
+    {
+      "title": "ขอเชิญบุคลากรสมัครรับทุนฝึกอบรมหลักสูตร Digital Government Transformation ณ สาธารณรัฐสิงคโปร์ ระหว่างวันที่ 3–7 พฤษภาคม 2570",
+      "link": "https://sc.kku.ac.th/news/132333/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-11-16T07:39:35.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "study",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะวิทยาศาสตร์ มข. ร่วมมอบรางวัลและปิดค่ายนักวิทยาศาสตร์รุ่นเยาว์แห่งชาติ ครั้งที่ 22 เชิดชูศักยภาพเยาวชนจากทั่วประเทศ",
+      "link": "https://sc.kku.ac.th/news/132042/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-11-16T06:46:12.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
     {
       "title": "“เนสกาแฟ รัน ขอนแก่น 2026” รวมพลังนักวิ่ง และเงินสนับสนุนรวม 2 ล้านบาท ให้แก่ รพ.ศรีนครินทร์ และ ม.ขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CR19jWmVWbkhRZEU3b1R4Vi1VZzJndF9JTkNVM3RJVV9uMzBaLWNOV3l3MDRfT2p1dUFvaVVQTlRQRGhfOVZER0M4M25LSVF5WVozeTNET01Fd3lwYVRuSnBCMS1Ga1FNdHc?oc=5",
@@ -4628,39 +4661,6 @@
       "publishedAt": "2026-03-08T09:22:02.000Z",
       "sourceId": "arch",
       "category": "คณะสถาปัตยกรรมศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "มข. ผนึก 62 หน่วยงาน จัดมหกรรม KKU Societal Contribution ครั้งที่ 6 เปิดพื้นที่บริการประชาชน ยกระดับคุณภาพชีวิตชุมชนสู่ความยั่งยืน",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43UXY3U3hKTHVPZzBwQzlnNW1qMXFFNmRJZGVHOU5EeVlaMzVjTXNoSkY2bXU2alllWmFEZ1M0dVZ5ZjlUZ1RN?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-03-06T08:00:00.000Z",
-      "sourceId": "nurse",
-      "category": "คณะพยาบาลศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "🎶 มข.เปิดประกวดแบบ “Mor Lam Opera Hall” ดันหมอลำสู่อุตสาหกรรมสร้างสรรค์",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPN3FPZFVWX1pVSHpER28tenVLcVR2R05XaThFNDc1Vk5VR0thUmZ3WjJVM1B6QWRfRWtrSzA5ZHhlSFk4SDhBNzBJbmxCb21BNjR4ZQ?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
-      "publishedAt": "2026-03-06T08:00:00.000Z",
-      "sourceId": "arch",
-      "category": "คณะสถาปัตยกรรมศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะเกษตรศาสตร์ มข. จัดอบรม “การยกระดับความปลอดภัยในห้องปฏิบัติการตามระบบ ESPReL และการใช้งาน ESPReL Checklist”",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE85NGhjWUcyYXFSLUZmcU9PVjFjQjhfcFVUakE5NVk4SENIUEpRN1FzcnFobFpvS2ZlX1ZJcUJmclhvTmcxdzFN?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-03-05T08:00:00.000Z",
-      "sourceId": "agri",
-      "category": "คณะเกษตรศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
