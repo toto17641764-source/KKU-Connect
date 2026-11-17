@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T23:03:42.197Z",
+  "updatedAt": "2026-11-17T05:19:48.051Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,17 @@
   ],
   "items": [
     {
+      "title": "ประกาศรับสมัครนักศึกษาทันตแพทย์ผู้ทำสัญญาฯ เพื่อคัดเลือกเป็นพนักงานมหาวิทยาลัยขอนแก่น ตำแหน่งทันตแพทย์ คณะทันตแพทยศาสตร์ มหาวิทยาลัยขอนแก่น",
+      "link": "https://dentistry.kku.ac.th/30796?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%259b%25e0%25b8%25a3%25e0%25b8%25b0%25e0%25b8%2581%25e0%25b8%25b2%25e0%25b8%25a8%25e0%25b8%25a3%25e0%25b8%25b1%25e0%25b8%259a%25e0%25b8%25aa%25e0%25b8%25a1%25e0%25b8%25b1%25e0%25b8%2584%25e0%25b8%25a3%25e0%25b8%2599%25e0%25b8%25b1%25e0%25b8%2581%25e0%25b8%25a8%25e0%25b8%25b6%25e0%25b8%2581%25e0%25b8%25a9%25e0%25b8%25b2-4",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-11-17T04:50:47.000Z",
+      "sourceId": "dent",
+      "category": "คณะทันตแพทยศาสตร์",
+      "image": null,
+      "topic": "study",
+      "imageSrc": null
+    },
+    {
       "title": "นักศึกษา มข. คว้ารองชนะเลิศระดับประเทศ ออมสินยุวพัฒน์รักษ์ถิ่น 2569 ชูนวัตกรรมเครื่องดื่มสมุนไพรยกระดับชุมชน",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBhQmFIckV2aHFCV0tBMzJHcW9rUHlleW9fV3hDRnVYOHZhM0tMNmJmU1dyZ2JBbmUtazVBSjV5OGRScGtvckd3?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -327,6 +338,17 @@
       "publishedAt": "2026-11-14T12:50:00.000Z",
       "sourceId": "kku",
       "category": "มข.",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะวิทยาศาสตร์ มข. ร่วมเปิดค่ายนักวิทยาศาสตร์รุ่นเยาว์แห่งชาติ ครั้งที่ 22 รวมเยาวชน 227 คน ประชันความสามารถทางวิทยาศาสตร์ระดับประเทศ",
+      "link": "https://sc.kku.ac.th/news/132345/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-11-14T02:44:49.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -2488,17 +2510,6 @@
       "imageSrc": "https://kkbs.kku.ac.th/wp/wp-content/uploads/2026/08/8-9082026-kkbs-camp-de-10-1024x682.jpg"
     },
     {
-      "title": "คณะเศรษฐศาสตร์ มข. ลงนาม MOU กับสมาคมบริษัทจัดการลงทุน ยกระดับนักศึกษาสู่วิชาชีพการเงิน",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MV3U0ZHQ2enpjQUlDckg0a0FUUS1kM1Q3TDlUYzlMY0RjMm10QlhlbllpUk44Tkx6cmxpYlI5MmJLVmxkTWww?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
-      "sourceId": "econ",
-      "category": "คณะเศรษฐศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "มข. เปิดงานสัปดาห์วิทยาศาสตร์ฯ 2569 ยิ่งใหญ่ จัดเต็ม 3 วัน ชูแนวคิดนวัตกรรมอัจฉริยะเพื่ออนาคตที่ยั่งยืน พร้อมดึงเยาวชนทั่วอีสานร่วมประลองทักษะคับคั่ง - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hWWxOMHQzbjVoeEl5b01neUM0M3FZajE2MU5mZHhqd2VPeE5iaGt5VWJxNkY5ZUtGLXJGYnFFdFc3WlY1Z2lr?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2507,6 +2518,17 @@
       "category": "คณะวิทยาศาสตร์",
       "image": null,
       "topic": "research",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะเศรษฐศาสตร์ มข. ลงนาม MOU กับสมาคมบริษัทจัดการลงทุน ยกระดับนักศึกษาสู่วิชาชีพการเงิน",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MV3U0ZHQ2enpjQUlDckg0a0FUUS1kM1Q3TDlUYzlMY0RjMm10QlhlbllpUk44Tkx6cmxpYlI5MmJLVmxkTWww?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "sourceId": "econ",
+      "category": "คณะเศรษฐศาสตร์",
+      "image": null,
+      "topic": "activity",
       "imageSrc": null
     },
     {
@@ -4641,28 +4663,6 @@
       "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "นักศึกษาการตลาดวิทยาลัยนานาชาติ มข. คว้าชัยเวทีจำลองธุรกิจ เตรียมชิงแชมป์ระดับนานาชาติที่ฮ่องกง",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE80V3ZnNGhYYVdyS2YtZXdWUXZrRTR6a1MtUEt2NEdUdDFqZ2NlNEtyQ2ZQVFFDYmNRRm5lUG5GTjBSOW1TRTVJ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-03-12T00:06:12.000Z",
-      "sourceId": "ic",
-      "category": "วิทยาลัยนานาชาติ",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะเทคนิคการแพทย์ มข. เปิดรับสมัครอบรม หลักสูตรเทคโนโลยีช่วยการเจริญพันธุ์และการวินิจฉัยพันธุกรรมตัวอ่อน (Upskill/Reskill 2569) - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5DUzBNcEk1czdYWkJ3Mlhlc0RhblFtYzhLUjg0YktlWVpxTEZSLUpfZWRkZG9OWVQyQmZJVzdyR0lncEJUaktv?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-03-09T12:18:46.000Z",
-      "sourceId": "ams",
-      "category": "คณะเทคนิคการแพทย์",
-      "image": null,
-      "topic": "study",
       "imageSrc": null
     }
   ]
