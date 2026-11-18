@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T14:38:50.954Z",
+  "updatedAt": "2026-11-18T22:44:06.744Z",
   "sources": [
     {
       "id": "med",
@@ -266,23 +266,23 @@
   ],
   "items": [
     {
+      "title": "เนสกาแฟ เรดคัพ รวมพลังนักวิ่งมากกว่า 4,000 คนในงาน “เนสกาแฟ รัน ขอนแก่น 2026” | THE ROOM 44 CHANNEL",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zSjA4SnhGRkdIQmRaRDdRX2p3anlhYUYzUTVCa3YxODJ5QWpoUzNWV2ViWEU4emJIX0VSTWZSbF9xY0xBdHRsVW5QLVdTYm84SDJqa25B?oc=5",
+      "outlet": "LINE TODAY",
+      "publishedAt": "2026-11-18T14:58:49.000Z",
+      "sourceId": "med",
+      "category": "คณะแพทยศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
       "title": "คณะทันตแพทยศาสตร์ มข. ขอแสดงความยินดีกับนักศึกษาทันตแพทย์ คว้ารางวัลจากการประชุมวิชาการระดับนานาชาติ DFCT 2026",
       "link": "https://dentistry.kku.ac.th/30812?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%2584%25e0%25b8%2593%25e0%25b8%25b0%25e0%25b8%2597%25e0%25b8%25b1%25e0%25b8%2599%25e0%25b8%2595%25e0%25b9%2581%25e0%25b8%259e%25e0%25b8%2597%25e0%25b8%25a2%25e0%25b8%25a8%25e0%25b8%25b2%25e0%25b8%25aa%25e0%25b8%2595%25e0%25b8%25a3%25e0%25b9%258c-%25e0%25b8%25a1%25e0%25b8%2582-%25e0%25b8%2582%25e0%25b8%25ad-4",
       "outlet": "เว็บไซต์คณะ",
       "publishedAt": "2026-11-18T09:31:36.000Z",
       "sourceId": "dent",
       "category": "คณะทันตแพทยศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "เนสกาแฟ เรดคัพ รวมพลังนักวิ่งมากกว่า 4,000 คนในงาน “เนสกาแฟ รัน ขอนแก่น 2026” | THE ROOM 44 CHANNEL",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zSjA4SnhGRkdIQmRaRDdRX2p3anlhYUYzUTVCa3YxODJ5QWpoUzNWV2ViWEU4emJIX0VSTWZSbF9xY0xBdHRsVW5QLVdTYm84SDJqa25B?oc=5",
-      "outlet": "LINE TODAY",
-      "publishedAt": "2026-11-17T10:47:07.000Z",
-      "sourceId": "med",
-      "category": "คณะแพทยศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -376,6 +376,17 @@
       "imageSrc": "https://kkbs.kku.ac.th/wp-content/uploads/2026/11/j-mat-award-35-3-1024x683.jpg"
     },
     {
+      "title": "คณะเภสัชศาสตร์ มข. นำนักศึกษา 7 คน ร่วมโครงการแลกเปลี่ยนระยะสั้น ณ University of Toyama ประเทศญี่ปุ่น",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE80MjNhN0dXdXNqTG9Rd19VWm96YW5UODRBR2M0MlFyNUdPUnc4S0NtN3ljR0VoLTZjU1duN1MtSkl2Y2d4a29N?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-16T08:00:00.000Z",
+      "sourceId": "pharm",
+      "category": "คณะเภสัชศาสตร์",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
+    },
+    {
       "title": "ขอเชิญบุคลากรสมัครรับทุนฝึกอบรมหลักสูตร Digital Government Transformation ณ สาธารณรัฐสิงคโปร์ ระหว่างวันที่ 3–7 พฤษภาคม 2570",
       "link": "https://sc.kku.ac.th/news/132333/",
       "outlet": "เว็บไซต์คณะ",
@@ -417,17 +428,6 @@
       "category": "มข.",
       "image": null,
       "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะเภสัชศาสตร์ มข. นำนักศึกษา 7 คน ร่วมโครงการแลกเปลี่ยนระยะสั้น ณ University of Toyama ประเทศญี่ปุ่น",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE80MjNhN0dXdXNqTG9Rd19VWm96YW5UODRBR2M0MlFyNUdPUnc4S0NtN3ljR0VoLTZjU1duN1MtSkl2Y2d4a29N?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-11-14T07:32:13.000Z",
-      "sourceId": "pharm",
-      "category": "คณะเภสัชศาสตร์",
-      "image": null,
-      "topic": "other",
       "imageSrc": null
     },
     {
@@ -494,6 +494,17 @@
       "category": "มข.",
       "image": null,
       "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะเทคโนโลยี มข. ขอเชิญร่วมประชุมวิชาการระดับนานาชาติ TSB 2026 ครั้งที่ 38 เปิดเวทีแลกเปลี่ยนองค์ความรู้และนวัตกรรมด้านเทคโนโลยีชีวภาพ - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpUE45XzA3WUItOU0zSkFrSm5HM2xTYWxQSW5zZFd3YTRaZUIyUXFFZXhJQVlMZ2diNXZCcFJIbXJFelJGdWNV?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-13T01:27:01.000Z",
+      "sourceId": "tech",
+      "category": "คณะเทคโนโลยี",
+      "image": null,
+      "topic": "research",
       "imageSrc": null
     },
     {
@@ -4652,17 +4663,6 @@
       "category": "คณะเกษตรศาสตร์",
       "image": null,
       "topic": "research",
-      "imageSrc": null
-    },
-    {
-      "title": "รร.สาธิตมหาวิทยาลัยขอนแก่น ฝ่ายอนุบาลศึกษา จัดกิจกรรม The Open House Innovator หนุนนวัตกรน้อยสู่อนาคต",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4zUW5RZTIzWUoyeTBxZEJnT3JseVpqVVZ5MTdJd2h3ODB3ZENLUTJzVkladTVrRGtXWDBrZER1NmFuVTRzX2xv?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-03-18T21:01:42.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "image": null,
-      "topic": "activity",
       "imageSrc": null
     }
   ]
