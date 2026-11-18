@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T23:11:50.549Z",
+  "updatedAt": "2026-11-18T04:47:55.561Z",
   "sources": [
     {
       "id": "med",
@@ -409,10 +409,32 @@
       "imageSrc": null
     },
     {
+      "title": "คณะเภสัชศาสตร์ มข. นำนักศึกษา 7 คน ร่วมโครงการแลกเปลี่ยนระยะสั้น ณ University of Toyama ประเทศญี่ปุ่น",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE80MjNhN0dXdXNqTG9Rd19VWm96YW5UODRBR2M0MlFyNUdPUnc4S0NtN3ljR0VoLTZjU1duN1MtSkl2Y2d4a29N?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-14T07:32:13.000Z",
+      "sourceId": "pharm",
+      "category": "คณะเภสัชศาสตร์",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
+    },
+    {
       "title": "คณะวิทยาศาสตร์ มข. ร่วมเปิดค่ายนักวิทยาศาสตร์รุ่นเยาว์แห่งชาติ ครั้งที่ 22 รวมเยาวชน 227 คน ประชันความสามารถทางวิทยาศาสตร์ระดับประเทศ",
       "link": "https://sc.kku.ac.th/news/132345/",
       "outlet": "เว็บไซต์คณะ",
       "publishedAt": "2026-11-14T02:44:49.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะวิทยาศาสตร์ มข. เปิดบ้านแนะแนวศึกษาต่อ ต้อนรับนักเรียนจากระยอง–ยโสธร เปิดมุมมองการเรียนรู้และเส้นทางอาชีพด้านวิทยาศาสตร์",
+      "link": "https://sc.kku.ac.th/news/131937/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-11-13T16:53:38.000Z",
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
       "image": null,
@@ -426,28 +448,6 @@
       "publishedAt": "2026-11-13T09:58:12.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะเภสัชศาสตร์ มข. นำนักศึกษา 7 คน ร่วมโครงการแลกเปลี่ยนระยะสั้น ณ University of Toyama ประเทศญี่ปุ่น",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE80MjNhN0dXdXNqTG9Rd19VWm96YW5UODRBR2M0MlFyNUdPUnc4S0NtN3ljR0VoLTZjU1duN1MtSkl2Y2d4a29N?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-11-13T09:58:11.000Z",
-      "sourceId": "pharm",
-      "category": "คณะเภสัชศาสตร์",
-      "image": null,
-      "topic": "other",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะวิทยาศาสตร์ มข. เปิดบ้านแนะแนวศึกษาต่อ ต้อนรับนักเรียนจากระยอง–ยโสธร เปิดมุมมองการเรียนรู้และเส้นทางอาชีพด้านวิทยาศาสตร์ - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE02bWNPeHlmWlJRRkxQZ2RDQVJkaFdvN0wwOG1UMDZ4Q0QyZnhhRDR2bWk2V3JvanpuN2hVX2FtSDllTGFOek1R?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-11-13T08:00:00.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -4083,6 +4083,17 @@
       "imageSrc": null
     },
     {
+      "title": "นักศึกษาชีววิทยา คณะวิทยาศาสตร์ มข. โชว์ศักยภาพเวทีระดับชาติ คว้า 3 รางวัลวิจัยดีเด่น งานประชุม TST ครั้งที่ 14 มุ่งต่อยอดความหลากหลายทางชีวภาพสู่ความยั่งยืน - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5kNmY0ZjdCSmxTdTQxeHUxYU10NkdaTlZZWWdOQWdTUVVGZU5VcmhnbDlnNldjd3NOZHM1R3E1eUVvS2xRUWE0?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-05-15T09:42:34.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "research",
+      "imageSrc": null
+    },
+    {
       "title": "COLA KKU จัดสัมมนาทบทวนแผนปฏิบัติการสู่ความเป็นเลิศ พร้อมเปิดโลกทัศน์การพัฒนาอนุภูมิภาคลุ่มน้ำโขง ณ เมืองดานัง ประเทศเวียดนาม - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB3Rlo1Z3ZUaUpVVzJxRlF4VHl5aGNKTjFhVXpIeUlHRzBBeE1ObHZEbE9rSmNKVlpTQXNueXJscVNfam9PWE0w?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -4650,17 +4661,6 @@
       "publishedAt": "2026-03-18T07:00:00.000Z",
       "sourceId": "nurse",
       "category": "คณะพยาบาลศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะเทคโนโลยี มข. จัดค่าย “เทคโนรวมพลังสร้างสรรค์สังคม” ขับเคลื่อน EGGS KKU เชื่อมโยง Khon Kaen Geopark สู่ UNESCO Global Geopark",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBacFRNZ2JSZ3J0c3lodjFEYUFBZHZxdlhuSF94RmF1VWxIaG5xNGRFaFdrQWtMc1NaSy1KRVpvU3dtM1VhREZj?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-03-17T08:30:57.000Z",
-      "sourceId": "tech",
-      "category": "คณะเทคโนโลยี",
       "image": null,
       "topic": "activity",
       "imageSrc": null
