@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T04:47:55.561Z",
+  "updatedAt": "2026-11-18T14:38:50.954Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,17 @@
     }
   ],
   "items": [
+    {
+      "title": "คณะทันตแพทยศาสตร์ มข. ขอแสดงความยินดีกับนักศึกษาทันตแพทย์ คว้ารางวัลจากการประชุมวิชาการระดับนานาชาติ DFCT 2026",
+      "link": "https://dentistry.kku.ac.th/30812?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%2584%25e0%25b8%2593%25e0%25b8%25b0%25e0%25b8%2597%25e0%25b8%25b1%25e0%25b8%2599%25e0%25b8%2595%25e0%25b9%2581%25e0%25b8%259e%25e0%25b8%2597%25e0%25b8%25a2%25e0%25b8%25a8%25e0%25b8%25b2%25e0%25b8%25aa%25e0%25b8%2595%25e0%25b8%25a3%25e0%25b9%258c-%25e0%25b8%25a1%25e0%25b8%2582-%25e0%25b8%2582%25e0%25b8%25ad-4",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-11-18T09:31:36.000Z",
+      "sourceId": "dent",
+      "category": "คณะทันตแพทยศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
     {
       "title": "เนสกาแฟ เรดคัพ รวมพลังนักวิ่งมากกว่า 4,000 คนในงาน “เนสกาแฟ รัน ขอนแก่น 2026” | THE ROOM 44 CHANNEL",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zSjA4SnhGRkdIQmRaRDdRX2p3anlhYUYzUTVCa3YxODJ5QWpoUzNWV2ViWEU4emJIX0VSTWZSbF9xY0xBdHRsVW5QLVdTYm84SDJqa25B?oc=5",
@@ -574,17 +585,6 @@
       "imageSrc": null
     },
     {
-      "title": "คณะเทคโนโลยี มข. หารือความร่วมมือด้านการฝึกงาน การวิจัย และการแลกเปลี่ยนนักศึกษากับ NPUST ไต้หวัน เสริมความเข้มแข็งหลักสูตร Culinary Science and Technology - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5KRXppWFN0NXdTdmlaNUFQeENEVUVnWGhKVnFIQ2Q2V1FBZHdnY2c3ZU9teG81R0pWWHE1MUxNNlBEdFJlUjJz?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-11-11T08:00:00.000Z",
-      "sourceId": "tech",
-      "category": "คณะเทคโนโลยี",
-      "image": null,
-      "topic": "job",
-      "imageSrc": null
-    },
-    {
       "title": "นักศึกษา มข. พบช่องโหว่ระบบ NASA ได้รับหนังสือขอบคุณหลังแจ้งช่องโหว่ไซเบอร์ XSS",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4tM3NnUEQ1OXZRSDVUZ21uTVZBU0g3djI5elNKcHZwRUgzUmdwQzdNRnNQT0hOcTV6SG03VEZwd19VR196UFZ3?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -593,6 +593,17 @@
       "category": "มข.",
       "image": null,
       "topic": "announce",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะเทคโนโลยี มข. หารือความร่วมมือด้านการฝึกงาน การวิจัย และการแลกเปลี่ยนนักศึกษากับ NPUST ไต้หวัน เสริมความเข้มแข็งหลักสูตร Culinary Science and Technology - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5KRXppWFN0NXdTdmlaNUFQeENEVUVnWGhKVnFIQ2Q2V1FBZHdnY2c3ZU9teG81R0pWWHE1MUxNNlBEdFJlUjJz?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-11T08:00:00.000Z",
+      "sourceId": "tech",
+      "category": "คณะเทคโนโลยี",
+      "image": null,
+      "topic": "job",
       "imageSrc": null
     },
     {
@@ -4650,17 +4661,6 @@
       "publishedAt": "2026-03-18T21:01:42.000Z",
       "sourceId": "kku",
       "category": "มข.",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "สร้างเครือข่ายผู้นำนักศึกษาพยาบาล! มข. – ราชภัฏบุรีรัมย์ แลกเปลี่ยนแนวคิดพัฒนากิจกรรม",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1DOVZSanQtbXRsX0p5NmN3bTY3VGtxWVFpYUkxRXBPRjVEYjBvUG9NeXUtYVRHRU1rR2xaUGJ5OXprNXN0d3FR?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-03-18T07:00:00.000Z",
-      "sourceId": "nurse",
-      "category": "คณะพยาบาลศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
