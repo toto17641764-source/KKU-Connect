@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T04:38:26.057Z",
+  "updatedAt": "2026-11-19T14:44:56.876Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,28 @@
     }
   ],
   "items": [
+    {
+      "title": "ช่างคึด ครั้งที่ 18 กลับมาแล้ว! ยกเสน่ห์อีสานบ้านนามาเติมสีสันให้เทศกาลอาร์ตสุดม่วนของชาวสถาปัตย์ มข.",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQTnlTanF4OTRqbjhobGVHVVlSRXhmNW9lOUhhamlLcnBGZ1BocURLTkRRY1R3aVJkTHRYNzM3b19ia2NZN3BtV1NYUmZWT3BTUG1KQVBFb2pvMVVkdUJ3N040Z05xZHR3M0o5ajdKR2gtYzBkVU9zbjhEZDBjRGlyeGdfS1dSdDRvN1EzdHhrbFdQM3NHeExCU1ZiM2pnRlIwWXlUdTh2R2dLM3o5cHF1U3FtVnVVQ0NrLTZWaHhHZmh1b1NwdGVhSjBFZ1hka3dJSFNHWXhrR19JZl9fYTlQeS1VTWZZeC1Oa0FtU1p5VE1heTg2MTAtWlExd29HajZycEtLWjgyVGU0QlBTdWgwVzRhMUtPSEw5UEE5ZHRCa20zbjdxa0YwVDZheEpldlcyNkl1Z0ZYcC13ZWRDUFFqOHV4cnp4ZmFmU2c?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-19T10:06:06.000Z",
+      "sourceId": "arch",
+      "category": "คณะสถาปัตยกรรมศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะเกษตรศาสตร์ มข. ถ่ายทอดองค์ความรู้ผ่านหลักสูตรฝึกอบรมนานาชาติ “Climate-Smart Animal Production” ขับเคลื่อนนวัตกรรมการผลิตสัตว์เพื่อความมั่นคงทางอาหารอย่างยั่งยืน - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1taDJpOEh6eXgyZ2otNHNMaHRkVGtfOWtUeW9NSUJaWEl5MFVHeWZrSS04ekRKbXF2TmZVcmhyaUszc05WMmdF?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-19T09:23:39.000Z",
+      "sourceId": "agri",
+      "category": "คณะเกษตรศาสตร์",
+      "image": null,
+      "topic": "research",
+      "imageSrc": null
+    },
     {
       "title": "เนสกาแฟ เรดคัพ รวมพลังนักวิ่งมากกว่า 4,000 คนในงาน “เนสกาแฟ รัน ขอนแก่น 2026” | THE ROOM 44 CHANNEL",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zSjA4SnhGRkdIQmRaRDdRX2p3anlhYUYzUTVCa3YxODJ5QWpoUzNWV2ViWEU4emJIX0VSTWZSbF9xY0xBdHRsVW5QLVdTYm84SDJqa25B?oc=5",
@@ -4641,28 +4663,6 @@
       "category": "คณะเกษตรศาสตร์",
       "image": null,
       "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะศิลปกรรมศาสตร์ มข. MOU วิทยาลัยนาฏศิลปจันทบุรี เดินหน้าพัฒนางานด้านหลักสูตร วิชาการและวิชาชีพดนตรี สู่การยกระดับคุณภาพการศึกษา - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WNDFnc0R3cUZTYzU5aWlXM09ieF9ScTc4cllEbmp6OTBub1BWMURlQ3NjT1ZneVF0SDhhOWdvUDFrdURGUl9v?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-03-20T21:39:20.000Z",
-      "sourceId": "fa",
-      "category": "คณะศิลปกรรมศาสตร์",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะเกษตรศาสตร์ มข. จัดงาน “นุ่งไทย ห่มสไบ เลาะไฮ่ชมกาลพฤกษ์” เปิดพื้นที่โชว์ศักยภาพนักศึกษา ผ่านผลงานนวัตกรรมสร้างมูลค่าเพิ่มสินค้าเกษตร - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1BTE92c0tENUwtQ2JJZ2Jabk1lSTJ4NFdPbUVOTXF6QXpvX0RBQXotWExXZGJlaGpsYWxucjBxczRvVVkxQ3g4?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-03-19T07:00:00.000Z",
-      "sourceId": "agri",
-      "category": "คณะเกษตรศาสตร์",
-      "image": null,
-      "topic": "research",
       "imageSrc": null
     }
   ]
