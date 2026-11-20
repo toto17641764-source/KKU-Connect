@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T14:26:24.889Z",
+  "updatedAt": "2026-11-20T22:24:08.109Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,17 @@
   ],
   "items": [
     {
+      "title": "คณะเภสัชศาสตร์ มข. ตอกย้ำเครือข่ายความร่วมมือระดับนานาชาติ เยือน Kyushu University ญี่ปุ่น ต่อยอดมิตรภาพกว่า 25 ปี ยกระดับการศึกษา การวิจัย และโอกาสของนักศึกษา - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE93d3pqOXI4REdLdkZhTXZVZzNjVDdIdm9Dd09OUmtHTlh4OGpWQklHdDFGRVJTcXkyMXhjVlQyUnQtX1doM0xV?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-20T12:05:26.000Z",
+      "sourceId": "pharm",
+      "category": "คณะเภสัชศาสตร์",
+      "image": null,
+      "topic": "research",
+      "imageSrc": null
+    },
+    {
       "title": "KKBS ผนึกกำลัง อบจ.ขอนแก่น ลงนาม MOU เสริมศักยภาพด้านธุรกิจ-บัญชี พร้อมทักษะผู้ประกอบการในยุคดิจิทัลแก่โรงเรียนในสังกัดฯ",
       "link": "https://kkbs.kku.ac.th/insight-kkbs/34136/",
       "outlet": "เว็บไซต์คณะ",
@@ -387,23 +398,23 @@
       "imageSrc": null
     },
     {
-      "title": "เนสกาแฟ เรดคัพ รวมพลังนักวิ่งมากกว่า 4,000 คนในงาน “เนสกาแฟ รัน ขอนแก่น 2026” | THE ROOM 44 CHANNEL",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zSjA4SnhGRkdIQmRaRDdRX2p3anlhYUYzUTVCa3YxODJ5QWpoUzNWV2ViWEU4emJIX0VSTWZSbF9xY0xBdHRsVW5QLVdTYm84SDJqa25B?oc=5",
-      "outlet": "LINE TODAY",
-      "publishedAt": "2026-11-18T14:58:49.000Z",
-      "sourceId": "med",
-      "category": "คณะแพทยศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "คณะทันตแพทยศาสตร์ มข. ขอแสดงความยินดีกับนักศึกษาทันตแพทย์ คว้ารางวัลจากการประชุมวิชาการระดับนานาชาติ DFCT 2026",
       "link": "https://dentistry.kku.ac.th/30812?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%2584%25e0%25b8%2593%25e0%25b8%25b0%25e0%25b8%2597%25e0%25b8%25b1%25e0%25b8%2599%25e0%25b8%2595%25e0%25b9%2581%25e0%25b8%259e%25e0%25b8%2597%25e0%25b8%25a2%25e0%25b8%25a8%25e0%25b8%25b2%25e0%25b8%25aa%25e0%25b8%2595%25e0%25b8%25a3%25e0%25b9%258c-%25e0%25b8%25a1%25e0%25b8%2582-%25e0%25b8%2582%25e0%25b8%25ad-4",
       "outlet": "เว็บไซต์คณะ",
       "publishedAt": "2026-11-18T09:31:36.000Z",
       "sourceId": "dent",
       "category": "คณะทันตแพทยศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "เนสกาแฟ เรดคัพ รวมพลังนักวิ่งมากกว่า 4,000 คนในงาน “เนสกาแฟ รัน ขอนแก่น 2026” | THE ROOM 44 CHANNEL",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zSjA4SnhGRkdIQmRaRDdRX2p3anlhYUYzUTVCa3YxODJ5QWpoUzNWV2ViWEU4emJIX0VSTWZSbF9xY0xBdHRsVW5QLVdTYm84SDJqa25B?oc=5",
+      "outlet": "LINE TODAY",
+      "publishedAt": "2026-11-17T10:47:07.000Z",
+      "sourceId": "med",
+      "category": "คณะแพทยศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -497,17 +508,6 @@
       "imageSrc": "https://kkbs.kku.ac.th/wp-content/uploads/2026/11/j-mat-award-35-3-1024x683.jpg"
     },
     {
-      "title": "มข. ร่วมจัด “ค่ายเวทีนักวิทยาศาสตร์รุ่นเยาว์แห่งชาติ” ครั้งที่ 22 เปิดเวทีเยาวชนทั่วประเทศแสดงศักยภาพทางวิทยาศาสตร์ - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1UajJyVlFLQzM2OVd3TVRfU2lMNmdKN0MtVUJGY3d3WVlNblRMVUo0LXB6TUhVZ1BwalIzYU55M0pxdWhWeWtR?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-11-16T08:00:00.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "คณะเภสัชศาสตร์ มข. นำนักศึกษา 7 คน ร่วมโครงการแลกเปลี่ยนระยะสั้น ณ University of Toyama ประเทศญี่ปุ่น",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE80MjNhN0dXdXNqTG9Rd19VWm96YW5UODRBR2M0MlFyNUdPUnc4S0NtN3ljR0VoLTZjU1duN1MtSkl2Y2d4a29N?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -516,6 +516,17 @@
       "category": "คณะเภสัชศาสตร์",
       "image": null,
       "topic": "other",
+      "imageSrc": null
+    },
+    {
+      "title": "มข. ร่วมจัด “ค่ายเวทีนักวิทยาศาสตร์รุ่นเยาว์แห่งชาติ” ครั้งที่ 22 เปิดเวทีเยาวชนทั่วประเทศแสดงศักยภาพทางวิทยาศาสตร์ - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1UajJyVlFLQzM2OVd3TVRfU2lMNmdKN0MtVUJGY3d3WVlNblRMVUo0LXB6TUhVZ1BwalIzYU55M0pxdWhWeWtR?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-16T08:00:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity",
       "imageSrc": null
     },
     {
@@ -574,6 +585,17 @@
       "imageSrc": null
     },
     {
+      "title": "Thailand Volleyball Association สมาคมกีฬาวอลเลย์บอลแห่งประเทศไทย. Adam Griffith · Knockout. [ไฮใลท์] มหาวิทยาลัยขอนแก่น ขอนแก่นสตาร์ VS ฮารุดอทชลบุรี ราชมงคลธัญบุรี วีซี ศึกเอสโคล่า วอลเลย์บอลไทยแลนด์ ลีก 2027 🎟💸ค่าเข้าชม 100 บาท! สำหรับผู้ใหญ่ ส่วนเยาวชนอา",
+      "link": "https://news.google.com/rss/articles/CBMi8gdBVV95cUxNLW5IOVBlZGYwakhKcHdTYnlqbnJtLUZrMzZlc3dkZTNBcWlvVzQ3b3JPb2NlSkZ5YVViM09XaU9aems2T3lPeGpGYlZFZ2s4c2FWNl83VHhMQ0FfR0E0ZHo3VWdZd0xNVTVKNHdYSG1MRldUeXhlamh6cldHQVZRdHJpRWRreXFLTnlmdi0taWd5RmVTTUZDRE1mQUlEWmpCLU5UY3FTSU45XzlOeDhLdGoxRjVHSmpxLWFmcXFSTnc3ajBkWHJtNW9rOWZyU05PV1NFSENlUm5VQlVwdjhWb2lTZFFNcFBVWUx3Y09NYTlMUHoycVA3SWFkVHpscklKRXNRMjVhVGN1M3pCeEU2YU02Z2VsWm14eGFqZGZ3dWFGc3pRU0lKVm9ma0V4bzFGVG5rQnIweHJTUTRaUTB2S2d6R3ZvZjJ0eU0tS3phTi1KcWR2WVZCY013SDBTWGRzLWJtcEREQ1dzY3RwVjRNb2pHb1JYNnJ1SnVDcnJXX1drdjhYSFQyVTlYSDVQZ2RodHZwdWJ3N09XQklYTzY1Vng1cklKdkw1NThTT0JHMzNLMmY4ZjBjU0s2ZDRndzQ4bjM1Z1A0RXZiQThEOTRMc2lwMmVDeVFSN2I1RDljdHF5YnJ6X3VScGs5N3JqbWFJTmUyLUxDbE5RMVlQcW1aQ00wQjJsUC1qUmJVN3BFT3hUYnNNMjR5ZVNpYTlUbldHeGZkbzRCUlhqaDhlSy1OUjBNbnFtWWhRVmVfRnNTRlZlUFJjTk5SbDU3YzRJa25fLVZ0Y1BGRFV6V3BVVC1fUEVyTk9VbVpWYVE0YTJfYTBiNUZkZFFsZmMwYmY4OGl3M04zOHB6R3Z3MFBwMFpZU0dFMUNHcXVjWUhUQUpLRDhOeTZxVWRtaE5zV3V2UVFXWDQ4RFZUV2pkY04zYS1pM1RYOS10QTBxeS0yRFVYdzU5Ni1hanpQRElXZWZrZksteGNNTGxlZndIMnRMY0xJWUlEN09wbnFWSkVpdjdsd19IVnp6aFZYTE1fVTBTOTV3Y0dRZnFJWEthVUUzcXVLZUphZF9DVF9wODFXUUdZNXBHVVBhYUhQY3FwSW9fcUdKX2NJZUpWT2U3aGRneHRqUTlVdU1xaE01ZUVOc1JqdnBwUTMyMzFUSEk0TjFKb2JkNkxMeGx1WkF6d2lDT0dHbjdKaFhQdnBncUNBN0ZBZU5ScnoxN1NsODhoLWVkUFJnX0VZNE8taUhjakJ6OTVRRVowVC1Cd0tRdS1FSl81SEt0WC1LLUpFbHFJSm5WaW9IQjBVNXd4NDlWQVA2aTRvVWJmcFNTeEZtRDNQN0ozZU9Mdw?oc=5",
+      "outlet": "Facebook",
+      "publishedAt": "2026-11-13T19:08:44.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
+    },
+    {
       "title": "คณะวิทยาศาสตร์ มข. เปิดบ้านแนะแนวศึกษาต่อ ต้อนรับนักเรียนจากระยอง–ยโสธร เปิดมุมมองการเรียนรู้และเส้นทางอาชีพด้านวิทยาศาสตร์",
       "link": "https://sc.kku.ac.th/news/131937/",
       "outlet": "เว็บไซต์คณะ",
@@ -615,17 +637,6 @@
       "category": "คณะทันตแพทยศาสตร์",
       "image": null,
       "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "Thailand Volleyball Association สมาคมกีฬาวอลเลย์บอลแห่งประเทศไทย. Adam Griffith · Knockout. “ยูฟ่า” ดลพร สินโพธิ์ คืนสนามแข่งในนามของมหาวิทยาลัยขอนแก่น ขอนแก่นสตาร์ ทีมจากจังหวัดบ้านเกิด ด้วยตำแหน่งเซตเตอร์ ศึกเอสโคล่า วอลเลย์บอลไทยแลนด์ ลีก 2027 เปิดฤดูกาล",
-      "link": "https://news.google.com/rss/articles/CBMikAhBVV95cUxNM1hIQWNleEVqQzFrQzQ4V0QweE0yd3dzZXdfRkF4X0ZoWEFOS0JZdzk1aklJUlBoUXJNRldLLVRjVTQzXzc0YUk4Z2hhN2wwXzIyT1hXaFZYV3hOdzZvMm9UMk1GZlNaUzZlMW02TTZaYlY5M3lfNDJuU2VQZ1VCSWdncVpHbzd4VmtJVDl0TkRkTFd4clcxOVl6dEU4d3hLYWY3Y0hSTGJ0OENialloWlhOMnpDTzhoODhnbUFsVmVWQmNGT1R1TFBxdlktQkd1YjJkOU93a3lWWlBDdlJTSkU3aU1MZzc5NG11ZFBTdUVFQzdDUzJoN0w5NnBLZVNpR0xCYlFYZnQ3aUhiMFR3QzdWS1o2RDdPS0RwZklBNk85MEVIUGRfNVhfVmRfLTM2S09sclJ4S2tYUHAzakViMkw1VmlMbDVhTndvTTFhaWZnNnNhOV9nWWZ6Y0cwT0lhTVhscFE3OXhBSE1VMm5zZnhXUzRwRElSRjhoQkw5aVRQTlBVSnJzRUVZUGNnZFFTZnZLNUFCN2xpZ1ZOUmVHUzlUT2xwNVZmUHNuLUVvdkFxcjhHaHNEbXFfZFAzLWMtWE9uY1ZiSGVSU3ZPQlg5RnFsV3FBb2F2enpiY01Qd1NTVHRFNVQzeS1Qd09aOFEzWG1YT1o0cDFhZEJUSUxzZUZ2QTdYZk96T0hVdkdOZGRBRTlTUkNnUm5JQ1RnQzJPTEctOGtGRGxjeEJFN3pGQzlPX0xJa1JNMkJ4U3R0T2htUGtBa1V2WHltRDFKYkR4MDkyS213SC1FbkN2RGJrdlBVcGdlMTdWZ1BaQkVHOHdfYW5LOTl3VU9HMU00bm9ZZVZyaW95TXlEVm5OZzZaUWFpbUpHLTl0NFdlWGZBLWdlX0JWTU03NVhnYkxMSVV4NDdJRlkxSmdiMkJNV1JIUnExbEUtZmJUNldLUFJONml6Qm1mNW5YdUJRNnRmNGlaMzFwR0RpdG00alJTY0FxSTVqMjdZUEpZdHlXTnNvQmw1M3JEWDRkQVE3UC05RVFCRG5OU3JWcEthcXY0ZTExMldORDV1bTVNaTRJZ0ptVUU4ZExnRHY2cFdIMGJxaTBvRzZVZlhuQUdwQTUxejRmakU5ekdFRzJYN1ZVemVRSzJ2a01hZmU0MmJ6TDRhUXlTNUZoWllCamVhNks3Qm5pbG15aDVHZVlmZ1RrTWUzTkJyNW9sTmNST1BzS09CcXhiZy15RkFta1ZvRFQzV2JCSXF0YTFMRFNFSGFnUVRpTGtxZXVCVTBNTlo1LTg0ejBaOGM4UmIyTVoyWG5vT0lQSEdGTk00dzluTFdfVURMX1FNbEdJQkxtXzFQTnBYUlpCNFVOSXlKaDZkd3RGeU9WWQ?oc=5",
-      "outlet": "Facebook",
-      "publishedAt": "2026-11-13T04:19:54.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "image": null,
-      "topic": "other",
       "imageSrc": null
     },
     {
@@ -827,17 +838,6 @@
       "imageSrc": null
     },
     {
-      "title": "นักศึกษาปี 1 จากมหาวิทยาลัยขอนแก่น ได้รับหนังสือขอบคุณจาก NASA หลังค้นพบและแจ้งช่องโหว่ทางไซเบอร์ อ่านต่อคลิก >>> https://www.fm91bkk.com/newsarticle/81837 #NASA #มหาวิทยาลัยขอนแก่น #ข่าวสวพFM91",
-      "link": "https://news.google.com/rss/articles/CBMixwdBVV95cUxQZlE5YmxOTUNwU2NQSTRXc1lyaG1FMEFrYk80NVJNU3lWYTRReF8yT3BTOUFBOXAzekhXYTRqdmJVejdIR1ZfVGpHbTVHOEM4cXVQQ2N5ZVlFUlBZYm1FWHVlUE01MXRaMW9LTlNidGtiWlZTaWR4SGJST04zLS0xWFR6TFpkVlAtWFk5MWpMVFVtSTNOazBuOEhOWlZ2U3FNbTEwaG9jTVFRNDRrS1Fxc2FxQTVNOVFGTXhOdTV5T3UzdXM1TF9jM2ozQVZkanZyTjd4LWU0UVFOTG1udnoyX0x3ZGlOaWdwQkh1SFEwcFhJQWNfQ2c3NjQtV3Z1amRIdWpJMDRGbzJ4RWNZOGJCN2tBaDdGN01vVzZ3U2tVcjZVLTh5QTNnaVpnNVNkcjVESjZ6dUJScXpDejBEYzlJeG5PYUV5TFVBWWx5bkN5VDZkeHdGZDhLQU1PdEtyVmhpT095TnNlTUx0cTFKa3U2eFJWMU8yY3MwT3dXQ08yUGc2U1VwN280Ql9YRGpWTVllNmx4OEU3dXJmTTFNeko5TWprTnVhajBwNW9ISmtlTTVnRGp1VWVTYWJhWDB3al9rMjVySXBha1VIMENOdGpPT2lUSFhYSmszVUJiYk5xRXEwRXNINEtQVUlzcERtOVQ0RGc3NWJhdERJU2Z5eFBmOFRNTnJubFJQRG81RU1TNE5QNW4zc1Q2OXB5SXY2OXRkMFo3OE1wXzNxOGN4TURmVFdsLWJRRW1vUUFxMEVhSkQ5dnZUd0N2Q3c3REVaVGY3d3FYdmFUQ0tqUFdNYmNrUkc0MFRObXVjYWpQZHYxUDVubW12ZklleEhYbmpSUU5oU0YzZFdTZ1YzZTJ4aUM0Y3Rqbm9MSmRQanJzaDUwemU5Z2VsakxmbnFBdURMNDVIcTNfYnR3eng3dzdpOXVYQzlwbFl0RW5vcjYxR2J2dVdHdk81LWxpb2Z4SjlPOVZjeXZ1Yjk5TDhobU4xWHpBZXNiUE5ZenVObXVhU0JUZ1BjRDVlQm9vVy14Z29qZWxZeTlWMzN6Z0NqSVpvQ3F1bm1BdmxaZDNpUm5SM1djUFUtMkdyYzQxelhQQ1NGZTRQNmdNa2Q5Y29GUFdiRFRlM1RISUlqa3J1STVuQ3V2QVQwLTZTNzJRQk5nUXM5UVNSOTBvNWU5Xy1GRk5TcHptNWtnbnlYblFqZGY2LVpMczFLVFFZaHM2eTJhMTlMRUlYTXdBVUdpRDFIYzVidHdtRW5qNjZ2VkJDS2lUbHowa0NDZmJ4MGZR?oc=5",
-      "outlet": "Facebook",
-      "publishedAt": "2026-11-11T01:35:19.000Z",
-      "sourceId": "tech",
-      "category": "คณะเทคโนโลยี",
-      "image": null,
-      "topic": "research",
-      "imageSrc": null
-    },
-    {
       "title": "IAD มข. จัดกิจกรรม NIH Day 2026 @ KKU",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1LcHd6aWgzN0JucmFUZ29Dd3VqY2pWWDh4M0xKT0E4QkpQeTZfWGgxRmZjWW1YYjVCXzM3OThSb1FvX1VNNVQ4?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -967,6 +967,17 @@
       "category": "บัณฑิตวิทยาลัย",
       "image": null,
       "topic": "study",
+      "imageSrc": null
+    },
+    {
+      "title": "นักศึกษาปี 1 จากมหาวิทยาลัยขอนแก่น ได้รับหนังสือขอบคุณจาก NASA หลังค้นพบและแจ้งช่องโหว่ทางไซเบอร์ อ่านต่อคลิก >>> https://www.fm91bkk.com/newsarticle/81837 #NASA #มหาวิทยาลัยขอนแก่น #ข่าวสวพFM91",
+      "link": "https://news.google.com/rss/articles/CBMixwdBVV95cUxQZlE5YmxOTUNwU2NQSTRXc1lyaG1FMEFrYk80NVJNU3lWYTRReF8yT3BTOUFBOXAzekhXYTRqdmJVejdIR1ZfVGpHbTVHOEM4cXVQQ2N5ZVlFUlBZYm1FWHVlUE01MXRaMW9LTlNidGtiWlZTaWR4SGJST04zLS0xWFR6TFpkVlAtWFk5MWpMVFVtSTNOazBuOEhOWlZ2U3FNbTEwaG9jTVFRNDRrS1Fxc2FxQTVNOVFGTXhOdTV5T3UzdXM1TF9jM2ozQVZkanZyTjd4LWU0UVFOTG1udnoyX0x3ZGlOaWdwQkh1SFEwcFhJQWNfQ2c3NjQtV3Z1amRIdWpJMDRGbzJ4RWNZOGJCN2tBaDdGN01vVzZ3U2tVcjZVLTh5QTNnaVpnNVNkcjVESjZ6dUJScXpDejBEYzlJeG5PYUV5TFVBWWx5bkN5VDZkeHdGZDhLQU1PdEtyVmhpT095TnNlTUx0cTFKa3U2eFJWMU8yY3MwT3dXQ08yUGc2U1VwN280Ql9YRGpWTVllNmx4OEU3dXJmTTFNeko5TWprTnVhajBwNW9ISmtlTTVnRGp1VWVTYWJhWDB3al9rMjVySXBha1VIMENOdGpPT2lUSFhYSmszVUJiYk5xRXEwRXNINEtQVUlzcERtOVQ0RGc3NWJhdERJU2Z5eFBmOFRNTnJubFJQRG81RU1TNE5QNW4zc1Q2OXB5SXY2OXRkMFo3OE1wXzNxOGN4TURmVFdsLWJRRW1vUUFxMEVhSkQ5dnZUd0N2Q3c3REVaVGY3d3FYdmFUQ0tqUFdNYmNrUkc0MFRObXVjYWpQZHYxUDVubW12ZklleEhYbmpSUU5oU0YzZFdTZ1YzZTJ4aUM0Y3Rqbm9MSmRQanJzaDUwemU5Z2VsakxmbnFBdURMNDVIcTNfYnR3eng3dzdpOXVYQzlwbFl0RW5vcjYxR2J2dVdHdk81LWxpb2Z4SjlPOVZjeXZ1Yjk5TDhobU4xWHpBZXNiUE5ZenVObXVhU0JUZ1BjRDVlQm9vVy14Z29qZWxZeTlWMzN6Z0NqSVpvQ3F1bm1BdmxaZDNpUm5SM1djUFUtMkdyYzQxelhQQ1NGZTRQNmdNa2Q5Y29GUFdiRFRlM1RISUlqa3J1STVuQ3V2QVQwLTZTNzJRQk5nUXM5UVNSOTBvNWU5Xy1GRk5TcHptNWtnbnlYblFqZGY2LVpMczFLVFFZaHM2eTJhMTlMRUlYTXdBVUdpRDFIYzVidHdtRW5qNjZ2VkJDS2lUbHowa0NDZmJ4MGZR?oc=5",
+      "outlet": "Facebook",
+      "publishedAt": "2026-11-10T08:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "research",
       "imageSrc": null
     },
     {
@@ -1509,17 +1520,6 @@
       "imageSrc": null
     },
     {
-      "title": "มาแล้ว! ม.ขอนแก่น เปิดรับสมัครสอบ \"วิชาเฉพาะ\" 14 - 18 ต.ค. นี้ ใช้ยื่น Quota70",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPOVRGTEF3Vk5SLXg2aGV0NFowcDFoQkN6OUU0ektvNlhyTVZlLXdnaUs5MDVGVTRELW55YmtGWVViWWJGWVVhUQ?oc=5",
-      "outlet": "Dek-D.com",
-      "publishedAt": "2026-10-13T10:09:06.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
       "title": "คณบดีคณะเศรษฐศาสตร์ มข. ได้รับเชิญร่วมเวทีเสวนานานาชาติด้านการเติบโตสีเขียวของแอฟริกา ในงาน IMF–World Bank Annual Meetings 2026",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1iZ3phUGdNeS1EdjF1Vjljd29pVjQxSGlreDBhMDEyaXh5QzU4Zlg5V0hXWWkwaFljZ3BpT2VRWUNZQXVSSmlr?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1528,6 +1528,17 @@
       "category": "คณะเศรษฐศาสตร์",
       "image": null,
       "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "มาแล้ว! ม.ขอนแก่น เปิดรับสมัครสอบ \"วิชาเฉพาะ\" 14 - 18 ต.ค. นี้ ใช้ยื่น Quota70",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPOVRGTEF3Vk5SLXg2aGV0NFowcDFoQkN6OUU0ektvNlhyTVZlLXdnaUs5MDVGVTRELW55YmtGWVViWWJGWVVhUQ?oc=5",
+      "outlet": "Dek-D.com",
+      "publishedAt": "2026-10-13T07:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "study",
       "imageSrc": null
     },
     {
@@ -2697,17 +2708,6 @@
       "imageSrc": null
     },
     {
-      "title": "มหาวิทยาลัยขอนแก่นร่วมพิธีถวายราชสักการะ ‘พระบิดาแห่งวิทยาศาสตร์ไทย’ เนื่องในสัปดาห์วิทยาศาสตร์แห่งชาติ ประจำปี 2569 - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5PT2pwRU9iaXlydGZNT3ltbXN0WXQ4VnowVmRMSWw2NVdhVzVOVXFXdEUtTWRKdnQtOXFsbmUwRVpiVzZ5a3I4?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-08-18T07:00:00.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "วิทยาลัยการคอมพิวเตอร์ มข. จัดงาน \"Computing Fair & CPKKU Open House ครั้งที่ 4\" เปิดเวทีเยาวชนประลองทักษะดิจิทัล พร้อมให้ความรู้หลักสูตรแห่งอนาคต - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpVlYwclJabHJzZnFOSTJFNFVuMUZWTm9qek5YbDVPb2xpU3lxeElJaU1FaFdub0JxV1JEYnF3WFhaSTBwRDRJ?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2716,6 +2716,17 @@
       "category": "วิทยาลัยการคอมพิวเตอร์",
       "image": null,
       "topic": "study",
+      "imageSrc": null
+    },
+    {
+      "title": "มหาวิทยาลัยขอนแก่นร่วมพิธีถวายราชสักการะ ‘พระบิดาแห่งวิทยาศาสตร์ไทย’ เนื่องในสัปดาห์วิทยาศาสตร์แห่งชาติ ประจำปี 2569 - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5PT2pwRU9iaXlydGZNT3ltbXN0WXQ4VnowVmRMSWw2NVdhVzVOVXFXdEUtTWRKdnQtOXFsbmUwRVpiVzZ5a3I4?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-18T07:00:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity",
       "imageSrc": null
     },
     {
@@ -4652,17 +4663,6 @@
       "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
       "image": null,
       "topic": "job",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะศึกษาศาสตร์ มข. ต้อนรับคณะศึกษาดูงาน มช. แลกเปลี่ยนนวัตกรรมการบริหารการศึกษา มุ่งสร้างเครือข่ายวิจัยระดับดุษฎีบัณฑิตสู่สากล - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yajFpajRFNDN4Q1NNZ0RQMkVsNG9qN083TnprNkpMTFBDWHhkTFloUnZ5b0NndkhpTWotUG1kQVZhUERlOFlz?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-04-01T07:00:00.000Z",
-      "sourceId": "edu",
-      "category": "คณะศึกษาศาสตร์",
-      "image": null,
-      "topic": "research",
       "imageSrc": null
     }
   ]
