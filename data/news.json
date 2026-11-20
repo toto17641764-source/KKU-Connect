@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T04:29:25.973Z",
+  "updatedAt": "2026-11-20T14:26:24.889Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,94 @@
   ],
   "items": [
     {
+      "title": "KKBS ผนึกกำลัง อบจ.ขอนแก่น ลงนาม MOU เสริมศักยภาพด้านธุรกิจ-บัญชี พร้อมทักษะผู้ประกอบการในยุคดิจิทัลแก่โรงเรียนในสังกัดฯ",
+      "link": "https://kkbs.kku.ac.th/insight-kkbs/34136/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-11-20T10:32:18.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "image": "assets/news/27c6d5ed4319526e.jpg",
+      "topic": "activity",
+      "imageSrc": "https://kkbs.kku.ac.th/wp-content/uploads/2026/11/20112026-kkbs-mou-kkpao-230-1024x682.jpg"
+    },
+    {
+      "title": "คณะทันตแพทยศาสตร์ มข. ให้การต้อนรับคณะครูและนักเรียนโรงเรียนเบ็ญจะมะมหาราช จังหวัดอุบลราชธานี เยี่ยมชมและเรียนรู้ด้านทันตแพทยศาสตร์ - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9SdklZX2M5NmFPUERpaUxlWGVOWTktMThQWHBHRWd6djJ3ZHRGMjNaMnJSeHlIRGFjaFN6UzhUcHdNTzRDOUsw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-20T10:07:32.000Z",
+      "sourceId": "dent",
+      "category": "คณะทันตแพทยศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะเทคนิคการแพทย์ มข. บูรณาการการเรียนการสอนสู่บริการสังคม ระดมโลหิตสำรอง 26,800 ซีซี ช่วยเหลือผู้ป่วย",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Rc1JEM1IxZ3pZZDc0YTU4Nm9EUldQdmpybGdNak0telpJNDVOMkFQN25xV09IOTA1SU5NNWNKcEJkRnJ5UFYw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-20T09:51:27.000Z",
+      "sourceId": "ams",
+      "category": "คณะเทคนิคการแพทย์",
+      "image": null,
+      "topic": "study",
+      "imageSrc": null
+    },
+    {
+      "title": "International Collaborative Symposium on Development of Human Resources in Practical Oral Health and Treatment 2027",
+      "link": "https://dentistry.kku.ac.th/30912?utm_source=rss&utm_medium=rss&utm_campaign=international-collaborative-symposium-on-development-of-human-resources-in-practical-oral-health-and-treatment-2027",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-11-20T09:24:59.000Z",
+      "sourceId": "dent",
+      "category": "คณะทันตแพทยศาสตร์",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
+    },
+    {
+      "title": "เนสกาแฟ เรดคัพปลื้ม! ความสำเร็จ \"เนสกาแฟ รัน ขอนแก่น 2026\" คอกาแฟสายวิ่งร่วมงานกว่า 4,000 คน",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhNklqN3dHLW1QMGNFZ29tdVVhMDhKaDM5czhIdk4ydlc4RkQxMlZ2SEFGUG5HejIyMVhIZnFCd2RQMTJtcUlBZ3VfOGlZVUJoaFB1cXBjenlLaV9zTHROUm1SR2lqQkcy?oc=5",
+      "outlet": "Brand Buffet",
+      "publishedAt": "2026-11-20T09:06:59.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "DENT KKU OPENHOUSE ครั้งที่ 11",
+      "link": "https://dentistry.kku.ac.th/30905?utm_source=rss&utm_medium=rss&utm_campaign=dent-kku-openhouse-%25e0%25b8%2584%25e0%25b8%25a3%25e0%25b8%25b1%25e0%25b9%2589%25e0%25b8%2587%25e0%25b8%2597%25e0%25b8%25b5%25e0%25b9%2588-11",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-11-20T08:56:22.000Z",
+      "sourceId": "dent",
+      "category": "คณะทันตแพทยศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "ศึกษาศาสตร์ มข. เชื่อมความร่วมมือไทย–จีน หารือพัฒนาการเรียนการสอนและวิจัยร่วมกับ Luoyang Vocational College of Science and Technology",
+      "link": "https://ednet.kku.ac.th/news/21741/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-11-20T08:25:56.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": "assets/news/e10b9f997d94874c.jpg",
+      "topic": "research",
+      "imageSrc": "https://ednet.kku.ac.th/wp-content/uploads/2026/11/20_S__3866760_0-1024x768.jpg"
+    },
+    {
+      "title": "นักศึกษา KKBS คว้ารางวัลรองชนะเลิศระดับประเทศ พลิกโฉมสมุนไพรชุมชนสู่เครื่องดื่มผงฟู่ เพิ่มมูลค่าผลิตภัณฑ์ท้องถิ่นอย่างยั่งยืน",
+      "link": "https://kkbs.kku.ac.th/insight-kkbs/34118/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-11-20T04:49:12.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "image": "assets/news/f693945932c5f273.jpg",
+      "topic": "activity",
+      "imageSrc": "https://kkbs.kku.ac.th/wp-content/uploads/2026/11/-6-1024x1024.jpeg"
+    },
+    {
       "title": "ช่างคึด ครั้งที่ 18 กลับมาแล้ว! ยกเสน่ห์อีสานบ้านนามาเติมสีสันให้เทศกาลอาร์ตสุดม่วนของชาวสถาปัตย์ มข.",
       "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQTnlTanF4OTRqbjhobGVHVVlSRXhmNW9lOUhhamlLcnBGZ1BocURLTkRRY1R3aVJkTHRYNzM3b19ia2NZN3BtV1NYUmZWT3BTUG1KQVBFb2pvMVVkdUJ3N040Z05xZHR3M0o5ajdKR2gtYzBkVU9zbjhEZDBjRGlyeGdfS1dSdDRvN1EzdHhrbFdQM3NHeExCU1ZiM2pnRlIwWXlUdTh2R2dLM3o5cHF1U3FtVnVVQ0NrLTZWaHhHZmh1b1NwdGVhSjBFZ1hka3dJSFNHWXhrR19JZl9fYTlQeS1VTWZZeC1Oa0FtU1p5VE1heTg2MTAtWlExd29HajZycEtLWjgyVGU0QlBTdWgwVzRhMUtPSEw5UEE5ZHRCa20zbjdxa0YwVDZheEpldlcyNkl1Z0ZYcC13ZWRDUFFqOHV4cnp4ZmFmU2c?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -407,6 +495,17 @@
       "image": "assets/news/de62c080a92b890e.jpg",
       "topic": "activity",
       "imageSrc": "https://kkbs.kku.ac.th/wp-content/uploads/2026/11/j-mat-award-35-3-1024x683.jpg"
+    },
+    {
+      "title": "มข. ร่วมจัด “ค่ายเวทีนักวิทยาศาสตร์รุ่นเยาว์แห่งชาติ” ครั้งที่ 22 เปิดเวทีเยาวชนทั่วประเทศแสดงศักยภาพทางวิทยาศาสตร์ - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1UajJyVlFLQzM2OVd3TVRfU2lMNmdKN0MtVUJGY3d3WVlNblRMVUo0LXB6TUhVZ1BwalIzYU55M0pxdWhWeWtR?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-16T08:00:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
     },
     {
       "title": "คณะเภสัชศาสตร์ มข. นำนักศึกษา 7 คน ร่วมโครงการแลกเปลี่ยนระยะสั้น ณ University of Toyama ประเทศญี่ปุ่น",
@@ -943,17 +1042,6 @@
       "publishedAt": "2026-11-09T09:44:05.000Z",
       "sourceId": "gs",
       "category": "บัณฑิตวิทยาลัย",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "เนสกาแฟ เรดคัพปลื้ม! ความสำเร็จ \"เนสกาแฟ รัน ขอนแก่น 2026\" คอกาแฟสายวิ่งร่วมงานกว่า 4,000 คน",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCOVh2NzZOdWdmeU9DeEtwWU1DN0p0TU0teTRwMmw1VkhlcVZYemR0SS1qQVAwaDRHaFpUdEFmOEtkSWY3ZnBhYkJfUjZKcDUz?oc=5",
-      "outlet": "ThaiPR.NET",
-      "publishedAt": "2026-11-09T08:47:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -4575,94 +4663,6 @@
       "category": "คณะศึกษาศาสตร์",
       "image": null,
       "topic": "research",
-      "imageSrc": null
-    },
-    {
-      "title": "มข. จัดงานแข่งขันเวชศาสตร์ฉุกเฉินระดับนานาชาติ KKU ICEM 2026 ครั้งที่ 10 ประจำปี 2569",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE04TFlsRkJGaUs2UldsOHFEanZ2TExnemRTbXBZLV9TUGx6RXRnYU80a0ZqalFEWVlPZG9yX3E1cHVQRFVTUDlV?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-03-31T05:57:39.000Z",
-      "sourceId": "med",
-      "category": "คณะแพทยศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะสหวิทยาการ มข. ร่วมกับสถาบันความร่วมมือเพื่อพัฒนาเศรษฐกิจลุ่มน้ำโขง จัดอบรมนวัตกรรม \"ฉลากคาร์บอน\" ยกระดับสับปะรด GI หนองคาย สู่เศรษฐกิจคาร์บอนต่ำ - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5FeF9XdWNBVV9UM1hDdkNjWXBZMnBZRGczZm5FR1hRM0NaRnplNDJVdllCMHFfYkVIQTlBdEdXN3BKaGR4RWZV?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-03-30T07:54:15.000Z",
-      "sourceId": "is",
-      "category": "คณะสหวิทยาการ (หนองคาย)",
-      "image": null,
-      "topic": "research",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะเทคโนโลยี จัดโครงการแลกเปลี่ยนนักศึกษา KKU-YU EXCHANGE PROGRAM 2026: สานต่อโครงการแลกเปลี่ยนนักศึกษาต่างชาติ เสริมสร้างทักษะภาษาอังกฤษ - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB1Z1c0aE9TUkFVc2Z6b1lWTUpOYjgxZzJqbkZvempidHBQc0xSZ002dUlpMGQwTnVuLUZHOV8tSmprc1Y2LWVr?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-03-30T07:02:45.000Z",
-      "sourceId": "tech",
-      "category": "คณะเทคโนโลยี",
-      "image": null,
-      "topic": "other",
-      "imageSrc": null
-    },
-    {
-      "title": "สถาปัตย์ มข. เปิดรับสมัคร อบรมระยะสั้น หัวข้อ Deline&Watercolors for Interior และ (ขึ้นเส้นเล่นสีตีฟภายใน) และ Perspective (ลายเส้นและสีน้ำกับทัศนียภาพ) - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQNVpLOXI5SGhBSmttSkZEUFcwM2VhT0JZWk9XNUlDSDRmbHdTWDlCeTdoWDM1MVZPTXdxUVJYdVdtUThBSHloeTJuVnpuZWV3bFRSelBEcFFSdUdDLVk0U2tJUVByWHJsYTc3dDRMal9rUW1ZS0Z4TTJrX1psMG4yTVpkdGRvTkxrZkZ4UFVNVUFjMVZIaDNmWVVRRWswTXI5MnY3b3ExMXFUVXpfcmhKUjZHeElIbWk5NTJhZzM4RVdsTnpMa0hIQy1XMHFNczE3S1JTRXF5eGxfZjQwTHlkQlFkeGZSU1k1bUxuaDBWbURXRi1URW90Tjl0aWQ5ekZVTnN1ZWNRcHFOQmZFUmNDdVBXTjlFSm90V2tVaE5vOURMRnNvd0R1cGk5QlNYc0Z4bHZUNDUxRGJjZXRTQnhoTkJQbEdiZw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-03-29T07:00:00.000Z",
-      "sourceId": "arch",
-      "category": "คณะสถาปัตยกรรมศาสตร์",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะสถาปัตยกรรมศาสตร์ มหาวิทยาลัยขอนแก่น ชวนร่วมฟื้นชีวิตเมืองผ่านศิลปะ ละครอิมเมอร์ซีฟ และพื้นที่สร้างสรรค์ - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNZ2d0blZsNGlvbVJkU3M4Rl9NOXVUbkNLQXA3c2NmdWJOLWwtRENadkNla3RPWmFIdG9USXJsNjR5eW9YaHk5eFQ4SFF4N0l3cW9COXFfNHpkY2VJaWd2cF8xNDVaTWY5dVFoYTFNeXM2MjZEaG9iU3hJeldUQk8wXzJQM2VOQ3FhelRjTkJJODVEUEJqb3hEcEVxT3hpMnpQQkpnZFctTE5zbzg4RTJpN1huVF81SDZDMzV4NW9tNk9DTXljRXI1ZnRWR1ZwLXBzX2Rwdzk2RElPYV9PVkNnWDdWYk9rN09ZbmplcFRUb3BPdDVZOGJlOW81VlZNYUJTQ25SdFF6SU9HYmdHLWtFSGpMN3hOcl9ia2RpdUx1Y0lGckp4cnlaV3dLa2NqcE5xSVdVTl92b1gwc0tKSC1PNUQwNHFzVXc?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-03-28T07:00:00.000Z",
-      "sourceId": "arch",
-      "category": "คณะสถาปัตยกรรมศาสตร์",
-      "image": null,
-      "topic": "other",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะศึกษาศาสตร์ มข. พลิกโฉมการเรียนรู้ยุคใหม่ จัดเวิร์กชอป “Disruptive Thinking Pedagogy” ปั้นครูสาธิตนานาชาติสู่ผู้นำการสอนกระบวนการคิดระดับโลก - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAzMm9DM3ZiMk5ldEJQdkV1anJwelBBT3luRURrT1FrV2NoWkE2R0lLMEZybW5MYTQ5Q1ItamFXSXdSeGxIcEl3?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-03-26T11:03:05.000Z",
-      "sourceId": "edu",
-      "category": "คณะศึกษาศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะมนุษยศาสตร์ฯ มข. ต้อนรับเอกอัครราชทูตเปรูฯ ในโอกาสเยือนขอนแก่น โชว์ศักยภาพนักศึกษาสหกิจศึกษาภาษาสเปน",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9OWW9vT09JajFJSjZhMjl1U1J6dWs4cTVCcWxQcjdIRHo4NWNOc1RXNDJjSXJmSWlYb05ENDJ0cEFycU5OOU8w?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-03-24T08:53:33.000Z",
-      "sourceId": "hs",
-      "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
-      "image": null,
-      "topic": "job",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะเทคโนโลยี มข. จัดค่ายอาสา “เทคโนโลยีอาสาสู่ชุมชน” สนับสนุนการเรียนรู้และพัฒนาชุมชน",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtZ3JUV0w5TzFMMDBjMzdRY3Vnb0xYRVlwOFBRZUd1ZnVmNDJrX056Rkd5VEQ1SGNja3hQV3BHY2FDTHhNQ2tN?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-03-24T07:21:55.000Z",
-      "sourceId": "tech",
-      "category": "คณะเทคโนโลยี",
-      "image": null,
-      "topic": "activity",
       "imageSrc": null
     }
   ]
