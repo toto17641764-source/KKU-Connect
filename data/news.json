@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T22:24:08.109Z",
+  "updatedAt": "2026-11-21T04:23:18.038Z",
   "sources": [
     {
       "id": "med",
@@ -1399,6 +1399,17 @@
       "imageSrc": null
     },
     {
+      "title": "โรงเรียนเตรียมอุดมศึกษา คว้าแชมป์! การแข่งขันตอบปัญหาทางเศรษฐศาสตร์ นานาชาติ ประจำปี 2569 (Economics International Quiz Competition 2026)",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBXLXhyd2E1ZkdEUl83NnNDVjk1SVBnYVZrdXBGOWpZLW02d1VKUU5IMEVCQnFkR0wzRWFILVF0RFlfNnFQY3FV?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-10-20T08:54:39.000Z",
+      "sourceId": "econ",
+      "category": "คณะเศรษฐศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
       "title": "คณะวิทยาศาสตร์ มข. จัดสัมมนาถ่ายทอดแผนปฏิบัติการ กำหนดทิศทางยุทธศาสตร์ 4 ปี ขับเคลื่อนองค์กรสู่อนาคต",
       "link": "https://sc.kku.ac.th/trainingnews/129984/",
       "outlet": "เว็บไซต์คณะ",
@@ -1429,17 +1440,6 @@
       "category": "คณะเทคโนโลยี",
       "image": null,
       "topic": "research",
-      "imageSrc": null
-    },
-    {
-      "title": "โรงเรียนเตรียมอุดมศึกษา คว้าแชมป์! การแข่งขันตอบปัญหาทางเศรษฐศาสตร์ นานาชาติ ประจำปี 2569 (Economics International Quiz Competition 2026)",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBXLXhyd2E1ZkdEUl83NnNDVjk1SVBnYVZrdXBGOWpZLW02d1VKUU5IMEVCQnFkR0wzRWFILVF0RFlfNnFQY3FV?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-10-17T07:00:00.000Z",
-      "sourceId": "econ",
-      "category": "คณะเศรษฐศาสตร์",
-      "image": null,
-      "topic": "activity",
       "imageSrc": null
     },
     {
