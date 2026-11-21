@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T13:45:40.132Z",
+  "updatedAt": "2026-11-21T20:16:14.034Z",
   "sources": [
     {
       "id": "med",
@@ -428,6 +428,17 @@
       "category": "คณะแพทยศาสตร์",
       "image": null,
       "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "มข. เชื่อมความร่วมมือธนาคารออมสิน หนุน Startup–SME ต่อยอดนวัตกรรมอาหาร สร้างโอกาสเติบโตทางธุรกิจ",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE50ZzEyLTBQSkxpT0V4MlVoOGdKWGhweW0yYXZTR25KTWRuOE9KUDY3UEQtb0h4MUNPajdoOHcybTY0a0xlTWdF?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-17T10:13:31.000Z",
+      "sourceId": "econ",
+      "category": "คณะเศรษฐศาสตร์",
+      "image": null,
+      "topic": "research",
       "imageSrc": null
     },
     {
@@ -1198,6 +1209,17 @@
       "category": "คณะเกษตรศาสตร์",
       "image": null,
       "topic": "research",
+      "imageSrc": null
+    },
+    {
+      "title": "มนุษยศาสตร์ฯ มข. รับอาจารย์ภาษาเยอรมัน วุฒิ ป.เอก สมัครถึง 26 ก.พ. 2570",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ITzhidEtGZ0NNN1J5SUthblQ5M2NnRjVkeWFIS3dENXE5ZVVFVjlXd0RiYm80WWN1TENZNUVkelBGcURhc2hMQUdOY0JERF9PSUJhLWpEa042OWZBb29KNFBmaUZ0c01ER2lZRl9SS1V5bHRGN1NzTTkxanBvaVU?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-11-03T08:00:00.000Z",
+      "sourceId": "hs",
+      "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
+      "image": null,
+      "topic": "study",
       "imageSrc": null
     },
     {
@@ -2719,17 +2741,6 @@
       "imageSrc": null
     },
     {
-      "title": "วิทยาลัยการคอมพิวเตอร์ มข. จัดงาน \"Computing Fair & CPKKU Open House ครั้งที่ 4\" เปิดเวทีเยาวชนประลองทักษะดิจิทัล พร้อมให้ความรู้หลักสูตรแห่งอนาคต - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpVlYwclJabHJzZnFOSTJFNFVuMUZWTm9qek5YbDVPb2xpU3lxeElJaU1FaFdub0JxV1JEYnF3WFhaSTBwRDRJ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-08-18T07:00:00.000Z",
-      "sourceId": "cp",
-      "category": "วิทยาลัยการคอมพิวเตอร์",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
       "title": "มหาวิทยาลัยขอนแก่นร่วมพิธีถวายราชสักการะ ‘พระบิดาแห่งวิทยาศาสตร์ไทย’ เนื่องในสัปดาห์วิทยาศาสตร์แห่งชาติ ประจำปี 2569 - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5PT2pwRU9iaXlydGZNT3ltbXN0WXQ4VnowVmRMSWw2NVdhVzVOVXFXdEUtTWRKdnQtOXFsbmUwRVpiVzZ5a3I4?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2738,6 +2749,17 @@
       "category": "คณะวิทยาศาสตร์",
       "image": null,
       "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "วิทยาลัยการคอมพิวเตอร์ มข. จัดงาน \"Computing Fair & CPKKU Open House ครั้งที่ 4\" เปิดเวทีเยาวชนประลองทักษะดิจิทัล พร้อมให้ความรู้หลักสูตรแห่งอนาคต - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpVlYwclJabHJzZnFOSTJFNFVuMUZWTm9qek5YbDVPb2xpU3lxeElJaU1FaFdub0JxV1JEYnF3WFhaSTBwRDRJ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-18T07:00:00.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
+      "image": null,
+      "topic": "study",
       "imageSrc": null
     },
     {
@@ -4641,28 +4663,6 @@
       "category": "คณะเทคโนโลยี",
       "image": null,
       "topic": "research",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะเกษตรศาสตร์ มข. ต้อนรับคณาจารย์และนักเรียน ค่ายวิทยาศาสตร์สานสัมพันธ์ฉันท์ วมว.ครั้งที่ 18 ศึกษาดูงานด้านการเกษตร - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBZQjNiOWk2d08xQVdfc2FGZ1B1emJadUhrRkNzS2l2bk5hWTczcVhzdU9sOFo2VTVNS3Qxb1RNNG9OOVdwczU4?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-04-02T07:00:00.000Z",
-      "sourceId": "agri",
-      "category": "คณะเกษตรศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะมนุษยศาสตร์ มข. ร่วมหารือความร่วมมือ “ฉางอัน ออโต้ ประเทศไทย” ผลักดันสหกิจศึกษา มุ่งส่งนักศึกษาภาษาจีน สู่ภาคอุตสาหกรรมระดับสากล - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1Ybno2MldRVS1oS3ZVQWtJYXNZeVFuLWVMYTdvN19kMFpseWJUQWQwYnJ0R1NUeVBQam5MMzZEeFIzdFVnNWFJ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-04-02T03:49:59.000Z",
-      "sourceId": "hs",
-      "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
-      "image": null,
-      "topic": "job",
       "imageSrc": null
     }
   ]
