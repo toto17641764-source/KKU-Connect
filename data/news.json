@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T04:23:18.038Z",
+  "updatedAt": "2026-11-21T13:45:40.132Z",
   "sources": [
     {
       "id": "med",
@@ -265,6 +265,17 @@
     }
   ],
   "items": [
+    {
+      "title": "คณะวิทยาศาสตร์ มข. เปิดห้อง LAB ต้อนรับนักเรียน 6 โรงเรียน กว่า 430 คน เสริมทักษะวิทยาศาสตร์ คณิตศาสตร์ และเทคโนโลยีผ่านการลงมือปฏิบัติจริง",
+      "link": "https://sc.kku.ac.th/news/132537/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-11-21T09:10:26.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
     {
       "title": "คณะเภสัชศาสตร์ มข. ตอกย้ำเครือข่ายความร่วมมือระดับนานาชาติ เยือน Kyushu University ญี่ปุ่น ต่อยอดมิตรภาพกว่า 25 ปี ยกระดับการศึกษา การวิจัย และโอกาสของนักศึกษา - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE93d3pqOXI4REdLdkZhTXZVZzNjVDdIdm9Dd09OUmtHTlh4OGpWQklHdDFGRVJTcXkyMXhjVlQyUnQtX1doM0xV?oc=5",
@@ -750,6 +761,17 @@
       "imageSrc": null
     },
     {
+      "title": "เก้า นพเก้า นำทีมคนดังร่วมงาน NESCAFÉ RUN ขอนแก่น 2026 พร้อมมอบเงิน 2 ล้านบาท สนับสนุนโรงพยาบาลและทุนการศึกษา",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oWlBIT1IwTXhKNXdPU2VHRlhxQ1hicE9WOFdVZWkxa2tqczlySnJ5dXhuV0JrdFU5SjBBelpMRS1EbTdqQ0lFZm4xSTlJaUpzMzlvN3VCV2dLR25GazBpZ2NhaUFjYnc?oc=5",
+      "outlet": "spacebar.th",
+      "publishedAt": "2026-11-11T08:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "scholarship",
+      "imageSrc": null
+    },
+    {
       "title": "คณะเทคโนโลยี มข. หารือความร่วมมือด้านการฝึกงาน การวิจัย และการแลกเปลี่ยนนักศึกษากับ NPUST ไต้หวัน เสริมความเข้มแข็งหลักสูตร Culinary Science and Technology - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5KRXppWFN0NXdTdmlaNUFQeENEVUVnWGhKVnFIQ2Q2V1FBZHdnY2c3ZU9teG81R0pWWHE1MUxNNlBEdFJlUjJz?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -769,17 +791,6 @@
       "category": "มข.",
       "image": null,
       "topic": "announce",
-      "imageSrc": null
-    },
-    {
-      "title": "เก้า นพเก้า นำทีมคนดังร่วมงาน NESCAFÉ RUN ขอนแก่น 2026 พร้อมมอบเงิน 2 ล้านบาท สนับสนุนโรงพยาบาลและทุนการศึกษา",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oWlBIT1IwTXhKNXdPU2VHRlhxQ1hicE9WOFdVZWkxa2tqczlySnJ5dXhuV0JrdFU5SjBBelpMRS1EbTdqQ0lFZm4xSTlJaUpzMzlvN3VCV2dLR25GazBpZ2NhaUFjYnc?oc=5",
-      "outlet": "spacebar.th",
-      "publishedAt": "2026-11-11T06:12:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "image": null,
-      "topic": "scholarship",
       "imageSrc": null
     },
     {
@@ -4648,17 +4659,6 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1Ybno2MldRVS1oS3ZVQWtJYXNZeVFuLWVMYTdvN19kMFpseWJUQWQwYnJ0R1NUeVBQam5MMzZEeFIzdFVnNWFJ?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-04-02T03:49:59.000Z",
-      "sourceId": "hs",
-      "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
-      "image": null,
-      "topic": "job",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะมนุษยศาสตร์ฯ มข. จับมือ สำนักข่าวกรองแห่งชาติ ลงนามบันทึกความเข้าใจความร่วมมือทางวิชาการ (MOU) มุ่งส่งนักศึกษาฝึกงาน สู่สายงานภาครัฐ - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4U3FnNm1fMlFYMWdyT2RPLUt0RkhVRURaMzMyZDJjVlVlbWszLTNHa3d0b3lONE9EbHNDak9qTnlHOHZJaG1r?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-04-01T07:47:37.000Z",
       "sourceId": "hs",
       "category": "คณะมนุษยศาสตร์และสังคมศาสตร์",
       "image": null,
