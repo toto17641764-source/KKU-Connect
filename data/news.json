@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T01:43:15.767Z",
+  "updatedAt": "2026-11-22T08:55:40.334Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,17 @@
   ],
   "items": [
     {
+      "title": "อ่างทอง มหาวิทยาลัยการกีฬาแห่งชาติ วีซี พบ มหาวิทยาลัยขอนแก่น ขอนแก่นสตาร์ (21 พ.ย.)",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42LS10M0hKV01iRUpVX3FiMFZxUHByRTR4XzJCNWdjTW95RGRGQUwzLUpCbVluY2lfZHlKa2p6a2JXTlZ3dXZtNl8yQ0ljZWxMb1RkeEFQZzMyUXMxWS0ySGVPM0wyVHZXTkE?oc=5",
+      "outlet": "TrueID",
+      "publishedAt": "2026-11-21T19:04:34.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
+    },
+    {
       "title": "คณะวิทยาศาสตร์ มข. เปิดห้อง LAB ต้อนรับนักเรียน 6 โรงเรียน กว่า 430 คน เสริมทักษะวิทยาศาสตร์ คณิตศาสตร์ และเทคโนโลยีผ่านการลงมือปฏิบัติจริง",
       "link": "https://sc.kku.ac.th/news/132537/",
       "outlet": "เว็บไซต์คณะ",
@@ -424,8 +435,8 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zSjA4SnhGRkdIQmRaRDdRX2p3anlhYUYzUTVCa3YxODJ5QWpoUzNWV2ViWEU4emJIX0VSTWZSbF9xY0xBdHRsVW5QLVdTYm84SDJqa25B?oc=5",
       "outlet": "LINE TODAY",
       "publishedAt": "2026-11-17T10:47:07.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
+      "sourceId": "med",
+      "category": "คณะแพทยศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -970,17 +981,6 @@
       "imageSrc": "https://fa.kku.ac.th/wp-content/uploads/2026/11/898714507_29381018524863185_8060629105689566230_n-enhanced-1024x1024.jpg"
     },
     {
-      "title": "NASA ส่งหนังสือขอบคุณ นศ.ปี 1 ม.ขอนแก่น ตรวจพบช่องโหว่ XSS",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hVUhTRHUzaGdiUG1iNEY0SzVhWkx2NElhMFJGUENlWWlObF9McmxfMGFRLTJnbFN4UWItWjJYNWJjanMtOWtzX3VUWGxXNndYRHNZaHNVSHQ?oc=5",
-      "outlet": "Thai PBS",
-      "publishedAt": "2026-11-10T08:00:00.000Z",
-      "sourceId": "cp",
-      "category": "วิทยาลัยการคอมพิวเตอร์",
-      "image": null,
-      "topic": "other",
-      "imageSrc": null
-    },
-    {
       "title": "บัณฑิตวิทยาลัย มข. จัดงานปฐมนิเทศนักศึกษาใหม่ หลักสูตรสาขาวิชาร่วม ประจำภาคปลาย ปีการศึกษา 2569 เตรียมความพร้อมสู่ก้าวใหม่แห่งการเรียนรู้ - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5teEc2Rk9wMng1NVhsMkx6d3l5RXNyQnkwdU1CdktDQk0tdDdkQ3dvSVptRnBzdEduaTlTTXhsdlpOVXVBNmww?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -989,6 +989,17 @@
       "category": "บัณฑิตวิทยาลัย",
       "image": null,
       "topic": "study",
+      "imageSrc": null
+    },
+    {
+      "title": "NASA ส่งหนังสือขอบคุณ นศ.ปี 1 ม.ขอนแก่น ตรวจพบช่องโหว่ XSS",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hVUhTRHUzaGdiUG1iNEY0SzVhWkx2NElhMFJGUENlWWlObF9McmxfMGFRLTJnbFN4UWItWjJYNWJjanMtOWtzX3VUWGxXNndYRHNZaHNVSHQ?oc=5",
+      "outlet": "Thai PBS",
+      "publishedAt": "2026-11-10T08:00:00.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
+      "image": null,
+      "topic": "other",
       "imageSrc": null
     },
     {
@@ -2741,17 +2752,6 @@
       "imageSrc": null
     },
     {
-      "title": "มหาวิทยาลัยขอนแก่นร่วมพิธีถวายราชสักการะ ‘พระบิดาแห่งวิทยาศาสตร์ไทย’ เนื่องในสัปดาห์วิทยาศาสตร์แห่งชาติ ประจำปี 2569 - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5PT2pwRU9iaXlydGZNT3ltbXN0WXQ4VnowVmRMSWw2NVdhVzVOVXFXdEUtTWRKdnQtOXFsbmUwRVpiVzZ5a3I4?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-08-18T07:00:00.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "วิทยาลัยการคอมพิวเตอร์ มข. จัดงาน \"Computing Fair & CPKKU Open House ครั้งที่ 4\" เปิดเวทีเยาวชนประลองทักษะดิจิทัล พร้อมให้ความรู้หลักสูตรแห่งอนาคต - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpVlYwclJabHJzZnFOSTJFNFVuMUZWTm9qek5YbDVPb2xpU3lxeElJaU1FaFdub0JxV1JEYnF3WFhaSTBwRDRJ?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2760,6 +2760,17 @@
       "category": "วิทยาลัยการคอมพิวเตอร์",
       "image": null,
       "topic": "study",
+      "imageSrc": null
+    },
+    {
+      "title": "มหาวิทยาลัยขอนแก่นร่วมพิธีถวายราชสักการะ ‘พระบิดาแห่งวิทยาศาสตร์ไทย’ เนื่องในสัปดาห์วิทยาศาสตร์แห่งชาติ ประจำปี 2569 - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5PT2pwRU9iaXlydGZNT3ltbXN0WXQ4VnowVmRMSWw2NVdhVzVOVXFXdEUtTWRKdnQtOXFsbmUwRVpiVzZ5a3I4?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-18T07:00:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity",
       "imageSrc": null
     },
     {
@@ -4652,17 +4663,6 @@
       "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "นักศึกษาคณะเทคโนโลยี มข. นำทีมข้ามสาขาคว้าแชมป์ \"STAR OF CAMP\" เวที Startup Thailand League 2026 ภาคอีสาน ด้วยนวัตกรรม Xobify พรีไบโอติกจากซังข้าวโพด - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9uU2FaVU9XRFJvcUZmZmhCcUZROVQtdDVyc0V6bWdlNlAycUY2MEg5ci13RWpTR3M0S1RJWjlQTnYzMUNveDNj?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-04-02T09:47:33.000Z",
-      "sourceId": "tech",
-      "category": "คณะเทคโนโลยี",
-      "image": null,
-      "topic": "research",
       "imageSrc": null
     }
   ]
