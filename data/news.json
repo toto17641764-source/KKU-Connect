@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T17:27:00.484Z",
+  "updatedAt": "2026-11-22T22:52:14.128Z",
   "sources": [
     {
       "id": "med",
@@ -992,17 +992,6 @@
       "imageSrc": null
     },
     {
-      "title": "NASA ส่งหนังสือขอบคุณ นศ.ปี 1 ม.ขอนแก่น ตรวจพบช่องโหว่ XSS",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hVUhTRHUzaGdiUG1iNEY0SzVhWkx2NElhMFJGUENlWWlObF9McmxfMGFRLTJnbFN4UWItWjJYNWJjanMtOWtzX3VUWGxXNndYRHNZaHNVSHQ?oc=5",
-      "outlet": "Thai PBS",
-      "publishedAt": "2026-11-10T08:00:00.000Z",
-      "sourceId": "cp",
-      "category": "วิทยาลัยการคอมพิวเตอร์",
-      "image": null,
-      "topic": "other",
-      "imageSrc": null
-    },
-    {
       "title": "นักศึกษาปี 1 จากมหาวิทยาลัยขอนแก่น ได้รับหนังสือขอบคุณจาก NASA หลังค้นพบและแจ้งช่องโหว่ทางไซเบอร์ อ่านต่อคลิก >>> https://www.fm91bkk.com/newsarticle/81837 #NASA #มหาวิทยาลัยขอนแก่น #ข่าวสวพFM91",
       "link": "https://news.google.com/rss/articles/CBMixwdBVV95cUxQZlE5YmxOTUNwU2NQSTRXc1lyaG1FMEFrYk80NVJNU3lWYTRReF8yT3BTOUFBOXAzekhXYTRqdmJVejdIR1ZfVGpHbTVHOEM4cXVQQ2N5ZVlFUlBZYm1FWHVlUE01MXRaMW9LTlNidGtiWlZTaWR4SGJST04zLS0xWFR6TFpkVlAtWFk5MWpMVFVtSTNOazBuOEhOWlZ2U3FNbTEwaG9jTVFRNDRrS1Fxc2FxQTVNOVFGTXhOdTV5T3UzdXM1TF9jM2ozQVZkanZyTjd4LWU0UVFOTG1udnoyX0x3ZGlOaWdwQkh1SFEwcFhJQWNfQ2c3NjQtV3Z1amRIdWpJMDRGbzJ4RWNZOGJCN2tBaDdGN01vVzZ3U2tVcjZVLTh5QTNnaVpnNVNkcjVESjZ6dUJScXpDejBEYzlJeG5PYUV5TFVBWWx5bkN5VDZkeHdGZDhLQU1PdEtyVmhpT095TnNlTUx0cTFKa3U2eFJWMU8yY3MwT3dXQ08yUGc2U1VwN280Ql9YRGpWTVllNmx4OEU3dXJmTTFNeko5TWprTnVhajBwNW9ISmtlTTVnRGp1VWVTYWJhWDB3al9rMjVySXBha1VIMENOdGpPT2lUSFhYSmszVUJiYk5xRXEwRXNINEtQVUlzcERtOVQ0RGc3NWJhdERJU2Z5eFBmOFRNTnJubFJQRG81RU1TNE5QNW4zc1Q2OXB5SXY2OXRkMFo3OE1wXzNxOGN4TURmVFdsLWJRRW1vUUFxMEVhSkQ5dnZUd0N2Q3c3REVaVGY3d3FYdmFUQ0tqUFdNYmNrUkc0MFRObXVjYWpQZHYxUDVubW12ZklleEhYbmpSUU5oU0YzZFdTZ1YzZTJ4aUM0Y3Rqbm9MSmRQanJzaDUwemU5Z2VsakxmbnFBdURMNDVIcTNfYnR3eng3dzdpOXVYQzlwbFl0RW5vcjYxR2J2dVdHdk81LWxpb2Z4SjlPOVZjeXZ1Yjk5TDhobU4xWHpBZXNiUE5ZenVObXVhU0JUZ1BjRDVlQm9vVy14Z29qZWxZeTlWMzN6Z0NqSVpvQ3F1bm1BdmxaZDNpUm5SM1djUFUtMkdyYzQxelhQQ1NGZTRQNmdNa2Q5Y29GUFdiRFRlM1RISUlqa3J1STVuQ3V2QVQwLTZTNzJRQk5nUXM5UVNSOTBvNWU5Xy1GRk5TcHptNWtnbnlYblFqZGY2LVpMczFLVFFZaHM2eTJhMTlMRUlYTXdBVUdpRDFIYzVidHdtRW5qNjZ2VkJDS2lUbHowa0NDZmJ4MGZR?oc=5",
       "outlet": "Facebook",
@@ -1011,6 +1000,17 @@
       "category": "มข.",
       "image": null,
       "topic": "research",
+      "imageSrc": null
+    },
+    {
+      "title": "NASA ส่งหนังสือขอบคุณ นศ.ปี 1 ม.ขอนแก่น ตรวจพบช่องโหว่ XSS",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hVUhTRHUzaGdiUG1iNEY0SzVhWkx2NElhMFJGUENlWWlObF9McmxfMGFRLTJnbFN4UWItWjJYNWJjanMtOWtzX3VUWGxXNndYRHNZaHNVSHQ?oc=5",
+      "outlet": "Thai PBS",
+      "publishedAt": "2026-11-10T08:00:00.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
+      "image": null,
+      "topic": "other",
       "imageSrc": null
     },
     {
