@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T22:52:14.128Z",
+  "updatedAt": "2026-11-23T04:10:20.710Z",
   "sources": [
     {
       "id": "med",
@@ -794,17 +794,6 @@
       "imageSrc": null
     },
     {
-      "title": "คณะเทคโนโลยี มข. หารือความร่วมมือด้านการฝึกงาน การวิจัย และการแลกเปลี่ยนนักศึกษากับ NPUST ไต้หวัน เสริมความเข้มแข็งหลักสูตร Culinary Science and Technology - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5KRXppWFN0NXdTdmlaNUFQeENEVUVnWGhKVnFIQ2Q2V1FBZHdnY2c3ZU9teG81R0pWWHE1MUxNNlBEdFJlUjJz?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-11-11T08:00:00.000Z",
-      "sourceId": "tech",
-      "category": "คณะเทคโนโลยี",
-      "image": null,
-      "topic": "job",
-      "imageSrc": null
-    },
-    {
       "title": "นักศึกษา มข. พบช่องโหว่ระบบ NASA ได้รับหนังสือขอบคุณหลังแจ้งช่องโหว่ไซเบอร์ XSS",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4tM3NnUEQ1OXZRSDVUZ21uTVZBU0g3djI5elNKcHZwRUgzUmdwQzdNRnNQT0hOcTV6SG03VEZwd19VR196UFZ3?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -934,6 +923,17 @@
       "category": "คณะแพทยศาสตร์",
       "image": null,
       "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะเทคโนโลยี มข. หารือความร่วมมือด้านการฝึกงาน การวิจัย และการแลกเปลี่ยนนักศึกษากับ NPUST ไต้หวัน เสริมความเข้มแข็งหลักสูตร Culinary Science and Technology - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5KRXppWFN0NXdTdmlaNUFQeENEVUVnWGhKVnFIQ2Q2V1FBZHdnY2c3ZU9teG81R0pWWHE1MUxNNlBEdFJlUjJz?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-10T09:50:37.000Z",
+      "sourceId": "tech",
+      "category": "คณะเทคโนโลยี",
+      "image": null,
+      "topic": "job",
       "imageSrc": null
     },
     {
