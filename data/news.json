@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T03:29:48.181Z",
+  "updatedAt": "2026-11-24T14:20:23.382Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,17 @@
   ],
   "items": [
     {
+      "title": "KKBS จัดอบรม “Tax & Financial Strategy for Restaurants” เสริมความรู้ด้านภาษีและการวางระบบการเงิน มุ่งยกระดับการจัดการธุรกิจร้านอาหารอย่างมืออาชีพ",
+      "link": "https://kkbs.kku.ac.th/insight-kkbs/34156/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-11-24T07:52:39.000Z",
+      "sourceId": "kkbs",
+      "category": "คณะบริหารธุรกิจและการบัญชี",
+      "image": "assets/news/541be93f0c0f3ce3.jpg",
+      "topic": "activity",
+      "imageSrc": "https://kkbs.kku.ac.th/wp-content/uploads/2026/11/21112026-tax-financial-strategy-for-restaurants-50-1024x682.jpg"
+    },
+    {
       "title": "คณะวิศวกรรมศาสตร์ มข. รับนักวิชาการศึกษา เลข 92136 ป.ตรีทุกสาขา ต้องผ่าน ก.พ. ภาค ก ปิด 18 ธ.ค.",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeGh4U0k1X3pJcHVoeDJzU0tJeVUtR1JkaE5jWTJzeXo2ZTQ5Ujk5Zm9GZElwZHo5N29VQTB3REFqQWNpbnpsNTlHVEUxaFY2NXI5N3ZxUXV4djV0UGRkWFJGT2xMSjVSQllBTHlXM055WFpVR3JoSmgwUGV5OVJsMm8wXzgyTlc3dVI0?oc=5",
       "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
@@ -281,8 +292,8 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc2JYMmlZRVNyem1Db2szaUtXRm9ZTXFCRmxqalhIZ29yaE0tMlJXaXVJVGtyYm5VVVItS3VHZklnYkR0eFkydE9zSEtWWVhoUTlweXE0YzgwUTlKNTV4QjBscmRGeHk5MGEtZWVwREJJcTZxMVh4QjQxb1ZRM1l3SHhQSnpKN1pRUkE?oc=5",
       "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-11-23T11:28:30.000Z",
-      "sourceId": "edu",
-      "category": "คณะศึกษาศาสตร์",
+      "sourceId": "eng",
+      "category": "คณะวิศวกรรมศาสตร์",
       "image": null,
       "topic": "study",
       "imageSrc": null
@@ -362,6 +373,17 @@
       "category": "คณะเทคนิคการแพทย์",
       "image": null,
       "topic": "study",
+      "imageSrc": null
+    },
+    {
+      "title": "อาจารย์ทันตแพทย์ มข เจ๋ง พานักเรียน ม. ปลายโครงการพิเศษคว้ารางวัลเหรียญทอง ในการประชุมนานาชาติทางด้านวิทยาศาสตร์และเทคโนโลยี - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1QMDktVDhZd29rdms1UGhYSE5paHVqdnhVdEY0WHREbXptNEpuN3ZOUVg5ZnoxM0RQUDUxaEIwdXNBU3dVd1Bz?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-20T09:29:08.000Z",
+      "sourceId": "dent",
+      "category": "คณะทันตแพทยศาสตร์",
+      "image": null,
+      "topic": "activity",
       "imageSrc": null
     },
     {
@@ -585,17 +607,6 @@
       "imageSrc": "https://kkbs.kku.ac.th/wp-content/uploads/2026/11/j-mat-award-35-3-1024x683.jpg"
     },
     {
-      "title": "คณะเภสัชศาสตร์ มข. นำนักศึกษา 7 คน ร่วมโครงการแลกเปลี่ยนระยะสั้น ณ University of Toyama ประเทศญี่ปุ่น",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE80MjNhN0dXdXNqTG9Rd19VWm96YW5UODRBR2M0MlFyNUdPUnc4S0NtN3ljR0VoLTZjU1duN1MtSkl2Y2d4a29N?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-11-16T08:00:00.000Z",
-      "sourceId": "pharm",
-      "category": "คณะเภสัชศาสตร์",
-      "image": null,
-      "topic": "other",
-      "imageSrc": null
-    },
-    {
       "title": "มข. ร่วมจัด “ค่ายเวทีนักวิทยาศาสตร์รุ่นเยาว์แห่งชาติ” ครั้งที่ 22 เปิดเวทีเยาวชนทั่วประเทศแสดงศักยภาพทางวิทยาศาสตร์ - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1UajJyVlFLQzM2OVd3TVRfU2lMNmdKN0MtVUJGY3d3WVlNblRMVUo0LXB6TUhVZ1BwalIzYU55M0pxdWhWeWtR?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -604,6 +615,17 @@
       "category": "คณะวิทยาศาสตร์",
       "image": null,
       "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะเภสัชศาสตร์ มข. นำนักศึกษา 7 คน ร่วมโครงการแลกเปลี่ยนระยะสั้น ณ University of Toyama ประเทศญี่ปุ่น",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE80MjNhN0dXdXNqTG9Rd19VWm96YW5UODRBR2M0MlFyNUdPUnc4S0NtN3ljR0VoLTZjU1duN1MtSkl2Y2d4a29N?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-16T08:00:00.000Z",
+      "sourceId": "pharm",
+      "category": "คณะเภสัชศาสตร์",
+      "image": null,
+      "topic": "other",
       "imageSrc": null
     },
     {
@@ -1025,6 +1047,17 @@
       "imageSrc": "https://fa.kku.ac.th/wp-content/uploads/2026/11/898714507_29381018524863185_8060629105689566230_n-enhanced-1024x1024.jpg"
     },
     {
+      "title": "NASA ส่งหนังสือขอบคุณ นศ.ปี 1 ม.ขอนแก่น ตรวจพบช่องโหว่ XSS",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hVUhTRHUzaGdiUG1iNEY0SzVhWkx2NElhMFJGUENlWWlObF9McmxfMGFRLTJnbFN4UWItWjJYNWJjanMtOWtzX3VUWGxXNndYRHNZaHNVSHQ?oc=5",
+      "outlet": "Thai PBS",
+      "publishedAt": "2026-11-10T08:00:00.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
+    },
+    {
       "title": "บัณฑิตวิทยาลัย มข. จัดงานปฐมนิเทศนักศึกษาใหม่ หลักสูตรสาขาวิชาร่วม ประจำภาคปลาย ปีการศึกษา 2569 เตรียมความพร้อมสู่ก้าวใหม่แห่งการเรียนรู้ - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5teEc2Rk9wMng1NVhsMkx6d3l5RXNyQnkwdU1CdktDQk0tdDdkQ3dvSVptRnBzdEduaTlTTXhsdlpOVXVBNmww?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1044,17 +1077,6 @@
       "category": "มข.",
       "image": null,
       "topic": "research",
-      "imageSrc": null
-    },
-    {
-      "title": "NASA ส่งหนังสือขอบคุณ นศ.ปี 1 ม.ขอนแก่น ตรวจพบช่องโหว่ XSS",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hVUhTRHUzaGdiUG1iNEY0SzVhWkx2NElhMFJGUENlWWlObF9McmxfMGFRLTJnbFN4UWItWjJYNWJjanMtOWtzX3VUWGxXNndYRHNZaHNVSHQ?oc=5",
-      "outlet": "Thai PBS",
-      "publishedAt": "2026-11-10T08:00:00.000Z",
-      "sourceId": "cp",
-      "category": "วิทยาลัยการคอมพิวเตอร์",
-      "image": null,
-      "topic": "other",
       "imageSrc": null
     },
     {
@@ -1210,17 +1232,6 @@
       "image": "assets/news/bde94e67308a9e8a.jpg",
       "topic": "other",
       "imageSrc": "https://copa.kku.ac.th/wp-content/uploads/2026/11/861593103_1140382328334473_4299222987747688012_n-1-1024x683.jpeg"
-    },
-    {
-      "title": "อาจารย์ทันตแพทย์ มข เจ๋ง พานักเรียน ม. ปลายโครงการพิเศษคว้ารางวัลเหรียญทอง ในการประชุมนานาชาติทางด้านวิทยาศาสตร์และเทคโนโลยี",
-      "link": "https://dentistry.kku.ac.th/30867?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%25ad%25e0%25b8%25b2%25e0%25b8%2588%25e0%25b8%25b2%25e0%25b8%25a3%25e0%25b8%25a2%25e0%25b9%258c%25e0%25b8%2597%25e0%25b8%25b1%25e0%25b8%2599%25e0%25b8%2595%25e0%25b9%2581%25e0%25b8%259e%25e0%25b8%2597%25e0%25b8%25a2%25e0%25b9%258c-%25e0%25b8%25a1%25e0%25b8%2582-%25e0%25b9%2580%25e0%25b8%2588%25e0%25b9%258b%25e0%25b8%2587",
-      "outlet": "เว็บไซต์คณะ",
-      "publishedAt": "2026-11-05T08:53:13.000Z",
-      "sourceId": "dent",
-      "category": "คณะทันตแพทยศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
     },
     {
       "title": "คณะวิทยาศาสตร์ มข. จัดโครงการ “สานสัมพันธ์พี่น้องนักศึกษา ทุน พสวท.” ประจำปีการศึกษา 2569 ส่งเสริมระบบดูแลช่วยเหลือนักศึกษา ยกระดับทักษะวิจัยระดับสากล และสร้างมาตรฐานความปลอดภัยในห้องปฏิบัติการ",
@@ -1795,17 +1806,6 @@
       "imageSrc": null
     },
     {
-      "title": "KKBS ร่วมกับ คณะนิติศาสตร์ มข. จัดเวที MarTech × IP Challenge เปิดโจทย์ธุรกิจจริงให้นักศึกษา พัฒนาแผนการตลาดภายใต้กรอบกฎหมาย",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9aQ0JWWWpuaTVxSGtoQjhaN2VuVlA1WkNDd2FFWGE2eFdZS0RvOUpXU05MN0x1Vll5OWdKcXJoUmxIb1BEbE13?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-10-05T07:00:00.000Z",
-      "sourceId": "law",
-      "category": "คณะนิติศาสตร์",
-      "image": null,
-      "topic": "other",
-      "imageSrc": null
-    },
-    {
       "title": "RIGHT LAW, BRIGHT MARKETING MarTech × IP Challenge 2026 มหกรรมแสดงผลงานการบูรณาการวิชาการจากคณะบริหารธุรกิจและการบัญชี และคณะนิติศาสตร์ มหาวิทยาลัยขอนแก่น",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNdElPRnFVVUZtQm91dWs1cWFEbE1pNTRBc3lmTG1TWUhid1VmTHNjNnRmcGtBYldsR2pIa1FFaXFkelV6WGtwYUVHbm81WjlJWHgtcmZYLWs2eWZvMGdfMV9wWWFOWTg4Zm5hSENNeGE?oc=5",
       "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
@@ -1814,6 +1814,17 @@
       "category": "คณะนิติศาสตร์",
       "image": null,
       "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "KKBS ร่วมกับ คณะนิติศาสตร์ มข. จัดเวที MarTech × IP Challenge เปิดโจทย์ธุรกิจจริงให้นักศึกษา พัฒนาแผนการตลาดภายใต้กรอบกฎหมาย",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9aQ0JWWWpuaTVxSGtoQjhaN2VuVlA1WkNDd2FFWGE2eFdZS0RvOUpXU05MN0x1Vll5OWdKcXJoUmxIb1BEbE13?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-10-05T07:00:00.000Z",
+      "sourceId": "law",
+      "category": "คณะนิติศาสตร์",
+      "image": null,
+      "topic": "other",
       "imageSrc": null
     },
     {
@@ -2840,17 +2851,6 @@
       "imageSrc": "https://kkbs.kku.ac.th/wp/wp-content/uploads/2026/08/8-9082026-kkbs-camp-de-10-1024x682.jpg"
     },
     {
-      "title": "คณะเศรษฐศาสตร์ มข. ลงนาม MOU กับสมาคมบริษัทจัดการลงทุน ยกระดับนักศึกษาสู่วิชาชีพการเงิน",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MV3U0ZHQ2enpjQUlDckg0a0FUUS1kM1Q3TDlUYzlMY0RjMm10QlhlbllpUk44Tkx6cmxpYlI5MmJLVmxkTWww?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
-      "sourceId": "econ",
-      "category": "คณะเศรษฐศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "มข. เปิดงานสัปดาห์วิทยาศาสตร์ฯ 2569 ยิ่งใหญ่ จัดเต็ม 3 วัน ชูแนวคิดนวัตกรรมอัจฉริยะเพื่ออนาคตที่ยั่งยืน พร้อมดึงเยาวชนทั่วอีสานร่วมประลองทักษะคับคั่ง - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hWWxOMHQzbjVoeEl5b01neUM0M3FZajE2MU5mZHhqd2VPeE5iaGt5VWJxNkY5ZUtGLXJGYnFFdFc3WlY1Z2lr?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2859,6 +2859,17 @@
       "category": "คณะวิทยาศาสตร์",
       "image": null,
       "topic": "research",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะเศรษฐศาสตร์ มข. ลงนาม MOU กับสมาคมบริษัทจัดการลงทุน ยกระดับนักศึกษาสู่วิชาชีพการเงิน",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1MV3U0ZHQ2enpjQUlDckg0a0FUUS1kM1Q3TDlUYzlMY0RjMm10QlhlbllpUk44Tkx6cmxpYlI5MmJLVmxkTWww?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "sourceId": "econ",
+      "category": "คณะเศรษฐศาสตร์",
+      "image": null,
+      "topic": "activity",
       "imageSrc": null
     },
     {
@@ -4652,17 +4663,6 @@
       "category": "คณะเทคนิคการแพทย์",
       "image": null,
       "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะศึกษาศาสตร์ มข. ต้อนรับสภาการศึกษา ร่วมหารือและรับฟังแนวทางพัฒนาครูสมรรถนะทางภาษาอังกฤษและหลักสูตรผลิตครูการศึกษานานาชาติ - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ETGFCZTR4cFE1NWw1cFAyN0pJQ3h3Y2Fod2JKSVFrS3lyd3RsTUdYZllkdDkzODEyYzhWaWRBX0RwVWpBOXhJ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-04-09T10:48:26.000Z",
-      "sourceId": "edu",
-      "category": "คณะศึกษาศาสตร์",
-      "image": null,
-      "topic": "study",
       "imageSrc": null
     }
   ]
