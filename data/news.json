@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T16:34:15.817Z",
+  "updatedAt": "2026-11-24T03:29:48.181Z",
   "sources": [
     {
       "id": "med",
@@ -277,6 +277,17 @@
       "imageSrc": null
     },
     {
+      "title": "คณะวิศวกรรมศาสตร์ มข. รับอาจารย์ AI–Cybersecurity เลข 92222 วุฒิ ป.เอก ปิด 11 ม.ค. 2570",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc2JYMmlZRVNyem1Db2szaUtXRm9ZTXFCRmxqalhIZ29yaE0tMlJXaXVJVGtyYm5VVVItS3VHZklnYkR0eFkydE9zSEtWWVhoUTlweXE0YzgwUTlKNTV4QjBscmRGeHk5MGEtZWVwREJJcTZxMVh4QjQxb1ZRM1l3SHhQSnpKN1pRUkE?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-11-23T11:28:30.000Z",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
+      "image": null,
+      "topic": "study",
+      "imageSrc": null
+    },
+    {
       "title": "คณะเทคโนโลยี มข. รับอาจารย์ธรณีวิทยา เลข 92101 ปริญญาเอก สมัครถึง 1…",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSkNqMWxTZHdGcjBoZTFPR0ZNRm04am5NYmhNd1ZZM0NpM3Y0VDR2bEJOZHZ5NmhUV2pjRi1hanJuOUplcTdha3VlTjRjb2pZSzliZzg1cHpFS29ORm54UUg2Wnl5RWxGM0VYT0gwbXJ5bTdfZUQwMUlwZTJuOWlLaXdVMkVrTTdE?oc=5",
       "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
@@ -468,8 +479,8 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zSjA4SnhGRkdIQmRaRDdRX2p3anlhYUYzUTVCa3YxODJ5QWpoUzNWV2ViWEU4emJIX0VSTWZSbF9xY0xBdHRsVW5QLVdTYm84SDJqa25B?oc=5",
       "outlet": "LINE TODAY",
       "publishedAt": "2026-11-17T10:47:07.000Z",
-      "sourceId": "med",
-      "category": "คณะแพทยศาสตร์",
+      "sourceId": "kku",
+      "category": "มข.",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -2785,17 +2796,6 @@
       "imageSrc": null
     },
     {
-      "title": "วิทยาลัยการคอมพิวเตอร์ มข. จัดงาน \"Computing Fair & CPKKU Open House ครั้งที่ 4\" เปิดเวทีเยาวชนประลองทักษะดิจิทัล พร้อมให้ความรู้หลักสูตรแห่งอนาคต - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpVlYwclJabHJzZnFOSTJFNFVuMUZWTm9qek5YbDVPb2xpU3lxeElJaU1FaFdub0JxV1JEYnF3WFhaSTBwRDRJ?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-08-18T07:00:00.000Z",
-      "sourceId": "cp",
-      "category": "วิทยาลัยการคอมพิวเตอร์",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
       "title": "มหาวิทยาลัยขอนแก่นร่วมพิธีถวายราชสักการะ ‘พระบิดาแห่งวิทยาศาสตร์ไทย’ เนื่องในสัปดาห์วิทยาศาสตร์แห่งชาติ ประจำปี 2569 - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5PT2pwRU9iaXlydGZNT3ltbXN0WXQ4VnowVmRMSWw2NVdhVzVOVXFXdEUtTWRKdnQtOXFsbmUwRVpiVzZ5a3I4?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2804,6 +2804,17 @@
       "category": "คณะวิทยาศาสตร์",
       "image": null,
       "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "วิทยาลัยการคอมพิวเตอร์ มข. จัดงาน \"Computing Fair & CPKKU Open House ครั้งที่ 4\" เปิดเวทีเยาวชนประลองทักษะดิจิทัล พร้อมให้ความรู้หลักสูตรแห่งอนาคต - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpVlYwclJabHJzZnFOSTJFNFVuMUZWTm9qek5YbDVPb2xpU3lxeElJaU1FaFdub0JxV1JEYnF3WFhaSTBwRDRJ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-18T07:00:00.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
+      "image": null,
+      "topic": "study",
       "imageSrc": null
     },
     {
@@ -4652,17 +4663,6 @@
       "category": "คณะศึกษาศาสตร์",
       "image": null,
       "topic": "study",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะศิลปกรรมศาสตร์ มข. ดำเนินโครงการ \"ดนตรีสัญจร\" เสริมศักยภาพนักศึกษาสู่เวทีนานาชาติ กระชับความร่วมมือทางดนตรีไทย–ลาว ประจำปีงบประมาณ 2569 - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1LZE9ZUmw2OUJfcFgzVHMzUFExTC12VFVpMkpXNzA4NUd2WEVhX3puVkNVT0hsR2lTTzNjUzRfSDMwQVNEWlg0?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-04-08T03:20:14.000Z",
-      "sourceId": "fa",
-      "category": "คณะศิลปกรรมศาสตร์",
-      "image": null,
-      "topic": "activity",
       "imageSrc": null
     }
   ]
