@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T00:11:03.033Z",
+  "updatedAt": "2026-11-25T10:34:19.637Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,28 @@
   ],
   "items": [
     {
+      "title": "คณะทันตแพทยศาสตร์ มหาวิทยาลัยขอนแก่น ร่วมกิจกรรม “สีฐานเฟสติวัล” ประจำปี 2569",
+      "link": "https://dentistry.kku.ac.th/30937?utm_source=rss&utm_medium=rss&utm_campaign=%25e0%25b8%2584%25e0%25b8%2593%25e0%25b8%25b0%25e0%25b8%2597%25e0%25b8%25b1%25e0%25b8%2599%25e0%25b8%2595%25e0%25b9%2581%25e0%25b8%259e%25e0%25b8%2597%25e0%25b8%25a2%25e0%25b8%25a8%25e0%25b8%25b2%25e0%25b8%25aa%25e0%25b8%2595%25e0%25b8%25a3%25e0%25b9%258c-%25e0%25b8%25a1%25e0%25b8%25ab%25e0%25b8%25b2%25e0%25b8%25a7-34",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-11-25T03:42:50.000Z",
+      "sourceId": "dent",
+      "category": "คณะทันตแพทยศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "มข. อันดับ 1 ภาคอีสาน อัตราสอบผ่านครูผู้ช่วย สพฐ. 2569 ที่ 77.84%",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51SFJOQlJoWHlRdDJPLUtRcVpOTkhRN0dXd1RrSkFMYkpBdURFbFYzdEFTbDM0QW9POTVXam5MQkItVG5EdHd2QXBrek9mbXJmcHpweg?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "publishedAt": "2026-11-25T02:10:33.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "study",
+      "imageSrc": null
+    },
+    {
       "title": "KKBS จัดอบรม “Tax & Financial Strategy for Restaurants” เสริมความรู้ด้านภาษีและการวางระบบการเงิน มุ่งยกระดับการจัดการธุรกิจร้านอาหารอย่างมืออาชีพ",
       "link": "https://kkbs.kku.ac.th/insight-kkbs/34156/",
       "outlet": "เว็บไซต์คณะ",
@@ -292,8 +314,8 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc2JYMmlZRVNyem1Db2szaUtXRm9ZTXFCRmxqalhIZ29yaE0tMlJXaXVJVGtyYm5VVVItS3VHZklnYkR0eFkydE9zSEtWWVhoUTlweXE0YzgwUTlKNTV4QjBscmRGeHk5MGEtZWVwREJJcTZxMVh4QjQxb1ZRM1l3SHhQSnpKN1pRUkE?oc=5",
       "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-11-23T11:28:30.000Z",
-      "sourceId": "eng",
-      "category": "คณะวิศวกรรมศาสตร์",
+      "sourceId": "edu",
+      "category": "คณะศึกษาศาสตร์",
       "image": null,
       "topic": "study",
       "imageSrc": null
@@ -618,17 +640,6 @@
       "imageSrc": null
     },
     {
-      "title": "คณะเภสัชศาสตร์ มข. นำนักศึกษา 7 คน ร่วมโครงการแลกเปลี่ยนระยะสั้น ณ University of Toyama ประเทศญี่ปุ่น",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE80MjNhN0dXdXNqTG9Rd19VWm96YW5UODRBR2M0MlFyNUdPUnc4S0NtN3ljR0VoLTZjU1duN1MtSkl2Y2d4a29N?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-11-16T08:00:00.000Z",
-      "sourceId": "pharm",
-      "category": "คณะเภสัชศาสตร์",
-      "image": null,
-      "topic": "other",
-      "imageSrc": null
-    },
-    {
       "title": "ขอเชิญบุคลากรสมัครรับทุนฝึกอบรมหลักสูตร Digital Government Transformation ณ สาธารณรัฐสิงคโปร์ ระหว่างวันที่ 3–7 พฤษภาคม 2570",
       "link": "https://sc.kku.ac.th/news/132333/",
       "outlet": "เว็บไซต์คณะ",
@@ -670,6 +681,17 @@
       "category": "มข.",
       "image": null,
       "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะเภสัชศาสตร์ มข. นำนักศึกษา 7 คน ร่วมโครงการแลกเปลี่ยนระยะสั้น ณ University of Toyama ประเทศญี่ปุ่น",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE80MjNhN0dXdXNqTG9Rd19VWm96YW5UODRBR2M0MlFyNUdPUnc4S0NtN3ljR0VoLTZjU1duN1MtSkl2Y2d4a29N?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-14T08:00:00.000Z",
+      "sourceId": "pharm",
+      "category": "คณะเภสัชศาสตร์",
+      "image": null,
+      "topic": "other",
       "imageSrc": null
     },
     {
@@ -1047,17 +1069,6 @@
       "imageSrc": "https://fa.kku.ac.th/wp-content/uploads/2026/11/898714507_29381018524863185_8060629105689566230_n-enhanced-1024x1024.jpg"
     },
     {
-      "title": "NASA ส่งหนังสือขอบคุณ นศ.ปี 1 ม.ขอนแก่น ตรวจพบช่องโหว่ XSS",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hVUhTRHUzaGdiUG1iNEY0SzVhWkx2NElhMFJGUENlWWlObF9McmxfMGFRLTJnbFN4UWItWjJYNWJjanMtOWtzX3VUWGxXNndYRHNZaHNVSHQ?oc=5",
-      "outlet": "Thai PBS",
-      "publishedAt": "2026-11-10T08:00:00.000Z",
-      "sourceId": "cp",
-      "category": "วิทยาลัยการคอมพิวเตอร์",
-      "image": null,
-      "topic": "other",
-      "imageSrc": null
-    },
-    {
       "title": "บัณฑิตวิทยาลัย มข. จัดงานปฐมนิเทศนักศึกษาใหม่ หลักสูตรสาขาวิชาร่วม ประจำภาคปลาย ปีการศึกษา 2569 เตรียมความพร้อมสู่ก้าวใหม่แห่งการเรียนรู้ - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5teEc2Rk9wMng1NVhsMkx6d3l5RXNyQnkwdU1CdktDQk0tdDdkQ3dvSVptRnBzdEduaTlTTXhsdlpOVXVBNmww?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -1066,6 +1077,17 @@
       "category": "บัณฑิตวิทยาลัย",
       "image": null,
       "topic": "study",
+      "imageSrc": null
+    },
+    {
+      "title": "NASA ส่งหนังสือขอบคุณ นศ.ปี 1 ม.ขอนแก่น ตรวจพบช่องโหว่ XSS",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hVUhTRHUzaGdiUG1iNEY0SzVhWkx2NElhMFJGUENlWWlObF9McmxfMGFRLTJnbFN4UWItWjJYNWJjanMtOWtzX3VUWGxXNndYRHNZaHNVSHQ?oc=5",
+      "outlet": "Thai PBS",
+      "publishedAt": "2026-11-10T08:00:00.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
+      "image": null,
+      "topic": "other",
       "imageSrc": null
     },
     {
@@ -2807,17 +2829,6 @@
       "imageSrc": null
     },
     {
-      "title": "มหาวิทยาลัยขอนแก่นร่วมพิธีถวายราชสักการะ ‘พระบิดาแห่งวิทยาศาสตร์ไทย’ เนื่องในสัปดาห์วิทยาศาสตร์แห่งชาติ ประจำปี 2569 - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5PT2pwRU9iaXlydGZNT3ltbXN0WXQ4VnowVmRMSWw2NVdhVzVOVXFXdEUtTWRKdnQtOXFsbmUwRVpiVzZ5a3I4?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-08-18T07:00:00.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "วิทยาลัยการคอมพิวเตอร์ มข. จัดงาน \"Computing Fair & CPKKU Open House ครั้งที่ 4\" เปิดเวทีเยาวชนประลองทักษะดิจิทัล พร้อมให้ความรู้หลักสูตรแห่งอนาคต - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpVlYwclJabHJzZnFOSTJFNFVuMUZWTm9qek5YbDVPb2xpU3lxeElJaU1FaFdub0JxV1JEYnF3WFhaSTBwRDRJ?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -2826,6 +2837,17 @@
       "category": "วิทยาลัยการคอมพิวเตอร์",
       "image": null,
       "topic": "study",
+      "imageSrc": null
+    },
+    {
+      "title": "มหาวิทยาลัยขอนแก่นร่วมพิธีถวายราชสักการะ ‘พระบิดาแห่งวิทยาศาสตร์ไทย’ เนื่องในสัปดาห์วิทยาศาสตร์แห่งชาติ ประจำปี 2569 - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5PT2pwRU9iaXlydGZNT3ltbXN0WXQ4VnowVmRMSWw2NVdhVzVOVXFXdEUtTWRKdnQtOXFsbmUwRVpiVzZ5a3I4?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-08-18T07:00:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity",
       "imageSrc": null
     },
     {
@@ -4639,28 +4661,6 @@
       "publishedAt": "2026-04-16T07:02:00.000Z",
       "sourceId": "ic",
       "category": "วิทยาลัยนานาชาติ",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "นักศึกษา KKBS คว้ารางวัลจากเวที MTEX MarTech Expert Certification – Young Talent Bootcamp 2026 รอบคัดเลือกมหาวิทยาลัยขอนแก่น พร้อมลุยต่อในระดับประเทศ",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA5Zk9GRmNxQ0gyVVhGLURXVWhoY2d1OWxBeFRHT09rYnVqOFhQUFZoS3Q5S1FRVEpfSEtiLTRMX1JzUkNkOFAw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-04-13T15:13:51.000Z",
-      "sourceId": "kkbs",
-      "category": "คณะบริหารธุรกิจและการบัญชี",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "สโมสรนักศึกษาคณะเทคนิคการแพทย์ ลงพื้นที่จัดค่าย MT & PT เพื่อชุมชน ดูแลผู้สูงอายุที่ศรีบุญเรือง",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE95VHM1LVdJV041OWJJUG8xVWhZd09jaUpJbnR3Y0g3RzJXQXRfMG5BNDVzVXlDOFFOalI0Zmo0bHBZNXlHbko4?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-04-13T15:13:46.000Z",
-      "sourceId": "ams",
-      "category": "คณะเทคนิคการแพทย์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
