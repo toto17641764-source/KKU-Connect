@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T20:43:57.525Z",
+  "updatedAt": "2026-11-26T03:49:04.064Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,17 @@
   ],
   "items": [
     {
+      "title": "พลังสร้างสรรค์นักศึกษา ศิลปกรรมศาสตร์ มข. คว้า 3 รางวัล งานลอยกระทง มข. 2569 ถ่ายทอดศรัทธานาคาวิถีแห่งลุ่มน้ำโขง",
+      "link": "https://fa.kku.ac.th/%e0%b8%9e%e0%b8%a5%e0%b8%b1%e0%b8%87%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%aa%e0%b8%a3%e0%b8%a3%e0%b8%84%e0%b9%8c%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b8%a8%e0%b8%b6%e0%b8%81%e0%b8%a9%e0%b8%b2/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-11-26T02:16:11.000Z",
+      "sourceId": "fa",
+      "category": "คณะศิลปกรรมศาสตร์",
+      "image": "assets/news/abbaccbfd3ad20b0.jpg",
+      "topic": "activity",
+      "imageSrc": "https://fa.kku.ac.th/wp-content/uploads/2026/11/IMG_7838-1024x683.jpg"
+    },
+    {
       "title": "คณะเกษตรศาสตร์ มข. ถ่ายทอดองค์ความรู้ผ่านหลักสูตรฝึกอบรมนานาชาติ “Climate-Smart Animal Production” ขับเคลื่อนนวัตกรรมการผลิตสัตว์เพื่อความมั่นคงทางอาหารอย่างยั่งยืน - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOZ1FJZFF4ZlhDYUdYYUFVMnFyWTJGZlotM21rTWJySHZzRWNad2g4c0RKaU1MckFDb1drU0NzejRkUEdNWWhFVy1CTS1rY3FKTDlBd1FhekZQVm9acWdhS0E4eW9ES3JvaWtMV21HM0FxMDhoSVdvUFZGSzJEZU1sOFhhakw0VEZHaHY2S1htZEdLak1mb2o3UzBQX1VMeWVCSW5xdVB1Z3c5TWlldkhUWkxCQWpJYjVlcXlidV96bFJWLUpCMU14QWdrVTFQcUsxXzRxUVlkaS1hcURKQ2J0ZEhGX2N4NTBHeW1MSEt6UjF3OUFUQ2dZMWNwcVZDWEYtdVp0dmM4NFRsWW9EeldLeU5aVjRBNmtJblQzT3VvcDBLYTZKUGp6aWxRU002OTR4M1UwLXZoamFUTWROckpDVHItRThMcDdPdzNaZw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -347,8 +358,8 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSkNqMWxTZHdGcjBoZTFPR0ZNRm04am5NYmhNd1ZZM0NpM3Y0VDR2bEJOZHZ5NmhUV2pjRi1hanJuOUplcTdha3VlTjRjb2pZSzliZzg1cHpFS29ORm54UUg2Wnl5RWxGM0VYT0gwbXJ5bTdfZUQwMUlwZTJuOWlLaXdVMkVrTTdE?oc=5",
       "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-11-23T11:28:28.000Z",
-      "sourceId": "med",
-      "category": "คณะแพทยศาสตร์",
+      "sourceId": "tech",
+      "category": "คณะเทคโนโลยี",
       "image": null,
       "topic": "study",
       "imageSrc": null
@@ -4109,8 +4120,8 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1JRHN4ck4zQkhFTVBUX0FhZU9GQ2x5clN1NmFmSEEtazNOWWtvZkNkTjFtUDZpYTBWVThHbW1kcnRGV3dPckdV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-06-10T07:00:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
+      "sourceId": "arch",
+      "category": "คณะสถาปัตยกรรมศาสตร์",
       "image": null,
       "topic": "research",
       "imageSrc": null
@@ -4446,9 +4457,9 @@
       "imageSrc": null
     },
     {
-      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
-      "outlet": "ผู้จัดการออนไลน์",
+      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -4457,9 +4468,9 @@
       "imageSrc": null
     },
     {
-      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
+      "outlet": "ผู้จัดการออนไลน์",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -4650,17 +4661,6 @@
       "publishedAt": "2026-04-20T01:05:33.000Z",
       "sourceId": "arch",
       "category": "คณะสถาปัตยกรรมศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะวิทยาศาสตร์ มข. จัดงานประชุมวิชาการคณะวิทยาศาสตร์ ครั้งที่ 27 นักศึกษา/นักเรียน นำผลงานมาโชว์เพียบ",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB5c2F1OVg3bDBKSmptRzh2X2pEZVpRQnhDVDVqOUdRX2dYMDdKUWt6blhfeEFZMjVFS0lxZnJpZWY1bG1IeW93?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-04-19T15:13:50.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
