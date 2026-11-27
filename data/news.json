@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T15:40:19.935Z",
+  "updatedAt": "2026-11-27T23:46:41.381Z",
   "sources": [
     {
       "id": "med",
@@ -398,6 +398,17 @@
       "imageSrc": null
     },
     {
+      "title": "นาฏศิลป์ มข. ก้าวสู่เวทีนานาชาติ ยกระดับศักยภาพนักศึกษา สร้างเครือข่ายศิลปวัฒนธรรมไทย–จีน",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBRejBMUHZ4T0xJcGtVQWF1YmR5OTdLUXczaVVvM1NuTWdhUVhRckFvSGxUZk9JUW9nME1PSVMtbFNEbWs1dFNR?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-23T10:00:25.000Z",
+      "sourceId": "fa",
+      "category": "คณะศิลปกรรมศาสตร์",
+      "image": null,
+      "topic": "other",
+      "imageSrc": null
+    },
+    {
       "title": "อ่างทอง มหาวิทยาลัยการกีฬาแห่งชาติ วีซี พบ มหาวิทยาลัยขอนแก่น ขอนแก่นสตาร์ (21 พ.ย.)",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42LS10M0hKV01iRUpVX3FiMFZxUHByRTR4XzJCNWdjTW95RGRGQUwzLUpCbVluY2lfZHlKa2p6a2JXTlZ3dXZtNl8yQ0ljZWxMb1RkeEFQZzMyUXMxWS0ySGVPM0wyVHZXTkE?oc=5",
       "outlet": "TrueID",
@@ -464,12 +475,23 @@
       "imageSrc": null
     },
     {
+      "title": "นักศึกษาเภสัชศาสตร์ มข. ส่งต่อความรู้ สร้างสุขภาพดีสู่ชุมชน ผ่านโครงการ \"ค่ายหมอยาอาสาพัฒนาชุมชน\" เรียนรู้บทบาทเภสัชกรปฐมภูมิจากพื้นที่จริง ลงเยี่ยมบ้าน สำรวจสุขภาพ และคืนข้อมูลสู่ชาวบ้านโกทา - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE80WDBXU2dRbGR3VnY1Snd4bTFxZ2gtWmhieV85Z1I2WFJ3SVFfRU40aG9SNDY5d2ZXcThjbkpqUnlybUF0THZj?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-20T10:07:24.000Z",
+      "sourceId": "pharm",
+      "category": "คณะเภสัชศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
       "title": "คณะเทคนิคการแพทย์ มข. บูรณาการการเรียนการสอนสู่บริการสังคม ระดมโลหิตสำรอง 26,800 ซีซี ช่วยเหลือผู้ป่วย",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Rc1JEM1IxZ3pZZDc0YTU4Nm9EUldQdmpybGdNak0telpJNDVOMkFQN25xV09IOTA1SU5NNWNKcEJkRnJ5UFYw?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-11-20T09:51:27.000Z",
-      "sourceId": "ams",
-      "category": "คณะเทคนิคการแพทย์",
+      "sourceId": "med",
+      "category": "คณะแพทยศาสตร์",
       "image": null,
       "topic": "study",
       "imageSrc": null
@@ -563,14 +585,14 @@
       "imageSrc": null
     },
     {
-      "title": "คณะเกษตรศาสตร์ มข. ถ่ายทอดองค์ความรู้ผ่านหลักสูตรฝึกอบรมนานาชาติ “Climate-Smart Animal Production” ขับเคลื่อนนวัตกรรมการผลิตสัตว์เพื่อความมั่นคงทางอาหารอย่างยั่งยืน - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1taDJpOEh6eXgyZ2otNHNMaHRkVGtfOWtUeW9NSUJaWEl5MFVHeWZrSS04ekRKbXF2TmZVcmhyaUszc05WMmdF?oc=5",
+      "title": "“ชุมชนคือครู หมู่บ้านคือห้องเรียน” นศ. 6 คณะวิทย์ฯ สุขภาพ มข. เรียนรู้วิชาชีวิตในโครงการฝึกภาคสนามร่วมฯ ครั้งที่ 44 คืนข้อมูลพัฒนาสุขภาวะชาวบ้านฝาง - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBTOG10eGJ1QzZtaUloZDdjeUVpbXNuRnZ3dHluV0pqNE1hUzZYOXBPM09FaERfZk5mdU4xSmtHSm1nbktmWXo4?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-11-19T09:23:39.000Z",
-      "sourceId": "agri",
-      "category": "คณะเกษตรศาสตร์",
+      "publishedAt": "2026-11-19T09:23:23.000Z",
+      "sourceId": "med",
+      "category": "คณะแพทยศาสตร์",
       "image": null,
-      "topic": "research",
+      "topic": "other",
       "imageSrc": null
     },
     {
@@ -593,6 +615,17 @@
       "category": "คณะทันตแพทยศาสตร์",
       "image": null,
       "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะเกษตรศาสตร์ มข. ถ่ายทอดองค์ความรู้ผ่านหลักสูตรฝึกอบรมนานาชาติ “Climate-Smart Animal Production” ขับเคลื่อนนวัตกรรมการผลิตสัตว์เพื่อความมั่นคงทางอาหารอย่างยั่งยืน - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1taDJpOEh6eXgyZ2otNHNMaHRkVGtfOWtUeW9NSUJaWEl5MFVHeWZrSS04ekRKbXF2TmZVcmhyaUszc05WMmdF?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-18T08:00:00.000Z",
+      "sourceId": "agri",
+      "category": "คณะเกษตรศาสตร์",
+      "image": null,
+      "topic": "research",
       "imageSrc": null
     },
     {
@@ -805,23 +838,23 @@
       "imageSrc": null
     },
     {
-      "title": "คณะเกษตรศาสตร์ มข. จัดค่ายอาสาพัฒนาและเผยแพร่วิชาการเกษตร นำความรู้สู่ชุมชน สร้างจิตอาสาและเรียนรู้วิถีชีวิตท้องถิ่น - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1HVFFRY1l3NVVFWEpoMlNBUXBleEZ6Qkxud1V2WFBoMU9mdTN6NlNrT0Jfd1JXYVBUS0ZXWGR3bHJYejUzSGtz?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-11-13T09:58:12.000Z",
-      "sourceId": "agri",
-      "category": "คณะเกษตรศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "คณะวิทยาศาสตร์ มข. เปิดบ้านแนะแนวศึกษาต่อ ต้อนรับนักเรียนจากระยอง–ยโสธร เปิดมุมมองการเรียนรู้และเส้นทางอาชีพด้านวิทยาศาสตร์ - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE02bWNPeHlmWlJRRkxQZ2RDQVJkaFdvN0wwOG1UMDZ4Q0QyZnhhRDR2bWk2V3JvanpuN2hVX2FtSDllTGFOek1R?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-11-13T08:00:00.000Z",
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะเกษตรศาสตร์ มข. จัดค่ายอาสาพัฒนาและเผยแพร่วิชาการเกษตร นำความรู้สู่ชุมชน สร้างจิตอาสาและเรียนรู้วิถีชีวิตท้องถิ่น - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1HVFFRY1l3NVVFWEpoMlNBUXBleEZ6Qkxud1V2WFBoMU9mdTN6NlNrT0Jfd1JXYVBUS0ZXWGR3bHJYejUzSGtz?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "sourceId": "agri",
+      "category": "คณะเกษตรศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -4628,39 +4661,6 @@
       "publishedAt": "2026-05-06T03:24:56.000Z",
       "sourceId": "med",
       "category": "คณะแพทยศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "มข. เปิดตัว “จำไม่จาง Film Festiเวอร์” ดัน Soft Power ผ่านพลังนักศึกษาสื่อสร้างสรรค์",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9YdEJnYUlRUElxOFpQMWUxNHdyY3Z1NkZwV3ByaEtwYXUwYWNWVW50cVVFR25SektuUFl0WU8xelNUSjBEOVIw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-05-05T07:00:00.000Z",
-      "sourceId": "ic",
-      "category": "วิทยาลัยนานาชาติ",
-      "image": null,
-      "topic": "other",
-      "imageSrc": null
-    },
-    {
-      "title": "วิทยาลัยนานาชาติ มข. ชูรากเหง้าอีสาน “นักศึกษา“ สร้างหนังสั้นตีแผ่ชีวิตเรื่องราวลมหายใจคนขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2YkVnOU9ZSF9FZmdnUENWVnh3aXpjVlc1SUoyNWxzdFZORDloa3FZM0ZnRExfLVdFVTNfbjA0c2dsNmV6NldvUkExYXNFbV9wUlZn?oc=5",
-      "outlet": "เดลินิวส์",
-      "publishedAt": "2026-05-05T07:00:00.000Z",
-      "sourceId": "ic",
-      "category": "วิทยาลัยนานาชาติ",
-      "image": null,
-      "topic": "other",
-      "imageSrc": null
-    },
-    {
-      "title": "คณะวิทยาศาสตร์ มข. ต้อนรับนักเรียนโครงการ “J SUMMER INTENSIVE CAMP 2026” เสริมทักษะและสร้างแรงบันดาลใจสู่สายวิทย์",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1URXJXQ2dzRnBncExEWXE4eHNHTGt3NlBRSXAwUkc3S1dsRURXaE50bERiLXNiMGFfUkc3TV9zeFJyUmV3akQw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-05-01T09:52:37.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
