@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T05:29:25.588Z",
+  "updatedAt": "2026-11-27T15:40:19.935Z",
   "sources": [
     {
       "id": "med",
@@ -266,6 +266,39 @@
   ],
   "items": [
     {
+      "title": "22 นักศึกษาคณะวิทยาศาสตร์ มข. คว้ารางวัลผลการศึกษายอดเยี่ยมทางวิทยาศาสตร์ระดับประเทศ",
+      "link": "https://sc.kku.ac.th/news/133422/",
+      "outlet": "เว็บไซต์คณะ",
+      "publishedAt": "2026-11-27T11:04:12.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "มข. ร่วมทำบุญตักบาตร เนื่องในโอกาสครบรอบ 48 ปี บัณฑิตวิทยาลัย สืบสานประเพณีอันดีงาม เสริมสิริมงคล",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE54aTJMWTV3RFpka0t1Yk5fZmtLZU41VTE1VFJhYkZyczZhdG1lNjFKNTR6ZW1KbG4xbl9nanB3WE83WEZNZ2tZ?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-27T06:32:56.000Z",
+      "sourceId": "gs",
+      "category": "บัณฑิตวิทยาลัย",
+      "image": null,
+      "topic": "study",
+      "imageSrc": null
+    },
+    {
+      "title": "🎓 มหาวิทยาลัยขอนแก่น ประกาศกำหนดวันและลำดับการเข้ารับพระราชทานปริญญาบัตร ประจำปี พ.ศ. 2569",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9maGJQczF0dkhydlg2VGwtamQ5Tzh5WGFiYVRPWGh2NDY3WjBIdlpsWDg4d3dQbkNtbGszTXEwUHd2MEUzbkFR?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-27T05:04:48.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "study",
+      "imageSrc": null
+    },
+    {
       "title": "พลังสร้างสรรค์นักศึกษา ศิลปกรรมศาสตร์ มข. คว้า 3 รางวัล งานลอยกระทง มข. 2569 ถ่ายทอดศรัทธานาคาวิถีแห่งลุ่มน้ำโขง",
       "link": "https://fa.kku.ac.th/%e0%b8%9e%e0%b8%a5%e0%b8%b1%e0%b8%87%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%aa%e0%b8%a3%e0%b8%a3%e0%b8%84%e0%b9%8c%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b8%a8%e0%b8%b6%e0%b8%81%e0%b8%a9%e0%b8%b2/",
       "outlet": "เว็บไซต์คณะ",
@@ -382,6 +415,17 @@
       "publishedAt": "2026-11-21T09:10:26.000Z",
       "sourceId": "sci",
       "category": "คณะวิทยาศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะเภสัชศาสตร์ มข. ร่วมกับสโมสรนักศึกษาคณะเภสัชศาสตร์ แสดงความยินดีกับนักศึกษาเภสัชศาสตร์ชั้นปีที่ 4 ในโอกาสกิจกรรม “สานสายใย กาวน์ใจผูกพัน” - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBGMW4tTEdENFY1RFp3ZC1Gc3VQQ2pnaTRLT0JjbkVEOTRlVGVReTZ2alVvV3RMRzM3cjJOUTlpTkJOdDh3SS1J?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-21T08:00:00.000Z",
+      "sourceId": "pharm",
+      "category": "คณะเภสัชศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -761,23 +805,23 @@
       "imageSrc": null
     },
     {
-      "title": "คณะวิทยาศาสตร์ มข. เปิดบ้านแนะแนวศึกษาต่อ ต้อนรับนักเรียนจากระยอง–ยโสธร เปิดมุมมองการเรียนรู้และเส้นทางอาชีพด้านวิทยาศาสตร์",
-      "link": "https://sc.kku.ac.th/news/131937/",
-      "outlet": "เว็บไซต์คณะ",
-      "publishedAt": "2026-11-13T16:53:38.000Z",
-      "sourceId": "sci",
-      "category": "คณะวิทยาศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
       "title": "คณะเกษตรศาสตร์ มข. จัดค่ายอาสาพัฒนาและเผยแพร่วิชาการเกษตร นำความรู้สู่ชุมชน สร้างจิตอาสาและเรียนรู้วิถีชีวิตท้องถิ่น - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1HVFFRY1l3NVVFWEpoMlNBUXBleEZ6Qkxud1V2WFBoMU9mdTN6NlNrT0Jfd1JXYVBUS0ZXWGR3bHJYejUzSGtz?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
       "publishedAt": "2026-11-13T09:58:12.000Z",
       "sourceId": "agri",
       "category": "คณะเกษตรศาสตร์",
+      "image": null,
+      "topic": "activity",
+      "imageSrc": null
+    },
+    {
+      "title": "คณะวิทยาศาสตร์ มข. เปิดบ้านแนะแนวศึกษาต่อ ต้อนรับนักเรียนจากระยอง–ยโสธร เปิดมุมมองการเรียนรู้และเส้นทางอาชีพด้านวิทยาศาสตร์ - Khon Kaen University",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE02bWNPeHlmWlJRRkxQZ2RDQVJkaFdvN0wwOG1UMDZ4Q0QyZnhhRDR2bWk2V3JvanpuN2hVX2FtSDllTGFOek1R?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "sourceId": "sci",
+      "category": "คณะวิทยาศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
@@ -912,17 +956,6 @@
       "category": "มข.",
       "image": null,
       "topic": "scholarship",
-      "imageSrc": null
-    },
-    {
-      "title": "นักศึกษา มข. พบช่องโหว่ระบบ NASA ได้รับหนังสือขอบคุณหลังแจ้งช่องโหว่ไซเบอร์ XSS",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4tM3NnUEQ1OXZRSDVUZ21uTVZBU0g3djI5elNKcHZwRUgzUmdwQzdNRnNQT0hOcTV6SG03VEZwd19VR196UFZ3?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-11-11T08:00:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "image": null,
-      "topic": "announce",
       "imageSrc": null
     },
     {
@@ -1174,6 +1207,17 @@
       "publishedAt": "2026-11-10T01:56:32.000Z",
       "sourceId": "kku",
       "category": "มข.",
+      "image": null,
+      "topic": "announce",
+      "imageSrc": null
+    },
+    {
+      "title": "นักศึกษา มข. พบช่องโหว่ระบบ NASA ได้รับหนังสือขอบคุณหลังแจ้งช่องโหว่ไซเบอร์ XSS",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4tM3NnUEQ1OXZRSDVUZ21uTVZBU0g3djI5elNKcHZwRUgzUmdwQzdNRnNQT0hOcTV6SG03VEZwd19VR196UFZ3?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-11-10T01:47:36.000Z",
+      "sourceId": "cp",
+      "category": "วิทยาลัยการคอมพิวเตอร์",
       "image": null,
       "topic": "announce",
       "imageSrc": null
@@ -4446,17 +4490,6 @@
       "imageSrc": null
     },
     {
-      "title": "ขอเชิญอาจารย์และบุคลากร มหาวิทยาลัยขอนแก่น เข้าทดสอบความรู้ “ความปลอดภัยทางไซเบอร์” ประจำปี 2569",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPOHRJajI2bU5LWVNUbVNLb0xrQW1PZnR6NTRCN1VRVWFiS2ZRX0xMb3V5ekZDeElENnUzQXhGV2RYVEVDazNRNk9EZ05hZ0VMdmtPRDVwYmhMdUQ2elpoVlRSMHRpVEVWVUZxb2V2ZnFqYW5LNkhhMXZqYTJIUTVwbW85UVZQdzlVTDJ0UkR5TzRPUW80WEZJRWMyYTBJQ2Q1M1hMcGlIQTZwYXg0dzcydXdOckJMLWlGbFBKQ19rNnk4blJiRF9FbWI1R3R1aGMxUDVDVEJubVlCRFg1cTZQS25FWk9RakNjTXZEOUZTZUtIUkRVVkZ3VkxVN0hzaUlHWFFTbnFzd0cybDdWZTBscHZfT3ZzcVVsTUVOVTFCUmVJQ3REd2s2ZmVGYlNIVjZnVGpEYllzU3JBbVBLVHE4SEdkbUxnNmlBeVJHRWpfYw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-05-11T07:00:00.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
-      "image": null,
-      "topic": "study",
-      "imageSrc": null
-    },
-    {
       "title": "ศึกษาศาสตร์ มข. ร่วมสถานศึกษาเครือข่าย เตรียมความพร้อมครูพี่เลี้ยง และอาจารย์นิเทศก์ ก่อนส่งนักศึกษาฝึกปฏิบัติการสอนฯ ประจำปี 2569 - Khon Kaen University",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9zVk5UZnNLTmdsd1hwc0Ryc0xWbzdRTWZDTTRPN1pFdFBTMWFlUWdfSWxseEJzdjhlQkF4YzV2VWtILXdwWGNV?oc=5",
       "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
@@ -4465,6 +4498,17 @@
       "category": "คณะศึกษาศาสตร์",
       "image": null,
       "topic": "other",
+      "imageSrc": null
+    },
+    {
+      "title": "ขอเชิญอาจารย์และบุคลากร มหาวิทยาลัยขอนแก่น เข้าทดสอบความรู้ “ความปลอดภัยทางไซเบอร์” ประจำปี 2569",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPOHRJajI2bU5LWVNUbVNLb0xrQW1PZnR6NTRCN1VRVWFiS2ZRX0xMb3V5ekZDeElENnUzQXhGV2RYVEVDazNRNk9EZ05hZ0VMdmtPRDVwYmhMdUQ2elpoVlRSMHRpVEVWVUZxb2V2ZnFqYW5LNkhhMXZqYTJIUTVwbW85UVZQdzlVTDJ0UkR5TzRPUW80WEZJRWMyYTBJQ2Q1M1hMcGlIQTZwYXg0dzcydXdOckJMLWlGbFBKQ19rNnk4blJiRF9FbWI1R3R1aGMxUDVDVEJubVlCRFg1cTZQS25FWk9RakNjTXZEOUZTZUtIUkRVVkZ3VkxVN0hzaUlHWFFTbnFzd0cybDdWZTBscHZfT3ZzcVVsTUVOVTFCUmVJQ3REd2s2ZmVGYlNIVjZnVGpEYllzU3JBbVBLVHE4SEdkbUxnNmlBeVJHRWpfYw?oc=5",
+      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
+      "publishedAt": "2026-05-11T07:00:00.000Z",
+      "sourceId": "kku",
+      "category": "มข.",
+      "image": null,
+      "topic": "study",
       "imageSrc": null
     },
     {
@@ -4479,9 +4523,9 @@
       "imageSrc": null
     },
     {
-      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
-      "outlet": "ผู้จัดการออนไลน์",
+      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
+      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -4490,9 +4534,9 @@
       "imageSrc": null
     },
     {
-      "title": "🤝 MBA KKU จับมือเอกชน เปิด 2 หลักสูตรใหม่ ปั้นผู้นำยุค AI สู่ระดับสากล",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOa3RPVGFCVFhEblVEMmpKV3g4aWRRc2I5anVaeHU3NWQtNFB2MjBPVVpBUlJBdjNEdUUtVUVISmJZZFJhdUpYWnEtcG04MVMxNDNHNA?oc=5",
-      "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
+      "title": "MBA KKUลงนามร่วมบริษัท Sauce Skills เปิดหลักสูตรปั้นผู้บริหารยุคใหม่สู่ระดับสากล",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjVGI0NGs4a04yc2hJSzRURWpYQVdRTHkzQkVBbGVvQTZlZzRubHJjYV96WU9QM3dScExMTHI1azItVGhmRnlTam1paEZYSDFFUm5HLWtxZU4xT2ZY?oc=5",
+      "outlet": "ผู้จัดการออนไลน์",
       "publishedAt": "2026-05-09T07:00:00.000Z",
       "sourceId": "cbs",
       "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
@@ -4619,50 +4663,6 @@
       "category": "คณะวิทยาศาสตร์",
       "image": null,
       "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "“Aggie Night วันไหล: จากความสนุก สู่พลังจิตอาสาเพื่อชุมชน” เทศกาลสร้างสรรค์ สะท้อนพลังนักศึกษา มหาวิทยาลัยขอนแก่น",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5wMENMc0p1OTZMaGRaMHMyMEphelladWlxM1c3N1VUSGZqanJWYXRLZjBtY1p3bTh5a2oxeEoySjZtX3d2NUdV?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-04-30T07:00:00.000Z",
-      "sourceId": "agri",
-      "category": "คณะเกษตรศาสตร์",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "วิทยาลัยนานาชาติ มข. ผนึกกำลังศูนย์หัวใจสิริกิติ์ฯ จัด “Love on Track Charity Run 2026” วิ่งเพื่อสุขภาพ หวังต่อลมหายใจผู้ป่วยโรคหัวใจ - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4T3RySU5sUkdGZFVuZXRuTHFiczQxY1QyVUc0NVJISnZmbmJiYmZmN1JLWEtWTkR6enNIMkNoYmdXajJkUmY4?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-04-29T07:00:00.000Z",
-      "sourceId": "ic",
-      "category": "วิทยาลัยนานาชาติ",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "MBA KKU จับมือ BOTNOI GROUP จัดเวิร์กชอป “สอนสร้างผู้ช่วย AI สำหรับธุรกิจ” ชูแนวคิด No-Code เปลี่ยนทุกการติดต่อเป็นโอกาสทางธุรกิจ",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1wSWRnM2hIWVZZXzViSjdKTmhBSDI1dnVYNmE5eXdXeTFXUWFTMkNjMWFaZl9zVmMwRzQ3VHE0VXhLd2Q0d3Vv?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น",
-      "publishedAt": "2026-04-29T03:06:45.000Z",
-      "sourceId": "cbs",
-      "category": "วิทยาลัยบัณฑิตศึกษาการจัดการ",
-      "image": null,
-      "topic": "activity",
-      "imageSrc": null
-    },
-    {
-      "title": "ม.ขอนแก่น กวาด 4 รางวัลรวด! นศ. COLA-CP คว้าแชมป์ประเทศ นวัตกรรมจัดการภัยพิบัติ จากกรมทรัพยากรธรณี กระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม - Khon Kaen University",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5iUTFVVURQUmdMZHZhekJRMGlnOWtTYThiU1JFa3RXLW5EVkp0YXF2RXJZX3VNVUtQUVNhV0w2OExja3pfNmYw?oc=5",
-      "outlet": "มหาวิทยาลัยขอนแก่น (KKU)",
-      "publishedAt": "2026-04-27T06:40:09.000Z",
-      "sourceId": "cola",
-      "category": "วิทยาลัยการปกครองท้องถิ่น",
-      "image": null,
-      "topic": "research",
       "imageSrc": null
     }
   ]
