@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T05:05:03.129Z",
+  "updatedAt": "2026-11-28T14:36:17.791Z",
   "sources": [
     {
       "id": "med",
@@ -391,8 +391,8 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSkNqMWxTZHdGcjBoZTFPR0ZNRm04am5NYmhNd1ZZM0NpM3Y0VDR2bEJOZHZ5NmhUV2pjRi1hanJuOUplcTdha3VlTjRjb2pZSzliZzg1cHpFS29ORm54UUg2Wnl5RWxGM0VYT0gwbXJ5bTdfZUQwMUlwZTJuOWlLaXdVMkVrTTdE?oc=5",
       "outlet": "ขอนแก่นลิงก์ Khon Kaen Link",
       "publishedAt": "2026-11-23T11:28:28.000Z",
-      "sourceId": "tech",
-      "category": "คณะเทคโนโลยี",
+      "sourceId": "vet",
+      "category": "คณะสัตวแพทยศาสตร์",
       "image": null,
       "topic": "study",
       "imageSrc": null
@@ -633,8 +633,8 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zSjA4SnhGRkdIQmRaRDdRX2p3anlhYUYzUTVCa3YxODJ5QWpoUzNWV2ViWEU4emJIX0VSTWZSbF9xY0xBdHRsVW5QLVdTYm84SDJqa25B?oc=5",
       "outlet": "LINE TODAY",
       "publishedAt": "2026-11-17T10:47:07.000Z",
-      "sourceId": "kku",
-      "category": "มข.",
+      "sourceId": "med",
+      "category": "คณะแพทยศาสตร์",
       "image": null,
       "topic": "activity",
       "imageSrc": null
